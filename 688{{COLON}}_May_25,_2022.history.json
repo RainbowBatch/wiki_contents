@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 2269,
+    "summary": "Add community reported errata.",
+    "time": {
+      "date": 1660348800000,
+      "day": 13,
+      "hour": 18,
+      "microsecond": 0,
+      "month": 8,
+      "second": 51,
+      "timezone": "UTC",
+      "weekday": 6
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 2120,
     "summary": "RainbowBatch generated stub.",
     "time": {

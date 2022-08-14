@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 2304,
+    "summary": "Fix typo in Bidondi's name.",
+    "time": {
+      "date": 1660435200000,
+      "day": 14,
+      "hour": 0,
+      "microsecond": 0,
+      "month": 8,
+      "second": 3,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 2198,
     "summary": "RainbowBatch update",
     "time": {
