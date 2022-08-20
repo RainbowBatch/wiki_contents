@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 2324,
+    "summary": "Test that this still works if it's formatted like this.",
+    "time": {
+      "date": 1660953600000,
+      "day": 20,
+      "hour": 22,
+      "microsecond": 0,
+      "month": 8,
+      "second": 31,
+      "timezone": "UTC",
+      "weekday": 6
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 2244,
     "summary": "RainbowBatch update",
     "time": {
