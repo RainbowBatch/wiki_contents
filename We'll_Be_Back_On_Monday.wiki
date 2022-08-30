@@ -1,9 +1,12 @@
-{{Episode
+{{DEFAULTSORT:
+    #_EPISODE_0443S:We'll Be Back On Monday
+}}{{Episode
     | title           = We'll Be Back On Monday
     | caption         = [https://knowledgefight.libsyn.com/well-be-back-on-monday Listen to this episode on Libsyn]
-    | episodeNumber   = We'll Be Back On Monday
+    | episodeNumber   = S009
     | length          = 00:07:12
     | airDate         = June 12, 2020
+    | episodeType     = [[:Category:Announcement|Announcement]]
     | previousEpisode = [[443: June 9, 2020]]
     | nextEpisode     = [[444: June 11, 2020]]
 }}
@@ -13,3 +16,4 @@
 Today, Dan and Jordan drop a little announcement that they're going to be taking this Friday off from having an episode. To make it up to everyone, Dan reviews a couple foods he's eaten recently.
 
 [[Category:Episodes]]
+[[Category:Announcement]]
