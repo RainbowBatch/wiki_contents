@@ -20,7 +20,7 @@
     "title": "101: January 11, 2016"
   },
   {
-    "oldid": 2737,
+    "oldid": 3501,
     "slug": "102{{COLON}}_Alex_On_Russian_Media",
     "title": "102: Alex On Russian Media"
   },
@@ -60,7 +60,7 @@
     "title": "109: December 4, 2017"
   },
   {
-    "oldid": 2745,
+    "oldid": 3499,
     "slug": "10{{COLON}}_February_6,_2017",
     "title": "10: February 6, 2017"
   },
@@ -795,7 +795,7 @@
     "title": "234: March 26, 2009"
   },
   {
-    "oldid": 2890,
+    "oldid": 3509,
     "slug": "236{{COLON}}_December_4-5,_2018",
     "title": "236: December 4-5, 2018"
   },
@@ -1220,17 +1220,17 @@
     "title": "311: June 17-19, 2019"
   },
   {
-    "oldid": 2974,
+    "oldid": 3507,
     "slug": "312{{COLON}}_February_10-13,_2013",
     "title": "312: February 10-13, 2013"
   },
   {
-    "oldid": 2975,
+    "oldid": 3510,
     "slug": "313{{COLON}}_June_23-24,_2019",
     "title": "313: June 23-24, 2019"
   },
   {
-    "oldid": 2976,
+    "oldid": 3508,
     "slug": "314{{COLON}}_February_14-15,_2013",
     "title": "314: February 14-15, 2013"
   },
@@ -3480,7 +3480,7 @@
     "title": "717: August 17, 2022"
   },
   {
-    "oldid": 3476,
+    "oldid": 3502,
     "slug": "718{{COLON}}_August_21-22,_2022",
     "title": "718: August 21-22, 2022"
   },
@@ -3490,7 +3490,7 @@
     "title": "719: August 19, 2022"
   },
   {
-    "oldid": 3432,
+    "oldid": 3500,
     "slug": "71{{COLON}}_August_4,_2017",
     "title": "71: August 4, 2017"
   },
@@ -3675,9 +3675,19 @@
     "title": "Ahmad Arbery"
   },
   {
+    "oldid": 3494,
+    "slug": "Al_Gore",
+    "title": "Al Gore"
+  },
+  {
     "oldid": 2427,
     "slug": "Alan_Watt",
     "title": "Alan Watt"
+  },
+  {
+    "oldid": 3495,
+    "slug": "Aleksander_Dugin",
+    "title": "Aleksander Dugin"
   },
   {
     "oldid": 2354,
@@ -3693,6 +3703,11 @@
     "oldid": 3462,
     "slug": "Alex's_Breaky_Minisode",
     "title": "Alex's Breaky Minisode"
+  },
+  {
+    "oldid": 3497,
+    "slug": "Alexander_Dugin",
+    "title": "Alexander Dugin"
   },
   {
     "oldid": 2444,
@@ -3740,14 +3755,29 @@
     "title": "Andrew Cuomo"
   },
   {
+    "oldid": 3523,
+    "slug": "Angela_Merkel",
+    "title": "Angela Merkel"
+  },
+  {
     "oldid": 2672,
     "slug": "Ann_Coulter",
     "title": "Ann Coulter"
   },
   {
+    "oldid": 3529,
+    "slug": "Anthony_Cuomo",
+    "title": "Anthony Cuomo"
+  },
+  {
     "oldid": 2717,
     "slug": "Anthony_Fauci",
     "title": "Anthony Fauci"
+  },
+  {
+    "oldid": 3524,
+    "slug": "Arnold_Schwarzenegger",
+    "title": "Arnold Schwarzenegger"
   },
   {
     "oldid": 2355,
@@ -3860,6 +3890,11 @@
     "title": "Brett Kavanaugh"
   },
   {
+    "oldid": 3530,
+    "slug": "Brian_Kemp",
+    "title": "Brian Kemp"
+  },
+  {
     "oldid": 2323,
     "slug": "Buckley",
     "title": "Buckley"
@@ -3905,6 +3940,11 @@
     "title": "Chobani v. Jones"
   },
   {
+    "oldid": 3506,
+    "slug": "Chris_Dorner",
+    "title": "Chris Dorner"
+  },
+  {
     "oldid": 2718,
     "slug": "Chris_Sky",
     "title": "Chris Sky"
@@ -3945,7 +3985,7 @@
     "title": "Count Dankula"
   },
   {
-    "oldid": 434,
+    "oldid": 3505,
     "slug": "Dan_Bidondi",
     "title": "Dan Bidondi"
   },
@@ -4000,7 +4040,7 @@
     "title": "David Jones"
   },
   {
-    "oldid": 2371,
+    "oldid": 3498,
     "slug": "David_Knight",
     "title": "David Knight"
   },
@@ -4085,6 +4125,11 @@
     "title": "Elon Musk"
   },
   {
+    "oldid": 3485,
+    "slug": "Episode_Listing",
+    "title": "Episode Listing"
+  },
+  {
     "oldid": 2662,
     "slug": "Eric_Holder",
     "title": "Eric Holder"
@@ -4140,6 +4185,11 @@
     "title": "Genesis Communications Network"
   },
   {
+    "oldid": 3493,
+    "slug": "George_H_W_Bush",
+    "title": "George H W Bush"
+  },
+  {
     "oldid": 2732,
     "slug": "George_HW_Bush",
     "title": "George HW Bush"
@@ -4153,6 +4203,16 @@
     "oldid": 2591,
     "slug": "George_Soros",
     "title": "George Soros"
+  },
+  {
+    "oldid": 3492,
+    "slug": "George_W_Bush",
+    "title": "George W Bush"
+  },
+  {
+    "oldid": 3517,
+    "slug": "George_Washington",
+    "title": "George Washington"
   },
   {
     "oldid": 2448,
@@ -4170,6 +4230,16 @@
     "title": "Goerge Soros"
   },
   {
+    "oldid": 3516,
+    "slug": "Greg_Abbott",
+    "title": "Greg Abbott"
+  },
+  {
+    "oldid": 3515,
+    "slug": "Greta_Thunberg",
+    "title": "Greta Thunberg"
+  },
+  {
     "oldid": 2377,
     "slug": "H.G._Wells_and_the_{{QUOTE}}New_World_Order{{QUOTE}}",
     "title": "H.G. Wells and the \"New World Order\""
@@ -4183,6 +4253,16 @@
     "oldid": 2446,
     "slug": "Harry_Dent",
     "title": "Harry Dent"
+  },
+  {
+    "oldid": 3526,
+    "slug": "Harvey_Weinstein",
+    "title": "Harvey Weinstein"
+  },
+  {
+    "oldid": 3525,
+    "slug": "Henrietta_Lacks",
+    "title": "Henrietta Lacks"
   },
   {
     "oldid": 2676,
@@ -4265,6 +4345,11 @@
     "title": "Jamal Khashoggi"
   },
   {
+    "oldid": 3514,
+    "slug": "James_Comey",
+    "title": "James Comey"
+  },
+  {
     "oldid": 3132,
     "slug": "January_6th",
     "title": "January 6th"
@@ -4288,6 +4373,11 @@
     "oldid": 2712,
     "slug": "Jeffrey_Epstein",
     "title": "Jeffrey Epstein"
+  },
+  {
+    "oldid": 3513,
+    "slug": "Jen_Psaki",
+    "title": "Jen Psaki"
   },
   {
     "oldid": 2383,
@@ -4355,6 +4445,11 @@
     "title": "Julian Asange"
   },
   {
+    "oldid": 3488,
+    "slug": "Kamala_Harris",
+    "title": "Kamala Harris"
+  },
+  {
     "oldid": 2667,
     "slug": "Kanye_West",
     "title": "Kanye West"
@@ -4375,14 +4470,24 @@
     "title": "Kerry Cassidy"
   },
   {
+    "oldid": 3518,
+    "slug": "Kim_Jong_Un",
+    "title": "Kim Jong Un"
+  },
+  {
     "oldid": 2720,
     "slug": "Knowledge_Fight",
     "title": "Knowledge Fight"
   },
   {
-    "oldid": 1405,
+    "oldid": 3486,
     "slug": "Knowledge_Fight_Wiki",
     "title": "Knowledge Fight Wiki"
+  },
+  {
+    "oldid": 3527,
+    "slug": "Lana_Del_Rey",
+    "title": "Lana Del Rey"
   },
   {
     "oldid": 2389,
@@ -4413,6 +4518,11 @@
     "oldid": 2392,
     "slug": "Leonard_Pozner",
     "title": "Leonard Pozner"
+  },
+  {
+    "oldid": 3519,
+    "slug": "Lester_Holt",
+    "title": "Lester Holt"
   },
   {
     "oldid": 3484,
@@ -4485,6 +4595,11 @@
     "title": "Melinda Gates"
   },
   {
+    "oldid": 3528,
+    "slug": "Merrick_Garland",
+    "title": "Merrick Garland"
+  },
+  {
     "oldid": 2709,
     "slug": "Michelle_Obama",
     "title": "Michelle Obama"
@@ -4500,6 +4615,11 @@
     "title": "Mike Adams"
   },
   {
+    "oldid": 3520,
+    "slug": "Mike_Bloomberg",
+    "title": "Mike Bloomberg"
+  },
+  {
     "oldid": 2499,
     "slug": "Mike_Cernovich",
     "title": "Mike Cernovich"
@@ -4510,6 +4630,16 @@
     "title": "Mike Drudge"
   },
   {
+    "oldid": 3489,
+    "slug": "Mike_Pence",
+    "title": "Mike Pence"
+  },
+  {
+    "oldid": 3521,
+    "slug": "Mike_Pompeo",
+    "title": "Mike Pompeo"
+  },
+  {
     "oldid": 2575,
     "slug": "Millie_Weaver",
     "title": "Millie Weaver"
@@ -4518,6 +4648,11 @@
     "oldid": 2708,
     "slug": "Mitch_McConnell",
     "title": "Mitch McConnell"
+  },
+  {
+    "oldid": 3531,
+    "slug": "Mitt_Romney",
+    "title": "Mitt Romney"
   },
   {
     "oldid": 2647,
@@ -4548,6 +4683,11 @@
     "oldid": 2568,
     "slug": "Obama",
     "title": "Obama"
+  },
+  {
+    "oldid": 3532,
+    "slug": "Oprah_Winfrey",
+    "title": "Oprah Winfrey"
   },
   {
     "oldid": 2707,
@@ -4603,6 +4743,11 @@
     "oldid": 2502,
     "slug": "Pozner_Texas_Sandy_Hook_Lawsuit_(Pozner_v._Jones)",
     "title": "Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones)"
+  },
+  {
+    "oldid": 3503,
+    "slug": "Project_Camelot",
+    "title": "Project Camelot"
   },
   {
     "oldid": 2335,
@@ -4680,6 +4825,16 @@
     "title": "Ronald Reagan"
   },
   {
+    "oldid": 3491,
+    "slug": "Rudy_Giuliani",
+    "title": "Rudy Giuliani"
+  },
+  {
+    "oldid": 3522,
+    "slug": "Sacha_Baron_Cohen",
+    "title": "Sacha Baron Cohen"
+  },
+  {
     "oldid": 672,
     "slug": "Sandy_Hook",
     "title": "Sandy Hook"
@@ -4755,6 +4910,11 @@
     "title": "Ted Anderson"
   },
   {
+    "oldid": 3490,
+    "slug": "Ted_Cruz",
+    "title": "Ted Cruz"
+  },
+  {
     "oldid": 2505,
     "slug": "Ted_Nugent",
     "title": "Ted Nugent"
@@ -4805,9 +4965,24 @@
     "title": "The Sandy Hook Elementary Massacre"
   },
   {
+    "oldid": 3512,
+    "slug": "Tim_Cook",
+    "title": "Tim Cook"
+  },
+  {
+    "oldid": 3511,
+    "slug": "Tim_Cooke",
+    "title": "Tim Cooke"
+  },
+  {
     "oldid": 2508,
     "slug": "Tommy_Robinson",
     "title": "Tommy Robinson"
+  },
+  {
+    "oldid": 3533,
+    "slug": "Tony_Blair",
+    "title": "Tony Blair"
   },
   {
     "oldid": 2573,
