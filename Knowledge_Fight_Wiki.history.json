@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 3486,
+    "summary": "Add a section giving credit to original sources.",
+    "time": {
+      "date": 1661904000000,
+      "day": 31,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 8,
+      "second": 13,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 1405,
     "summary": "Make clear that the wiki is unofficial, and remove the reference to the Discord. The discord has expressed a general preference not to have people directed to it from high profile / index web sources. While right now this wiki is very small, there is a potential for this wiki to be involved in something more high visibility. If discord members want to restore this, I'm fine with that. I'm removing it out an abundance of caution.",
     "time": {
