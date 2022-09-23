@@ -1,5 +1,35 @@
 [
   {
+    "oldid": 3700,
+    "summary": "Also fix the name in the links.",
+    "time": {
+      "date": 1663891200000,
+      "day": 23,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 9,
+      "second": 53,
+      "timezone": "UTC",
+      "weekday": 5
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3699,
+    "summary": "Fix spelling and add a section about Dan's COVID \"prediction\"",
+    "time": {
+      "date": 1663891200000,
+      "day": 23,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 9,
+      "second": 46,
+      "timezone": "UTC",
+      "weekday": 5
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 3029,
     "summary": "RainbowBatch update",
     "time": {
