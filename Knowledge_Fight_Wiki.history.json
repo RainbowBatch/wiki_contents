@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 3824,
+    "summary": "Add attribution for the tracker doc consistent with the author's wishes.",
+    "time": {
+      "date": 1664064000000,
+      "day": 25,
+      "hour": 22,
+      "microsecond": 0,
+      "month": 9,
+      "second": 52,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 3486,
     "summary": "Add a section giving credit to original sources.",
     "time": {
