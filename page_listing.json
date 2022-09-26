@@ -1,5 +1,15 @@
 [
   {
+    "oldid": 2146,
+    "slug": "{{QUOTE}}Dr.{{QUOTE}}_Ed_Group",
+    "title": "\"Dr.\" Ed Group"
+  },
+  {
+    "oldid": 3652,
+    "slug": "{{QUOTE}}Mandatory_Service_Bill{{QUOTE}}",
+    "title": "\"Mandatory Service Bill\""
+  },
+  {
     "oldid": null,
     "slug": "100{{COLON}}_January_6-7,_2016",
     "title": "100: January 6-7, 2016"
@@ -3380,9 +3390,19 @@
     "title": "702: July 11-12, 2022"
   },
   {
+    "oldid": 393,
+    "slug": "703{{COLON}}_9-11,_Part_1",
+    "title": "703: 9-11, Part 1"
+  },
+  {
     "oldid": null,
     "slug": "703{{COLON}}_9{{FORWARD_SLASH}}11,_Part_1",
     "title": "703: 9/11, Part 1"
+  },
+  {
+    "oldid": 395,
+    "slug": "704{{COLON}}_9-11,_Part_2",
+    "title": "704: 9-11, Part 2"
   },
   {
     "oldid": null,
@@ -3521,6 +3541,11 @@
   },
   {
     "oldid": null,
+    "slug": "729{{COLON}}_September_24,_2022",
+    "title": "729: September 24, 2022"
+  },
+  {
+    "oldid": null,
     "slug": "72{{COLON}}_August_9,_2017",
     "title": "72: August 9, 2017"
   },
@@ -3620,6 +3645,11 @@
     "title": "8: January 26-27, 2017"
   },
   {
+    "oldid": 2299,
+    "slug": "9{{FORWARD_SLASH}}11",
+    "title": "9/11"
+  },
+  {
     "oldid": null,
     "slug": "90{{COLON}}_October_10,_2017",
     "title": "90: October 10, 2017"
@@ -3675,9 +3705,689 @@
     "title": "9: Joe Rogan Appearance"
   },
   {
+    "oldid": 2332,
+    "slug": "AOC",
+    "title": "AOC"
+  },
+  {
+    "oldid": 2288,
+    "slug": "Adam_Lanza",
+    "title": "Adam Lanza"
+  },
+  {
+    "oldid": 2352,
+    "slug": "Adan_Salazar",
+    "title": "Adan Salazar"
+  },
+  {
+    "oldid": 2689,
+    "slug": "Ahmad_Arbery",
+    "title": "Ahmad Arbery"
+  },
+  {
+    "oldid": 3494,
+    "slug": "Al_Gore",
+    "title": "Al Gore"
+  },
+  {
+    "oldid": 2427,
+    "slug": "Alan_Watt",
+    "title": "Alan Watt"
+  },
+  {
+    "oldid": 3495,
+    "slug": "Aleksander_Dugin",
+    "title": "Aleksander Dugin"
+  },
+  {
+    "oldid": 2354,
+    "slug": "Alex_Jones",
+    "title": "Alex Jones"
+  },
+  {
+    "oldid": 558,
+    "slug": "Alex_Jones_Show",
+    "title": "Alex Jones Show"
+  },
+  {
     "oldid": null,
     "slug": "Alex's_Breaky_Minisode",
     "title": "Alex's Breaky Minisode"
+  },
+  {
+    "oldid": 3497,
+    "slug": "Alexander_Dugin",
+    "title": "Alexander Dugin"
+  },
+  {
+    "oldid": 2444,
+    "slug": "Alexander_Nekrassov",
+    "title": "Alexander Nekrassov"
+  },
+  {
+    "oldid": 2333,
+    "slug": "Alexandria_Ocasio_Cortez",
+    "title": "Alexandria Ocasio Cortez"
+  },
+  {
+    "oldid": 2650,
+    "slug": "Alexandria_Ocasio-Cortez",
+    "title": "Alexandria Ocasio-Cortez"
+  },
+  {
+    "oldid": 2595,
+    "slug": "Alfie_Oaks",
+    "title": "Alfie Oaks"
+  },
+  {
+    "oldid": 2730,
+    "slug": "Amy_Barrett",
+    "title": "Amy Barrett"
+  },
+  {
+    "oldid": 2657,
+    "slug": "Amy_Coney_Barrett",
+    "title": "Amy Coney Barrett"
+  },
+  {
+    "oldid": 2654,
+    "slug": "Anderson_Cooper",
+    "title": "Anderson Cooper"
+  },
+  {
+    "oldid": 593,
+    "slug": "Andino_Reynal",
+    "title": "Andino Reynal"
+  },
+  {
+    "oldid": 2656,
+    "slug": "Andrew_Cuomo",
+    "title": "Andrew Cuomo"
+  },
+  {
+    "oldid": 3523,
+    "slug": "Angela_Merkel",
+    "title": "Angela Merkel"
+  },
+  {
+    "oldid": 2672,
+    "slug": "Ann_Coulter",
+    "title": "Ann Coulter"
+  },
+  {
+    "oldid": 3529,
+    "slug": "Anthony_Cuomo",
+    "title": "Anthony Cuomo"
+  },
+  {
+    "oldid": 2717,
+    "slug": "Anthony_Fauci",
+    "title": "Anthony Fauci"
+  },
+  {
+    "oldid": 3524,
+    "slug": "Arnold_Schwarzenegger",
+    "title": "Arnold Schwarzenegger"
+  },
+  {
+    "oldid": 2355,
+    "slug": "Art_Acevedo",
+    "title": "Art Acevedo"
+  },
+  {
+    "oldid": 2296,
+    "slug": "Art_Asaveda",
+    "title": "Art Asaveda"
+  },
+  {
+    "oldid": 3541,
+    "slug": "Arthur_Pawlowski",
+    "title": "Arthur Pawlowski"
+  },
+  {
+    "oldid": 2658,
+    "slug": "Barack_Obama",
+    "title": "Barack Obama"
+  },
+  {
+    "oldid": 2356,
+    "slug": "Barbara_Loe_Fisher",
+    "title": "Barbara Loe Fisher"
+  },
+  {
+    "oldid": 2279,
+    "slug": "Barry_Cooper",
+    "title": "Barry Cooper"
+  },
+  {
+    "oldid": 2280,
+    "slug": "Ben_Garrison",
+    "title": "Ben Garrison"
+  },
+  {
+    "oldid": 2621,
+    "slug": "Ben_Marble",
+    "title": "Ben Marble"
+  },
+  {
+    "oldid": 2661,
+    "slug": "Ben_Shapiro",
+    "title": "Ben Shapiro"
+  },
+  {
+    "oldid": 2648,
+    "slug": "Bernie_Sanders",
+    "title": "Bernie Sanders"
+  },
+  {
+    "oldid": 2604,
+    "slug": "Bertrand_Russel",
+    "title": "Bertrand Russel"
+  },
+  {
+    "oldid": 2671,
+    "slug": "Bertrand_Russell",
+    "title": "Bertrand Russell"
+  },
+  {
+    "oldid": 2357,
+    "slug": "Bill_Ayers",
+    "title": "Bill Ayers"
+  },
+  {
+    "oldid": 2655,
+    "slug": "Bill_Barr",
+    "title": "Bill Barr"
+  },
+  {
+    "oldid": 2653,
+    "slug": "Bill_Clinton",
+    "title": "Bill Clinton"
+  },
+  {
+    "oldid": 2590,
+    "slug": "Bill_Gates",
+    "title": "Bill Gates"
+  },
+  {
+    "oldid": 2358,
+    "slug": "Bill_Ogden",
+    "title": "Bill Ogden"
+  },
+  {
+    "oldid": 2359,
+    "slug": "Bob_Chapman",
+    "title": "Bob Chapman"
+  },
+  {
+    "oldid": 2660,
+    "slug": "Boris_Johnson",
+    "title": "Boris Johnson"
+  },
+  {
+    "oldid": 2147,
+    "slug": "Boston_Bombing",
+    "title": "Boston Bombing"
+  },
+  {
+    "oldid": 2360,
+    "slug": "Bradley_Reeves",
+    "title": "Bradley Reeves"
+  },
+  {
+    "oldid": 2623,
+    "slug": "Brenan_Gilmore",
+    "title": "Brenan Gilmore"
+  },
+  {
+    "oldid": 2659,
+    "slug": "Brett_Kavanaugh",
+    "title": "Brett Kavanaugh"
+  },
+  {
+    "oldid": 3530,
+    "slug": "Brian_Kemp",
+    "title": "Brian Kemp"
+  },
+  {
+    "oldid": 3679,
+    "slug": "Brittany_Paz",
+    "title": "Brittany Paz"
+  },
+  {
+    "oldid": 2323,
+    "slug": "Buckley",
+    "title": "Buckley"
+  },
+  {
+    "oldid": 2428,
+    "slug": "Buckley_Hamman",
+    "title": "Buckley Hamman"
+  },
+  {
+    "oldid": 2322,
+    "slug": "Buckley_Hammon",
+    "title": "Buckley Hammon"
+  },
+  {
+    "oldid": 2298,
+    "slug": "CIA_asset_Osama_Bin_Laden",
+    "title": "CIA asset Osama Bin Laden"
+  },
+  {
+    "oldid": 379,
+    "slug": "Cam_Atkinson",
+    "title": "Cam Atkinson"
+  },
+  {
+    "oldid": 2362,
+    "slug": "Cameron_Atkinson",
+    "title": "Cameron Atkinson"
+  },
+  {
+    "oldid": 2363,
+    "slug": "Carol_Hamman",
+    "title": "Carol Hamman"
+  },
+  {
+    "oldid": 2364,
+    "slug": "Celine",
+    "title": "Celine"
+  },
+  {
+    "oldid": 2365,
+    "slug": "Chobani_v._Jones",
+    "title": "Chobani v. Jones"
+  },
+  {
+    "oldid": 3506,
+    "slug": "Chris_Dorner",
+    "title": "Chris Dorner"
+  },
+  {
+    "oldid": 3672,
+    "slug": "Chris_Mattei",
+    "title": "Chris Mattei"
+  },
+  {
+    "oldid": 2718,
+    "slug": "Chris_Sky",
+    "title": "Chris Sky"
+  },
+  {
+    "oldid": 2618,
+    "slug": "Chris_Skye",
+    "title": "Chris Skye"
+  },
+  {
+    "oldid": 2674,
+    "slug": "Clarence_Thomas",
+    "title": "Clarence Thomas"
+  },
+  {
+    "oldid": 2277,
+    "slug": "Clenard_Childress",
+    "title": "Clenard Childress"
+  },
+  {
+    "oldid": 2334,
+    "slug": "Coach_Dave",
+    "title": "Coach Dave"
+  },
+  {
+    "oldid": 2673,
+    "slug": "Colin_Kaepernick",
+    "title": "Colin Kaepernick"
+  },
+  {
+    "oldid": 3698,
+    "slug": "Connecticut_Sandy_Hook_Lawsuit_(Lafferty_v._Jones)",
+    "title": "Connecticut Sandy Hook Lawsuit (Lafferty v. Jones)"
+  },
+  {
+    "oldid": 2151,
+    "slug": "Count_Dankula",
+    "title": "Count Dankula"
+  },
+  {
+    "oldid": 3505,
+    "slug": "Dan_Bidondi",
+    "title": "Dan Bidondi"
+  },
+  {
+    "oldid": 2303,
+    "slug": "Dan_Bindondi",
+    "title": "Dan Bindondi"
+  },
+  {
+    "oldid": 2367,
+    "slug": "Dan_Friesen",
+    "title": "Dan Friesen"
+  },
+  {
+    "oldid": 2368,
+    "slug": "Daria_Karpova",
+    "title": "Daria Karpova"
+  },
+  {
+    "oldid": 2369,
+    "slug": "Darrell_Hamamoto",
+    "title": "Darrell Hamamoto"
+  },
+  {
+    "oldid": 2255,
+    "slug": "Darrell_Hamomoto",
+    "title": "Darrell Hamomoto"
+  },
+  {
+    "oldid": 2251,
+    "slug": "Daryl_Hamamoto",
+    "title": "Daryl Hamamoto"
+  },
+  {
+    "oldid": 3723,
+    "slug": "David_Eich",
+    "title": "David Eich"
+  },
+  {
+    "oldid": 2300,
+    "slug": "David_Eick",
+    "title": "David Eick"
+  },
+  {
+    "oldid": 2262,
+    "slug": "David_Iche",
+    "title": "David Iche"
+  },
+  {
+    "oldid": 2489,
+    "slug": "David_Icke",
+    "title": "David Icke"
+  },
+  {
+    "oldid": 2429,
+    "slug": "David_Jones",
+    "title": "David Jones"
+  },
+  {
+    "oldid": 3498,
+    "slug": "David_Knight",
+    "title": "David Knight"
+  },
+  {
+    "oldid": 2675,
+    "slug": "Diane_Feinstein",
+    "title": "Diane Feinstein"
+  },
+  {
+    "oldid": 2643,
+    "slug": "Donald_Trump",
+    "title": "Donald Trump"
+  },
+  {
+    "oldid": 2626,
+    "slug": "Donn_De_Grand_Pre",
+    "title": "Donn De Grand Pre"
+  },
+  {
+    "oldid": 2625,
+    "slug": "Donn_de_Grand_Pre",
+    "title": "Donn de Grand Pre"
+  },
+  {
+    "oldid": 2256,
+    "slug": "Dr_Darrell_Hamamoto",
+    "title": "Dr Darrell Hamamoto"
+  },
+  {
+    "oldid": 3741,
+    "slug": "Dr_Eric_Pianca",
+    "title": "Dr Eric Pianca"
+  },
+  {
+    "oldid": 2302,
+    "slug": "Dr_Francis_Boyle",
+    "title": "Dr Francis Boyle"
+  },
+  {
+    "oldid": 2145,
+    "slug": "Dr_Group",
+    "title": "Dr Group"
+  },
+  {
+    "oldid": 2698,
+    "slug": "Dr_Grupe",
+    "title": "Dr Grupe"
+  },
+  {
+    "oldid": 2305,
+    "slug": "Dr._Daryl_Hamomoto",
+    "title": "Dr. Daryl Hamomoto"
+  },
+  {
+    "oldid": 2141,
+    "slug": "Dr._Group",
+    "title": "Dr. Group"
+  },
+  {
+    "oldid": 2523,
+    "slug": "Dreamy_Creamy_Summer",
+    "title": "Dreamy Creamy Summer"
+  },
+  {
+    "oldid": 2701,
+    "slug": "Dwight_D_Eisenhower",
+    "title": "Dwight D Eisenhower"
+  },
+  {
+    "oldid": 2597,
+    "slug": "E_Michael_Jones",
+    "title": "E Michael Jones"
+  },
+  {
+    "oldid": 2431,
+    "slug": "Edward_Group",
+    "title": "Edward Group"
+  },
+  {
+    "oldid": 2699,
+    "slug": "Eisenhower",
+    "title": "Eisenhower"
+  },
+  {
+    "oldid": 2696,
+    "slug": "Elon_Musk",
+    "title": "Elon Musk"
+  },
+  {
+    "oldid": 3742,
+    "slug": "Enrique_Tario",
+    "title": "Enrique Tario"
+  },
+  {
+    "oldid": 3485,
+    "slug": "Episode_Listing",
+    "title": "Episode Listing"
+  },
+  {
+    "oldid": 2662,
+    "slug": "Eric_Holder",
+    "title": "Eric Holder"
+  },
+  {
+    "oldid": 3657,
+    "slug": "Fentanyl_the_Chinese_dragon",
+    "title": "Fentanyl the Chinese dragon"
+  },
+  {
+    "oldid": 2491,
+    "slug": "Francis_Boyle",
+    "title": "Francis Boyle"
+  },
+  {
+    "oldid": 690,
+    "slug": "Free_Speech_Systems_Bankruptcy_Case",
+    "title": "Free Speech Systems Bankruptcy Case"
+  },
+  {
+    "oldid": 2374,
+    "slug": "Free_Speech_Systems_LLC",
+    "title": "Free Speech Systems LLC"
+  },
+  {
+    "oldid": 2492,
+    "slug": "Gavin_McInnes",
+    "title": "Gavin McInnes"
+  },
+  {
+    "oldid": 2695,
+    "slug": "Gavin_Newsom",
+    "title": "Gavin Newsom"
+  },
+  {
+    "oldid": 2692,
+    "slug": "Gavin_Newsome",
+    "title": "Gavin Newsome"
+  },
+  {
+    "oldid": 2612,
+    "slug": "General_Mark_A_Milley",
+    "title": "General Mark A Milley"
+  },
+  {
+    "oldid": 2610,
+    "slug": "General_Russel_L_Honor\u00e9",
+    "title": "General Russel L Honor\u00e9"
+  },
+  {
+    "oldid": 2606,
+    "slug": "General_Stubblebine",
+    "title": "General Stubblebine"
+  },
+  {
+    "oldid": 3539,
+    "slug": "Genesis_Communications_Network",
+    "title": "Genesis Communications Network"
+  },
+  {
+    "oldid": 3493,
+    "slug": "George_H_W_Bush",
+    "title": "George H W Bush"
+  },
+  {
+    "oldid": 2732,
+    "slug": "George_HW_Bush",
+    "title": "George HW Bush"
+  },
+  {
+    "oldid": 2569,
+    "slug": "George_Noori",
+    "title": "George Noori"
+  },
+  {
+    "oldid": 2591,
+    "slug": "George_Soros",
+    "title": "George Soros"
+  },
+  {
+    "oldid": 3492,
+    "slug": "George_W_Bush",
+    "title": "George W Bush"
+  },
+  {
+    "oldid": 3517,
+    "slug": "George_Washington",
+    "title": "George Washington"
+  },
+  {
+    "oldid": 2448,
+    "slug": "Gerald_Celente",
+    "title": "Gerald Celente"
+  },
+  {
+    "oldid": 3707,
+    "slug": "Glenn_Beck",
+    "title": "Glenn Beck"
+  },
+  {
+    "oldid": 2563,
+    "slug": "Globalists",
+    "title": "Globalists"
+  },
+  {
+    "oldid": 2578,
+    "slug": "Goerge_Soros",
+    "title": "Goerge Soros"
+  },
+  {
+    "oldid": 3516,
+    "slug": "Greg_Abbott",
+    "title": "Greg Abbott"
+  },
+  {
+    "oldid": 3515,
+    "slug": "Greta_Thunberg",
+    "title": "Greta Thunberg"
+  },
+  {
+    "oldid": 3658,
+    "slug": "H.G._Wells_and_the_{{QUOTE}}New_World_Order{{QUOTE}}",
+    "title": "H.G. Wells and the \"New World Order\""
+  },
+  {
+    "oldid": 1413,
+    "slug": "HONR",
+    "title": "HONR"
+  },
+  {
+    "oldid": 2446,
+    "slug": "Harry_Dent",
+    "title": "Harry Dent"
+  },
+  {
+    "oldid": 3526,
+    "slug": "Harvey_Weinstein",
+    "title": "Harvey Weinstein"
+  },
+  {
+    "oldid": 3525,
+    "slug": "Henrietta_Lacks",
+    "title": "Henrietta Lacks"
+  },
+  {
+    "oldid": 2676,
+    "slug": "Henry_Kissinger",
+    "title": "Henry Kissinger"
+  },
+  {
+    "oldid": 2576,
+    "slug": "Hilary_Clinton",
+    "title": "Hilary Clinton"
+  },
+  {
+    "oldid": 2711,
+    "slug": "Hillary_Clinton",
+    "title": "Hillary Clinton"
+  },
+  {
+    "oldid": 2677,
+    "slug": "Hitler",
+    "title": "Hitler"
+  },
+  {
+    "oldid": 2713,
+    "slug": "Ilhan_Omar",
+    "title": "Ilhan Omar"
+  },
+  {
+    "oldid": 2378,
+    "slug": "InfoW_et._al._Bankruptcy_Case",
+    "title": "InfoW et. al. Bankruptcy Case"
+  },
+  {
+    "oldid": 2379,
+    "slug": "InfoWars",
+    "title": "InfoWars"
   },
   {
     "oldid": null,
@@ -3690,9 +4400,514 @@
     "title": "InfoWars Roulette 2"
   },
   {
+    "oldid": 2663,
+    "slug": "JFK",
+    "title": "JFK"
+  },
+  {
+    "oldid": 2642,
+    "slug": "Jack_Dorsey",
+    "title": "Jack Dorsey"
+  },
+  {
+    "oldid": 2443,
+    "slug": "Jack_Posobiec",
+    "title": "Jack Posobiec"
+  },
+  {
+    "oldid": 2381,
+    "slug": "Jacquelyn_Blott",
+    "title": "Jacquelyn Blott"
+  },
+  {
+    "oldid": 2646,
+    "slug": "Jair_Bolsonaro",
+    "title": "Jair Bolsonaro"
+  },
+  {
+    "oldid": 2382,
+    "slug": "Jakari_Jackson",
+    "title": "Jakari Jackson"
+  },
+  {
+    "oldid": 2691,
+    "slug": "Jamal_Khashoggi",
+    "title": "Jamal Khashoggi"
+  },
+  {
+    "oldid": 3514,
+    "slug": "James_Comey",
+    "title": "James Comey"
+  },
+  {
+    "oldid": 3132,
+    "slug": "January_6th",
+    "title": "January 6th"
+  },
+  {
+    "oldid": 2664,
+    "slug": "Jared_Kushner",
+    "title": "Jared Kushner"
+  },
+  {
+    "oldid": 2665,
+    "slug": "Jeff_Sessions",
+    "title": "Jeff Sessions"
+  },
+  {
+    "oldid": 2727,
+    "slug": "Jeffrey_Eppstein",
+    "title": "Jeffrey Eppstein"
+  },
+  {
+    "oldid": 2712,
+    "slug": "Jeffrey_Epstein",
+    "title": "Jeffrey Epstein"
+  },
+  {
+    "oldid": 3513,
+    "slug": "Jen_Psaki",
+    "title": "Jen Psaki"
+  },
+  {
+    "oldid": 2383,
+    "slug": "Jesse_Ventura",
+    "title": "Jesse Ventura"
+  },
+  {
+    "oldid": 2725,
+    "slug": "Jessie_Ventura",
+    "title": "Jessie Ventura"
+  },
+  {
+    "oldid": 3074,
+    "slug": "Jo_Anne_Richards",
+    "title": "Jo Anne Richards"
+  },
+  {
+    "oldid": 3070,
+    "slug": "Jo-Anne_Richards",
+    "title": "Jo-Anne Richards"
+  },
+  {
+    "oldid": 3072,
+    "slug": "JoAnn_Richards",
+    "title": "JoAnn Richards"
+  },
+  {
+    "oldid": 3096,
+    "slug": "JoAnne_Richards",
+    "title": "JoAnne Richards"
+  },
+  {
+    "oldid": 3747,
+    "slug": "Joe_Bannister",
+    "title": "Joe Bannister"
+  },
+  {
+    "oldid": 2645,
+    "slug": "Joe_Biden",
+    "title": "Joe Biden"
+  },
+  {
+    "oldid": 2494,
+    "slug": "Joe_Rogan",
+    "title": "Joe Rogan"
+  },
+  {
+    "oldid": 3804,
+    "slug": "Joel_Scousen",
+    "title": "Joel Scousen"
+  },
+  {
+    "oldid": 2666,
+    "slug": "John_Bolton",
+    "title": "John Bolton"
+  },
+  {
+    "oldid": 3807,
+    "slug": "John_Rapaport",
+    "title": "John Rapaport"
+  },
+  {
+    "oldid": 2384,
+    "slug": "Jordan_Holmes",
+    "title": "Jordan Holmes"
+  },
+  {
+    "oldid": 3825,
+    "slug": "Joshua_Koskoff",
+    "title": "Joshua Koskoff"
+  },
+  {
+    "oldid": 2385,
+    "slug": "Judge_Barbara_Bellis",
+    "title": "Judge Barbara Bellis"
+  },
+  {
+    "oldid": 2386,
+    "slug": "Judge_Maya_Gamble",
+    "title": "Judge Maya Gamble"
+  },
+  {
+    "oldid": 2714,
+    "slug": "Julian_Asange",
+    "title": "Julian Asange"
+  },
+  {
+    "oldid": 3488,
+    "slug": "Kamala_Harris",
+    "title": "Kamala Harris"
+  },
+  {
+    "oldid": 2667,
+    "slug": "Kanye_West",
+    "title": "Kanye West"
+  },
+  {
+    "oldid": 2688,
+    "slug": "Karl_Rove",
+    "title": "Karl Rove"
+  },
+  {
+    "oldid": 2387,
+    "slug": "Kelly_Jones",
+    "title": "Kelly Jones"
+  },
+  {
+    "oldid": 3641,
+    "slug": "Kerry_Cassidy",
+    "title": "Kerry Cassidy"
+  },
+  {
+    "oldid": 3518,
+    "slug": "Kim_Jong_Un",
+    "title": "Kim Jong Un"
+  },
+  {
+    "oldid": 2720,
+    "slug": "Knowledge_Fight",
+    "title": "Knowledge Fight"
+  },
+  {
+    "oldid": 3824,
+    "slug": "Knowledge_Fight_Wiki",
+    "title": "Knowledge Fight Wiki"
+  },
+  {
+    "oldid": 3527,
+    "slug": "Lana_Del_Rey",
+    "title": "Lana Del Rey"
+  },
+  {
+    "oldid": 2389,
+    "slug": "Larry_Nichols",
+    "title": "Larry Nichols"
+  },
+  {
+    "oldid": 2495,
+    "slug": "Laura_Loomer",
+    "title": "Laura Loomer"
+  },
+  {
+    "oldid": 2433,
+    "slug": "Lee_Ann_McAdoo",
+    "title": "Lee Ann McAdoo"
+  },
+  {
+    "oldid": 2592,
+    "slug": "Lee_Stranahan",
+    "title": "Lee Stranahan"
+  },
+  {
+    "oldid": 3659,
+    "slug": "Leo_Zagami",
+    "title": "Leo Zagami"
+  },
+  {
+    "oldid": 451,
+    "slug": "Leonard_Posner",
+    "title": "Leonard Posner"
+  },
+  {
+    "oldid": 2392,
+    "slug": "Leonard_Pozner",
+    "title": "Leonard Pozner"
+  },
+  {
+    "oldid": 3519,
+    "slug": "Lester_Holt",
+    "title": "Lester Holt"
+  },
+  {
+    "oldid": 3705,
+    "slug": "List_of_Knowledge_Fight_episodes",
+    "title": "List of Knowledge Fight episodes"
+  },
+  {
+    "oldid": 3810,
+    "slug": "Lord_Moncton",
+    "title": "Lord Moncton"
+  },
+  {
+    "oldid": 144,
+    "slug": "Main_Page",
+    "title": "Main Page"
+  },
+  {
+    "oldid": 2715,
+    "slug": "Margaret_Sanger",
+    "title": "Margaret Sanger"
+  },
+  {
+    "oldid": 2565,
+    "slug": "Mark_Bailen",
+    "title": "Mark Bailen"
+  },
+  {
+    "oldid": 2395,
+    "slug": "Mark_Bankston",
+    "title": "Mark Bankston"
+  },
+  {
+    "oldid": 2396,
+    "slug": "Mark_Dice",
+    "title": "Mark Dice"
+  },
+  {
+    "oldid": 2497,
+    "slug": "Mark_Meechan",
+    "title": "Mark Meechan"
+  },
+  {
+    "oldid": 3661,
+    "slug": "Mark_Richards",
+    "title": "Mark Richards"
+  },
+  {
+    "oldid": 2687,
+    "slug": "Mark_Zuckerberg",
+    "title": "Mark Zuckerberg"
+  },
+  {
+    "oldid": 2652,
+    "slug": "Matt_Drudge",
+    "title": "Matt Drudge"
+  },
+  {
+    "oldid": 2669,
+    "slug": "Matt_Gaetz",
+    "title": "Matt Gaetz"
+  },
+  {
+    "oldid": 2686,
+    "slug": "Maxine_Waters",
+    "title": "Maxine Waters"
+  },
+  {
+    "oldid": 2716,
+    "slug": "Megyn_Kelly",
+    "title": "Megyn Kelly"
+  },
+  {
+    "oldid": 2651,
+    "slug": "Melania_Trump",
+    "title": "Melania Trump"
+  },
+  {
+    "oldid": 2644,
+    "slug": "Melinda_Gates",
+    "title": "Melinda Gates"
+  },
+  {
+    "oldid": 3528,
+    "slug": "Merrick_Garland",
+    "title": "Merrick Garland"
+  },
+  {
+    "oldid": 2709,
+    "slug": "Michelle_Obama",
+    "title": "Michelle Obama"
+  },
+  {
+    "oldid": 524,
+    "slug": "Midas_Resources",
+    "title": "Midas Resources"
+  },
+  {
+    "oldid": 2498,
+    "slug": "Mike_Adams",
+    "title": "Mike Adams"
+  },
+  {
+    "oldid": 3520,
+    "slug": "Mike_Bloomberg",
+    "title": "Mike Bloomberg"
+  },
+  {
+    "oldid": 2499,
+    "slug": "Mike_Cernovich",
+    "title": "Mike Cernovich"
+  },
+  {
+    "oldid": 2616,
+    "slug": "Mike_Drudge",
+    "title": "Mike Drudge"
+  },
+  {
+    "oldid": 3489,
+    "slug": "Mike_Pence",
+    "title": "Mike Pence"
+  },
+  {
+    "oldid": 3521,
+    "slug": "Mike_Pompeo",
+    "title": "Mike Pompeo"
+  },
+  {
+    "oldid": 2575,
+    "slug": "Millie_Weaver",
+    "title": "Millie Weaver"
+  },
+  {
+    "oldid": 2708,
+    "slug": "Mitch_McConnell",
+    "title": "Mitch McConnell"
+  },
+  {
+    "oldid": 3531,
+    "slug": "Mitt_Romney",
+    "title": "Mitt Romney"
+  },
+  {
+    "oldid": 2647,
+    "slug": "Nancy_Pelosi",
+    "title": "Nancy Pelosi"
+  },
+  {
+    "oldid": 515,
+    "slug": "Neil_Heslin",
+    "title": "Neil Heslin"
+  },
+  {
     "oldid": null,
     "slug": "No_One_Is_Mad_At_The_Crew",
     "title": "No One Is Mad At The Crew"
+  },
+  {
+    "oldid": 2500,
+    "slug": "Norm_Pattis",
+    "title": "Norm Pattis"
+  },
+  {
+    "oldid": 2501,
+    "slug": "Notable_Legal_Proceedings",
+    "title": "Notable Legal Proceedings"
+  },
+  {
+    "oldid": 2568,
+    "slug": "Obama",
+    "title": "Obama"
+  },
+  {
+    "oldid": 3532,
+    "slug": "Oprah_Winfrey",
+    "title": "Oprah Winfrey"
+  },
+  {
+    "oldid": 2707,
+    "slug": "Osama_Bin_Laden",
+    "title": "Osama Bin Laden"
+  },
+  {
+    "oldid": 2434,
+    "slug": "Owen_Shroyer",
+    "title": "Owen Shroyer"
+  },
+  {
+    "oldid": 2401,
+    "slug": "PEZ_Dispenser",
+    "title": "PEZ Dispenser"
+  },
+  {
+    "oldid": 2402,
+    "slug": "PQPR",
+    "title": "PQPR"
+  },
+  {
+    "oldid": 2278,
+    "slug": "Paul_Craig_Roberts",
+    "title": "Paul Craig Roberts"
+  },
+  {
+    "oldid": 2403,
+    "slug": "Paul_Joseph_Watson",
+    "title": "Paul Joseph Watson"
+  },
+  {
+    "oldid": 2706,
+    "slug": "Paul_Ryan",
+    "title": "Paul Ryan"
+  },
+  {
+    "oldid": 2705,
+    "slug": "Pete_Buttigieg",
+    "title": "Pete Buttigieg"
+  },
+  {
+    "oldid": 2154,
+    "slug": "Peter_Theil",
+    "title": "Peter Theil"
+  },
+  {
+    "oldid": 2685,
+    "slug": "Peter_Thiel",
+    "title": "Peter Thiel"
+  },
+  {
+    "oldid": 2502,
+    "slug": "Pozner_Texas_Sandy_Hook_Lawsuit_(Pozner_v._Jones)",
+    "title": "Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones)"
+  },
+  {
+    "oldid": 3503,
+    "slug": "Project_Camelot",
+    "title": "Project Camelot"
+  },
+  {
+    "oldid": 2335,
+    "slug": "Putin",
+    "title": "Putin"
+  },
+  {
+    "oldid": 2684,
+    "slug": "Rachel_Maddow",
+    "title": "Rachel Maddow"
+  },
+  {
+    "oldid": 2574,
+    "slug": "Rainbow_Snatch",
+    "title": "Rainbow Snatch"
+  },
+  {
+    "oldid": 2668,
+    "slug": "Ralph_Northam",
+    "title": "Ralph Northam"
+  },
+  {
+    "oldid": 2710,
+    "slug": "Rand_Paul",
+    "title": "Rand Paul"
+  },
+  {
+    "oldid": 2405,
+    "slug": "Rebecca_Carley",
+    "title": "Rebecca Carley"
+  },
+  {
+    "oldid": 2330,
+    "slug": "Repost{{COLON}}_Episode",
+    "title": "Repost: Episode"
   },
   {
     "oldid": null,
@@ -3700,9 +4915,129 @@
     "title": "Repost: Episode 25"
   },
   {
+    "oldid": 2436,
+    "slug": "Rob_Dew",
+    "title": "Rob Dew"
+  },
+  {
+    "oldid": 3711,
+    "slug": "Robby_Parker",
+    "title": "Robby Parker"
+  },
+  {
+    "oldid": 2407,
+    "slug": "Robert_Barnes",
+    "title": "Robert Barnes"
+  },
+  {
+    "oldid": 3733,
+    "slug": "Robert_David_Steel",
+    "title": "Robert David Steel"
+  },
+  {
+    "oldid": 2649,
+    "slug": "Robert_Mueller",
+    "title": "Robert Mueller"
+  },
+  {
+    "oldid": 2704,
+    "slug": "Rod_Rosenstein",
+    "title": "Rod Rosenstein"
+  },
+  {
+    "oldid": 2437,
+    "slug": "Roger_Stone",
+    "title": "Roger Stone"
+  },
+  {
+    "oldid": 2409,
+    "slug": "Ron_Paul",
+    "title": "Ron Paul"
+  },
+  {
+    "oldid": 2703,
+    "slug": "Ronald_Reagan",
+    "title": "Ronald Reagan"
+  },
+  {
+    "oldid": 3491,
+    "slug": "Rudy_Giuliani",
+    "title": "Rudy Giuliani"
+  },
+  {
+    "oldid": 3522,
+    "slug": "Sacha_Baron_Cohen",
+    "title": "Sacha Baron Cohen"
+  },
+  {
+    "oldid": 672,
+    "slug": "Sandy_Hook",
+    "title": "Sandy Hook"
+  },
+  {
+    "oldid": 2410,
+    "slug": "Sandy_Hook_Family_Members",
+    "title": "Sandy Hook Family Members"
+  },
+  {
+    "oldid": 2411,
+    "slug": "Satan",
+    "title": "Satan"
+  },
+  {
+    "oldid": 678,
+    "slug": "Scarlett_Lewis",
+    "title": "Scarlett Lewis"
+  },
+  {
+    "oldid": 3662,
+    "slug": "Solomon_Berg",
+    "title": "Solomon Berg"
+  },
+  {
     "oldid": null,
     "slug": "Spiritual_Correction",
     "title": "Spiritual Correction"
+  },
+  {
+    "oldid": 2683,
+    "slug": "Stephen_Colbert",
+    "title": "Stephen Colbert"
+  },
+  {
+    "oldid": 2670,
+    "slug": "Steve_Bannon",
+    "title": "Steve Bannon"
+  },
+  {
+    "oldid": 2629,
+    "slug": "Steve_Kirsch",
+    "title": "Steve Kirsch"
+  },
+  {
+    "oldid": 2503,
+    "slug": "Steve_Pieczenik",
+    "title": "Steve Pieczenik"
+  },
+  {
+    "oldid": 2150,
+    "slug": "Steve_Pieczinik",
+    "title": "Steve Pieczinik"
+  },
+  {
+    "oldid": 2282,
+    "slug": "Steve_Quail",
+    "title": "Steve Quail"
+  },
+  {
+    "oldid": 2504,
+    "slug": "Steve_Quayle",
+    "title": "Steve Quayle"
+  },
+  {
+    "oldid": 2413,
+    "slug": "Steve_Watson",
+    "title": "Steve Watson"
   },
   {
     "oldid": null,
@@ -3710,47 +5045,122 @@
     "title": "TWTWYTT Special"
   },
   {
+    "oldid": 2425,
+    "slug": "Ted_Anderson",
+    "title": "Ted Anderson"
+  },
+  {
+    "oldid": 3490,
+    "slug": "Ted_Cruz",
+    "title": "Ted Cruz"
+  },
+  {
+    "oldid": 2505,
+    "slug": "Ted_Nugent",
+    "title": "Ted Nugent"
+  },
+  {
+    "oldid": 2416,
+    "slug": "Texas_Parkland_Shooting_Lawsuit_(Fontaine_v._Jones)",
+    "title": "Texas Parkland Shooting Lawsuit (Fontaine v. Jones)"
+  },
+  {
+    "oldid": 3706,
+    "slug": "Texas_Sandy_Hook_Lawsuit_(Heslin_v._Jones)",
+    "title": "Texas Sandy Hook Lawsuit (Heslin v. Jones)"
+  },
+  {
+    "oldid": 2418,
+    "slug": "Texas_TUFTA_Case",
+    "title": "Texas TUFTA Case"
+  },
+  {
+    "oldid": 557,
+    "slug": "The_Alex_Jones_Show",
+    "title": "The Alex Jones Show"
+  },
+  {
+    "oldid": 3663,
+    "slug": "The_Club_Of_Rome",
+    "title": "The Club Of Rome"
+  },
+  {
+    "oldid": 463,
+    "slug": "The_Globalists",
+    "title": "The Globalists"
+  },
+  {
     "oldid": null,
     "slug": "The_Halloween_Story",
     "title": "The Halloween Story"
   },
   {
-    "oldid": null,
+    "oldid": 2420,
+    "slug": "The_Protocols_of_the_Elders_of_Zion",
+    "title": "The Protocols of the Elders of Zion"
+  },
+  {
+    "oldid": 2421,
+    "slug": "The_Sandy_Hook_Elementary_Massacre",
+    "title": "The Sandy Hook Elementary Massacre"
+  },
+  {
+    "oldid": 3512,
+    "slug": "Tim_Cook",
+    "title": "Tim Cook"
+  },
+  {
+    "oldid": 3511,
+    "slug": "Tim_Cooke",
+    "title": "Tim Cooke"
+  },
+  {
+    "oldid": 2508,
+    "slug": "Tommy_Robinson",
+    "title": "Tommy Robinson"
+  },
+  {
+    "oldid": 3533,
+    "slug": "Tony_Blair",
+    "title": "Tony Blair"
+  },
+  {
+    "oldid": 3788,
     "slug": "Transcript{{FORWARD_SLASH}}10{{COLON}}_February_6,_2017",
     "title": "Transcript/10: February 6, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3789,
     "slug": "Transcript{{FORWARD_SLASH}}11{{COLON}}_February_10,_2017",
     "title": "Transcript/11: February 10, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3790,
     "slug": "Transcript{{FORWARD_SLASH}}12{{COLON}}_Jon_Rappoport",
     "title": "Transcript/12: Jon Rappoport"
   },
   {
-    "oldid": null,
+    "oldid": 3791,
     "slug": "Transcript{{FORWARD_SLASH}}13{{COLON}}_February_14,_2017",
     "title": "Transcript/13: February 14, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3773,
     "slug": "Transcript{{FORWARD_SLASH}}14{{COLON}}_February_17,_2017",
     "title": "Transcript/14: February 17, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3792,
     "slug": "Transcript{{FORWARD_SLASH}}15{{COLON}}_February_20-21,_2017",
     "title": "Transcript/15: February 20-21, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3793,
     "slug": "Transcript{{FORWARD_SLASH}}16{{COLON}}_February_24,_2017",
     "title": "Transcript/16: February 24, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3794,
     "slug": "Transcript{{FORWARD_SLASH}}17{{COLON}}_February_7,_2017",
     "title": "Transcript/17: February 7, 2017"
   },
@@ -3760,17 +5170,17 @@
     "title": "Transcript/18: March 1, 2017/Super Bowl Bonus"
   },
   {
-    "oldid": null,
+    "oldid": 3795,
     "slug": "Transcript{{FORWARD_SLASH}}19{{COLON}}_March_3,_2017",
     "title": "Transcript/19: March 3, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3774,
     "slug": "Transcript{{FORWARD_SLASH}}1{{COLON}}_January_2,_2017",
     "title": "Transcript/1: January 2, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3796,
     "slug": "Transcript{{FORWARD_SLASH}}20{{COLON}}_March_6_&_Celebrity_Cameos",
     "title": "Transcript/20: March 6 & Celebrity Cameos"
   },
@@ -3780,7 +5190,7 @@
     "title": "Transcript/279: Formulaic Objections"
   },
   {
-    "oldid": null,
+    "oldid": 3775,
     "slug": "Transcript{{FORWARD_SLASH}}2{{COLON}}_December_31,_1999_(Y2K)",
     "title": "Transcript/2: December 31, 1999 (Y2K)"
   },
@@ -3790,7 +5200,7 @@
     "title": "Transcript/378: Formulaic Objections Part 2"
   },
   {
-    "oldid": null,
+    "oldid": 3776,
     "slug": "Transcript{{FORWARD_SLASH}}3{{COLON}}_The_Secret_of_2017",
     "title": "Transcript/3: The Secret of 2017"
   },
@@ -3800,12 +5210,12 @@
     "title": "Transcript/401: Formulaic Objections Part 3"
   },
   {
-    "oldid": null,
+    "oldid": 3777,
     "slug": "Transcript{{FORWARD_SLASH}}4{{COLON}}_Research_and_Stand_Up",
     "title": "Transcript/4: Research and Stand Up"
   },
   {
-    "oldid": null,
+    "oldid": 3778,
     "slug": "Transcript{{FORWARD_SLASH}}5{{COLON}}_January_19,_2017",
     "title": "Transcript/5: January 19, 2017"
   },
@@ -3830,7 +5240,7 @@
     "title": "Transcript/685: Formulaic Objections Part 7"
   },
   {
-    "oldid": null,
+    "oldid": 3779,
     "slug": "Transcript{{FORWARD_SLASH}}6{{COLON}}_Inauguration_Speech_Recap",
     "title": "Transcript/6: Inauguration Speech Recap"
   },
@@ -3850,68 +5260,123 @@
     "title": "Transcript/715: Trial Recap, Part 2"
   },
   {
-    "oldid": null,
+    "oldid": 3797,
     "slug": "Transcript{{FORWARD_SLASH}}720{{COLON}}_August_6,_2003",
     "title": "Transcript/720: August 6, 2003"
   },
   {
-    "oldid": null,
+    "oldid": 3798,
     "slug": "Transcript{{FORWARD_SLASH}}721{{COLON}}_September_2,_2022",
     "title": "Transcript/721: September 2, 2022"
   },
   {
-    "oldid": null,
+    "oldid": 3799,
     "slug": "Transcript{{FORWARD_SLASH}}722{{COLON}}_Space_Capitalism_Is_Still_Capitalism",
     "title": "Transcript/722: Space Capitalism Is Still Capitalism"
   },
   {
-    "oldid": null,
+    "oldid": 3800,
     "slug": "Transcript{{FORWARD_SLASH}}723{{COLON}}_September_8,_2022",
     "title": "Transcript/723: September 8, 2022"
   },
   {
-    "oldid": null,
+    "oldid": 3801,
     "slug": "Transcript{{FORWARD_SLASH}}724{{COLON}}_August_7-11,_2003",
     "title": "Transcript/724: August 7-11, 2003"
   },
   {
-    "oldid": null,
+    "oldid": 3802,
     "slug": "Transcript{{FORWARD_SLASH}}725{{COLON}}_September_13-14,_2022",
     "title": "Transcript/725: September 13-14, 2022"
   },
   {
-    "oldid": null,
+    "oldid": 3780,
     "slug": "Transcript{{FORWARD_SLASH}}726{{COLON}}_September_15-16,_2022",
     "title": "Transcript/726: September 15-16, 2022"
   },
   {
-    "oldid": null,
+    "oldid": 3781,
     "slug": "Transcript{{FORWARD_SLASH}}727{{COLON}}_Chatting_with_Sebastian_Murdock",
     "title": "Transcript/727: Chatting with Sebastian Murdock"
   },
   {
-    "oldid": null,
+    "oldid": 3782,
     "slug": "Transcript{{FORWARD_SLASH}}728{{COLON}}_Elizabeth_Williamson_Returns_Once_More",
     "title": "Transcript/728: Elizabeth Williamson Returns Once More"
   },
   {
-    "oldid": null,
+    "oldid": 3783,
     "slug": "Transcript{{FORWARD_SLASH}}7{{COLON}}_January_23-24,_2017",
     "title": "Transcript/7: January 23-24, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3784,
     "slug": "Transcript{{FORWARD_SLASH}}8{{COLON}}_January_26-27,_2017",
     "title": "Transcript/8: January 26-27, 2017"
   },
   {
-    "oldid": null,
+    "oldid": 3785,
     "slug": "Transcript{{FORWARD_SLASH}}9{{COLON}}_Joe_Rogan_Appearance",
     "title": "Transcript/9: Joe Rogan Appearance"
+  },
+  {
+    "oldid": 2573,
+    "slug": "Trump",
+    "title": "Trump"
+  },
+  {
+    "oldid": 2440,
+    "slug": "Tyler_Snodgrass",
+    "title": "Tyler Snodgrass"
+  },
+  {
+    "oldid": 2641,
+    "slug": "Vladimir_Putin",
+    "title": "Vladimir Putin"
+  },
+  {
+    "oldid": 3815,
+    "slug": "W._Cleon_Skousen",
+    "title": "W. Cleon Skousen"
+  },
+  {
+    "oldid": 2449,
+    "slug": "Wayne_Madsen",
+    "title": "Wayne Madsen"
   },
   {
     "oldid": null,
     "slug": "We'll_Be_Back_On_Monday",
     "title": "We'll Be Back On Monday"
+  },
+  {
+    "oldid": 3816,
+    "slug": "Webster_Tarpley",
+    "title": "Webster Tarpley"
+  },
+  {
+    "oldid": 3664,
+    "slug": "Why_The_Future_Doesn't_Need_Us",
+    "title": "Why The Future Doesn't Need Us"
+  },
+  {
+    "oldid": 2678,
+    "slug": "William_Barr",
+    "title": "William Barr"
+  },
+  {
+    "oldid": 2702,
+    "slug": "Winston_Churchill",
+    "title": "Winston Churchill"
+  },
+  {
+    "oldid": 257,
+    "slug": "Y2K",
+    "title": "Y2K"
+  },
+  {
+    "oldid": 3737,
+    "slug": "Zach_from_Space_Command",
+    "title": "Zach from Space Command"
   }
 ]
