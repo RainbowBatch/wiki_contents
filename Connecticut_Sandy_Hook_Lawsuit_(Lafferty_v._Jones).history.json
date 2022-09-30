@@ -1,5 +1,215 @@
 [
   {
+    "oldid": 3889,
+    "summary": "Add rest of witnesses for the 29th.",
+    "time": {
+      "date": 1664409600000,
+      "day": 29,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 0,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3888,
+    "summary": "Add donna soto (I'm behind on stream, but MoString says she's on the stand now.",
+    "time": {
+      "date": 1664409600000,
+      "day": 29,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 23,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3887,
+    "summary": "Add Matthew Soto.",
+    "time": {
+      "date": 1664409600000,
+      "day": 29,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 40,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3886,
+    "summary": "Add Rob Dew's video depo.",
+    "time": {
+      "date": 1664409600000,
+      "day": 29,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 56,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3885,
+    "summary": "",
+    "time": {
+      "date": 1664409600000,
+      "day": 29,
+      "hour": 15,
+      "microsecond": 0,
+      "month": 9,
+      "second": 41,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3884,
+    "summary": "",
+    "time": {
+      "date": 1664323200000,
+      "day": 28,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 9,
+      "second": 49,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3883,
+    "summary": "Alissa Parker is not a plaintiff.",
+    "time": {
+      "date": 1664323200000,
+      "day": 28,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 9,
+      "second": 44,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3882,
+    "summary": "Add witnesses for the 28th",
+    "time": {
+      "date": 1664323200000,
+      "day": 28,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 9,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3881,
+    "summary": "Add family member witness.",
+    "time": {
+      "date": 1664236800000,
+      "day": 27,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 9,
+      "second": 16,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3880,
+    "summary": "Add Josh Owens",
+    "time": {
+      "date": 1664236800000,
+      "day": 27,
+      "hour": 18,
+      "microsecond": 0,
+      "month": 9,
+      "second": 23,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3879,
+    "summary": "Add Nicole",
+    "time": {
+      "date": 1664236800000,
+      "day": 27,
+      "hour": 17,
+      "microsecond": 0,
+      "month": 9,
+      "second": 28,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3878,
+    "summary": "Add Rob Jacobson's depo.",
+    "time": {
+      "date": 1664236800000,
+      "day": 27,
+      "hour": 17,
+      "microsecond": 0,
+      "month": 9,
+      "second": 29,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3877,
+    "summary": "Add Nico's deposition.",
+    "time": {
+      "date": 1664236800000,
+      "day": 27,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 8,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3876,
+    "summary": "Add Ian Hockley entry.",
+    "time": {
+      "date": 1664236800000,
+      "day": 27,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 9,
+      "second": 20,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 3698,
     "summary": "Add witnesses for the past couple days.",
     "time": {
