@@ -1420,7 +1420,7 @@
     "title": "348: September 24-25, 2019"
   },
   {
-    "oldid": 3806,
+    "oldid": 3868,
     "slug": "349{{COLON}}_April_15-16,_2013",
     "title": "349: April 15-16, 2013"
   },
@@ -3485,7 +3485,7 @@
     "title": "718: August 21-22, 2022"
   },
   {
-    "oldid": 3537,
+    "oldid": 3869,
     "slug": "719{{COLON}}_August_19,_2022",
     "title": "719: August 19, 2022"
   },
@@ -3525,22 +3525,22 @@
     "title": "725: September 13-14, 2022"
   },
   {
-    "oldid": 3702,
+    "oldid": 3870,
     "slug": "726{{COLON}}_September_15-16,_2022",
     "title": "726: September 15-16, 2022"
   },
   {
-    "oldid": 3703,
+    "oldid": 3871,
     "slug": "727{{COLON}}_Chatting_with_Sebastian_Murdock",
     "title": "727: Chatting with Sebastian Murdock"
   },
   {
-    "oldid": 3865,
+    "oldid": 3872,
     "slug": "728{{COLON}}_Elizabeth_Williamson_Returns_Once_More",
     "title": "728: Elizabeth Williamson Returns Once More"
   },
   {
-    "oldid": 3866,
+    "oldid": 3873,
     "slug": "729{{COLON}}_September_24,_2022",
     "title": "729: September 24, 2022"
   },
@@ -3550,7 +3550,11 @@
     "title": "72: August 9, 2017"
   },
   {
+<<<<<<< HEAD
     "oldid": null,
+=======
+    "oldid": 3890,
+>>>>>>> latest_edits
     "slug": "730{{COLON}}_August_12,_2003",
     "title": "730: August 12, 2003"
   },
@@ -4045,7 +4049,7 @@
     "title": "Colin Kaepernick"
   },
   {
-    "oldid": 3698,
+    "oldid": 3889,
     "slug": "Connecticut_Sandy_Hook_Lawsuit_(Lafferty_v._Jones)",
     "title": "Connecticut Sandy Hook Lawsuit (Lafferty v. Jones)"
   },
@@ -4645,7 +4649,7 @@
     "title": "Lester Holt"
   },
   {
-    "oldid": 3867,
+    "oldid": 3874,
     "slug": "List_of_Knowledge_Fight_episodes",
     "title": "List of Knowledge Fight episodes"
   },
@@ -5310,7 +5314,11 @@
     "title": "Transcript/728: Elizabeth Williamson Returns Once More"
   },
   {
+<<<<<<< HEAD
     "oldid": null,
+=======
+    "oldid": 3875,
+>>>>>>> latest_edits
     "slug": "Transcript{{FORWARD_SLASH}}729{{COLON}}_September_24,_2022",
     "title": "Transcript/729: September 24, 2022"
   },
