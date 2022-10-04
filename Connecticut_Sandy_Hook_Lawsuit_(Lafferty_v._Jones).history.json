@@ -1,5 +1,65 @@
 [
   {
+    "oldid": 3936,
+    "summary": "",
+    "time": {
+      "date": 1664841600000,
+      "day": 4,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 10,
+      "second": 3,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3935,
+    "summary": "",
+    "time": {
+      "date": 1664841600000,
+      "day": 4,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 10,
+      "second": 28,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3934,
+    "summary": "Add deposition video for Fruge.",
+    "time": {
+      "date": 1664841600000,
+      "day": 4,
+      "hour": 15,
+      "microsecond": 0,
+      "month": 10,
+      "second": 51,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 3930,
+    "summary": "Add first witness from the 4th",
+    "time": {
+      "date": 1664841600000,
+      "day": 4,
+      "hour": 14,
+      "microsecond": 0,
+      "month": 10,
+      "second": 34,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 3889,
     "summary": "Add rest of witnesses for the 29th.",
     "time": {
