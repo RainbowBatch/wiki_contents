@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 3998,
+    "summary": "RainbowBatch update",
+    "time": {
+      "date": 1665360000000,
+      "day": 10,
+      "hour": 4,
+      "microsecond": 0,
+      "month": 10,
+      "second": 53,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "RainbowBatch"
+  },
+  {
     "oldid": 3946,
     "summary": "Manually fix a merge error. Oof.",
     "time": {
