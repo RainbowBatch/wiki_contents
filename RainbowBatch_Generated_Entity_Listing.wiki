@@ -1,0 +1,33 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+This page is under construction, check back soon.
+
+==12th District [Draft Sample]==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*"12th District"
+
+|-
+|'''Sources:'''
+|
+
+*AutoSub transcript for [[404: Mr. Jones Goes To CPAC]]
+*AutoSub transcript for [[406: March 1-4, 2020]]
+*AutoSub transcript for [[480: September 9-10, 2020]]
+
+|}
