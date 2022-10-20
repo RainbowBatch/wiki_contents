@@ -1,0 +1,511 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==Yacht Rock==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Yacht Rock'
+
+|-
+|'''Sources:'''
+|
+
+*[[163: January 27-29, 2009]] (via AutoSub)
+*[[374: November 25, 2019]] (via AutoSub)
+*[[The Halloween Story]] (via AutoSub)
+
+|}
+
+==Yakety Sax==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Yakety Sax'
+
+|-
+|'''Sources:'''
+|
+
+*[[441: June 3-4, 2020]] (via AutoSub)
+*[[97: October 25, 2017]] (via AutoSub)
+
+|}
+
+==Yakov Smirnoff==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Yakov Smirnoff'
+
+|-
+|'''Sources:'''
+|
+
+*[[106: Drunk Special Report]] (via AutoSub)
+*[[151: April 16, 2018]] (via AutoSub)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+
+|}
+
+==Yakuza Zero==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Yakuza Zero'
+
+|-
+|'''Sources:'''
+|
+
+*[[719: August 19, 2022]] (via Welder)
+
+|}
+
+==Yale Law School==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Yale Law School'
+
+|-
+|'''Sources:'''
+|
+
+*[[384: January 3, 2020]] (via AutoSub)
+*[[662: March 22, 2022]] (via Wiki Page)
+
+|}
+
+==Yasso Alex==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Yasso Alex'
+*"Yasso Alex's"
+
+|-
+|'''Sources:'''
+|
+
+*[[555: May 7, 2003]] (via AutoSub)
+*[[613: June 24-25, 2003]] (via AutoSub)
+*[[631: December 20, 2021]] (via AutoSub)
+
+|}
+
+==Yellow Jackets==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Yellow Jackets'
+
+|-
+|'''Sources:'''
+|
+
+*[[715: Trial Recap, Part 2]] (via Welder, otter.ai)
+
+|}
+
+==Yellow Pages==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Yellow Pages'
+
+|-
+|'''Sources:'''
+|
+
+*[[176: June 28, 2018]] (via AutoSub)
+*[[280: Raptor Weddings and Sardinian Spiders]] (via AutoSub)
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub)
+
+|}
+
+==Yellowstone==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Yellowstone'
+
+|-
+|'''Sources:'''
+|
+
+*[[167: February 4-5, 2009]] (via AutoSub)
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+*[[701: June 23, 2004]] (via AutoSub)
+
+|}
+
+==York Times==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'York Times'
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via otter.ai)
+*[[15: February 20-21, 2017]] (via otter.ai)
+*[[541: March 17-18, 2021]] (via AutoSub)
+*[[621: Reset Wars: Episode 1]] (via AutoSub)
+
+|}
+
+==Yosemite Sam==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Yosemite Sam'
+*'Yosemite Sam\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via AutoSub, Wiki Page)
+*[[11: February 10, 2017]] (via otter.ai)
+*[[128: March 3, 2015]] (via AutoSub)
+*[[310: June 13-14, 2019]] (via otter.ai)
+*[[357: October 16, 2019]] (via Wiki Page)
+
+|}
+
+==Young Turk==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Young Turk\n\n'
+*'the Young Turk'
+
+|-
+|'''Sources:'''
+|
+
+*[[345: September 19, 2019]] (via AutoSub)
+*[[672: April 18, 2022]] (via AutoSub)
+
+|}
+
+==Young Turks==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, ORG, PERSON
+|-
+|'''Total Count:'''
+|32
+|-
+|'''Source Texts:'''
+|
+
+*'The Young Turks'
+*'The Young Turks\n\n'
+*'Young Turks'
+*'the Young Turks'
+
+|-
+|'''Sources:'''
+|
+
+*[[115: January 2, 2018]] (via AutoSub, Wiki Page)
+*[[117: January 8, 2018]] (via AutoSub, Wiki Page)
+*[[118: January 10-11, 2018]] (via AutoSub)
+*[[13: February 14, 2017]] (via otter.ai)
+*[[269: December 19, 2012]] (via AutoSub)
+*[[333: August 16, 2019]] (via AutoSub)
+*[[345: September 19, 2019]] (via AutoSub)
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[460: Donk's Dojo]] (via AutoSub)
+*[[498: November 7, 2016]] (via AutoSub)
+*[[541: March 17-18, 2021]] (via AutoSub)
+*[[712: The Decompression Session]] (via otter.ai)
+*[[72: August 9, 2017]] (via AutoSub)
+*[[729: September 24, 2022]] (via AutoSub, Wiki Page, otter.ai)
+
+|}
+
+==Youngevity==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Youngevity'
+
+|-
+|'''Sources:'''
+|
+
+*InfoWars (via Wiki Page)
+*[[331: March 13-14, 2013]] (via Wiki Page)
+
+|}
+
+==YouTube Channel==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'YouTube Channel'
+
+|-
+|'''Sources:'''
+|
+
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[291: Feline Contessas And Canine Capitalists]] (via Wiki Page)
+*[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub)
+
+|}
+
+==YouTube Justice==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'YouTube Justice'
+
+|-
+|'''Sources:'''
+|
+
+*25(Repost) (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==YouTube YouTube==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'YouTube YouTube'
+
+|-
+|'''Sources:'''
+|
+
+*[[305: February 1, 2013]] (via AutoSub)
+*[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub)
+*[[438: May 26-28, 2020]] (via AutoSub)
+
+|}
+
+==Yugoslavia==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Yugoslavia'
+
+|-
+|'''Sources:'''
+|
+
+*[[146: April 4, 2018]] (via AutoSub)
+*[[340: All About Steve]] (via AutoSub)
+*[[544: May 1, 2003]] (via AutoSub)
+
+|}
+
+==Yuval Noah==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, FAC, ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Yuval Noah'
+
+|-
+|'''Sources:'''
+|
+
+*[[635: January 6-7, 2022]] (via AutoSub, Wiki Page)
+*[[676: April 29, 2022]] (via AutoSub)
+
+|}

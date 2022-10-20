@@ -1,0 +1,90 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==5th Amendment==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW
+|-
+|'''Total Count:'''
+|15
+|-
+|'''Source Texts:'''
+|
+
+*'Fifth Amendment'
+*'The Fifth Amendment\n\n'
+*'the Fifth Amendment'
+
+|-
+|'''Sources:'''
+|
+
+*[[25: Dennis Montgomery Investigation]] (via AutoSub)
+*[[257: January 25, 2019]] (via AutoSub)
+*[[630: Mr. Jones Goes to Washington (To Sue Congress)]] (via AutoSub)
+*[[642: January 24, 2022]] (via AutoSub)
+*[[714: Trial Recap, Part 1]] (via otter.ai)
+*[[715: Trial Recap, Part 2]] (via AutoSub, otter.ai)
+*[[732: Trial Press Conference]] (via otter.ai)
+
+|}
+
+==5th Avenue==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'5th Avenue'
+*'Fifth Avenue'
+
+|-
+|'''Sources:'''
+|
+
+*[[334: August 21-22, 2019]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub)
+*[[545: March 30-31, 2021]] (via AutoSub)
+*[[734: October 9, 2022]] (via otter.ai)
+
+|}
+
+==5th District==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC, FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'5th District'
+
+|-
+|'''Sources:'''
+|
+
+*[[580: July 20-21, 2021]] (via AutoSub)
+*[[653: February 25, 2022]] (via AutoSub)
+
+|}

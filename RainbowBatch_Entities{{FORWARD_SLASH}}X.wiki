@@ -1,0 +1,34 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==Xi Jinping==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Xi\r\n    Jinping'
+*'Xi Jinping'
+
+|-
+|'''Sources:'''
+|
+
+*[[141: March 20-22, 2018]] (via Wiki Page)
+*[[421: April 16, 2020]] (via Wiki Page)
+*[[430: May 5-7, 2020]] (via Wiki Page)
+*[[439: May 29-31, 2020]] (via Wiki Page)
+*[[492: October 13, 2020]] (via Wiki Page)
+
+|}
