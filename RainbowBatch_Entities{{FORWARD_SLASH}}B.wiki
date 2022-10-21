@@ -1,0 +1,10826 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==Baba Booey==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Baba Booey'
+
+|-
+|'''Sources:'''
+|
+
+*[[4: Research and Stand Up]] (via AutoSub)
+*[[48: May 31, 2017]] (via AutoSub)
+
+|}
+
+==Baba O'Riley==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*"Baba O'Riley"
+
+|-
+|'''Sources:'''
+|
+
+*[[255: September 25, 2011]] (via AutoSub)
+*[[719: August 19, 2022]] (via AutoSub)
+
+|}
+
+==Bababababa==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bababababa'
+
+|-
+|'''Sources:'''
+|
+
+*[[103: January 17, 2016]] (via AutoSub)
+*[[27: March 31, 2017]] (via AutoSub)
+*[[471: August 14-16, 2020]] (via AutoSub)
+*[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
+
+|}
+
+==Baby Boomers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Baby Boomers'
+
+|-
+|'''Sources:'''
+|
+
+*[[176: June 28, 2018]] (via AutoSub)
+*[[236: December 4-5, 2018]] (via AutoSub)
+
+|}
+
+==Babylonian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Babylonian'
+
+|-
+|'''Sources:'''
+|
+
+*[[124: March 23, 2008]] (via AutoSub)
+*[[381: Making It Big With Silent Weapons]] (via Wiki Page)
+
+|}
+
+==Bachelor of Arts==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bachelor of Arts'
+*'a Bachelor of Arts'
+
+|-
+|'''Sources:'''
+|
+
+*[[212: Matrix Schemes and Billions In Liens]] (via AutoSub)
+*[[298: January 20-23, 2013]] (via AutoSub)
+*[[301: January 24-28, 2013]] (via AutoSub)
+
+|}
+
+==Bachelor Squatch==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bachelor Squatch'
+*'The Bachelor Squatch'
+
+|-
+|'''Sources:'''
+|
+
+*[[719: August 19, 2022]] (via AutoSub)
+*[[722: Space Capitalism Is Still Capitalism]] (via Wiki Page)
+
+|}
+
+==Bachelorette==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bachelorette'
+
+|-
+|'''Sources:'''
+|
+
+*[[179: July 10, 2018]] (via AutoSub)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub)
+
+|}
+
+==Background==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE, FAC
+|-
+|'''Total Count:'''
+|39
+|-
+|'''Source Texts:'''
+|
+
+*'Background'
+
+|-
+|'''Sources:'''
+|
+
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via Wiki Page)
+*[[161: May 14, 2018]] (via AutoSub)
+*[[162: May 19, 2018]] (via Wiki Page)
+*[[176: June 28, 2018]] (via AutoSub)
+*[[205: September 13, 2018]] (via Wiki Page)
+*[[215: March 11-12, 2009]] (via Wiki Page)
+*[[230B: Obama Deception, Part 2]] (via Wiki Page)
+*[[231: March 24, 2009]] (via Wiki Page)
+*[[293: May 2-3, 2019]] (via Wiki Page)
+*[[296: May 8, 2019]] (via AutoSub)
+*[[305: February 1, 2013]] (via Wiki Page)
+*[[307: February 3-5, 2013]] (via Wiki Page)
+*[[314: February 14-15, 2013]] (via Wiki Page)
+*[[315: February 17-18, 2013]] (via Wiki Page)
+*[[318: July 5, 2019]] (via Wiki Page)
+*[[352: April 17, 2013]] (via Wiki Page)
+*[[359: It's All Legs]] (via Wiki Page)
+*[[381: Making It Big With Silent Weapons]] (via Wiki Page)
+*[[388: January 12-13, 2020]] (via AutoSub)
+*[[405: Root Races and Terminated Spiders]] (via Wiki Page)
+*[[463: July 28-30, 2020]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via Wiki Page)
+*[[501: November 7-8, 2020]] (via AutoSub)
+*[[505: November 18, 2020]] (via Wiki Page)
+*[[538: March 2, 2021]] (via Wiki Page)
+*[[539: March 10, 2021]] (via Wiki Page)
+*[[541: March 17-18, 2021]] (via Wiki Page)
+*[[545: March 30-31, 2021]] (via AutoSub)
+*[[560: May 12-13, 2003]] (via Wiki Page)
+*[[589: August 18-20, 2021]] (via Wiki Page)
+*[[613: June 24-25, 2003]] (via Wiki Page)
+*[[641: Formulaic Objections Part 4]] (via AutoSub)
+*[[644: February 2, 2022]] (via Wiki Page)
+*[[699: July 4-5, 2022]] (via AutoSub)
+*[[74: October 4-6, 2015]] (via AutoSub)
+*[[86: September 22, 2017]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub)
+
+|}
+
+==baden baden germany==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Baden-Baden Germany'
+
+|-
+|'''Sources:'''
+|
+
+*[[130E: Endgame, Part 5]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+
+|}
+
+==Bader Ginsburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bader Ginsburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[484: September 18-19, 2020]] (via AutoSub)
+
+|}
+
+==Bai Coconut Lime==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bai                   Coconut Lime                       '
+*'Bai Coconut Lime'
+
+|-
+|'''Sources:'''
+|
+
+*The Year of the Seltzer (via Wiki Page)
+*[[426: April 27-28, 2020]] (via Wiki Page)
+
+|}
+
+==Baker Hughes==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Baker Hughes'
+
+|-
+|'''Sources:'''
+|
+
+*[[199: August 29, 2018]] (via AutoSub)
+*[[212: Matrix Schemes and Billions In Liens]] (via AutoSub)
+
+|}
+
+==Bakersfield==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|13
+|-
+|'''Source Texts:'''
+|
+
+*'Bakersfield'
+
+|-
+|'''Sources:'''
+|
+
+*[[11: February 10, 2017]] (via AutoSub, otter.ai)
+*[[177: Sweary Kerry and the Racist Alien]] (via AutoSub)
+*[[189: February 19-20, 2009]] (via AutoSub)
+*[[257: January 25, 2019]] (via AutoSub)
+*[[289: January 10-13, 2013]] (via AutoSub, Wiki Page)
+*[[40: May 10, 2017]] (via AutoSub)
+*[[428: May 1, 2020]] (via AutoSub)
+*[[444: June 11, 2020]] (via AutoSub)
+
+|}
+
+==Bali Island==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bali Island'
+
+|-
+|'''Sources:'''
+|
+
+*[[720: August 6, 2003]] (via Welder)
+
+|}
+
+==Baltimore Sun==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Baltimore Sun'
+*'The Baltimore Sun\n\n'
+*'the Baltimore Sun'
+
+|-
+|'''Sources:'''
+|
+
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[704: 9/11, Part 2]] (via AutoSub)
+*[[730: August 12, 2003]] (via otter.ai)
+
+|}
+
+==Bamboozled==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bamboozled'
+
+|-
+|'''Sources:'''
+|
+
+*[[391: January 22, 2020]] (via AutoSub)
+*[[518: January 7-8, 2021]] (via AutoSub)
+
+|}
+
+==Bang the Drum==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bang the Drum'
+
+|-
+|'''Sources:'''
+|
+
+*[[294: January 15-16, 2013]] (via AutoSub)
+*[[639: January 17, 2022]] (via AutoSub)
+
+|}
+
+==Bangladesh==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Bangladesh'
+
+|-
+|'''Sources:'''
+|
+
+*[[108: November 30, 2017]] (via AutoSub)
+*[[193: Big Skeletons and Pencil Ink]] (via AutoSub)
+*[[406: March 1-4, 2020]] (via AutoSub)
+*[[522: January 14-17, 2021]] (via AutoSub)
+*[[618: November 15, 2021]] (via AutoSub)
+
+|}
+
+==Bank of America==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|23
+|-
+|'''Source Texts:'''
+|
+
+*'Bank of America'
+*'Bank of America\n\n'
+*"Bank of America's"
+*'the Bank of America'
+
+|-
+|'''Sources:'''
+|
+
+*[[128: March 3, 2015]] (via AutoSub)
+*[[186: February 17-18, 2009]] (via AutoSub)
+*[[19: March 3, 2017]] (via AutoSub, otter.ai)
+*[[203: March 2-4, 2009]] (via AutoSub)
+*[[230C: Obama Deception, Part 3]] (via AutoSub)
+*[[280: Raptor Weddings and Sardinian Spiders]] (via AutoSub)
+*[[304: May 30-31, 2019]] (via AutoSub)
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[402: February 20, 2020]] (via AutoSub, Wiki Page)
+*[[518: January 7-8, 2021]] (via AutoSub)
+*[[684: May 20, 2022]] (via AutoSub)
+
+|}
+
+==Bank of the world==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bank of the world'
+
+|-
+|'''Sources:'''
+|
+
+*[[230E: Obama Deception, Part 5]] (via AutoSub)
+*[[636: April 27, 2009]] (via AutoSub)
+
+|}
+
+==Baptist Church==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Baptist Church'
+
+|-
+|'''Sources:'''
+|
+
+*[[223: A Progressive Space Diplomat]] (via AutoSub)
+*[[411: Jordan Takes The Wheel 3]] (via AutoSub)
+*[[503: Dan's Cara-Vanity Project Part 2]] (via AutoSub)
+
+|}
+
+==Barack Hussein Obama==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Barack Hussein Obama'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[232: Reverend Manning]] (via AutoSub)
+*[[46: June 18, 2015]] (via AutoSub)
+*[[537: July 16-18, 2010]] (via AutoSub)
+*[[662: March 22, 2022]] (via AutoSub)
+*[[89: December 31, 2015]] (via AutoSub)
+
+|}
+
+==Barack Obama==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG, FAC, GPE
+|-
+|'''Total Count:'''
+|933
+|-
+|'''Source Texts:'''
+|
+
+*'Barack Obama'
+*"Barack Obama's"
+*'Obama'
+*'Obama\n\n'
+*'Obama\r\n'
+*'Obama\r\n    '
+*'Obama\r\n-'
+*'Obama\r\n-   '
+*"Obama's"
+*"Obama's\n\n"
+
+|-
+|'''Sources:'''
+|
+
+*"Mandatory Service Bill" (via Wiki Page)
+*Larry Nichols (via Wiki Page)
+*Mark Bailen (via Wiki Page)
+*Mark Dice (via Wiki Page)
+*Mike Adams (via Wiki Page)
+*Satan (via Wiki Page)
+*Ted Nugent (via Wiki Page)
+*Webster Tarpley (via Wiki Page)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[100: January 6-7, 2016]] (via AutoSub, Wiki Page)
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[103: January 17, 2016]] (via AutoSub)
+*[[105: March 18, 2014]] (via AutoSub)
+*[[107: December 12, 2014]] (via AutoSub)
+*[[11: February 10, 2017]] (via otter.ai)
+*[[110: December 5, 2017]] (via AutoSub)
+*[[111: January 21-22, 2016]] (via AutoSub)
+*[[113: February 21-23, 2014]] (via AutoSub, Wiki Page)
+*[[119: August 16, 2012]] (via AutoSub, Wiki Page)
+*[[12: Jon Rappoport]] (via otter.ai)
+*[[122 LIVE: March 1-2, 2012]] (via AutoSub, Wiki Page)
+*[[123: March 18, 2008]] (via AutoSub)
+*[[126: February 2, 2018 (Special Report)]] (via AutoSub)
+*[[128: March 3, 2015]] (via AutoSub, Wiki Page)
+*[[13: February 14, 2017]] (via AutoSub, otter.ai)
+*[[130C: Endgame, Part 3]] (via AutoSub)
+*[[134: Post-Tribulation Rapture?]] (via AutoSub)
+*[[136: March 30-31, 2008]] (via AutoSub)
+*[[138: March 13-15, 2018]] (via AutoSub)
+*[[14: February 17, 2017]] (via AutoSub, otter.ai)
+*[[141: March 20-22, 2018]] (via AutoSub, Wiki Page)
+*[[142: March 23, 2018]] (via AutoSub)
+*[[143: March 25-31 Part 1]] (via Wiki Page)
+*[[145: April 2, 2018]] (via AutoSub)
+*[[146: April 4, 2018]] (via Wiki Page)
+*[[148: June 1-3, 2009]] (via AutoSub, Wiki Page)
+*[[149: The Press Conference]] (via AutoSub)
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
+*[[152: April 18, 2018]] (via AutoSub)
+*[[154: April 23, 2018]] (via AutoSub)
+*[[155: January 7-9, 2009]] (via AutoSub, Wiki Page)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[158: January 21, 2009]] (via AutoSub, Wiki Page)
+*[[159: Mantids and Chakra Attacks]] (via AutoSub)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai)
+*[[160: January 22-25, 2009]] (via AutoSub, Wiki Page)
+*[[161: May 14, 2018]] (via AutoSub)
+*[[163: January 27-29, 2009]] (via AutoSub, Wiki Page)
+*[[166: February 2-3, 2009]] (via AutoSub, Wiki Page)
+*[[167: February 4-5, 2009]] (via AutoSub)
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub, Wiki Page)
+*[[169: November 30, 2014]] (via AutoSub)
+*[[17: February 7, 2017]] (via AutoSub, otter.ai)
+*[[172: June 11, 2013]] (via AutoSub)
+*[[173: February 6-10, 2009]] (via AutoSub)
+*[[176: June 28, 2018]] (via AutoSub)
+*[[179: July 10, 2018]] (via AutoSub)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
+*[[180: Heresy and God Kings]] (via AutoSub)
+*[[183: February 12-16, 2009]] (via AutoSub)
+*[[186: February 17-18, 2009]] (via AutoSub, Wiki Page)
+*[[188: August 1, 2018]] (via AutoSub)
+*[[189: February 19-20, 2009]] (via AutoSub)
+*[[19: March 3, 2017]] (via AutoSub, otter.ai)
+*[[195: August 17, 2018]] (via AutoSub)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[203: March 2-4, 2009]] (via AutoSub)
+*[[204: Sweary Kerry's Larry]] (via AutoSub)
+*[[210: March 9, 2009]] (via AutoSub)
+*[[211: March 10, 2009]] (via AutoSub)
+*[[214: Cruel Parallels]] (via AutoSub)
+*[[216: November 11, 2010]] (via AutoSub)
+*[[22: March 14, 2017]] (via Wiki Page)
+*[[220: October 23, 2018]] (via AutoSub)
+*[[221: October 24, 2018]] (via AutoSub)
+*[[222: March 15-19, 2009]] (via AutoSub, Wiki Page, otter.ai)
+*[[224: March 20, 2009]] (via AutoSub)
+*[[227: March 23, 2009]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via AutoSub, Wiki Page)
+*[[230B: Obama Deception, Part 2]] (via AutoSub, Wiki Page)
+*[[230C: Obama Deception, Part 3]] (via AutoSub, Wiki Page)
+*[[230D: Obama Deception, Part 4]] (via AutoSub)
+*[[230E: Obama Deception, Part 5]] (via AutoSub, Wiki Page)
+*[[231: March 24, 2009]] (via AutoSub, Wiki Page)
+*[[232: Reverend Manning]] (via AutoSub, Wiki Page)
+*[[233: November 28, 2018]] (via AutoSub)
+*[[238: Coach Dave]] (via AutoSub)
+*[[24: March 23, 2017]] (via AutoSub)
+*[[240: March 30-31, 2009]] (via AutoSub)
+*[[244: October 5, 2014]] (via AutoSub)
+*[[245: December 24, 2018]] (via AutoSub)
+*[[246: April 5-6, 2009]] (via AutoSub)
+*[[247: Lionel]] (via AutoSub)
+*[[248: January 2, 2019]] (via AutoSub)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, Wiki Page)
+*25(Repost) (via AutoSub)
+*[[251: January 8, 2019]] (via AutoSub, Wiki Page)
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[253: January 15, 2019]] (via AutoSub)
+*[[255: September 25, 2011]] (via AutoSub)
+*[[256: January 17-23, 2019]] (via AutoSub)
+*[[257: January 25, 2019]] (via AutoSub)
+*[[258: April 12-13, 2009]] (via AutoSub)
+*[[259: January 27-29, 2019]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[262: April 14, 2009]] (via AutoSub, Wiki Page)
+*[[263: Jordan Takes The Wheel]] (via AutoSub)
+*[[265: September 1, 2011]] (via AutoSub)
+*[[266: December 14, 2012]] (via Wiki Page)
+*[[267: December 16, 2012]] (via AutoSub)
+*[[268: December 17-18, 2012]] (via AutoSub)
+*[[269: December 19, 2012]] (via AutoSub)
+*[[27: March 31, 2017]] (via AutoSub)
+*[[272: December 20, 2012]] (via AutoSub)
+*[[273: March 5-6, 2019]] (via AutoSub)
+*[[275: December 23-31, 2012]] (via AutoSub)
+*[[276: January 1-2, 2013]] (via AutoSub)
+*[[278: January 3, 2013]] (via AutoSub, Wiki Page)
+*[[28: How Not To Cover Alex Jones]] (via AutoSub)
+*[[281: April 4, 2019]] (via AutoSub, Wiki Page)
+*[[283: January 4-6, 2013]] (via AutoSub)
+*[[289: January 10-13, 2013]] (via AutoSub)
+*[[290: April 25-26, 2019]] (via AutoSub)
+*[[292: January 14, 2013]] (via AutoSub)
+*[[294: January 15-16, 2013]] (via AutoSub)
+*[[295: Crossover With QAnon Anonymous]] (via AutoSub)
+*[[297: January 17-18, 2013]] (via AutoSub)
+*[[298: January 20-23, 2013]] (via AutoSub, Wiki Page)
+*[[3: The Secret of 2017]] (via AutoSub, otter.ai)
+*[[30: April 14, 2017]] (via AutoSub)
+*[[301: January 24-28, 2013]] (via AutoSub)
+*[[302: Discernment Overload]] (via AutoSub)
+*[[305: February 1, 2013]] (via AutoSub, Wiki Page)
+*[[307: February 3-5, 2013]] (via AutoSub)
+*[[308: February 6-8, 2013]] (via AutoSub)
+*[[310: June 13-14, 2019]] (via AutoSub, otter.ai)
+*[[313: June 23-24, 2019]] (via AutoSub)
+*[[314: February 14-15, 2013]] (via AutoSub)
+*[[315: February 17-18, 2013]] (via AutoSub, Wiki Page)
+*[[320: February 21-22, 2013]] (via AutoSub)
+*[[321: February 24-26, 2013]] (via AutoSub)
+*[[33: April 22, 2017]] (via AutoSub)
+*[[331: March 13-14, 2013]] (via AutoSub)
+*[[333: August 16, 2019]] (via AutoSub)
+*[[335: March 15-22, 2013]] (via Wiki Page)
+*[[336: March 24-26, 2013]] (via AutoSub)
+*[[339: March 29-April 1, 2013]] (via AutoSub)
+*[[340: All About Steve]] (via AutoSub)
+*[[343: April 3-8, 2013]] (via AutoSub, Wiki Page)
+*[[344: April 9-10, 2013]] (via AutoSub)
+*[[347: September 23, 2019]] (via AutoSub)
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[35: Custody Press Conference]] (via AutoSub)
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[353: Mark Richards Pt. 11]] (via AutoSub)
+*[[354: October 8-9, 2019]] (via AutoSub, Wiki Page)
+*[[355: April 18, 2013]] (via AutoSub)
+*[[356: October 11, 2019]] (via AutoSub)
+*[[358: October 18, 2019]] (via AutoSub)
+*[[36: June 29, 2015]] (via AutoSub)
+*[[362: There Is No Mermaid]] (via AutoSub)
+*[[363: October 30, 2019]] (via AutoSub)
+*[[364: April 21-22, 2013]] (via AutoSub)
+*[[365: She Doesn't Do Politics]] (via AutoSub)
+*[[366: November 5-6, 2019]] (via AutoSub)
+*[[369: November 13, 2019]] (via AutoSub)
+*[[37: May 1, 2017]] (via AutoSub)
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[373: April 24, 2013]] (via AutoSub)
+*[[377: December 6-10, 2019]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, Wiki Page)
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[383: December 31, 2019]] (via AutoSub)
+*[[384: January 3, 2020]] (via AutoSub)
+*[[385: January 6, 2020]] (via AutoSub)
+*[[386: January 8, 2020]] (via AutoSub)
+*[[387: May 13, 2014]] (via AutoSub)
+*[[388: January 12-13, 2020]] (via AutoSub)
+*[[389: January 15-17, 2020]] (via AutoSub, Wiki Page)
+*[[391: January 22, 2020]] (via AutoSub)
+*[[394: January 31, 2020]] (via AutoSub)
+*[[398: February 9-10, 2020]] (via AutoSub)
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai)
+*[[40: May 10, 2017]] (via AutoSub)
+*[[401: Formulaic Objections Part 3]] (via AutoSub, otter.ai)
+*[[402: February 20, 2020]] (via AutoSub)
+*[[407: March 5-10, 2020]] (via AutoSub, Wiki Page)
+*[[408: March 11-13, 2020]] (via AutoSub)
+*[[409: The Lionel Countdown]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[412: March 24-25, 2020]] (via AutoSub)
+*[[417: April 5, 2020]] (via AutoSub, Wiki Page)
+*[[424: April 21-22, 2020]] (via AutoSub)
+*[[425: April 23-24, 2020]] (via AutoSub)
+*[[429: May 3-4, 2020]] (via AutoSub)
+*[[430: May 5-7, 2020]] (via AutoSub)
+*[[433: May 12-13, 2020]] (via AutoSub)
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub)
+*[[439: May 29-31, 2020]] (via AutoSub)
+*[[44: May 22, 2017]] (via AutoSub)
+*[[441: June 3-4, 2020]] (via AutoSub)
+*[[443: June 9, 2020]] (via AutoSub)
+*[[448: June 21-22, 2020]] (via AutoSub, Wiki Page)
+*[[450: June 25-26, 2020]] (via AutoSub, Wiki Page)
+*[[454: December 17, 2013]] (via Wiki Page)
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[459: July 17, 2020]] (via AutoSub)
+*[[460: Donk's Dojo]] (via AutoSub)
+*[[461: July 25, 2020]] (via AutoSub)
+*[[462: July 26, 2020]] (via AutoSub)
+*[[463: July 28-30, 2020]] (via AutoSub)
+*[[47: June 19-July 5, 2015]] (via Wiki Page)
+*[[470: ShadowGate]] (via AutoSub)
+*[[474: June 6, 2016]] (via AutoSub)
+*[[477: September 3, 2020]] (via AutoSub, Wiki Page)
+*[[48: May 31, 2017]] (via AutoSub, Wiki Page)
+*[[488: The First Debate Spectacular]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via AutoSub, Wiki Page)
+*[[493: February 16, 2016]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[498: November 7, 2016]] (via AutoSub)
+*[[5: January 19, 2017]] (via Wiki Page, otter.ai)
+*[[500: November 5-6, 2020]] (via AutoSub, Wiki Page)
+*[[501: November 7-8, 2020]] (via AutoSub)
+*[[503: Dan's Cara-Vanity Project Part 2]] (via AutoSub)
+*[[505: November 18, 2020]] (via AutoSub)
+*[[507: Jordan Doesn't Know About Walk-Ins]] (via AutoSub)
+*[[511: The 12/12 Rallies]] (via AutoSub)
+*[[512: December 16-17, 2020]] (via AutoSub)
+*[[514: An X-Mas Report Rebuttal]] (via AutoSub)
+*[[52: July 14-21, 2015]] (via AutoSub, Wiki Page)
+*[[520: January 12-13, 2021]] (via AutoSub)
+*[[521: Salt Break]] (via AutoSub)
+*[[522: January 14-17, 2021]] (via AutoSub)
+*[[524: Inauguration 2021]] (via AutoSub)
+*[[526: January 28-31, 2021]] (via AutoSub)
+*[[527: February 4, 2021]] (via Wiki Page)
+*[[536: February 28, 2021]] (via AutoSub, Wiki Page)
+*[[537: July 16-18, 2010]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub)
+*[[547: April 8, 2021]] (via AutoSub)
+*[[549: April 13-14, 2021]] (via AutoSub)
+*[[55: Megyn Kelly Interview Pt. 2]] (via AutoSub)
+*[[57: August 12-16, 2015]] (via AutoSub, Wiki Page)
+*[[570: June 24, 2021]] (via AutoSub)
+*[[571: May 22-27, 2003]] (via AutoSub)
+*[[575: July 4, 2021]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub)
+*[[58: June 23, 2017]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, Wiki Page)
+*[[586: August 11-12, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub)
+*[[59: August 17-18, 2015]] (via AutoSub, Wiki Page)
+*[[590: August 24, 2021]] (via AutoSub)
+*[[596: Possibly Too Much Wacky]] (via AutoSub)
+*[[6: Inauguration Speech Recap]] (via Wiki Page, otter.ai)
+*[[60: Mars Colonies]] (via AutoSub)
+*[[604: October 5, 2021]] (via AutoSub)
+*[[607: A Chat With Mike Rothschild]] (via AutoSub)
+*[[612: October 31, 2021]] (via AutoSub, Wiki Page)
+*[[62: August 19-26, 2015]] (via AutoSub, Wiki Page)
+*[[621: Reset Wars: Episode 1]] (via AutoSub)
+*[[63: July 12, 2017]] (via AutoSub)
+*[[635: January 6-7, 2022]] (via AutoSub)
+*[[636: April 27, 2009]] (via AutoSub, Wiki Page)
+*[[64: Aug 27-Sep 1, 2015]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub)
+*[[645: November 4, 2014]] (via AutoSub, Wiki Page)
+*[[649: February 14, 2022]] (via AutoSub)
+*[[654: February 27, 2022]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+*[[660: February 11, 2014]] (via AutoSub)
+*[[661: March 17, 2022]] (via AutoSub)
+*[[662: March 22, 2022]] (via AutoSub)
+*[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
+*[[665: Formulaic Objections Part 6]] (via otter.ai)
+*[[671: April 13, 2022]] (via AutoSub)
+*[[677: May 4, 2022]] (via AutoSub)
+*[[683: May 16, 2022]] (via AutoSub)
+*[[684: May 20, 2022]] (via AutoSub)
+*[[69: August 1, 2017]] (via AutoSub)
+*[[690: May 27, 2022]] (via AutoSub)
+*[[697: June 29, 2022]] (via AutoSub)
+*[[7: January 23-24, 2017]] (via AutoSub, otter.ai)
+*[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub)
+*[[707: Dan's War]] (via AutoSub)
+*[[71: August 4, 2017]] (via AutoSub)
+*[[711: August 2, 2022]] (via AutoSub)
+*[[716: April 25, 2014]] (via AutoSub, Welder)
+*[[717: August 17, 2022]] (via Welder)
+*[[718: August 21-22, 2022]] (via AutoSub, Welder)
+*[[72: August 9, 2017]] (via AutoSub)
+*[[726: September 15-16, 2022]] (via AutoSub, otter.ai)
+*[[729: September 24, 2022]] (via AutoSub, otter.ai)
+*[[73: August 12, 2017]] (via AutoSub)
+*[[737: Reflections on a Verdict Part 2]] (via otter.ai)
+*[[76: October 7-11, 2015]] (via AutoSub, Wiki Page)
+*[[77: August 23, 2017]] (via AutoSub, Wiki Page)
+*[[78: October 12-15, 2015]] (via AutoSub, Wiki Page)
+*[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
+*[[80: October 16-26, 2015]] (via AutoSub)
+*[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub)
+*[[83: November 10-12, 2015]] (via AutoSub)
+*[[84: December 21, 2012]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+*[[89: December 31, 2015]] (via AutoSub, Wiki Page)
+*[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
+*[[91: October 11, 2017]] (via AutoSub)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub, Wiki Page)
+*[[94: October 19, 2017]] (via AutoSub)
+*[[95: Project Camelot Break]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub)
+*[[99: November 1, 2017]] (via AutoSub, otter.ai)
+*[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==Barbara Bellis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Barbara Bellis'
+
+|-
+|'''Sources:'''
+|
+
+*Connecticut Sandy Hook Lawsuit (Lafferty v. Jones) (via Wiki Page)
+*Judge Barbara Bellis (via Wiki Page)
+*Norm Pattis (via Wiki Page)
+
+|}
+
+==Barbara Boxer==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Barbara Boxer'
+
+|-
+|'''Sources:'''
+|
+
+*Ted Nugent (via Wiki Page)
+*[[628: July 10, 2003]] (via AutoSub)
+*[[636: April 27, 2009]] (via AutoSub)
+
+|}
+
+==Barbara Jordan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Barbara Jordan'
+
+|-
+|'''Sources:'''
+|
+
+*[[401: Formulaic Objections Part 3]] (via AutoSub, otter.ai)
+*[[702: July 11-12, 2022]] (via AutoSub)
+
+|}
+
+==Barbara Loe Fisher==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Barbara Loe Fisher'
+
+|-
+|'''Sources:'''
+|
+
+*Barbara Loe Fisher (via Wiki Page)
+*[[200: Feb. 25-March 1, 2009]] (via Wiki Page)
+*[[222: March 15-19, 2009]] (via Wiki Page, otter.ai)
+*[[288: January 7-9, 2013]] (via Wiki Page)
+
+|}
+
+==Barbara Walters==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Barbara Walters'
+
+|-
+|'''Sources:'''
+|
+
+*[[140: February 18, 2011]] (via AutoSub)
+*[[384: January 3, 2020]] (via AutoSub)
+*[[537: July 16-18, 2010]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub)
+
+|}
+
+==Barbershop==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Barbershop'
+
+|-
+|'''Sources:'''
+|
+
+*[[266: December 14, 2012]] (via AutoSub)
+*[[568: June 19, 2021]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+
+|}
+
+==Barbra Streisand==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Barbra Streisand'
+
+|-
+|'''Sources:'''
+|
+
+*[[263: Jordan Takes The Wheel]] (via AutoSub)
+*[[273: March 5-6, 2019]] (via AutoSub)
+
+|}
+
+==Barefoot Contessa==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Barefoot Contessa'
+
+|-
+|'''Sources:'''
+|
+
+*[[729: September 24, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Barnes & Noble==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Barnes & Noble'
+
+|-
+|'''Sources:'''
+|
+
+*[[148: June 1-3, 2009]] (via AutoSub)
+*[[456: July 9-11, 2020]] (via AutoSub)
+*[[611: October 29, 2021]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+
+|}
+
+==Barron Trump==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Barron Trump'
+
+|-
+|'''Sources:'''
+|
+
+*[[115: January 2, 2018]] (via AutoSub, Wiki Page)
+
+|}
+
+==Barry Cooper==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Barry Cooper'
+
+|-
+|'''Sources:'''
+|
+
+*Barry Cooper (via Wiki Page)
+*[[158: January 21, 2009]] (via AutoSub, Wiki Page)
+
+|}
+
+==Barry Goldwater==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|32
+|-
+|'''Source Texts:'''
+|
+
+*'Barry Goldwater'
+*"Barry Goldwater's"
+
+|-
+|'''Sources:'''
+|
+
+*Roger Stone (via Wiki Page)
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[132: Minisode]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via Wiki Page)
+*[[230B: Obama Deception, Part 2]] (via AutoSub, Wiki Page)
+*[[234: March 26, 2009]] (via AutoSub)
+*[[291: Feline Contessas And Canine Capitalists]] (via AutoSub, Wiki Page)
+*[[36: June 29, 2015]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[411: Jordan Takes The Wheel 3]] (via AutoSub)
+*[[537: July 16-18, 2010]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub, Wiki Page)
+*[[734: October 9, 2022]] (via otter.ai)
+*[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub)
+
+|}
+
+==Barry Manilow==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Barry Manilow'
+
+|-
+|'''Sources:'''
+|
+
+*[[244: October 5, 2014]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+*[[96: October 22-23, 2017]] (via AutoSub)
+
+|}
+
+==Barry Weiss==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Barry Weiss'
+
+|-
+|'''Sources:'''
+|
+
+*[[394: January 31, 2020]] (via AutoSub)
+*[[640: January 22, 2022]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+
+|}
+
+==Barry White==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Barry White'
+*"Barry White's"
+
+|-
+|'''Sources:'''
+|
+
+*[[111: January 21-22, 2016]] (via AutoSub)
+*[[219: March 13, 2009]] (via AutoSub)
+*[[640: January 22, 2022]] (via AutoSub)
+
+|}
+
+==Bartlett High School==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bartlett High School'
+*'Bartlett High school'
+
+|-
+|'''Sources:'''
+|
+
+*[[726: September 15-16, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Barton Creek==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, GPE, LOC
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Barton Creek'
+*'the Barton Creek'
+
+|-
+|'''Sources:'''
+|
+
+*[[163: January 27-29, 2009]] (via AutoSub)
+*[[467: August 7-9, 2020]] (via AutoSub)
+*[[473: August 20-21, 2020]] (via AutoSub, Wiki Page)
+*[[52: July 14-21, 2015]] (via AutoSub)
+*[[631: December 20, 2021]] (via AutoSub)
+
+|}
+
+==Barton Springs==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, GPE
+|-
+|'''Total Count:'''
+|20
+|-
+|'''Source Texts:'''
+|
+
+*'Barton Springs'
+
+|-
+|'''Sources:'''
+|
+
+*[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub)
+*[[364: April 21-22, 2013]] (via AutoSub)
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[466: August 5-6, 2020]] (via AutoSub)
+*[[467: August 7-9, 2020]] (via AutoSub, Wiki Page)
+*[[469: August 12-13, 2020]] (via AutoSub)
+*[[471: August 14-16, 2020]] (via AutoSub)
+*[[473: August 20-21, 2020]] (via AutoSub)
+*[[477: September 3, 2020]] (via AutoSub)
+*[[530: February 10-11, 2021]] (via AutoSub)
+*[[631: December 20, 2021]] (via AutoSub)
+*[[706: Photobombing And Sweating]] (via AutoSub)
+
+|}
+
+==Bashar al assad==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bashar Al-Assad'
+*'Bashar al-assad'
+
+|-
+|'''Sources:'''
+|
+
+*[[198: July 22, 2011]] (via AutoSub)
+*[[277: March 15, 2019]] (via AutoSub)
+*[[47: June 19-July 5, 2015]] (via Wiki Page)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub)
+
+|}
+
+==Baskin Robbins==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Baskin Robbins'
+*'Baskin-Robbins'
+*'Baskin-Robbins\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[222: March 15-19, 2009]] (via otter.ai)
+*[[279: Formulaic Objections]] (via otter.ai)
+*[[376: December 3-5, 2019]] (via AutoSub)
+*[[530: February 10-11, 2021]] (via AutoSub)
+*[[680: July 31-August 1, 2003]] (via AutoSub)
+*[[697: June 29, 2022]] (via AutoSub)
+*[[Alex's Breaky Minisode]] (via AutoSub)
+
+|}
+
+==Batman Begins==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Batman Begins'
+
+|-
+|'''Sources:'''
+|
+
+*[[687: May 24, 2022]] (via AutoSub)
+*[[736: Reflections on a Verdict]] (via otter.ai)
+*[[95: Project Camelot Break]] (via AutoSub)
+
+|}
+
+==Batman The Animated Series==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Batman The Animated Series'
+*'Batman the Animated Series'
+
+|-
+|'''Sources:'''
+|
+
+*[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Baton Rouge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|12
+|-
+|'''Source Texts:'''
+|
+
+*'Baton Rouge'
+
+|-
+|'''Sources:'''
+|
+
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
+*[[411: Jordan Takes The Wheel 3]] (via AutoSub)
+*[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub, Wiki Page)
+*[[503: Dan's Cara-Vanity Project Part 2]] (via AutoSub)
+
+|}
+
+==Battle Creek==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, LOC, GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Battle Creek'
+
+|-
+|'''Sources:'''
+|
+
+*[[159: Mantids and Chakra Attacks]] (via AutoSub)
+*[[176: June 28, 2018]] (via AutoSub)
+
+|}
+
+==Battle Flag==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Battle Flag'
+*'the Battle Flag'
+
+|-
+|'''Sources:'''
+|
+
+*[[47: June 19-July 5, 2015]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via AutoSub)
+*[[78: October 12-15, 2015]] (via AutoSub)
+
+|}
+
+==Battle For Truth==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'The Battle For Truth'
+*'the Battle For Truth'
+*'the Battle for Truth'
+
+|-
+|'''Sources:'''
+|
+
+*737: Reflections on a Verdict Part 2 (via Wiki Page)
+*[[657: Chatting With Elizabeth Williamson]] (via AutoSub, Wiki Page)
+*[[728: Elizabeth Williamson Returns Once More]] (via AutoSub)
+
+|}
+
+==Battle Hymn==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, FAC, LOC
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Battle Hymn'
+*'The Battle Hymn'
+*'the Battle Hymn'
+
+|-
+|'''Sources:'''
+|
+
+*[[318: July 5, 2019]] (via AutoSub, Wiki Page)
+*[[722: Space Capitalism Is Still Capitalism]] (via AutoSub)
+
+|}
+
+==Battle of Thermopylae==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Battle of Thermopylae'
+*'the Battle of Thermopylae'
+
+|-
+|'''Sources:'''
+|
+
+*[[427: April 29-30, 2020]] (via AutoSub)
+*[[622: June 30-July 1, 2003]] (via AutoSub)
+
+|}
+
+==Battle of Waterloo==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, FAC
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'The Battle of Waterloo'
+*'the Battle of Waterloo'
+
+|-
+|'''Sources:'''
+|
+
+*[[118: January 10-11, 2018]] (via AutoSub)
+*[[129: David Rothschild Interview]] (via AutoSub)
+*[[424: April 21-22, 2020]] (via AutoSub)
+
+|}
+
+==Battle Royale==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Battle Royale'
+
+|-
+|'''Sources:'''
+|
+
+*[[121: April 1-2, 2013]] (via Wiki Page)
+*[[367: April 23, 2013]] (via AutoSub)
+*[[516: December 31, 2020- January 1, 2021]] (via AutoSub)
+
+|}
+
+==Battlefield==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Battlefield'
+
+|-
+|'''Sources:'''
+|
+
+*[[136: March 30-31, 2008]] (via AutoSub)
+*[[415: April 1, 2020]] (via AutoSub)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub)
+
+|}
+
+==Battleground==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Battleground'
+
+|-
+|'''Sources:'''
+|
+
+*[[260: Aliens Need Editors]] (via AutoSub)
+*[[527: February 4, 2021]] (via AutoSub)
+*[[612: October 31, 2021]] (via AutoSub)
+*[[653: February 25, 2022]] (via AutoSub)
+
+|}
+
+==Battlestar==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Battlestar'
+
+|-
+|'''Sources:'''
+|
+
+*[[163: January 27-29, 2009]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+
+|}
+
+==Battlestar Galactica==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Battlestar Galactica'
+
+|-
+|'''Sources:'''
+|
+
+*[[521: Salt Break]] (via AutoSub)
+*[[565: June 10, 2021]] (via AutoSub)
+
+|}
+
+==Bavarian Illuminati==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Bavarian Illuminati'
+
+|-
+|'''Sources:'''
+|
+
+*Alan Watt (via Wiki Page)
+*[[167: February 4-5, 2009]] (via AutoSub)
+
+|}
+
+==Bay County Sheriff's Office==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*"The Bay County Sheriff's Office"
+*"the Bay County Sheriff's Office"
+
+|-
+|'''Sources:'''
+|
+
+*[[222: March 15-19, 2009]] (via AutoSub, otter.ai)
+
+|}
+
+==Bay of Pigs==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Bay of Pigs'
+
+|-
+|'''Sources:'''
+|
+
+*[[617: June 27, 2003]] (via AutoSub)
+*[[629: Black Goo and Space Covid]] (via AutoSub)
+
+|}
+
+==Baylor University==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Baylor University'
+*'Baylor University\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[130B: Endgame, Part 2]] (via AutoSub)
+*[[341: September 5, 2019]] (via AutoSub)
+
+|}
+
+==Beach Boys==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'The Beach Boys'
+*'the Beach Boys'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[381: Making It Big With Silent Weapons]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub)
+*[[420: The Militia Tech Support Call-In Show]] (via AutoSub)
+
+|}
+
+==Beanie Baby==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Beanie Baby'
+
+|-
+|'''Sources:'''
+|
+
+*[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
+
+|}
+
+==Beanie Sigel==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Beanie Sigel'
+
+|-
+|'''Sources:'''
+|
+
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
+*[[257: January 25, 2019]] (via AutoSub)
+
+|}
+
+==Beatles Rock Band==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Beatles Rock Band'
+
+|-
+|'''Sources:'''
+|
+
+*[[521: Salt Break]] (via AutoSub)
+*[[552: May 6, 2003]] (via AutoSub)
+*[[735: October 12, 2022]] (via otter.ai)
+
+|}
+
+==Beautifully==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Beautifully'
+
+|-
+|'''Sources:'''
+|
+
+*[[648: February 11, 2022]] (via AutoSub)
+*[[717: August 17, 2022]] (via AutoSub, Welder)
+
+|}
+
+==Becca Lewis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Becca Lewis'
+
+|-
+|'''Sources:'''
+|
+
+*[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub)
+*[[708: The Cuck-Destroyer Destroys The Stage]] (via AutoSub)
+*[[713: Chatting With Becca Lewis]] (via AutoSub, Wiki Page)
+*[[714: Trial Recap, Part 1]] (via AutoSub, Welder, otter.ai)
+
+|}
+
+==Bedford Forrest==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bedford Forrest'
+
+|-
+|'''Sources:'''
+|
+
+*[[228: Old Alex Clips]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via AutoSub)
+*[[707: Dan's War]] (via AutoSub)
+*[[97: October 25, 2017]] (via AutoSub)
+
+|}
+
+==Bedrock of==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, LOC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Bedrock of\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[228: Old Alex Clips]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
+
+|}
+
+==Beetlejuice==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG, GPE
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Beetlejuice'
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via otter.ai)
+*[[159: Mantids and Chakra Attacks]] (via AutoSub)
+*[[217: Space Liars and Dragon Moths]] (via AutoSub)
+*[[52: July 14-21, 2015]] (via AutoSub)
+*[[591: June 11, 2003]] (via AutoSub)
+
+|}
+
+==Beforehand==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|15
+|-
+|'''Source Texts:'''
+|
+
+*'Beforehand'
+
+|-
+|'''Sources:'''
+|
+
+*[[11: February 10, 2017]] (via AutoSub)
+*[[142: March 23, 2018]] (via AutoSub)
+*[[196: August 21, 2018]] (via AutoSub)
+*[[209: Drunk Hotel Interview]] (via AutoSub)
+*[[216: November 11, 2010]] (via AutoSub)
+*[[230B: Obama Deception, Part 2]] (via AutoSub)
+*[[230C: Obama Deception, Part 3]] (via AutoSub)
+*[[236: December 4-5, 2018]] (via AutoSub)
+*[[24: March 23, 2017]] (via AutoSub)
+*25(Repost) (via AutoSub)
+*[[290: April 25-26, 2019]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub)
+*[[416: April 2, 2020]] (via AutoSub)
+*[[709: 2 Dan's 2 War]] (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==Behold a Pale Horse==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Behold a Pale Horse'
+
+|-
+|'''Sources:'''
+|
+
+*[[381: Making It Big With Silent Weapons]] (via AutoSub)
+*[[515: December 28-29, 2020]] (via AutoSub)
+*[[562: May 27, 2021]] (via AutoSub)
+
+|}
+
+==Belarusian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Belarusian'
+
+|-
+|'''Sources:'''
+|
+
+*[[654: February 27, 2022]] (via AutoSub, Wiki Page)
+
+|}
+
+==Believe Trump==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Believe Trump'
+
+|-
+|'''Sources:'''
+|
+
+*[[587: August 14, 2021]] (via AutoSub)
+*[[88: The 2015 Investigation Ends]] (via AutoSub)
+
+|}
+
+==Bell Curve==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bell Curve'
+*'The Bell Curve'
+
+|-
+|'''Sources:'''
+|
+
+*[[264: February 11-13, 2019]] (via Wiki Page)
+*[[398: February 9-10, 2020]] (via Wiki Page)
+
+|}
+
+==Bella Monica==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bella Monica'
+
+|-
+|'''Sources:'''
+|
+
+*[[366: November 5-6, 2019]] (via AutoSub)
+*[[427: April 29-30, 2020]] (via AutoSub)
+
+|}
+
+==Bellefontaine==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, NORP
+|-
+|'''Total Count:'''
+|12
+|-
+|'''Source Texts:'''
+|
+
+*'Bellefontaine'
+
+|-
+|'''Sources:'''
+|
+
+*[[490: October 9, 2020]] (via AutoSub)
+*[[492: October 13, 2020]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+*[[533: February 17, 2021]] (via AutoSub)
+*[[541: March 17-18, 2021]] (via AutoSub)
+*[[542: September 15, 2010]] (via AutoSub)
+*[[545: March 30-31, 2021]] (via AutoSub)
+*[[547: April 8, 2021]] (via AutoSub)
+*[[562: May 27, 2021]] (via AutoSub)
+*[[576: July 9, 2021]] (via AutoSub)
+*[[592: June 12, 2003]] (via AutoSub)
+
+|}
+
+==Bellingcat==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bellingcat'
+
+|-
+|'''Sources:'''
+|
+
+*[[277: March 15, 2019]] (via Wiki Page)
+*[[441: June 3-4, 2020]] (via AutoSub)
+
+|}
+
+==Bellwether==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bellwether'
+
+|-
+|'''Sources:'''
+|
+
+*[[3: The Secret of 2017]] (via otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+
+|}
+
+==Ben Affleck==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, LOC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Ben Affleck'
+
+|-
+|'''Sources:'''
+|
+
+*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
+*[[579: May 30, 2003]] (via AutoSub)
+
+|}
+
+==Ben Carson==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|22
+|-
+|'''Source Texts:'''
+|
+
+*'Ben Carson'
+*"Ben Carson's"
+
+|-
+|'''Sources:'''
+|
+
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[57: August 12-16, 2015]] (via AutoSub, Wiki Page)
+*[[601: June 16, 2003]] (via AutoSub)
+*[[74: October 4-6, 2015]] (via AutoSub, Wiki Page)
+*[[80: October 16-26, 2015]] (via AutoSub)
+*[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub, Wiki Page)
+
+|}
+
+==Ben Garrison==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, LOC
+|-
+|'''Total Count:'''
+|23
+|-
+|'''Source Texts:'''
+|
+
+*'Ben Garrison'
+*'the Ben Garrison'
+
+|-
+|'''Sources:'''
+|
+
+*Ben Garrison (via Wiki Page)
+*[[143: March 25-31 Part 1]] (via Wiki Page)
+*[[144: March 25-31, Part 2]] (via AutoSub, Wiki Page)
+*[[152: April 18, 2018]] (via AutoSub, Wiki Page)
+*[[199: August 29, 2018]] (via AutoSub, Wiki Page)
+*[[322: July 16-17, 2019]] (via AutoSub, Wiki Page)
+*[[347: September 23, 2019]] (via AutoSub)
+*[[616: November 9, 2021]] (via AutoSub)
+*[[714: Trial Recap, Part 1]] (via otter.ai)
+
+|}
+
+==Ben Phillips==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Ben Phillips'
+
+|-
+|'''Sources:'''
+|
+
+*[[614: The Purge of Gates]] (via AutoSub)
+*[[701: June 23, 2004]] (via AutoSub)
+
+|}
+
+==Ben Shapiro==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|58
+|-
+|'''Source Texts:'''
+|
+
+*'Ben Shapiro'
+*"Ben Shapiro's"
+
+|-
+|'''Sources:'''
+|
+
+*Joe Rogan (via Wiki Page)
+*[[130D: Endgame, Part 4]] (via AutoSub)
+*[[130E: Endgame, Part 5]] (via AutoSub)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[160: January 22-25, 2009]] (via Wiki Page)
+*[[184: Godly Particles and Illiteracy]] (via AutoSub)
+*[[199: August 29, 2018]] (via AutoSub)
+*[[209: Drunk Hotel Interview]] (via AutoSub, Wiki Page)
+*[[242: December 18-19, 2018]] (via AutoSub, Wiki Page)
+*[[261: February 5-6, 2019]] (via AutoSub)
+*[[277: March 15, 2019]] (via AutoSub)
+*[[289: January 10-13, 2013]] (via AutoSub)
+*[[309: June 10-11, 2019]] (via AutoSub)
+*[[326: July 26-29, 2019]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[396: February 6, 2020]] (via AutoSub)
+*[[403: February 24, 2020]] (via AutoSub)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[427: April 29-30, 2020]] (via AutoSub)
+*[[459: July 17, 2020]] (via AutoSub, Wiki Page)
+*[[460: Donk's Dojo]] (via AutoSub)
+*[[485: September 23-24, 2020]] (via AutoSub)
+*[[500: November 5-6, 2020]] (via AutoSub)
+*[[504: November 16-17, 2020]] (via AutoSub, Wiki Page)
+*[[541: March 17-18, 2021]] (via AutoSub)
+*[[547: April 8, 2021]] (via AutoSub)
+*[[620: November 23, 2021]] (via AutoSub)
+*[[657: Chatting With Elizabeth Williamson]] (via AutoSub)
+*[[686: Continental Negotiations]] (via AutoSub)
+*[[715: Trial Recap, Part 2]] (via AutoSub, Welder, otter.ai)
+*[[736: Reflections on a Verdict]] (via otter.ai)
+
+|}
+
+==Ben Warren==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Ben Warren'
+
+|-
+|'''Sources:'''
+|
+
+*[[13: February 14, 2017]] (via AutoSub)
+*[[273: March 5-6, 2019]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[513: December 18, 2020]] (via AutoSub)
+
+|}
+
+==Benazir Bhutto==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Benazir Bhutto'
+
+|-
+|'''Sources:'''
+|
+
+*[[264: February 11-13, 2019]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via Wiki Page)
+
+|}
+
+==Benedict Arnold==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Benedict Arnold'
+
+|-
+|'''Sources:'''
+|
+
+*[[368: November 11-12, 2019]] (via AutoSub)
+*[[570: June 24, 2021]] (via AutoSub)
+*[[716: April 25, 2014]] (via Welder)
+
+|}
+
+==Benjamin Button==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Benjamin Button'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via AutoSub)
+*[[295: Crossover With QAnon Anonymous]] (via AutoSub)
+*[[31: April 17, 2017]] (via AutoSub)
+*[[400: One Out Of Five Seems High]] (via AutoSub)
+*[[570: June 24, 2021]] (via AutoSub)
+*[[75: January 7, 2011]] (via AutoSub)
+
+|}
+
+==Benjamin Franklin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|14
+|-
+|'''Source Texts:'''
+|
+
+*'Benjamin Franklin'
+*"Benjamin Franklin's"
+
+|-
+|'''Sources:'''
+|
+
+*[[149: The Press Conference]] (via AutoSub)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub)
+*[[315: February 17-18, 2013]] (via AutoSub)
+*[[356: October 11, 2019]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[388: January 12-13, 2020]] (via AutoSub)
+*[[416: April 2, 2020]] (via AutoSub, Wiki Page)
+*[[496: October 22-23, 2020]] (via AutoSub)
+*[[517: January 5-6, 2021]] (via AutoSub)
+*[[666: March 31, 2022]] (via AutoSub, Wiki Page)
+*[[733: October 6, 2022]] (via otter.ai)
+
+|}
+
+==Benjamin Harrison==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Benjamin Harrison'
+
+|-
+|'''Sources:'''
+|
+
+*[[628: July 10, 2003]] (via AutoSub)
+*[[723: September 8, 2022]] (via otter.ai)
+
+|}
+
+==Benjamin Netanyahu==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'Benjamin Netanyahu'
+
+|-
+|'''Sources:'''
+|
+
+*[[128: March 3, 2015]] (via AutoSub, Wiki Page)
+*[[140: February 18, 2011]] (via AutoSub)
+*[[184: Godly Particles and Illiteracy]] (via AutoSub)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub)
+*25(Repost) (via AutoSub)
+*[[265: September 1, 2011]] (via AutoSub)
+*[[372: November 20-21, 2019]] (via AutoSub)
+*[[432: May 10-11, 2020]] (via AutoSub)
+*[[545: March 30-31, 2021]] (via AutoSub)
+*[[695: June 22, 2022]] (via AutoSub)
+*[[76: October 7-11, 2015]] (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==Benny Johnson==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Benny Johnson'
+
+|-
+|'''Sources:'''
+|
+
+*[[363: October 30, 2019]] (via AutoSub)
+*[[368: November 11-12, 2019]] (via AutoSub)
+*[[736: Reflections on a Verdict]] (via otter.ai)
+
+|}
+
+==Berkshire Hathaway==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, GPE, ORG
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Berkshire\r\n    Hathaway'
+*'Berkshire Hathaway'
+*"Berkshire Hathaway's"
+
+|-
+|'''Sources:'''
+|
+
+*[[432: May 10-11, 2020]] (via AutoSub)
+*[[440: June 1-2, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Berlin Wall==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'The Berlin Wall'
+*'the Berlin Wall'
+*'the Berlin Wall\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[186: February 17-18, 2009]] (via AutoSub)
+*[[278: January 3, 2013]] (via AutoSub)
+*[[448: June 21-22, 2020]] (via AutoSub)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub)
+*[[535: October 16, 2014]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+
+|}
+
+==Bernadette==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bernadette'
+
+|-
+|'''Sources:'''
+|
+
+*[[475: August 24-26, 2020]] (via AutoSub)
+*[[730: August 12, 2003]] (via otter.ai)
+
+|}
+
+==Bernie Mac==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bernie Mac'
+
+|-
+|'''Sources:'''
+|
+
+*[[115: January 2, 2018]] (via AutoSub)
+*[[257: January 25, 2019]] (via AutoSub)
+*[[7: January 23-24, 2017]] (via AutoSub, otter.ai)
+
+|}
+
+==Bernie Madoff==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bernie Madoff'
+
+|-
+|'''Sources:'''
+|
+
+*[[210: March 9, 2009]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub)
+
+|}
+
+==Bernie Sanders==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|48
+|-
+|'''Source Texts:'''
+|
+
+*'Bernie Sanders'
+
+|-
+|'''Sources:'''
+|
+
+*[[115: January 2, 2018]] (via Wiki Page)
+*[[126: February 2, 2018 (Special Report)]] (via Wiki Page)
+*[[137: March 12, 2018]] (via Wiki Page)
+*[[138: March 13-15, 2018]] (via AutoSub)
+*[[142: March 23, 2018]] (via AutoSub)
+*[[144: March 25-31, Part 2]] (via AutoSub, Wiki Page)
+*[[167: February 4-5, 2009]] (via AutoSub)
+*[[179: July 10, 2018]] (via AutoSub)
+*[[195: August 17, 2018]] (via AutoSub)
+*[[211: March 10, 2009]] (via AutoSub, Wiki Page)
+*[[227: March 23, 2009]] (via AutoSub, Wiki Page)
+*[[236: December 4-5, 2018]] (via AutoSub)
+*[[254: April 9-10, 2009]] (via AutoSub)
+*[[267: December 16, 2012]] (via AutoSub)
+*[[273: March 5-6, 2019]] (via Wiki Page)
+*[[279: Formulaic Objections]] (via otter.ai)
+*[[300: May 21-22, 2019]] (via AutoSub, Wiki Page)
+*[[319: July 7-8, 2019]] (via AutoSub)
+*[[340: All About Steve]] (via AutoSub, Wiki Page)
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[377: December 6-10, 2019]] (via AutoSub)
+*[[389: January 15-17, 2020]] (via Wiki Page)
+*[[392: January 24, 2020]] (via AutoSub)
+*[[398: February 9-10, 2020]] (via Wiki Page)
+*[[403: February 24, 2020]] (via Wiki Page)
+*[[409: The Lionel Countdown]] (via AutoSub)
+*[[460: Donk's Dojo]] (via AutoSub)
+*[[461: July 25, 2020]] (via AutoSub)
+*[[47: June 19-July 5, 2015]] (via Wiki Page)
+*[[49: July 6-13. 2015]] (via Wiki Page)
+*[[53: June 12, 2017]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub)
+*[[667: July 25, 2003]] (via AutoSub)
+*[[78: October 12-15, 2015]] (via AutoSub)
+*[[89: December 31, 2015]] (via AutoSub)
+
+|}
+
+==Berry Gordy==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Berry Gordy'
+
+|-
+|'''Sources:'''
+|
+
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[492: October 13, 2020]] (via AutoSub)
+*[[522: January 14-17, 2021]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub)
+
+|}
+
+==Bertrand Russell==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|21
+|-
+|'''Source Texts:'''
+|
+
+*'Bertrand Russell'
+*'Bertrand Russell\n\n'
+*'Bertrand Russell\r\n-'
+*'Bertrand Russell\r\n-   '
+*"Bertrand Russell's"
+
+|-
+|'''Sources:'''
+|
+
+*[[130D: Endgame, Part 4]] (via AutoSub, Wiki Page)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
+*[[259: January 27-29, 2019]] (via AutoSub)
+*[[289: January 10-13, 2013]] (via AutoSub, Wiki Page)
+*[[344: April 9-10, 2013]] (via AutoSub)
+*[[392: January 24, 2020]] (via AutoSub)
+*[[417: April 5, 2020]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub, Wiki Page)
+*[[66: September 6-17, 2015]] (via AutoSub)
+
+|}
+
+==Betsy Davis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Betsy Davis'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via AutoSub)
+*[[7: January 23-24, 2017]] (via AutoSub)
+
+|}
+
+==Betsy DeVos==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|12
+|-
+|'''Source Texts:'''
+|
+
+*'Betsy DeVos'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via otter.ai)
+*[[136: March 30-31, 2008]] (via AutoSub)
+*[[166: February 2-3, 2009]] (via AutoSub)
+*[[185: July 27, 2018]] (via AutoSub)
+*[[30: April 14, 2017]] (via AutoSub, Wiki Page)
+*[[46: June 18, 2015]] (via AutoSub)
+*[[5: January 19, 2017]] (via Wiki Page)
+*[[7: January 23-24, 2017]] (via otter.ai)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub)
+
+|}
+
+==Betsy Ross==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Betsy Ross'
+
+|-
+|'''Sources:'''
+|
+
+*[[315: February 17-18, 2013]] (via AutoSub)
+*[[322: July 16-17, 2019]] (via AutoSub)
+*[[369: November 13, 2019]] (via AutoSub)
+
+|}
+
+==Bette Midler==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|19
+|-
+|'''Source Texts:'''
+|
+
+*'Bette Midler'
+*"Bette Midler's"
+
+|-
+|'''Sources:'''
+|
+
+*[[147: Aaron Russo]] (via AutoSub)
+*[[633: December 30, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
+==Better Business==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Better Business'
+*'Better Business\n\n'
+*'the Better Business\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*Edward Group (via Wiki Page)
+*[[185: July 27, 2018]] (via AutoSub)
+*[[187: Magic Cheesecloth and Secret Pleiadians]] (via AutoSub)
+*[[211: March 10, 2009]] (via AutoSub)
+*[[308: February 6-8, 2013]] (via AutoSub)
+*[[539: March 10, 2021]] (via AutoSub)
+
+|}
+
+==Better Business Bureau==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Better Business Bureau'
+*'The Better Business Bureau'
+*'the Better\r\nBusiness Bureau'
+*'the Better Business Bureau'
+
+|-
+|'''Sources:'''
+|
+
+*Edward Group (via Wiki Page)
+*[[123: March 18, 2008]] (via AutoSub)
+*[[331: March 13-14, 2013]] (via AutoSub)
+*[[431: Smash-N-Grab Spy Jobs]] (via AutoSub)
+*[[535: October 16, 2014]] (via AutoSub)
+
+|}
+
+==Better Call Saul==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'A Better Call Saul\n\n'
+*'Better Call Saul'
+*'Better Call Saul\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[25: Dennis Montgomery Investigation]] (via AutoSub)
+*25(Repost) (via AutoSub)
+*[[596: Possibly Too Much Wacky]] (via AutoSub)
+*[[612: October 31, 2021]] (via AutoSub)
+*[[677: May 4, 2022]] (via AutoSub)
+*[[678: July 29-30, 2003]] (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==Better Health==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Better Health'
+
+|-
+|'''Sources:'''
+|
+
+*[[121: April 1-2, 2013]] (via AutoSub)
+*[[454: December 17, 2013]] (via AutoSub)
+
+|}
+
+==Better or Worse==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Better or Worse'
+
+|-
+|'''Sources:'''
+|
+
+*[[224: March 20, 2009]] (via AutoSub)
+*[[315: February 17-18, 2013]] (via AutoSub)
+
+|}
+
+==Betty White==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|29
+|-
+|'''Source Texts:'''
+|
+
+*'Betty White'
+*"Betty White's"
+
+|-
+|'''Sources:'''
+|
+
+*[[123: March 18, 2008]] (via AutoSub)
+*[[192: August 10, 2018]] (via AutoSub)
+*[[196: August 21, 2018]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[269: December 19, 2012]] (via AutoSub)
+*[[287: April 15-18, 2019]] (via AutoSub)
+*[[32: April 21, 2017]] (via AutoSub)
+*[[345: September 19, 2019]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[362: There Is No Mermaid]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[405: Root Races and Terminated Spiders]] (via AutoSub)
+*[[413: March 27, 2020]] (via AutoSub)
+*[[42: March 11, 2014]] (via AutoSub)
+*[[476: Moon Colonies Part 2]] (via AutoSub)
+*[[492: October 13, 2020]] (via AutoSub)
+*[[517: January 5-6, 2021]] (via AutoSub)
+*[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
+*[[635: January 6-7, 2022]] (via AutoSub)
+*[[658: It's Pretty Easy Being Greene]] (via AutoSub)
+*[[670: July 28, 2003]] (via AutoSub)
+*[[682: May 15, 2022]] (via AutoSub)
+*[[697: June 29, 2022]] (via AutoSub)
+*[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
+*[[702: July 11-12, 2022]] (via AutoSub)
+*[[95: Project Camelot Break]] (via AutoSub)
+*[[97: October 25, 2017]] (via AutoSub)
+
+|}
+
+==Beverly Hills==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Beverly Hills'
+
+|-
+|'''Sources:'''
+|
+
+*[[134: Post-Tribulation Rapture?]] (via AutoSub)
+*[[183: February 12-16, 2009]] (via AutoSub)
+*[[194: February 22-24, 2009]] (via AutoSub)
+*[[306: June 4-5, 2019]] (via AutoSub)
+*[[462: July 26, 2020]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via AutoSub)
+
+|}
+
+==Beyond Tangy Tangerine==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Beyond Tangy Tangerine'
+
+|-
+|'''Sources:'''
+|
+
+*Alex Jones (via Wiki Page)
+*[[303: January 29-31, 2013]] (via AutoSub)
+
+|}
+
+==Bibi Netanyahu==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bibi Netanyahu'
+
+|-
+|'''Sources:'''
+|
+
+*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[236: December 4-5, 2018]] (via AutoSub)
+*[[76: October 7-11, 2015]] (via AutoSub)
+
+|}
+
+==Biden Administration==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Biden Administration'
+*'the Biden Administration'
+
+|-
+|'''Sources:'''
+|
+
+*[[568: June 19, 2021]] (via AutoSub)
+*[[717: August 17, 2022]] (via AutoSub)
+
+|}
+
+==Big Bopper==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Big Bopper'
+
+|-
+|'''Sources:'''
+|
+
+*[[431: Smash-N-Grab Spy Jobs]] (via AutoSub)
+*[[489: October 2-4, 2020]] (via AutoSub)
+
+|}
+
+==Big Island==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Big Island'
+*'The Big Island'
+
+|-
+|'''Sources:'''
+|
+
+*[[127: February 8, 2018]] (via AutoSub)
+*[[342: September 6-11, 2019]] (via AutoSub)
+*[[635: January 6-7, 2022]] (via AutoSub)
+
+|}
+
+==Big Jim Tucker==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Big Jim Tucker'
+
+|-
+|'''Sources:'''
+|
+
+*[[130B: Endgame, Part 2]] (via Wiki Page)
+*[[579: May 30, 2003]] (via Wiki Page)
+
+|}
+
+==Big Kahuna==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'The Big Kahuna'
+*'the Big Kahuna'
+
+|-
+|'''Sources:'''
+|
+
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub)
+*[[284: April 12, 2019]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub)
+
+|}
+
+==Big League==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Big League'
+
+|-
+|'''Sources:'''
+|
+
+*[[140: February 18, 2011]] (via AutoSub)
+*[[316: July 1, 2019]] (via AutoSub)
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+
+|}
+
+==Bilderberg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE, ORG
+|-
+|'''Total Count:'''
+|98
+|-
+|'''Source Texts:'''
+|
+
+*'Bilderberg'
+*'Bilderberg\r\n'
+*'Bilderberg\r\n-   '
+
+|-
+|'''Sources:'''
+|
+
+*Darrell Hamamoto (via Wiki Page)
+*[[130A: Endgame, Part 1]] (via AutoSub, Wiki Page)
+*[[130B: Endgame, Part 2]] (via AutoSub, Wiki Page)
+*[[130E: Endgame, Part 5]] (via AutoSub, Wiki Page)
+*[[172: June 11, 2013]] (via AutoSub)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
+*[[193: Big Skeletons and Pencil Ink]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via otter.ai)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[230B: Obama Deception, Part 2]] (via AutoSub, Wiki Page)
+*[[230C: Obama Deception, Part 3]] (via AutoSub, Wiki Page)
+*[[230D: Obama Deception, Part 4]] (via AutoSub)
+*[[262: April 14, 2009]] (via AutoSub)
+*[[269: December 19, 2012]] (via AutoSub)
+*[[304: May 30-31, 2019]] (via AutoSub)
+*[[324: Bilderberg Speeches]] (via AutoSub, Wiki Page)
+*[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
+*[[346: April 11-14, 2013]] (via Wiki Page)
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[381: Making It Big With Silent Weapons]] (via Wiki Page)
+*[[384: January 3, 2020]] (via AutoSub)
+*[[408: March 11-13, 2020]] (via AutoSub, Wiki Page)
+*[[442: June 5, 2020]] (via Wiki Page)
+*[[474: June 6, 2016]] (via AutoSub, Wiki Page)
+*[[527: February 4, 2021]] (via AutoSub)
+*[[547: April 8, 2021]] (via AutoSub, Wiki Page)
+*[[571: May 22-27, 2003]] (via AutoSub, Wiki Page)
+*[[597: September 14, 2021]] (via Wiki Page)
+*[[615: November 8, 2021?]] (via AutoSub, Wiki Page)
+*[[62: August 19-26, 2015]] (via AutoSub)
+*[[666: March 31, 2022]] (via AutoSub)
+*[[677: May 4, 2022]] (via AutoSub)
+*[[729: September 24, 2022]] (via otter.ai)
+*[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
+*[[96: October 22-23, 2017]] (via Wiki Page)
+*[[97: October 25, 2017]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bilderberg Group==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|80
+|-
+|'''Source Texts:'''
+|
+
+*'Bilderberg Group'
+*'The Bilderberg Group'
+*'the Bilderberg Group'
+
+|-
+|'''Sources:'''
+|
+
+*[[130A: Endgame, Part 1]] (via AutoSub)
+*[[130B: Endgame, Part 2]] (via AutoSub, Wiki Page)
+*[[130E: Endgame, Part 5]] (via AutoSub)
+*[[219: March 13, 2009]] (via AutoSub)
+*[[230B: Obama Deception, Part 2]] (via AutoSub)
+*[[230C: Obama Deception, Part 3]] (via AutoSub)
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[262: April 14, 2009]] (via AutoSub)
+*[[266: December 14, 2012]] (via AutoSub)
+*[[324: Bilderberg Speeches]] (via Wiki Page)
+*[[346: April 11-14, 2013]] (via AutoSub)
+*[[381: Making It Big With Silent Weapons]] (via AutoSub)
+*[[392: January 24, 2020]] (via AutoSub)
+*[[408: March 11-13, 2020]] (via AutoSub)
+*[[424: April 21-22, 2020]] (via AutoSub)
+*[[474: June 6, 2016]] (via AutoSub)
+*[[475: August 24-26, 2020]] (via AutoSub)
+*[[528: 2021 Super Bowl Commercial Spectacular]] (via AutoSub)
+*[[547: April 8, 2021]] (via AutoSub)
+*[[562: May 27, 2021]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
+*[[571: May 22-27, 2003]] (via AutoSub)
+*[[572: June 28-30, 2021]] (via AutoSub)
+*[[615: November 8, 2021?]] (via AutoSub)
+*[[618: November 15, 2021]] (via AutoSub)
+*[[640: January 22, 2022]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub)
+*[[662: March 22, 2022]] (via AutoSub)
+*[[666: March 31, 2022]] (via AutoSub)
+*[[701: June 23, 2004]] (via AutoSub)
+*[[702: July 11-12, 2022]] (via AutoSub)
+*[[729: September 24, 2022]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+*[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
+*[[96: October 22-23, 2017]] (via AutoSub)
+*[[97: October 25, 2017]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub)
+
+|}
+
+==Bill Ackman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Ackman'
+
+|-
+|'''Sources:'''
+|
+
+*[[410: March 19-20, 2020]] (via AutoSub, Wiki Page)
+*[[413: March 27, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bill Ayers==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, LAW, WORK_OF_ART
+|-
+|'''Total Count:'''
+|42
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Ayers'
+*'The Bill Ayers'
+*'a Bill Ayers'
+*'the Bill Ayers'
+
+|-
+|'''Sources:'''
+|
+
+*Bill Ayers (via Wiki Page)
+*List of Knowledge Fight episodes (via Wiki Page)
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub, Wiki Page)
+*[[185: July 27, 2018]] (via AutoSub)
+*[[198: July 22, 2011]] (via AutoSub)
+*[[246: April 5-6, 2009]] (via AutoSub)
+*[[266: December 14, 2012]] (via AutoSub)
+*[[283: January 4-6, 2013]] (via AutoSub, Wiki Page)
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[368: November 11-12, 2019]] (via AutoSub)
+*[[377: December 6-10, 2019]] (via AutoSub)
+*[[382: December 23-27, 2019]] (via Wiki Page)
+*[[491: October 12, 2020]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+*[[525: January 27, 2021]] (via AutoSub)
+*[[606: June 18-19, 2003]] (via AutoSub)
+*[[613: June 24-25, 2003]] (via AutoSub)
+*[[694: The Case of the Missing Propagandist]] (via AutoSub)
+
+|}
+
+==Bill Binney==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Binney'
+
+|-
+|'''Sources:'''
+|
+
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[432: May 10-11, 2020]] (via AutoSub)
+
+|}
+
+==Bill Clinton==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, LAW
+|-
+|'''Total Count:'''
+|250
+|-
+|'''Source Texts:'''
+|
+
+*'Bill\r\n    Clinton'
+*'Bill Clinton'
+*'Bill Clinton\r\n    '
+*"Bill Clinton's"
+*'the Bill Clinton'
+
+|-
+|'''Sources:'''
+|
+
+*Larry Nichols (via Wiki Page)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[106: Drunk Special Report]] (via AutoSub)
+*[[12: Jon Rappoport]] (via otter.ai)
+*[[125: Project Camelot's War In Heaven]] (via AutoSub)
+*[[128: March 3, 2015]] (via AutoSub)
+*[[13: February 14, 2017]] (via otter.ai)
+*[[130A: Endgame, Part 1]] (via AutoSub)
+*[[130B: Endgame, Part 2]] (via AutoSub)
+*[[130C: Endgame, Part 3]] (via AutoSub)
+*[[130E: Endgame, Part 5]] (via AutoSub)
+*[[135: The Wikileaks Press Conference]] (via Wiki Page)
+*[[141: March 20-22, 2018]] (via Wiki Page)
+*[[144: March 25-31, Part 2]] (via AutoSub)
+*[[148: June 1-3, 2009]] (via AutoSub)
+*[[149: The Press Conference]] (via AutoSub)
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
+*[[152: April 18, 2018]] (via AutoSub, Wiki Page)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[164: May 25, 2018]] (via AutoSub)
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
+*[[181: August 16, 2016]] (via AutoSub)
+*[[19: March 3, 2017]] (via AutoSub, otter.ai)
+*[[198: July 22, 2011]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[208: March 6-8, 2009]] (via AutoSub)
+*[[216: November 11, 2010]] (via AutoSub)
+*[[228: Old Alex Clips]] (via AutoSub)
+*[[230D: Obama Deception, Part 4]] (via AutoSub)
+*[[232: Reverend Manning]] (via AutoSub)
+*[[233: November 28, 2018]] (via AutoSub)
+*[[240: March 30-31, 2009]] (via AutoSub)
+*[[241: Larry Gets Coached]] (via AutoSub)
+*[[246: April 5-6, 2009]] (via AutoSub)
+*[[251: January 8, 2019]] (via AutoSub)
+*[[255: September 25, 2011]] (via AutoSub)
+*[[257: January 25, 2019]] (via AutoSub)
+*[[276: January 1-2, 2013]] (via AutoSub)
+*[[279: Formulaic Objections]] (via AutoSub, otter.ai)
+*[[299: May 17-20, 2019]] (via AutoSub)
+*[[300: May 21-22, 2019]] (via AutoSub, Wiki Page)
+*[[32: April 21, 2017]] (via AutoSub)
+*[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
+*[[329: August 4-5, 2019]] (via AutoSub, Wiki Page)
+*[[33: April 22, 2017]] (via AutoSub)
+*[[333: August 16, 2019]] (via AutoSub)
+*[[34: April 25, 2017]] (via AutoSub)
+*[[343: April 3-8, 2013]] (via AutoSub)
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[360: October 23, 2019]] (via AutoSub)
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[383: December 31, 2019]] (via AutoSub)
+*[[384: January 3, 2020]] (via AutoSub)
+*[[385: January 6, 2020]] (via AutoSub)
+*[[390: Grab Bag Minisode]] (via AutoSub, Wiki Page)
+*[[391: January 22, 2020]] (via AutoSub)
+*[[394: January 31, 2020]] (via AutoSub)
+*[[398: February 9-10, 2020]] (via AutoSub)
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai)
+*[[40: May 10, 2017]] (via AutoSub)
+*[[401: Formulaic Objections Part 3]] (via AutoSub, otter.ai)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[413: March 27, 2020]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub, Wiki Page)
+*[[415: April 1, 2020]] (via AutoSub)
+*[[420: The Militia Tech Support Call-In Show]] (via AutoSub)
+*[[425: April 23-24, 2020]] (via AutoSub)
+*[[431: Smash-N-Grab Spy Jobs]] (via AutoSub)
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub, Wiki Page)
+*[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub, Wiki Page)
+*[[453: July 2, 2020]] (via AutoSub)
+*[[455: July 7-8, 2020]] (via AutoSub, Wiki Page)
+*[[46: June 18, 2015]] (via AutoSub)
+*[[462: July 26, 2020]] (via AutoSub)
+*[[464: July 31-August 1, 2020]] (via AutoSub)
+*[[47: June 19-July 5, 2015]] (via AutoSub)
+*[[472: August 17-19, 2020]] (via AutoSub)
+*[[48: May 31, 2017]] (via AutoSub)
+*[[480: September 9-10, 2020]] (via AutoSub)
+*[[483: September 17, 2020]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via AutoSub)
+*[[495: November 4-6, 2016]] (via AutoSub, Wiki Page)
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[515: December 28-29, 2020]] (via AutoSub)
+*[[516: December 31, 2020- January 1, 2021]] (via AutoSub)
+*[[531: February 14, 2021]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub)
+*[[544: May 1, 2003]] (via AutoSub, Wiki Page)
+*[[558: May 8-9, 2003]] (via AutoSub)
+*[[56: July 22-Aug 11, 2015]] (via AutoSub)
+*[[560: May 12-13, 2003]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
+*[[567: June 13, 2021]] (via AutoSub)
+*[[570: June 24, 2021]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub, Wiki Page)
+*[[580: July 20-21, 2021]] (via AutoSub)
+*[[583: August 1, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub)
+*[[59: August 17-18, 2015]] (via Wiki Page)
+*[[612: October 31, 2021]] (via AutoSub, Wiki Page)
+*[[615: November 8, 2021?]] (via AutoSub)
+*[[616: November 9, 2021]] (via AutoSub)
+*[[617: June 27, 2003]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+*[[68: September 19-28, 2015]] (via AutoSub)
+*[[680: July 31-August 1, 2003]] (via AutoSub)
+*[[683: May 16, 2022]] (via AutoSub)
+*[[74: October 4-6, 2015]] (via AutoSub)
+*[[78: October 12-15, 2015]] (via AutoSub)
+*[[80: October 16-26, 2015]] (via AutoSub)
+*[[81: September 6-7, 2017]] (via AutoSub)
+*[[90: October 10, 2017]] (via AutoSub)
+*[[91: October 11, 2017]] (via AutoSub)
+
+|}
+
+==Bill Cooper==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, WORK_OF_ART, LAW
+|-
+|'''Total Count:'''
+|211
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Cooper'
+*'Bill Cooper\r\n    '
+*"Bill Cooper's"
+*'The Bill Cooper'
+*'a Bill Cooper'
+*'the Bill Cooper'
+
+|-
+|'''Sources:'''
+|
+
+*List of Knowledge Fight episodes (via Wiki Page)
+*[[109: December 4, 2017]] (via Wiki Page)
+*[[249: Predicting 9/11]] (via AutoSub, Wiki Page)
+*[[251: January 8, 2019]] (via AutoSub)
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[276: January 1-2, 2013]] (via AutoSub)
+*[[310: June 13-14, 2019]] (via AutoSub, otter.ai)
+*[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
+*[[373: April 24, 2013]] (via AutoSub)
+*[[376: December 3-5, 2019]] (via AutoSub)
+*[[381: Making It Big With Silent Weapons]] (via AutoSub, Wiki Page)
+*[[387: May 13, 2014]] (via AutoSub)
+*[[390: Grab Bag Minisode]] (via AutoSub, Wiki Page)
+*[[395: Ghosts Of Caucuses Past]] (via AutoSub)
+*[[398: February 9-10, 2020]] (via AutoSub, Wiki Page)
+*[[399: February 12-14, 2020]] (via AutoSub, Wiki Page)
+*[[400: One Out Of Five Seems High]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[411: Jordan Takes The Wheel 3]] (via AutoSub)
+*[[413: March 27, 2020]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub, Wiki Page)
+*[[415: April 1, 2020]] (via AutoSub)
+*[[416: April 2, 2020]] (via AutoSub)
+*[[420: The Militia Tech Support Call-In Show]] (via AutoSub, Wiki Page)
+*[[423: April 20, 2020]] (via AutoSub)
+*[[424: April 21-22, 2020]] (via AutoSub)
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub, Wiki Page)
+*[[435: May 18-21, 2020]] (via AutoSub)
+*[[439: May 29-31, 2020]] (via AutoSub, Wiki Page)
+*[[440: June 1-2, 2020]] (via AutoSub)
+*[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub, Wiki Page)
+*[[450: June 25-26, 2020]] (via AutoSub, Wiki Page)
+*[[460: Donk's Dojo]] (via AutoSub)
+*[[506: November 22-24, 2020]] (via AutoSub)
+*[[510: Fourth Time Is Not A Charm]] (via AutoSub)
+*[[514: An X-Mas Report Rebuttal]] (via AutoSub)
+*[[523: January 18-19, 2021]] (via AutoSub)
+*[[537: July 16-18, 2010]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub)
+*[[541: March 17-18, 2021]] (via AutoSub)
+*[[552: May 6, 2003]] (via AutoSub)
+*[[560: May 12-13, 2003]] (via AutoSub, Wiki Page)
+*[[562: May 27, 2021]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
+*[[576: July 9, 2021]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via AutoSub)
+*[[607: A Chat With Mike Rothschild]] (via AutoSub)
+*[[614: The Purge of Gates]] (via AutoSub)
+*[[615: November 8, 2021?]] (via AutoSub)
+*[[646: February 6, 2022]] (via AutoSub)
+*[[651: February 18, 2022]] (via AutoSub)
+*[[667: July 25, 2003]] (via AutoSub)
+*[[691: June 6, 2022]] (via AutoSub)
+*[[701: June 23, 2004]] (via AutoSub)
+*[[703: 9/11, Part 1]] (via AutoSub)
+*[[707: Dan's War]] (via AutoSub)
+*[[713: Chatting With Becca Lewis]] (via AutoSub)
+*[[719: August 19, 2022]] (via Welder)
+*[[733: October 6, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Bill Cooper Covers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Cooper Covers'
+
+|-
+|'''Sources:'''
+|
+
+*List of Knowledge Fight episodes (via Wiki Page)
+*[[447: Bill Cooper Covers OKC Part 2]] (via Wiki Page)
+
+|}
+
+==Bill Cooper's hour==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*"Bill Cooper's hour"
+
+|-
+|'''Sources:'''
+|
+
+*[[381: Making It Big With Silent Weapons]] (via AutoSub)
+*[[408: March 11-13, 2020]] (via AutoSub)
+
+|}
+
+==Bill Cosby==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, LAW
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Cosby'
+*'the Bill Cosby\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[11: February 10, 2017]] (via otter.ai)
+*[[210: March 9, 2009]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via Wiki Page)
+*[[89: December 31, 2015]] (via Wiki Page)
+
+|}
+
+==Bill French==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill French'
+
+|-
+|'''Sources:'''
+|
+
+*[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bill Gaither==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Gaither'
+
+|-
+|'''Sources:'''
+|
+
+*[[425: April 23-24, 2020]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+
+|}
+
+==Bill Gates==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, LAW, ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|513
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Gates'
+*"Bill Gates's"
+*'The Bill Gates'
+*'a Bill Gates'
+*'the Bill Gates'
+*"the Bill Gates's"
+
+|-
+|'''Sources:'''
+|
+
+*Bill Gates (via Wiki Page)
+*[[117: January 8, 2018]] (via AutoSub)
+*[[130D: Endgame, Part 4]] (via AutoSub)
+*[[149: The Press Conference]] (via AutoSub)
+*[[152: April 18, 2018]] (via AutoSub)
+*[[161: May 14, 2018]] (via AutoSub)
+*[[173: February 6-10, 2009]] (via AutoSub)
+*[[209: Drunk Hotel Interview]] (via AutoSub)
+*[[21: March 9, 2017]] (via AutoSub)
+*[[270: The Rogan Return]] (via AutoSub, Wiki Page)
+*[[274: Ask Alex Anything]] (via AutoSub)
+*[[305: February 1, 2013]] (via AutoSub, Wiki Page)
+*[[313: June 23-24, 2019]] (via AutoSub)
+*[[326: July 26-29, 2019]] (via AutoSub, Wiki Page)
+*[[357: October 16, 2019]] (via AutoSub, Wiki Page)
+*[[366: November 5-6, 2019]] (via AutoSub)
+*[[369: November 13, 2019]] (via AutoSub)
+*[[372: November 20-21, 2019]] (via AutoSub)
+*[[391: January 22, 2020]] (via AutoSub)
+*[[392: January 24, 2020]] (via AutoSub)
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai)
+*[[407: March 5-10, 2020]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub, Wiki Page)
+*[[412: March 24-25, 2020]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub)
+*[[415: April 1, 2020]] (via AutoSub)
+*[[416: April 2, 2020]] (via AutoSub, Wiki Page)
+*[[417: April 5, 2020]] (via AutoSub, Wiki Page)
+*[[419: Disease Denial and Vampire Affirmation]] (via AutoSub)
+*[[421: April 16, 2020]] (via AutoSub, Wiki Page)
+*[[422: April 17, 2020]] (via AutoSub, Wiki Page)
+*[[423: April 20, 2020]] (via AutoSub)
+*[[425: April 23-24, 2020]] (via AutoSub, Wiki Page)
+*[[427: April 29-30, 2020]] (via AutoSub, Wiki Page)
+*[[430: May 5-7, 2020]] (via AutoSub, Wiki Page)
+*[[432: May 10-11, 2020]] (via AutoSub, Wiki Page)
+*[[433: May 12-13, 2020]] (via AutoSub, Wiki Page)
+*[[435: May 18-21, 2020]] (via AutoSub, Wiki Page)
+*[[436: May 22, 2020]] (via AutoSub, Wiki Page)
+*[[437: Gawain With a Telescope]] (via AutoSub, Wiki Page)
+*[[438: May 26-28, 2020]] (via Wiki Page)
+*[[439: May 29-31, 2020]] (via AutoSub)
+*[[440: June 1-2, 2020]] (via AutoSub, Wiki Page)
+*[[442: June 5, 2020]] (via AutoSub, Wiki Page)
+*[[444: June 11, 2020]] (via AutoSub, Wiki Page)
+*[[445: June 12, 2020]] (via AutoSub)
+*[[448: June 21-22, 2020]] (via AutoSub)
+*[[450: June 25-26, 2020]] (via AutoSub, Wiki Page)
+*[[453: July 2, 2020]] (via AutoSub, Wiki Page)
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[456: July 9-11, 2020]] (via AutoSub)
+*[[459: July 17, 2020]] (via AutoSub)
+*[[463: July 28-30, 2020]] (via AutoSub, Wiki Page)
+*[[464: July 31-August 1, 2020]] (via AutoSub, Wiki Page)
+*[[465: August 3-4, 2020]] (via AutoSub)
+*[[466: August 5-6, 2020]] (via AutoSub)
+*[[470: ShadowGate]] (via AutoSub)
+*[[471: August 14-16, 2020]] (via AutoSub)
+*[[475: August 24-26, 2020]] (via AutoSub)
+*[[478: September 4, 2020]] (via Wiki Page)
+*[[479: The Devil Went Down To Kiev]] (via AutoSub)
+*[[480: September 9-10, 2020]] (via AutoSub, Wiki Page)
+*[[483: September 17, 2020]] (via AutoSub, Wiki Page)
+*[[488: The First Debate Spectacular]] (via AutoSub)
+*[[490: October 9, 2020]] (via AutoSub, Wiki Page)
+*[[492: October 13, 2020]] (via AutoSub, Wiki Page)
+*[[493: February 16, 2016]] (via AutoSub)
+*[[496: October 22-23, 2020]] (via AutoSub, Wiki Page)
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[499: Jordan Takes The Wheel 5]] (via AutoSub)
+*[[501: November 7-8, 2020]] (via AutoSub)
+*[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub)
+*[[506: November 22-24, 2020]] (via AutoSub, Wiki Page)
+*[[507: Jordan Doesn't Know About Walk-Ins]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+*[[510: Fourth Time Is Not A Charm]] (via AutoSub, Wiki Page)
+*[[511: The 12/12 Rallies]] (via AutoSub)
+*[[513: December 18, 2020]] (via AutoSub)
+*[[515: December 28-29, 2020]] (via AutoSub, Wiki Page)
+*[[516: December 31, 2020- January 1, 2021]] (via AutoSub)
+*[[517: January 5-6, 2021]] (via AutoSub, Wiki Page)
+*[[521: Salt Break]] (via AutoSub)
+*[[523: January 18-19, 2021]] (via AutoSub)
+*[[524: Inauguration 2021]] (via AutoSub)
+*[[525: January 27, 2021]] (via AutoSub)
+*[[529: February 8, 2021]] (via AutoSub)
+*[[530: February 10-11, 2021]] (via AutoSub, Wiki Page)
+*[[531: February 14, 2021]] (via AutoSub, Wiki Page)
+*[[532: February 15, 2021]] (via AutoSub, Wiki Page)
+*[[533: February 17, 2021]] (via AutoSub)
+*[[534: February 19, 2021]] (via AutoSub)
+*[[535: October 16, 2014]] (via Wiki Page)
+*[[540: March 15-16, 2021]] (via AutoSub, Wiki Page)
+*[[541: March 17-18, 2021]] (via AutoSub)
+*[[542: September 15, 2010]] (via AutoSub)
+*[[543: March 23-24, 2021]] (via AutoSub)
+*[[545: March 30-31, 2021]] (via AutoSub, Wiki Page)
+*[[547: April 8, 2021]] (via AutoSub, Wiki Page)
+*[[549: April 13-14, 2021]] (via AutoSub, Wiki Page)
+*[[551: April 20-21, 2021]] (via AutoSub)
+*[[553: April 26-27, 2021]] (via AutoSub, Wiki Page)
+*[[554: April 30, 2021]] (via AutoSub)
+*[[555: May 7, 2003]] (via AutoSub)
+*[[556: May 6-7, 2021]] (via AutoSub, Wiki Page)
+*[[557: May 11, 2021]] (via AutoSub)
+*[[558: May 8-9, 2003]] (via AutoSub)
+*[[563: June 2, 2021]] (via AutoSub)
+*[[569: June 23, 2021]] (via AutoSub)
+*[[57: August 12-16, 2015]] (via AutoSub)
+*[[571: May 22-27, 2003]] (via AutoSub)
+*[[583: August 1, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, Wiki Page)
+*[[586: August 11-12, 2021]] (via AutoSub)
+*[[587: August 14, 2021]] (via AutoSub)
+*[[589: August 18-20, 2021]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+*[[607: A Chat With Mike Rothschild]] (via AutoSub)
+*[[609: October 20, 2021]] (via AutoSub)
+*[[612: October 31, 2021]] (via AutoSub, Wiki Page)
+*[[618: November 15, 2021]] (via AutoSub)
+*[[624: November 30, 2021]] (via AutoSub, Wiki Page)
+*[[626: December 9, 2021]] (via Wiki Page)
+*[[631: December 20, 2021]] (via AutoSub)
+*[[632: Christmas Message and More]] (via AutoSub, Wiki Page)
+*[[636: April 27, 2009]] (via AutoSub)
+*[[640: January 22, 2022]] (via AutoSub)
+*[[646: February 6, 2022]] (via AutoSub)
+*[[651: February 18, 2022]] (via AutoSub)
+*[[653: February 25, 2022]] (via AutoSub)
+*[[654: February 27, 2022]] (via AutoSub)
+*[[656: March 5, 2022]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub)
+*[[676: April 29, 2022]] (via AutoSub)
+*[[684: May 20, 2022]] (via AutoSub)
+*[[697: June 29, 2022]] (via AutoSub)
+*[[700: July 6, 2022]] (via AutoSub)
+*[[702: July 11-12, 2022]] (via AutoSub)
+*[[71: August 4, 2017]] (via AutoSub)
+*[[733: October 6, 2022]] (via AutoSub, otter.ai)
+*[[734: October 9, 2022]] (via otter.ai)
+*[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
+*[[81: September 6-7, 2017]] (via AutoSub)
+*[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
+
+|}
+
+==Bill Gertz==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Gertz'
+
+|-
+|'''Sources:'''
+|
+
+*[[439: May 29-31, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bill Hader==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Hader'
+
+|-
+|'''Sources:'''
+|
+
+*[[142: March 23, 2018]] (via AutoSub)
+*[[538: March 2, 2021]] (via AutoSub)
+
+|}
+
+==Bill Hicks==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, LAW
+|-
+|'''Total Count:'''
+|30
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Hicks'
+*'the Bill Hicks'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[11: February 10, 2017]] (via otter.ai)
+*[[138: March 13-15, 2018]] (via AutoSub)
+*[[148: June 1-3, 2009]] (via AutoSub, Wiki Page)
+*[[209: Drunk Hotel Interview]] (via AutoSub)
+*[[227: March 23, 2009]] (via AutoSub, Wiki Page)
+*[[243: April 1-2, 2009]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai)
+*[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub)
+*[[88: The 2015 Investigation Ends]] (via AutoSub)
+*[[9: Joe Rogan Appearance]] (via otter.ai)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub)
+
+|}
+
+==Bill Joyce==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|11
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Joyce'
+
+|-
+|'''Sources:'''
+|
+
+*[[148: June 1-3, 2009]] (via AutoSub)
+*[[270: The Rogan Return]] (via AutoSub)
+*[[303: January 29-31, 2013]] (via AutoSub)
+*[[382: December 23-27, 2019]] (via AutoSub)
+*[[424: April 21-22, 2020]] (via AutoSub)
+*[[425: April 23-24, 2020]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via AutoSub)
+
+|}
+
+==Bill Maher==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, FAC, ORG
+|-
+|'''Total Count:'''
+|122
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Maher'
+*"Bill Maher's"
+*'The Bill Maher'
+*'a Bill Maher'
+*'the Bill Maher'
+
+|-
+|'''Sources:'''
+|
+
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
+*[[179: July 10, 2018]] (via AutoSub)
+*[[188: August 1, 2018]] (via AutoSub, Wiki Page)
+*[[190: August 6, 2018]] (via AutoSub)
+*[[195: August 17, 2018]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[277: March 15, 2019]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[40: May 10, 2017]] (via AutoSub)
+*[[406: March 1-4, 2020]] (via AutoSub, Wiki Page)
+*[[410: March 19-20, 2020]] (via AutoSub, Wiki Page)
+*[[412: March 24-25, 2020]] (via AutoSub)
+*[[423: April 20, 2020]] (via AutoSub)
+*[[430: May 5-7, 2020]] (via AutoSub)
+*[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub)
+*[[458: July 14, 2020]] (via AutoSub)
+*[[488: The First Debate Spectacular]] (via Wiki Page)
+*[[491: October 12, 2020]] (via AutoSub, Wiki Page)
+*[[494: October 19, 2020]] (via AutoSub)
+*[[496: October 22-23, 2020]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via AutoSub, Wiki Page)
+*[[527: February 4, 2021]] (via AutoSub, Wiki Page)
+*[[551: April 20-21, 2021]] (via AutoSub, Wiki Page)
+*[[552: May 6, 2003]] (via AutoSub)
+*[[553: April 26-27, 2021]] (via AutoSub, Wiki Page)
+*[[58: June 23, 2017]] (via AutoSub)
+*[[583: August 1, 2021]] (via AutoSub, Wiki Page)
+*[[589: August 18-20, 2021]] (via AutoSub)
+*[[590: August 24, 2021]] (via AutoSub, Wiki Page)
+*[[640: January 22, 2022]] (via AutoSub, Wiki Page)
+*[[644: February 2, 2022]] (via AutoSub)
+*[[658: It's Pretty Easy Being Greene]] (via AutoSub)
+*[[711: August 2, 2022]] (via AutoSub)
+*[[723: September 8, 2022]] (via otter.ai)
+*[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
+*[[731: September 29-30, 2022]] (via AutoSub, otter.ai)
+*[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub)
+
+|}
+
+==Bill Maher Bill Maher==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Maher Bill Maher'
+
+|-
+|'''Sources:'''
+|
+
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[590: August 24, 2021]] (via AutoSub)
+
+|}
+
+==Bill Martin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Martin'
+
+|-
+|'''Sources:'''
+|
+
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bill Melinda==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Melinda'
+
+|-
+|'''Sources:'''
+|
+
+*[[427: April 29-30, 2020]] (via AutoSub)
+*[[467: August 7-9, 2020]] (via AutoSub)
+
+|}
+
+==Bill Mitchell==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Mitchell'
+
+|-
+|'''Sources:'''
+|
+
+*[[138: March 13-15, 2018]] (via Wiki Page)
+*[[399: February 12-14, 2020]] (via AutoSub)
+
+|}
+
+==Bill Moyers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Moyers'
+
+|-
+|'''Sources:'''
+|
+
+*[[254: April 9-10, 2009]] (via AutoSub)
+*[[617: June 27, 2003]] (via AutoSub)
+
+|}
+
+==Bill Murray==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Murray'
+*'The Bill Murray'
+
+|-
+|'''Sources:'''
+|
+
+*[[152: April 18, 2018]] (via AutoSub)
+*[[245: December 24, 2018]] (via AutoSub)
+*[[294: January 15-16, 2013]] (via AutoSub)
+*[[313: June 23-24, 2019]] (via AutoSub)
+
+|}
+
+==Bill O'Reilly==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, LAW
+|-
+|'''Total Count:'''
+|84
+|-
+|'''Source Texts:'''
+|
+
+*"Bill O'Reilly"
+*"Bill O'Reilly\n\n"
+*"Bill O'Reilly's"
+*"a Bill O'Reilly"
+*"the Bill O'Reilly"
+
+|-
+|'''Sources:'''
+|
+
+*[[112: December 15, 2017]] (via AutoSub, Wiki Page)
+*[[137: March 12, 2018]] (via AutoSub)
+*[[161: May 14, 2018]] (via AutoSub)
+*[[179: July 10, 2018]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[216: November 11, 2010]] (via AutoSub)
+*[[22: March 14, 2017]] (via AutoSub)
+*[[220: October 23, 2018]] (via AutoSub)
+*[[241: Larry Gets Coached]] (via AutoSub)
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[32: April 21, 2017]] (via AutoSub, Wiki Page)
+*[[321: February 24-26, 2013]] (via AutoSub)
+*[[326: July 26-29, 2019]] (via AutoSub)
+*[[34: April 25, 2017]] (via AutoSub)
+*[[35: Custody Press Conference]] (via AutoSub)
+*[[361: April 19, 2013]] (via AutoSub, Wiki Page)
+*[[364: April 21-22, 2013]] (via AutoSub)
+*[[4: Research and Stand Up]] (via otter.ai)
+*[[452: Jordan Takes The Wheel 4]] (via AutoSub)
+*[[631: December 20, 2021]] (via AutoSub, Wiki Page)
+*[[632: Christmas Message and More]] (via AutoSub)
+*[[668: April 8, 2022]] (via AutoSub)
+
+|}
+
+==Bill of Rights==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Bill of Rights\n\n'
+*'the Bill of Rights'
+*'the Bill of Rights\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[147: Aaron Russo]] (via AutoSub)
+*[[364: April 21-22, 2013]] (via AutoSub)
+*[[412: March 24-25, 2020]] (via AutoSub)
+*[[555: May 7, 2003]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub)
+*[[639: January 17, 2022]] (via AutoSub)
+*[[699: July 4-5, 2022]] (via AutoSub)
+
+|}
+
+==Bill Ogden==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|770
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Ogden'
+*'Bill Ogden\r\n'
+
+|-
+|'''Sources:'''
+|
+
+*Bill Ogden (via Wiki Page)
+*Jacquelyn Blott (via Wiki Page)
+*Mark Bankston (via Wiki Page)
+*Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones) (via Wiki Page)
+*Texas Parkland Shooting Lawsuit (Fontaine v. Jones) (via Wiki Page)
+*Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
+*[[378: Formulaic Objections Part 2]] (via otter.ai)
+*[[602: Sandy Hook Response]] (via AutoSub, otter.ai)
+*[[657: Chatting With Elizabeth Williamson]] (via AutoSub)
+*[[664: Formulaic Objections Part 5]] (via AutoSub, Wiki Page, otter.ai)
+*[[665: Formulaic Objections Part 6]] (via otter.ai)
+*[[676: April 29, 2022]] (via AutoSub)
+*[[685: Formulaic Objections Part 7]] (via otter.ai)
+*[[690: May 27, 2022]] (via AutoSub)
+*[[712: The Decompression Session]] (via Wiki Page, otter.ai)
+*[[714: Trial Recap, Part 1]] (via AutoSub, Welder)
+*[[732: Trial Press Conference]] (via otter.ai)
+
+|}
+
+==Bill Ogden Representing==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Ogden\r\n\r\nRepresenting'
+
+|-
+|'''Sources:'''
+|
+
+*Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones) (via Wiki Page)
+*Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
+
+|}
+
+==Bill Oldenburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Oldenburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
+*[[727: Chatting with Sebastian Murdock]] (via otter.ai)
+*[[729: September 24, 2022]] (via AutoSub, otter.ai)
+*[[732: Trial Press Conference]] (via otter.ai)
+
+|}
+
+==Bill Pullman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Pullman'
+*"Bill Pullman's"
+
+|-
+|'''Sources:'''
+|
+
+*[[613: June 24-25, 2003]] (via AutoSub)
+*[[620: November 23, 2021]] (via AutoSub)
+*[[699: July 4-5, 2022]] (via AutoSub)
+
+|}
+
+==Bill Quinn==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Quinn'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via AutoSub)
+*[[345: September 19, 2019]] (via AutoSub)
+*[[381: Making It Big With Silent Weapons]] (via AutoSub)
+
+|}
+
+==Bill Shakespeare==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bill\r\n    Shakespeare'
+*'Bill Shakespeare'
+
+|-
+|'''Sources:'''
+|
+
+*[[583: August 1, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bill Taylor==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Taylor'
+
+|-
+|'''Sources:'''
+|
+
+*[[360: October 23, 2019]] (via AutoSub, Wiki Page)
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[470: ShadowGate]] (via AutoSub)
+
+|}
+
+==Bill Warner==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bill Warner'
+*"Bill Warner's"
+
+|-
+|'''Sources:'''
+|
+
+*[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub, Wiki Page)
+
+|}
+
+==Billionaire==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Billionaire'
+
+|-
+|'''Sources:'''
+|
+
+*[[111: January 21-22, 2016]] (via AutoSub)
+*[[16: February 24, 2017]] (via otter.ai)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[398: February 9-10, 2020]] (via AutoSub)
+*[[522: January 14-17, 2021]] (via AutoSub)
+*[[623: July 2-3, 2003]] (via AutoSub)
+*[[635: January 6-7, 2022]] (via AutoSub)
+*[[733: October 6, 2022]] (via AutoSub)
+
+|}
+
+==Billy Bush==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Bush'
+
+|-
+|'''Sources:'''
+|
+
+*[[112: December 15, 2017]] (via AutoSub)
+*[[4: Research and Stand Up]] (via otter.ai)
+*[[639: January 17, 2022]] (via AutoSub)
+*[[9: Joe Rogan Appearance]] (via otter.ai)
+
+|}
+
+==Billy Corgan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|30
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Corgan'
+
+|-
+|'''Sources:'''
+|
+
+*[[107: December 12, 2014]] (via AutoSub, Wiki Page)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[286: Wrestling With Disappointment]] (via AutoSub)
+*[[289: January 10-13, 2013]] (via AutoSub)
+*[[627: Reset Wars: Episode 2]] (via AutoSub)
+
+|}
+
+==Billy Graham==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Graham'
+*"Billy Graham's"
+
+|-
+|'''Sources:'''
+|
+
+*[[108: November 30, 2017]] (via AutoSub)
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[411: Jordan Takes The Wheel 3]] (via AutoSub)
+
+|}
+
+==Billy Gunn==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Gunn'
+
+|-
+|'''Sources:'''
+|
+
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
+*[[255: September 25, 2011]] (via AutoSub)
+*[[474: June 6, 2016]] (via AutoSub)
+
+|}
+
+==Billy Idol==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Idol'
+
+|-
+|'''Sources:'''
+|
+
+*[[233: November 28, 2018]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+*[[70: Sep 29- Oct 3, 2015]] (via AutoSub, Wiki Page)
+
+|}
+
+==Billy Ray Cyrus==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Ray Cyrus'
+*"Billy Ray Cyrus's"
+
+|-
+|'''Sources:'''
+|
+
+*[[558: May 8-9, 2003]] (via AutoSub, Wiki Page)
+
+|}
+
+==Billy Weaver==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|12
+|-
+|'''Source Texts:'''
+|
+
+*'Billy Weaver'
+
+|-
+|'''Sources:'''
+|
+
+*[[149: The Press Conference]] (via AutoSub)
+*[[15: February 20-21, 2017]] (via AutoSub)
+*[[152: April 18, 2018]] (via AutoSub)
+*[[161: May 14, 2018]] (via AutoSub)
+*[[287: April 15-18, 2019]] (via AutoSub)
+*[[329: August 4-5, 2019]] (via AutoSub)
+*[[403: February 24, 2020]] (via AutoSub)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[441: June 3-4, 2020]] (via AutoSub)
+*[[45: May 25, 2017]] (via AutoSub)
+*[[94: October 19, 2017]] (via AutoSub)
+
+|}
+
+==Birch Society==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Birch Society'
+*'the Birch Society\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[199: August 29, 2018]] (via AutoSub)
+*[[234: March 26, 2009]] (via AutoSub)
+*[[241: Larry Gets Coached]] (via AutoSub)
+
+|}
+
+==Birmingham==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Birmingham'
+
+|-
+|'''Sources:'''
+|
+
+*[[124: March 23, 2008]] (via AutoSub)
+*[[164: May 25, 2018]] (via AutoSub)
+*[[273: March 5-6, 2019]] (via AutoSub)
+*[[505: November 18, 2020]] (via AutoSub)
+
+|}
+
+==Bishop Desmond Tutu==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bishop Desmond Tutu'
+
+|-
+|'''Sources:'''
+|
+
+*[[494: October 19, 2020]] (via AutoSub)
+*[[534: February 19, 2021]] (via AutoSub)
+
+|}
+
+==Bitten Twice==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bitten Twice'
+
+|-
+|'''Sources:'''
+|
+
+*[[33: April 22, 2017]] (via AutoSub)
+*[[543: March 23-24, 2021]] (via AutoSub)
+
+|}
+
+==Bitterness==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PRODUCT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bitterness'
+
+|-
+|'''Sources:'''
+|
+
+*[[129: David Rothschild Interview]] (via AutoSub)
+*[[147: Aaron Russo]] (via AutoSub)
+*[[492: October 13, 2020]] (via AutoSub)
+
+|}
+
+==Bizarre Bazaar==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bizarre Bazaar'
+
+|-
+|'''Sources:'''
+|
+
+*[[308: February 6-8, 2013]] (via AutoSub)
+*[[550: April 16, 2021]] (via AutoSub)
+*[[589: August 18-20, 2021]] (via AutoSub)
+
+|}
+
+==Black America==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Black America'
+
+|-
+|'''Sources:'''
+|
+
+*[[562: May 27, 2021]] (via AutoSub)
+*[[628: July 10, 2003]] (via AutoSub)
+
+|}
+
+==Black Block==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Black Block'
+
+|-
+|'''Sources:'''
+|
+
+*[[450: June 25-26, 2020]] (via AutoSub)
+*[[614: The Purge of Gates]] (via AutoSub)
+
+|}
+
+==Black Death==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Black Death'
+
+|-
+|'''Sources:'''
+|
+
+*[[427: April 29-30, 2020]] (via AutoSub)
+*[[717: August 17, 2022]] (via AutoSub, Welder)
+
+|}
+
+==Black Eyed Peas==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Black Eyed Peas'
+*'the Black Eyed Peas\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[5: January 19, 2017]] (via AutoSub, otter.ai)
+*[[612: October 31, 2021]] (via AutoSub)
+
+|}
+
+==Black Friday==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|19
+|-
+|'''Source Texts:'''
+|
+
+*'Black Friday'
+*'Black Friday\n\n'
+*'Black friday'
+*'the Black Friday'
+
+|-
+|'''Sources:'''
+|
+
+*[[169: November 30, 2014]] (via AutoSub, Wiki Page)
+*[[218: October 17, 2018]] (via Wiki Page)
+*[[230E: Obama Deception, Part 5]] (via AutoSub)
+*[[347: September 23, 2019]] (via AutoSub)
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[369: November 13, 2019]] (via AutoSub)
+*[[494: October 19, 2020]] (via AutoSub)
+*[[612: October 31, 2021]] (via Wiki Page)
+*[[9: Joe Rogan Appearance]] (via otter.ai)
+
+|}
+
+==Black Hawk Down==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Black Hawk Down'
+
+|-
+|'''Sources:'''
+|
+
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[716: April 25, 2014]] (via AutoSub)
+
+|}
+
+==Black History Month==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Black History Month'
+
+|-
+|'''Sources:'''
+|
+
+*[[505: November 18, 2020]] (via AutoSub)
+*[[529: February 8, 2021]] (via AutoSub)
+
+|}
+
+==Black Knight==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG, PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Black Knight'
+*'the Black Knight'
+
+|-
+|'''Sources:'''
+|
+
+*[[139: St. Patrick's Day Special Report]] (via AutoSub)
+*[[193: Big Skeletons and Pencil Ink]] (via AutoSub, Wiki Page)
+
+|}
+
+==Black Lives Matter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT, LAW, ORG, PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Black\r\n    Lives Matter'
+*'Black Lives Matter'
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via otter.ai)
+*[[19: March 3, 2017]] (via otter.ai)
+*[[40: May 10, 2017]] (via Wiki Page)
+*[[734: October 9, 2022]] (via otter.ai)
+
+|}
+
+==Black Magic==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Black Magic'
+
+|-
+|'''Sources:'''
+|
+
+*[[247: Lionel]] (via AutoSub)
+*[[673: Jordan Takes The Wheel 8]] (via AutoSub)
+
+|}
+
+==Black Market==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Black Market'
+*'Black Market\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[190: August 6, 2018]] (via AutoSub)
+*[[62: August 19-26, 2015]] (via AutoSub)
+
+|}
+
+==Black Mirror==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Black Mirror'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[212: Matrix Schemes and Billions In Liens]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[651: February 18, 2022]] (via AutoSub)
+*[[81: September 6-7, 2017]] (via AutoSub, Wiki Page)
+
+|}
+
+==Black Panther==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG, LOC
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Black Panther'
+*'the Black Panther'
+*'the Black Panther\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via AutoSub)
+*[[141: March 20-22, 2018]] (via AutoSub)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub)
+*[[212: Matrix Schemes and Billions In Liens]] (via AutoSub)
+*[[287: April 15-18, 2019]] (via AutoSub)
+*[[444: June 11, 2020]] (via Wiki Page)
+*[[449: June 23-24, 2020]] (via AutoSub)
+*[[570: June 24, 2021]] (via AutoSub)
+
+|}
+
+==Black Panthers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW, ORG
+|-
+|'''Total Count:'''
+|14
+|-
+|'''Source Texts:'''
+|
+
+*'Black Panthers'
+*'the Black Panthers'
+*'the Black Panthers\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[129: David Rothschild Interview]] (via AutoSub)
+*[[141: March 20-22, 2018]] (via AutoSub)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai)
+*[[262: April 14, 2009]] (via AutoSub)
+*[[321: February 24-26, 2013]] (via AutoSub)
+*[[358: October 18, 2019]] (via AutoSub)
+*[[375: November 29, 2019]] (via AutoSub)
+*[[444: June 11, 2020]] (via Wiki Page)
+*[[47: June 19-July 5, 2015]] (via AutoSub)
+*[[83: November 10-12, 2015]] (via AutoSub)
+
+|}
+
+==Black Plague==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Black Plague'
+
+|-
+|'''Sources:'''
+|
+
+*[[258: April 12-13, 2009]] (via AutoSub)
+*[[427: April 29-30, 2020]] (via AutoSub)
+
+|}
+
+==Black Pyramid==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT, FAC, ORG, GPE
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Black Pyramid'
+*'The Black Pyramid\n\n'
+*'the Black Pyramid'
+
+|-
+|'''Sources:'''
+|
+
+*[[300: May 21-22, 2019]] (via AutoSub)
+*[[367: April 23, 2013]] (via AutoSub)
+*[[373: April 24, 2013]] (via Wiki Page)
+
+|}
+
+==Black Ridge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Black Ridge'
+
+|-
+|'''Sources:'''
+|
+
+*[[730: August 12, 2003]] (via AutoSub, otter.ai)
+
+|}
+
+==Blackbeard==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Blackbeard'
+
+|-
+|'''Sources:'''
+|
+
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[663: July 24, 2003]] (via AutoSub)
+*[[712: The Decompression Session]] (via otter.ai)
+
+|}
+
+==BlackGenocidecom==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'BlackGenocide.com'
+
+|-
+|'''Sources:'''
+|
+
+*Clenard Childress (via Wiki Page)
+*[[57: August 12-16, 2015]] (via Wiki Page)
+
+|}
+
+==Blacklist RJ==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Blacklist RJ'
+
+|-
+|'''Sources:'''
+|
+
+*25(Repost) (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==Blackmagic==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blackmagic'
+
+|-
+|'''Sources:'''
+|
+
+*[[483: September 17, 2020]] (via AutoSub)
+*[[673: Jordan Takes The Wheel 8]] (via AutoSub)
+
+|}
+
+==Blackmail Congress==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Blackmail Congress'
+
+|-
+|'''Sources:'''
+|
+
+*[[241: Larry Gets Coached]] (via AutoSub)
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[90: October 10, 2017]] (via AutoSub)
+*[[91: October 11, 2017]] (via AutoSub)
+
+|}
+
+==Blacksburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blacksburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[210: March 9, 2009]] (via AutoSub)
+*[[652: February 21-24, 2022]] (via AutoSub)
+
+|}
+
+==Blackstone==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blackstone'
+
+|-
+|'''Sources:'''
+|
+
+*[[586: August 11-12, 2021]] (via AutoSub)
+*[[83: November 10-12, 2015]] (via AutoSub)
+
+|}
+
+==Blade Runner==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Blade Runner'
+
+|-
+|'''Sources:'''
+|
+
+*[[208: March 6-8, 2009]] (via AutoSub)
+*[[328: March 11-12, 2013]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub)
+*[[8: January 26-27, 2017]] (via otter.ai)
+
+|}
+
+==Blagojevich==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blagojevich'
+
+|-
+|'''Sources:'''
+|
+
+*[[402: February 20, 2020]] (via AutoSub)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+
+|}
+
+==Blair Witch Project==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Blair Witch Project'
+*'the Blair Witch Project'
+
+|-
+|'''Sources:'''
+|
+
+*[[433: May 12-13, 2020]] (via AutoSub)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub)
+
+|}
+
+==Blank Space==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blank Space'
+
+|-
+|'''Sources:'''
+|
+
+*[[472: August 17-19, 2020]] (via AutoSub)
+*[[641: Formulaic Objections Part 4]] (via AutoSub)
+
+|}
+
+==Blood Diamond==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blood Diamond'
+
+|-
+|'''Sources:'''
+|
+
+*[[406: March 1-4, 2020]] (via AutoSub)
+*[[631: December 20, 2021]] (via AutoSub)
+
+|}
+
+==Blood Meridian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PRODUCT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Blood Meridian'
+*'Blood Meridian\n\n'
+*'the Blood Meridian'
+
+|-
+|'''Sources:'''
+|
+
+*[[392: January 24, 2020]] (via AutoSub)
+*[[542: September 15, 2010]] (via AutoSub)
+*[[652: February 21-24, 2022]] (via AutoSub)
+
+|}
+
+==Blood Moon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, LOC
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Blood Moon'
+*'Blood moon'
+*'the Blood Moon'
+
+|-
+|'''Sources:'''
+|
+
+*[[191: Blood Moons and Our First Call-In]] (via AutoSub, Wiki Page)
+*[[84: December 21, 2012]] (via AutoSub)
+
+|}
+
+==Blood Sweat==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PRODUCT, PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Blood Sweat'
+
+|-
+|'''Sources:'''
+|
+
+*[[223: A Progressive Space Diplomat]] (via AutoSub)
+*[[343: April 3-8, 2013]] (via AutoSub)
+*[[373: April 24, 2013]] (via AutoSub)
+*[[552: May 6, 2003]] (via AutoSub)
+*[[77: August 23, 2017]] (via AutoSub)
+
+|}
+
+==Bloodlines==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bloodlines'
+
+|-
+|'''Sources:'''
+|
+
+*[[133: Operation Paul Revere]] (via AutoSub)
+*[[36: June 29, 2015]] (via AutoSub)
+*[[84: December 21, 2012]] (via AutoSub)
+
+|}
+
+==Bloodsport==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bloodsport'
+
+|-
+|'''Sources:'''
+|
+
+*[[284: April 12, 2019]] (via AutoSub)
+*[[459: July 17, 2020]] (via AutoSub)
+*[[529: February 8, 2021]] (via AutoSub)
+
+|}
+
+==Bloomfield==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bloomfield'
+
+|-
+|'''Sources:'''
+|
+
+*[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
+
+|}
+
+==Bloomingdale==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bloomingdale'
+*'Bloomingdale\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[535: October 16, 2014]] (via AutoSub)
+*[[735: October 12, 2022]] (via otter.ai)
+
+|}
+
+==Bloomsburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bloomsburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[670: July 28, 2003]] (via AutoSub)
+
+|}
+
+==Blown Away==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blown Away'
+
+|-
+|'''Sources:'''
+|
+
+*[[513: December 18, 2020]] (via AutoSub)
+*[[533: February 17, 2021]] (via AutoSub)
+
+|}
+
+==Blue Bloods==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blue Bloods'
+
+|-
+|'''Sources:'''
+|
+
+*[[13: February 14, 2017]] (via otter.ai)
+*[[426: April 27-28, 2020]] (via AutoSub)
+
+|}
+
+==Blue Cat Cafe==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Blue Cat Cafe'
+*'the Blue Cat Cafe'
+
+|-
+|'''Sources:'''
+|
+
+*[[19: March 3, 2017]] (via Wiki Page, otter.ai)
+
+|}
+
+==Blue Collar==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Blue Collar'
+
+|-
+|'''Sources:'''
+|
+
+*[[485: September 23-24, 2020]] (via AutoSub)
+*[[728: Elizabeth Williamson Returns Once More]] (via otter.ai)
+
+|}
+
+==Blue Ridge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Blue Ridge'
+*'the Blue Ridge'
+
+|-
+|'''Sources:'''
+|
+
+*[[496: October 22-23, 2020]] (via AutoSub)
+*[[581: June 3, 2003]] (via AutoSub)
+
+|}
+
+==Blues Brothers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Blues Brothers'
+*'The Blues Brothers'
+*'the Blues Brothers'
+
+|-
+|'''Sources:'''
+|
+
+*[[149: The Press Conference]] (via AutoSub)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai)
+*[[186: February 17-18, 2009]] (via AutoSub)
+*[[297: January 17-18, 2013]] (via AutoSub)
+*[[TWTWYTT Special]] (via AutoSub)
+
+|}
+
+==Blues Traveler==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Blues Traveler'
+*'a Blues Traveler'
+
+|-
+|'''Sources:'''
+|
+
+*[[162: May 19, 2018]] (via AutoSub)
+*[[69: August 1, 2017]] (via AutoSub)
+*[[71: August 4, 2017]] (via AutoSub)
+
+|}
+
+==Blumenthal==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Blumenthal'
+
+|-
+|'''Sources:'''
+|
+
+*[[310: June 13-14, 2019]] (via AutoSub, otter.ai)
+*[[323: July 19, 2019]] (via AutoSub)
+*[[639: January 17, 2022]] (via AutoSub)
+*[[735: October 12, 2022]] (via otter.ai)
+*[[74: October 4-6, 2015]] (via AutoSub)
+
+|}
+
+==Board of Commissioners==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Board of Commissioners'
+*'a Board of Commissioners'
+
+|-
+|'''Sources:'''
+|
+
+*[[570: June 24, 2021]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub)
+
+|}
+
+==Board of Education==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Board of Education'
+*'the Board of Education'
+
+|-
+|'''Sources:'''
+|
+
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[55: Megyn Kelly Interview Pt. 2]] (via AutoSub)
+*[[617: June 27, 2003]] (via AutoSub)
+
+|}
+
+==Board of Governors==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Board of Governors'
+*'The Board of Governors'
+
+|-
+|'''Sources:'''
+|
+
+*[[230B: Obama Deception, Part 2]] (via AutoSub)
+*[[470: ShadowGate]] (via AutoSub)
+
+|}
+
+==Bob Barker==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Barker'
+
+|-
+|'''Sources:'''
+|
+
+*[[272: December 20, 2012]] (via AutoSub)
+*[[39: Jack Posobiec...Ya Busted]] (via AutoSub)
+
+|}
+
+==Bob Barnes==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Barnes'
+
+|-
+|'''Sources:'''
+|
+
+*[[310: June 13-14, 2019]] (via otter.ai)
+*[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
+*[[712: The Decompression Session]] (via otter.ai)
+*[[732: Trial Press Conference]] (via otter.ai)
+
+|}
+
+==Bob Chapman==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|96
+|-
+|'''Source Texts:'''
+|
+
+*'Bob\r\nChapman'
+*'Bob Chapman'
+*"Bob Chapman's"
+
+|-
+|'''Sources:'''
+|
+
+*Bob Chapman (via Wiki Page)
+*Gerald Celente (via Wiki Page)
+*Ted Anderson (via Wiki Page)
+*[[123: March 18, 2008]] (via AutoSub, Wiki Page)
+*[[155: January 7-9, 2009]] (via AutoSub, Wiki Page)
+*[[160: January 22-25, 2009]] (via AutoSub, Wiki Page)
+*[[173: February 6-10, 2009]] (via AutoSub, Wiki Page)
+*[[183: February 12-16, 2009]] (via AutoSub, Wiki Page)
+*[[189: February 19-20, 2009]] (via AutoSub, Wiki Page)
+*[[198: July 22, 2011]] (via Wiki Page)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub, Wiki Page)
+*[[202: September 4-6, 2018]] (via AutoSub, Wiki Page)
+*[[203: March 2-4, 2009]] (via AutoSub)
+*[[204: Sweary Kerry's Larry]] (via AutoSub)
+*[[211: March 10, 2009]] (via AutoSub)
+*[[219: March 13, 2009]] (via AutoSub, Wiki Page)
+*[[224: March 20, 2009]] (via AutoSub, Wiki Page)
+*[[230E: Obama Deception, Part 5]] (via AutoSub)
+*[[237: March 27, 2009]] (via AutoSub, Wiki Page)
+*[[261: February 5-6, 2019]] (via AutoSub)
+*[[295: Crossover With QAnon Anonymous]] (via AutoSub)
+*[[303: January 29-31, 2013]] (via AutoSub)
+*[[333: August 16, 2019]] (via AutoSub)
+*[[406: March 1-4, 2020]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+*[[537: July 16-18, 2010]] (via AutoSub, Wiki Page)
+*[[545: March 30-31, 2021]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub, Wiki Page)
+*[[75: January 7, 2011]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bob Cratchit==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Cratchit'
+*'the Bob Cratchit'
+
+|-
+|'''Sources:'''
+|
+
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub, Wiki Page)
+*[[512: December 16-17, 2020]] (via AutoSub)
+
+|}
+
+==Bob Fletcher==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Fletcher'
+
+|-
+|'''Sources:'''
+|
+
+*[[276: January 1-2, 2013]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bob Marley==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Marley'
+
+|-
+|'''Sources:'''
+|
+
+*[[240: March 30-31, 2009]] (via AutoSub)
+*[[272: December 20, 2012]] (via AutoSub)
+*[[386: January 8, 2020]] (via AutoSub)
+*[[524: Inauguration 2021]] (via AutoSub)
+*[[62: August 19-26, 2015]] (via AutoSub)
+
+|}
+
+==Bob Marshall==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Marshall'
+
+|-
+|'''Sources:'''
+|
+
+*[[475: August 24-26, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bob Newhart==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Newhart'
+
+|-
+|'''Sources:'''
+|
+
+*[[580: July 20-21, 2021]] (via AutoSub)
+*[[633: December 30, 2021]] (via AutoSub)
+*[[77: August 23, 2017]] (via AutoSub)
+
+|}
+
+==Bob Odenkirk==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Odenkirk'
+
+|-
+|'''Sources:'''
+|
+
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[550: April 16, 2021]] (via AutoSub)
+
+|}
+
+==Bob Schultz==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Schultz'
+
+|-
+|'''Sources:'''
+|
+
+*[[203: March 2-4, 2009]] (via AutoSub)
+*[[276: January 1-2, 2013]] (via AutoSub)
+
+|}
+
+==Bob Woodward==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|11
+|-
+|'''Source Texts:'''
+|
+
+*'Bob Woodward'
+*"Bob Woodward's"
+*'the Bob Woodward'
+
+|-
+|'''Sources:'''
+|
+
+*[[480: September 9-10, 2020]] (via AutoSub, Wiki Page)
+*[[495: November 4-6, 2016]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via AutoSub)
+
+|}
+
+==Bobby Rush==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bobby Rush'
+
+|-
+|'''Sources:'''
+|
+
+*[[163: January 27-29, 2009]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub)
+
+|}
+
+==Bobcat Goldthwait==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bobcat Goldthwait'
+
+|-
+|'''Sources:'''
+|
+
+*[[117: January 8, 2018]] (via AutoSub)
+*[[633: December 30, 2021]] (via AutoSub)
+*[[693: August 4, 2003]] (via AutoSub)
+
+|}
+
+==Boca Raton==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Boca Raton'
+
+|-
+|'''Sources:'''
+|
+
+*[[196: August 21, 2018]] (via AutoSub)
+*[[279: Formulaic Objections]] (via otter.ai)
+*[[401: Formulaic Objections Part 3]] (via AutoSub, otter.ai)
+
+|}
+
+==Bohemian Grove==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG, LOC, PERSON, FAC, WORK_OF_ART
+|-
+|'''Total Count:'''
+|58
+|-
+|'''Source Texts:'''
+|
+
+*'Bohemian Grove'
+*'The Bohemian Grove'
+*'the Bohemian Grove'
+
+|-
+|'''Sources:'''
+|
+
+*Lee Ann McAdoo (via Wiki Page)
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[124: March 23, 2008]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[329: August 4-5, 2019]] (via Wiki Page)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[394: January 31, 2020]] (via AutoSub)
+*[[4: Research and Stand Up]] (via otter.ai)
+*[[412: March 24-25, 2020]] (via AutoSub)
+*[[49: July 6-13. 2015]] (via Wiki Page)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, Wiki Page)
+*[[510: Fourth Time Is Not A Charm]] (via AutoSub)
+*[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
+*[[552: May 6, 2003]] (via AutoSub)
+*[[555: May 7, 2003]] (via AutoSub, Wiki Page)
+*[[571: May 22-27, 2003]] (via AutoSub)
+*[[58: June 23, 2017]] (via AutoSub)
+*[[610: June 23, 2003]] (via Wiki Page)
+*[[613: June 24-25, 2003]] (via Wiki Page)
+*[[615: November 8, 2021?]] (via AutoSub, Wiki Page)
+*[[628: July 10, 2003]] (via AutoSub, Wiki Page)
+*[[634: July 11, 2003]] (via Wiki Page)
+*[[68: September 19-28, 2015]] (via AutoSub)
+*[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
+*[[700: July 6, 2022]] (via AutoSub)
+*[[707: Dan's War]] (via AutoSub)
+*[[730: August 12, 2003]] (via otter.ai)
+*[[9: Joe Rogan Appearance]] (via otter.ai)
+
+|}
+
+==Boiling Pot==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Boiling Pot\n\n'
+*'a Boiling Pot'
+
+|-
+|'''Sources:'''
+|
+
+*[[180: Heresy and God Kings]] (via AutoSub)
+*[[725: September 13-14, 2022]] (via AutoSub)
+
+|}
+
+==Bolshevik Revolution==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Bolshevik Revolution'
+*'a Bolshevik Revolution'
+*'the Bolshevik Revolution'
+
+|-
+|'''Sources:'''
+|
+
+*[[13: February 14, 2017]] (via AutoSub, otter.ai)
+*[[219: March 13, 2009]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub)
+*[[90: October 10, 2017]] (via AutoSub)
+
+|}
+
+==Bolsheviks==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Bolsheviks'
+
+|-
+|'''Sources:'''
+|
+
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[13: February 14, 2017]] (via otter.ai)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[517: January 5-6, 2021]] (via AutoSub)
+*[[652: February 21-24, 2022]] (via AutoSub)
+
+|}
+
+==Bombs Over==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bombs Over'
+
+|-
+|'''Sources:'''
+|
+
+*[[522: January 14-17, 2021]] (via AutoSub)
+*[[555: May 7, 2003]] (via AutoSub)
+
+|}
+
+==Bombshells==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Bombshells'
+
+|-
+|'''Sources:'''
+|
+
+*[[123: March 18, 2008]] (via AutoSub)
+*[[203: March 2-4, 2009]] (via AutoSub)
+*[[48: May 31, 2017]] (via AutoSub)
+*[[545: March 30-31, 2021]] (via AutoSub)
+*[[546: April 1-3, 2021]] (via AutoSub)
+*[[572: June 28-30, 2021]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+*[[625: December 5, 2021]] (via AutoSub)
+
+|}
+
+==bone thugs n harmony==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bone Thugs-N-Harmony'
+
+|-
+|'''Sources:'''
+|
+
+*[[129: David Rothschild Interview]] (via AutoSub)
+*[[133: Operation Paul Revere]] (via AutoSub)
+*[[360: October 23, 2019]] (via AutoSub)
+
+|}
+
+==Boo Radley==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Boo Radley'
+
+|-
+|'''Sources:'''
+|
+
+*[[282: April 5, 2019]] (via AutoSub)
+*[[527: February 4, 2021]] (via AutoSub)
+*[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
+
+|}
+
+==Boogaloo Bois==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Boogaloo Bois'
+
+|-
+|'''Sources:'''
+|
+
+*[[523: January 18-19, 2021]] (via AutoSub)
+*[[527: February 4, 2021]] (via AutoSub)
+
+|}
+
+==Book of Daniel==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'The Book of Daniel'
+*'the Book of Daniel'
+
+|-
+|'''Sources:'''
+|
+
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+*[[596: Possibly Too Much Wacky]] (via AutoSub)
+
+|}
+
+==Book of Enoch==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'The Book of Enoch'
+*'The Book of Enoch\n\n'
+*'the Book of Enoch'
+*'the Book of Enoch\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[125: Project Camelot's War In Heaven]] (via AutoSub)
+*[[184: Godly Particles and Illiteracy]] (via AutoSub)
+*[[553: April 26-27, 2021]] (via AutoSub)
+*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai)
+*[[621: Reset Wars: Episode 1]] (via AutoSub)
+
+|}
+
+==Book of Revelation==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Book of Revelation'
+*'the Book of Revelation'
+
+|-
+|'''Sources:'''
+|
+
+*[[212: Matrix Schemes and Billions In Liens]] (via Wiki Page)
+*[[423: April 20, 2020]] (via AutoSub)
+*[[469: August 12-13, 2020]] (via AutoSub)
+*[[511: The 12/12 Rallies]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub)
+*[[598: September 17, 2021]] (via AutoSub)
+*[[618: November 15, 2021]] (via AutoSub)
+
+|}
+
+==Book of Revelations==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|13
+|-
+|'''Source Texts:'''
+|
+
+*'Book of Revelations'
+*'The Book of Revelations'
+*'The Book of Revelations\n\n'
+*'the Book of Revelations'
+
+|-
+|'''Sources:'''
+|
+
+*[[125: Project Camelot's War In Heaven]] (via AutoSub)
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+*[[293: May 2-3, 2019]] (via AutoSub)
+*[[461: July 25, 2020]] (via AutoSub)
+*[[546: April 1-3, 2021]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+*[[598: September 17, 2021]] (via AutoSub)
+*[[601: June 16, 2003]] (via AutoSub)
+*[[679: May 9, 2022]] (via AutoSub)
+*[[700: July 6, 2022]] (via AutoSub)
+*[[730: August 12, 2003]] (via AutoSub, otter.ai)
+*[[734: October 9, 2022]] (via otter.ai)
+
+|}
+
+==Book of Secrets==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Book of Secrets'
+
+|-
+|'''Sources:'''
+|
+
+*[[356: October 11, 2019]] (via AutoSub)
+*[[78: October 12-15, 2015]] (via AutoSub)
+
+|}
+
+==Book of the Dead==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Book of the Dead'
+*'The Book of the Dead'
+
+|-
+|'''Sources:'''
+|
+
+*[[416: April 2, 2020]] (via AutoSub)
+*[[673: Jordan Takes The Wheel 8]] (via AutoSub)
+
+|}
+
+==Boone County==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Boone County'
+
+|-
+|'''Sources:'''
+|
+
+*[[144: March 25-31, Part 2]] (via AutoSub)
+*[[456: July 9-11, 2020]] (via AutoSub)
+
+|}
+
+==Boone's Farm==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*"Boone's Farm"
+*"Boone's Farm\n\n"
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via otter.ai)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai)
+*[[32: April 21, 2017]] (via AutoSub)
+*[[670: July 28, 2003]] (via AutoSub)
+
+|}
+
+==Border Patrol==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PRODUCT
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Border Patrol'
+*'The Border Patrol'
+*'the Border Patrol'
+
+|-
+|'''Sources:'''
+|
+
+*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
+*[[205: September 13, 2018]] (via AutoSub)
+*[[322: July 16-17, 2019]] (via AutoSub)
+*[[573: July 1, 2021]] (via AutoSub)
+*[[688: May 25, 2022]] (via AutoSub)
+
+|}
+
+==Bordertown==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bordertown'
+
+|-
+|'''Sources:'''
+|
+
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub)
+*[[726: September 15-16, 2022]] (via AutoSub)
+
+|}
+
+==Boris Johnson==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|53
+|-
+|'''Source Texts:'''
+|
+
+*"Boris\r\n    Johnson's"
+*'Boris Johnson'
+*"Boris Johnson's"
+
+|-
+|'''Sources:'''
+|
+
+*[[192: August 10, 2018]] (via AutoSub, Wiki Page)
+*[[324: Bilderberg Speeches]] (via AutoSub)
+*[[333: August 16, 2019]] (via AutoSub)
+*[[337: August 28-29, 2019]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[384: January 3, 2020]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[413: March 27, 2020]] (via AutoSub, Wiki Page)
+*[[489: October 2-4, 2020]] (via AutoSub, Wiki Page)
+*[[506: November 22-24, 2020]] (via AutoSub, Wiki Page)
+*[[526: January 28-31, 2021]] (via AutoSub)
+*[[557: May 11, 2021]] (via AutoSub)
+*[[561: Jordan Takes The Wheel 6]] (via AutoSub)
+*[[563: June 2, 2021]] (via AutoSub)
+*[[577: July 13, 2021]] (via AutoSub, Wiki Page)
+*[[635: January 6-7, 2022]] (via AutoSub)
+*[[640: January 22, 2022]] (via AutoSub, Wiki Page)
+*[[644: February 2, 2022]] (via AutoSub)
+*[[648: February 11, 2022]] (via AutoSub)
+*[[651: February 18, 2022]] (via AutoSub)
+*[[679: May 9, 2022]] (via AutoSub)
+
+|}
+
+==Boris Yeltsin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Boris Yeltsin'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via AutoSub)
+*[[13: February 14, 2017]] (via AutoSub, otter.ai)
+*[[181: August 16, 2016]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+
+|}
+
+==Born to Die==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Born to Die\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[522: January 14-17, 2021]] (via AutoSub)
+*[[551: April 20-21, 2021]] (via AutoSub)
+
+|}
+
+==Bosnian Muslim==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'a Bosnian Muslim'
+*'the Bosnian Muslim'
+
+|-
+|'''Sources:'''
+|
+
+*[[124: March 23, 2008]] (via AutoSub)
+*[[397: February 7-8, 2020]] (via AutoSub)
+
+|}
+
+==Bosnian War==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Bosnian War'
+
+|-
+|'''Sources:'''
+|
+
+*[[124: March 23, 2008]] (via AutoSub)
+*[[397: February 7-8, 2020]] (via AutoSub)
+
+|}
+
+==Boston Bomber==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, EVENT
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'The Boston Bomber'
+*'the Boston Bomber'
+
+|-
+|'''Sources:'''
+|
+
+*[[172: June 11, 2013]] (via AutoSub)
+*[[248: January 2, 2019]] (via AutoSub)
+*[[346: April 11-14, 2013]] (via AutoSub)
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[364: April 21-22, 2013]] (via AutoSub)
+*[[385: January 6, 2020]] (via AutoSub)
+*[[406: March 1-4, 2020]] (via AutoSub)
+
+|}
+
+==Boston Globe==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Boston Globe'
+*'the Boston Globe\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[364: April 21-22, 2013]] (via AutoSub, Wiki Page)
+
+|}
+
+==Boston Marathon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, FAC
+|-
+|'''Total Count:'''
+|53
+|-
+|'''Source Texts:'''
+|
+
+*'Boston Marathon'
+*'The Boston Marathon'
+*'the\r\nBoston Marathon'
+*'the Boston Marathon'
+*'the Boston Marathon\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[349: April 15-16, 2013]] (via AutoSub, Wiki Page)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub, Wiki Page)
+*[[359: It's All Legs]] (via AutoSub, Wiki Page)
+*[[361: April 19, 2013]] (via AutoSub, Wiki Page)
+*[[364: April 21-22, 2013]] (via AutoSub, Wiki Page)
+*[[367: April 23, 2013]] (via AutoSub, Wiki Page)
+*[[368: November 11-12, 2019]] (via AutoSub)
+*[[373: April 24, 2013]] (via Wiki Page)
+*[[378: Formulaic Objections Part 2]] (via otter.ai)
+*[[5: January 19, 2017]] (via AutoSub, otter.ai)
+*[[514: An X-Mas Report Rebuttal]] (via AutoSub)
+
+|}
+
+==Boston Marathon Bombing==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Boston Bombing'
+*'the Boston Bombing'
+*'the Boston Marathon Bombing'
+
+|-
+|'''Sources:'''
+|
+
+*Alex Jones (via Wiki Page)
+*Dan Bidondi (via Wiki Page)
+*[[346: April 11-14, 2013]] (via Wiki Page)
+*[[352: April 17, 2013]] (via Wiki Page)
+*[[665: Formulaic Objections Part 6]] (via otter.ai)
+*[[714: Trial Recap, Part 1]] (via otter.ai)
+
+|}
+
+==Boston Tea Party==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'the Boston Tea Party'
+
+|-
+|'''Sources:'''
+|
+
+*[[295: Crossover With QAnon Anonymous]] (via AutoSub)
+*[[721: September 2, 2022]] (via Welder, otter.ai)
+
+|}
+
+==Boston University==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Boston University'
+*"Boston University's"
+
+|-
+|'''Sources:'''
+|
+
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub)
+*[[96: October 22-23, 2017]] (via AutoSub)
+
+|}
+
+==Boy Scouts==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Boy Scouts'
+*'the Boy Scouts'
+
+|-
+|'''Sources:'''
+|
+
+*[[239: December 12-13, 2018]] (via AutoSub)
+*[[375: November 29, 2019]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub)
+
+|}
+
+==Bozeman Montana==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bozeman Montana'
+
+|-
+|'''Sources:'''
+|
+
+*[[166: February 2-3, 2009]] (via AutoSub)
+*[[215: March 11-12, 2009]] (via AutoSub)
+
+|}
+
+==Brackenridge Park==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brackenridge Park'
+
+|-
+|'''Sources:'''
+|
+
+*[[277: March 15, 2019]] (via AutoSub)
+*[[642: January 24, 2022]] (via AutoSub)
+
+|}
+
+==Brad Reeves==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|12
+|-
+|'''Source Texts:'''
+|
+
+*'Brad Reeves'
+
+|-
+|'''Sources:'''
+|
+
+*[[681: May 8, 2022]] (via AutoSub)
+*[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
+*[[712: The Decompression Session]] (via otter.ai)
+*[[732: Trial Press Conference]] (via otter.ai)
+
+|}
+
+==Brad Sherman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Brad Sherman'
+
+|-
+|'''Sources:'''
+|
+
+*[[230A: Obama Deception, Part 1]] (via Wiki Page)
+*[[230D: Obama Deception, Part 4]] (via AutoSub)
+*[[246: April 5-6, 2009]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bradley Foundation==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Bradley Foundation'
+*'The Bradley Foundation'
+*'the Bradley Foundation'
+
+|-
+|'''Sources:'''
+|
+
+*[[314: February 14-15, 2013]] (via AutoSub)
+*[[438: May 26-28, 2020]] (via AutoSub)
+
+|}
+
+==Bradley Reeves==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bradley Reeves'
+
+|-
+|'''Sources:'''
+|
+
+*Bradley Reeves (via Wiki Page)
+*Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones) (via Wiki Page)
+*Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
+*[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
+
+|}
+
+==Bradshaw Ranch==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, PRODUCT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bradshaw Ranch'
+*'the Bradshaw Ranch'
+
+|-
+|'''Sources:'''
+|
+
+*[[184: Godly Particles and Illiteracy]] (via AutoSub, Wiki Page)
+
+|}
+
+==Brain Force==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brain\r\n    Force'
+*'Brain Force'
+
+|-
+|'''Sources:'''
+|
+
+*[[47: June 19-July 5, 2015]] (via Wiki Page)
+*[[57: August 12-16, 2015]] (via Wiki Page)
+
+|}
+
+==Brain Trust==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'The Brain Trust'
+*'the Brain Trust'
+
+|-
+|'''Sources:'''
+|
+
+*[[338: March 27-28, 2013]] (via AutoSub)
+*[[500: November 5-6, 2020]] (via AutoSub)
+*[[567: June 13, 2021]] (via AutoSub)
+
+|}
+
+==Branch Davidian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, NORP, LAW
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Branch Davidian'
+*'the Branch Davidian'
+*'the Branch Davidian\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[737: Reflections on a Verdict Part 2]] (via otter.ai)
+
+|}
+
+==Brandenburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Brandenburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[451: June 29-30, 2020]] (via AutoSub)
+
+|}
+
+==Brandon Gilmore==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Brandon Gilmore'
+
+|-
+|'''Sources:'''
+|
+
+*[[138: March 13-15, 2018]] (via AutoSub)
+*[[139: St. Patrick's Day Special Report]] (via AutoSub)
+*[[149: The Press Conference]] (via AutoSub)
+*[[290: April 25-26, 2019]] (via AutoSub)
+*[[612: October 31, 2021]] (via AutoSub)
+
+|}
+
+==Brandon Tarrant==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Brandon Tarrant'
+
+|-
+|'''Sources:'''
+|
+
+*[[665: Formulaic Objections Part 6]] (via AutoSub, otter.ai)
+
+|}
+
+==Brave New World==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON, EVENT, FAC
+|-
+|'''Total Count:'''
+|19
+|-
+|'''Source Texts:'''
+|
+
+*'A Brave New World'
+*'Brave New World'
+*'The Brave New World'
+*'a Brave New World'
+*'the Brave New World'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via otter.ai)
+*[[130D: Endgame, Part 4]] (via AutoSub)
+*[[142: March 23, 2018]] (via Wiki Page)
+*[[218: October 17, 2018]] (via AutoSub)
+*[[392: January 24, 2020]] (via AutoSub)
+*[[428: May 1, 2020]] (via AutoSub)
+*[[524: Inauguration 2021]] (via AutoSub)
+*[[656: March 5, 2022]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub)
+*[[675: April 25, 2022]] (via AutoSub)
+*[[679: May 9, 2022]] (via AutoSub)
+*[[696: June 24, 2022]] (via AutoSub)
+*[[731: September 29-30, 2022]] (via AutoSub, otter.ai)
+*[[88: The 2015 Investigation Ends]] (via AutoSub)
+
+|}
+
+==Brave New World Revisited==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brave New World Revisited'
+*'the Brave New World Revisited\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[417: April 5, 2020]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub)
+
+|}
+
+==Braveheart==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Braveheart'
+
+|-
+|'''Sources:'''
+|
+
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[6: Inauguration Speech Recap]] (via otter.ai)
+
+|}
+
+==Bray Wyatt==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'Bray Wyatt'
+*"Bray Wyatt's"
+
+|-
+|'''Sources:'''
+|
+
+*[[176: June 28, 2018]] (via AutoSub)
+*[[397: February 7-8, 2020]] (via AutoSub)
+*[[417: April 5, 2020]] (via AutoSub)
+*[[548: May 5, 2003]] (via AutoSub)
+*[[733: October 6, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Brazilians==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brazilians'
+
+|-
+|'''Sources:'''
+|
+
+*[[13: February 14, 2017]] (via otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via otter.ai)
+
+|}
+
+==Breakaway States==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, LOC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Breakaway States'
+
+|-
+|'''Sources:'''
+|
+
+*[[646: February 6, 2022]] (via AutoSub)
+*[[652: February 21-24, 2022]] (via AutoSub)
+
+|}
+
+==Breakfast Table==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Breakfast Table'
+
+|-
+|'''Sources:'''
+|
+
+*[[476: Moon Colonies Part 2]] (via AutoSub)
+*[[503: Dan's Cara-Vanity Project Part 2]] (via AutoSub)
+
+|}
+
+==Breaking Bad==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Breaking Bad'
+*'Breaking Bad\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[124: March 23, 2008]] (via AutoSub)
+*[[372: November 20-21, 2019]] (via AutoSub)
+*[[559: Noam Man's Land]] (via AutoSub)
+
+|}
+
+==Breaking Point==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Breaking Point'
+*'Breaking Point\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[148: June 1-3, 2009]] (via AutoSub)
+*[[388: January 12-13, 2020]] (via AutoSub)
+*[[553: April 26-27, 2021]] (via AutoSub)
+*[[7: January 23-24, 2017]] (via AutoSub)
+
+|}
+
+==Breakthrough==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Breakthrough'
+
+|-
+|'''Sources:'''
+|
+
+*[[243: April 1-2, 2009]] (via AutoSub)
+*[[312: February 10-13, 2013]] (via AutoSub)
+*[[324: Bilderberg Speeches]] (via AutoSub)
+*[[366: November 5-6, 2019]] (via AutoSub)
+*[[375: November 29, 2019]] (via AutoSub)
+*[[583: August 1, 2021]] (via AutoSub)
+*[[603: October 3-4, 2021]] (via AutoSub)
+*[[621: Reset Wars: Episode 1]] (via AutoSub)
+*[[684: May 20, 2022]] (via AutoSub)
+
+|}
+
+==Breath Alex==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Breath Alex'
+*"Breath Alex's"
+
+|-
+|'''Sources:'''
+|
+
+*[[279: Formulaic Objections]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub)
+
+|}
+
+==Breitbart News==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Breitbart News'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via otter.ai)
+*[[13: February 14, 2017]] (via otter.ai)
+
+|}
+
+==Breitbartcom==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Breitbart.com'
+
+|-
+|'''Sources:'''
+|
+
+*[[122 LIVE: March 1-2, 2012]] (via AutoSub)
+*[[272: December 20, 2012]] (via AutoSub)
+*[[342: September 6-11, 2019]] (via AutoSub)
+
+|}
+
+==Brendan Fraser==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Brendan Fraser'
+
+|-
+|'''Sources:'''
+|
+
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
+*[[627: Reset Wars: Episode 2]] (via AutoSub)
+
+|}
+
+==Brennan Gilmore==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Brennan Gilmore'
+
+|-
+|'''Sources:'''
+|
+
+*[[138: March 13-15, 2018]] (via AutoSub, Wiki Page)
+
+|}
+
+==Breonna Taylor==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Breonna Taylor'
+
+|-
+|'''Sources:'''
+|
+
+*[[439: May 29-31, 2020]] (via AutoSub)
+*[[440: June 1-2, 2020]] (via Wiki Page)
+*[[454: December 17, 2013]] (via AutoSub)
+*[[485: September 23-24, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bret Michaels==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bret Michaels'
+
+|-
+|'''Sources:'''
+|
+
+*[[112: December 15, 2017]] (via AutoSub)
+*[[188: August 1, 2018]] (via AutoSub)
+
+|}
+
+==Bret Weinstein==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Bret Weinstein'
+
+|-
+|'''Sources:'''
+|
+
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[575: July 4, 2021]] (via AutoSub)
+*[[600: September 22, 2021]] (via AutoSub)
+*[[625: December 5, 2021]] (via AutoSub)
+*[[632: Christmas Message and More]] (via AutoSub)
+*[[718: August 21-22, 2022]] (via AutoSub)
+
+|}
+
+==Brett Alex==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brett Alex'
+
+|-
+|'''Sources:'''
+|
+
+*[[208: March 6-8, 2009]] (via AutoSub)
+*[[211: March 10, 2009]] (via AutoSub)
+
+|}
+
+==Brett Favre==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Brett Favre'
+
+|-
+|'''Sources:'''
+|
+
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[409: The Lionel Countdown]] (via AutoSub)
+*[[590: August 24, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
+==Brett Kavanaugh==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Brett Kavanaugh'
+
+|-
+|'''Sources:'''
+|
+
+*[[189: February 19-20, 2009]] (via AutoSub)
+*[[213: October 2, 2018]] (via AutoSub)
+*[[302: Discernment Overload]] (via AutoSub)
+
+|}
+
+==Brett Weinstein==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brett\r\n    Weinstein'
+*"Brett Weinstein's"
+
+|-
+|'''Sources:'''
+|
+
+*[[575: July 4, 2021]] (via Wiki Page)
+*[[718: August 21-22, 2022]] (via Welder)
+
+|}
+
+==Brian Alex==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Alex'
+
+|-
+|'''Sources:'''
+|
+
+*[[719: August 19, 2022]] (via Welder)
+
+|}
+
+==Brian Gibson==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Gibson'
+
+|-
+|'''Sources:'''
+|
+
+*[[511: The 12/12 Rallies]] (via AutoSub, Wiki Page)
+
+|}
+
+==Brian Herbert==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Herbert'
+
+|-
+|'''Sources:'''
+|
+
+*[[193: Big Skeletons and Pencil Ink]] (via AutoSub)
+*[[305: February 1, 2013]] (via AutoSub)
+
+|}
+
+==Brian Kemp==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Kemp'
+
+|-
+|'''Sources:'''
+|
+
+*[[333: August 16, 2019]] (via AutoSub)
+*[[504: November 16-17, 2020]] (via Wiki Page)
+*[[505: November 18, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Brian Kilmeade==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Kilmeade'
+
+|-
+|'''Sources:'''
+|
+
+*[[122 LIVE: March 1-2, 2012]] (via AutoSub)
+*[[138: March 13-15, 2018]] (via AutoSub)
+*[[718: August 21-22, 2022]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+
+|}
+
+==Brian McKenna==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brian McKenna'
+
+|-
+|'''Sources:'''
+|
+
+*[[665: Formulaic Objections Part 6]] (via AutoSub, otter.ai)
+
+|}
+
+==Brian Redban==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Redban'
+
+|-
+|'''Sources:'''
+|
+
+*[[261: February 5-6, 2019]] (via AutoSub)
+*[[569: June 23, 2021]] (via AutoSub)
+
+|}
+
+==Brian Stelter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|62
+|-
+|'''Source Texts:'''
+|
+
+*'Brian\r\nStelter'
+*'Brian Stelter'
+
+|-
+|'''Sources:'''
+|
+
+*[[117: January 8, 2018]] (via Wiki Page)
+*[[118: January 10-11, 2018]] (via Wiki Page)
+*[[131: David Lynch Interview]] (via Wiki Page)
+*[[195: August 17, 2018]] (via Wiki Page)
+*[[202: September 4-6, 2018]] (via Wiki Page)
+*[[438: May 26-28, 2020]] (via Wiki Page)
+*[[477: September 3, 2020]] (via Wiki Page)
+*[[491: October 12, 2020]] (via Wiki Page)
+*[[505: November 18, 2020]] (via Wiki Page)
+*[[522: January 14-17, 2021]] (via Wiki Page)
+*[[576: July 9, 2021]] (via Wiki Page)
+*[[639: January 17, 2022]] (via Wiki Page)
+*[[644: February 2, 2022]] (via Wiki Page)
+*[[712: The Decompression Session]] (via otter.ai)
+*[[714: Trial Recap, Part 1]] (via otter.ai)
+*[[715: Trial Recap, Part 2]] (via Welder, otter.ai)
+*[[719: August 19, 2022]] (via Welder, Wiki Page)
+*[[720: August 6, 2003]] (via Welder, otter.ai)
+*[[726: September 15-16, 2022]] (via otter.ai)
+*[[729: September 24, 2022]] (via otter.ai)
+*[[8: January 26-27, 2017]] (via Wiki Page, otter.ai)
+*[[InfoWars Roulette 2|InfoWars Roulette #2]] (via Wiki Page)
+
+|}
+
+==Brian Urlacher==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Urlacher'
+
+|-
+|'''Sources:'''
+|
+
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[428: May 1, 2020]] (via AutoSub)
+
+|}
+
+==Brian Williams==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|25
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Williams'
+*"Brian Williams's"
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via AutoSub, otter.ai)
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
+*[[151: April 16, 2018]] (via AutoSub)
+*[[28: How Not To Cover Alex Jones]] (via AutoSub)
+*[[407: March 5-10, 2020]] (via AutoSub)
+*[[590: August 24, 2021]] (via AutoSub, Wiki Page)
+*[[668: April 8, 2022]] (via AutoSub)
+*[[80: October 16-26, 2015]] (via AutoSub)
+
+|}
+
+==Brian Wilson==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brian Wilson'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[377: December 6-10, 2019]] (via AutoSub)
+
+|}
+
+==Brianna Taylor==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Brianna Taylor'
+*"Brianna Taylor's"
+
+|-
+|'''Sources:'''
+|
+
+*[[469: August 12-13, 2020]] (via AutoSub)
+*[[471: August 14-16, 2020]] (via AutoSub)
+*[[485: September 23-24, 2020]] (via AutoSub)
+*[[551: April 20-21, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
+==Briar Patch==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Briar Patch'
+*'the Briar Patch'
+
+|-
+|'''Sources:'''
+|
+
+*David Knight (via Wiki Page)
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[527: February 4, 2021]] (via AutoSub)
+
+|}
+
+==Brightness==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brightness'
+
+|-
+|'''Sources:'''
+|
+
+*[[599: June 13, 2003]] (via AutoSub)
+*[[691: June 6, 2022]] (via AutoSub)
+
+|}
+
+==Brightside==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brightside'
+
+|-
+|'''Sources:'''
+|
+
+*[[585: August 8, 2021]] (via AutoSub)
+*[[Alex's Breaky Minisode]] (via AutoSub)
+
+|}
+
+==Brightspot==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brightspot'
+
+|-
+|'''Sources:'''
+|
+
+*[[651: February 18, 2022]] (via AutoSub)
+*[[692: Alex Jones' Punch Out]] (via AutoSub)
+
+|}
+
+==British Army==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'British Army'
+*'the British Army'
+*"the British Army's"
+
+|-
+|'''Sources:'''
+|
+
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[560: May 12-13, 2003]] (via AutoSub)
+*[[604: October 5, 2021]] (via AutoSub)
+
+|}
+
+==British Columbia==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'British Columbia'
+*"British Columbia's"
+
+|-
+|'''Sources:'''
+|
+
+*[[130E: Endgame, Part 5]] (via AutoSub)
+*[[640: January 22, 2022]] (via AutoSub, Wiki Page)
+
+|}
+
+==British Embassy==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, FAC
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'British Embassy'
+*'the British Embassy'
+
+|-
+|'''Sources:'''
+|
+
+*[[615: November 8, 2021?]] (via AutoSub)
+*[[720: August 6, 2003]] (via AutoSub, Welder, otter.ai)
+
+|}
+
+==British Empire==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'British Empire'
+*'The British Empire'
+*'the British Empire'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via otter.ai)
+*[[104: November 20, 2017]] (via AutoSub, Wiki Page)
+*[[120: January 27, 2016]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[288: January 7-9, 2013]] (via AutoSub)
+*[[318: July 5, 2019]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[521: Salt Break]] (via AutoSub)
+*[[604: October 5, 2021]] (via AutoSub)
+
+|}
+
+==British Israel==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the British Israel'
+
+|-
+|'''Sources:'''
+|
+
+*[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
+*[[343: April 3-8, 2013]] (via AutoSub)
+
+|}
+
+==British Medical Journal==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'British Medical Journal'
+*'the British Medical Journal'
+
+|-
+|'''Sources:'''
+|
+
+*[[297: January 17-18, 2013]] (via Wiki Page)
+*[[726: September 15-16, 2022]] (via otter.ai)
+
+|}
+
+==Britney Spears==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|13
+|-
+|'''Source Texts:'''
+|
+
+*'Britney Spears'
+*'the Britney Spears'
+
+|-
+|'''Sources:'''
+|
+
+*[[109: December 4, 2017]] (via AutoSub)
+*[[166: February 2-3, 2009]] (via AutoSub)
+*[[167: February 4-5, 2009]] (via AutoSub)
+*[[31: April 17, 2017]] (via AutoSub)
+*[[355: April 18, 2013]] (via AutoSub)
+
+|}
+
+==Brittany Paz==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|47
+|-
+|'''Source Texts:'''
+|
+
+*'Brittany Paz'
+
+|-
+|'''Sources:'''
+|
+
+*Brittany Paz (via Wiki Page)
+*Connecticut Sandy Hook Lawsuit (Lafferty v. Jones) (via Wiki Page)
+*Jacquelyn Blott (via Wiki Page)
+*Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones) (via Wiki Page)
+*Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
+*[[685: Formulaic Objections Part 7]] (via Wiki Page, otter.ai)
+*[[732: Trial Press Conference]] (via otter.ai)
+
+|}
+
+==Broad City==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Broad City'
+
+|-
+|'''Sources:'''
+|
+
+*[[237: March 27, 2009]] (via AutoSub)
+*[[83: November 10-12, 2015]] (via AutoSub)
+
+|}
+
+==Broad Strokes==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Broad Strokes'
+
+|-
+|'''Sources:'''
+|
+
+*[[196: August 21, 2018]] (via AutoSub)
+*[[290: April 25-26, 2019]] (via AutoSub)
+*[[9: Joe Rogan Appearance]] (via AutoSub)
+
+|}
+
+==Brock Lesnar==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Brock Lesnar'
+*'a Brock Lesnar'
+
+|-
+|'''Sources:'''
+|
+
+*[[148: June 1-3, 2009]] (via AutoSub)
+*[[204: Sweary Kerry's Larry]] (via AutoSub)
+*[[39: Jack Posobiec...Ya Busted]] (via AutoSub)
+*[[393: January 28, 2020]] (via AutoSub)
+*[[542: September 15, 2010]] (via AutoSub)
+*[[86: September 22, 2017]] (via AutoSub)
+
+|}
+
+==Brookfield==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brookfield'
+
+|-
+|'''Sources:'''
+|
+
+*[[294: January 15-16, 2013]] (via AutoSub)
+*[[66: September 6-17, 2015]] (via AutoSub)
+
+|}
+
+==Brooks Brothers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Brooks Brothers'
+
+|-
+|'''Sources:'''
+|
+
+*[[463: July 28-30, 2020]] (via AutoSub)
+*[[480: September 9-10, 2020]] (via AutoSub)
+*[[639: January 17, 2022]] (via Wiki Page)
+*[[647: February 8, 2022]] (via AutoSub)
+*[[649: February 14, 2022]] (via AutoSub)
+
+|}
+
+==Broward County==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Broward County'
+
+|-
+|'''Sources:'''
+|
+
+*[[122 LIVE: March 1-2, 2012]] (via AutoSub)
+*[[141: March 20-22, 2018]] (via AutoSub)
+*[[322: July 16-17, 2019]] (via AutoSub)
+*[[429: May 3-4, 2020]] (via AutoSub)
+*[[500: November 5-6, 2020]] (via AutoSub)
+
+|}
+
+==Brown Bags==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brown Bags'
+
+|-
+|'''Sources:'''
+|
+
+*[[113: February 21-23, 2014]] (via AutoSub)
+*[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub)
+
+|}
+
+==Brownfield==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Brownfield'
+
+|-
+|'''Sources:'''
+|
+
+*[[703: 9/11, Part 1]] (via AutoSub)
+*[[704: 9/11, Part 2]] (via AutoSub)
+
+|}
+
+==Bruce Banner==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bruce Banner'
+
+|-
+|'''Sources:'''
+|
+
+*[[271: The Serpent Loves Word Games]] (via AutoSub)
+*[[289: January 10-13, 2013]] (via AutoSub)
+
+|}
+
+==Bruce Campbell==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bruce Campbell'
+*'the Bruce Campbell'
+
+|-
+|'''Sources:'''
+|
+
+*[[75: January 7, 2011]] (via AutoSub)
+*[[85: September 20-21, 2017]] (via AutoSub)
+
+|}
+
+==Bruce Springsteen==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Bruce Springsteen'
+
+|-
+|'''Sources:'''
+|
+
+*[[263: Jordan Takes The Wheel]] (via AutoSub)
+*[[264: February 11-13, 2019]] (via AutoSub)
+*[[284: April 12, 2019]] (via AutoSub)
+*[[529: February 8, 2021]] (via AutoSub, Wiki Page)
+*[[95: Project Camelot Break]] (via AutoSub)
+
+|}
+
+==Bruce Wayne==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bruce Wayne'
+*"Bruce Wayne's"
+
+|-
+|'''Sources:'''
+|
+
+*[[31: April 17, 2017]] (via AutoSub)
+*[[604: October 5, 2021]] (via AutoSub)
+*[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
+
+|}
+
+==Bruce Willis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|15
+|-
+|'''Source Texts:'''
+|
+
+*'Bruce Willis'
+
+|-
+|'''Sources:'''
+|
+
+*[[111: January 21-22, 2016]] (via AutoSub)
+*[[136: March 30-31, 2008]] (via AutoSub)
+*[[195: August 17, 2018]] (via AutoSub)
+*[[204: Sweary Kerry's Larry]] (via AutoSub)
+*[[308: February 6-8, 2013]] (via AutoSub)
+*[[345: September 19, 2019]] (via AutoSub)
+*[[354: October 8-9, 2019]] (via AutoSub)
+*[[36: June 29, 2015]] (via AutoSub)
+*[[363: October 30, 2019]] (via AutoSub)
+*[[470: ShadowGate]] (via AutoSub)
+*[[605: June 17, 2003]] (via AutoSub)
+*[[661: March 17, 2022]] (via AutoSub)
+*[[69: August 1, 2017]] (via AutoSub)
+*[[722: Space Capitalism Is Still Capitalism]] (via AutoSub)
+*[[9: Joe Rogan Appearance]] (via otter.ai)
+
+|}
+
+==Bruzdzinski==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bruzdzinski'
+
+|-
+|'''Sources:'''
+|
+
+*[[540: March 15-16, 2021]] (via AutoSub)
+*[[56: July 22-Aug 11, 2015]] (via AutoSub)
+*[[623: July 2-3, 2003]] (via AutoSub)
+
+|}
+
+==Bryson Gray==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bryson Gray'
+
+|-
+|'''Sources:'''
+|
+
+*[[511: The 12/12 Rallies]] (via Wiki Page)
+*[[708: The Cuck-Destroyer Destroys The Stage]] (via AutoSub)
+
+|}
+
+==Brzezinski==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Brzezinski'
+
+|-
+|'''Sources:'''
+|
+
+*[[110: December 5, 2017]] (via AutoSub)
+*[[186: February 17-18, 2009]] (via AutoSub)
+*[[373: April 24, 2013]] (via AutoSub)
+*[[532: February 15, 2021]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub)
+*[[623: July 2-3, 2003]] (via AutoSub)
+
+|}
+
+==Bubba Bubba==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Bubba Bubba'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via AutoSub)
+*[[175: Giants And Bonus Potatoes]] (via AutoSub)
+*[[31: April 17, 2017]] (via AutoSub)
+*[[358: October 18, 2019]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub)
+*[[645: November 4, 2014]] (via AutoSub)
+*[[673: Jordan Takes The Wheel 8]] (via AutoSub)
+*[[TWTWYTT Special]] (via AutoSub)
+
+|}
+
+==Bubba Wallace==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*"Bubba\r\n    Wallace's"
+*'Bubba Wallace'
+*"Bubba Wallace's"
+
+|-
+|'''Sources:'''
+|
+
+*[[449: June 23-24, 2020]] (via Wiki Page)
+*[[450: June 25-26, 2020]] (via Wiki Page)
+*[[641: Formulaic Objections Part 4]] (via AutoSub)
+*[[709: 2 Dan's 2 War]] (via AutoSub)
+
+|}
+
+==Bucharest Summit==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bucharest Summit'
+*'the Bucharest Summit'
+
+|-
+|'''Sources:'''
+|
+
+*[[646: February 6, 2022]] (via Wiki Page)
+*[[648: February 11, 2022]] (via AutoSub)
+
+|}
+
+==Buckaroo Banzai==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Buckaroo Banzai'
+
+|-
+|'''Sources:'''
+|
+
+*[[274: Ask Alex Anything]] (via AutoSub)
+*[[410: March 19-20, 2020]] (via AutoSub)
+*[[506: November 22-24, 2020]] (via AutoSub)
+
+|}
+
+==Buckaroo Bonzai==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Buckaroo Bonzai'
+
+|-
+|'''Sources:'''
+|
+
+*[[410: March 19-20, 2020]] (via Wiki Page)
+*[[506: November 22-24, 2020]] (via Wiki Page)
+
+|}
+
+==Buckhannon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Buckhannon'
+
+|-
+|'''Sources:'''
+|
+
+*[[388: January 12-13, 2020]] (via AutoSub)
+*[[426: April 27-28, 2020]] (via AutoSub)
+
+|}
+
+==Buckingham Palace==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Buckingham Palace'
+
+|-
+|'''Sources:'''
+|
+
+*[[240: March 30-31, 2009]] (via AutoSub)
+*[[243: April 1-2, 2009]] (via AutoSub)
+
+|}
+
+==Buckley Hamman==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON, GPE
+|-
+|'''Total Count:'''
+|103
+|-
+|'''Source Texts:'''
+|
+
+*'Buckley'
+*'Buckley\n\n'
+*'Buckley Hamman'
+
+|-
+|'''Sources:'''
+|
+
+*Buckley Hamman (via Wiki Page)
+*Carol Hamman (via Wiki Page)
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[109: December 4, 2017]] (via AutoSub)
+*[[11: February 10, 2017]] (via otter.ai)
+*[[130A: Endgame, Part 1]] (via AutoSub)
+*[[236: December 4-5, 2018]] (via AutoSub, Wiki Page)
+*[[248: January 2, 2019]] (via AutoSub)
+*[[259: January 27-29, 2019]] (via AutoSub)
+*[[284: April 12, 2019]] (via AutoSub, Wiki Page)
+*[[30: April 14, 2017]] (via AutoSub)
+*[[36: June 29, 2015]] (via AutoSub)
+*[[378: Formulaic Objections Part 2]] (via AutoSub, otter.ai)
+*[[47: June 19-July 5, 2015]] (via AutoSub)
+*[[495: November 4-6, 2016]] (via AutoSub)
+*[[497: Third Try's A Charm]] (via AutoSub)
+*[[53: June 12, 2017]] (via AutoSub)
+*[[530: February 10-11, 2021]] (via AutoSub)
+*[[56: July 22-Aug 11, 2015]] (via Wiki Page)
+*[[575: July 4, 2021]] (via AutoSub)
+*[[613: June 24-25, 2003]] (via AutoSub)
+*[[62: August 19-26, 2015]] (via AutoSub)
+*[[63: July 12, 2017]] (via AutoSub)
+*[[7: January 23-24, 2017]] (via otter.ai)
+*[[71: August 4, 2017]] (via AutoSub)
+*[[720: August 6, 2003]] (via AutoSub, Welder, otter.ai)
+*[[73: August 12, 2017]] (via AutoSub)
+*[[733: October 6, 2022]] (via otter.ai)
+*[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub, Wiki Page)
+*[[85: September 20-21, 2017]] (via AutoSub)
+*[[86: September 22, 2017]] (via AutoSub)
+*[[90: October 10, 2017]] (via AutoSub)
+*[[92: October 13 & 16, 2017]] (via AutoSub)
+*[[94: October 19, 2017]] (via AutoSub)
+*[[99: November 1, 2017]] (via AutoSub, otter.ai)
+*[[The Halloween Story]] (via AutoSub, Wiki Page)
+
+|}
+
+==Buena Vista==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Buena Vista'
+
+|-
+|'''Sources:'''
+|
+
+*[[135: The Wikileaks Press Conference]] (via AutoSub)
+*[[138: March 13-15, 2018]] (via AutoSub)
+*[[155: January 7-9, 2009]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub)
+*[[630: Mr. Jones Goes to Washington (To Sue Congress)]] (via AutoSub)
+*[[704: 9/11, Part 2]] (via AutoSub)
+
+|}
+
+==Bugs Bunny==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|11
+|-
+|'''Source Texts:'''
+|
+
+*'Bugs Bunny'
+*"Bugs Bunny's"
+
+|-
+|'''Sources:'''
+|
+
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[166: February 2-3, 2009]] (via AutoSub)
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[267: December 16, 2012]] (via AutoSub)
+*[[369: November 13, 2019]] (via AutoSub)
+*[[704: 9/11, Part 2]] (via AutoSub)
+*[[716: April 25, 2014]] (via AutoSub, Welder)
+
+|}
+
+==Bulshit Dan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bulshit Dan'
+
+|-
+|'''Sources:'''
+|
+
+*[[130E: Endgame, Part 5]] (via AutoSub)
+*[[510: Fourth Time Is Not A Charm]] (via AutoSub)
+
+|}
+
+==Bumper Music==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bumper Music'
+
+|-
+|'''Sources:'''
+|
+
+*[[12: Jon Rappoport]] (via AutoSub)
+*[[531: February 14, 2021]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+*[[631: December 20, 2021]] (via AutoSub)
+*[[696: June 24, 2022]] (via AutoSub)
+
+|}
+
+==Bundy Ranch==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, FAC, PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Bundy Ranch'
+*'the Bundy Ranch'
+*'the Bundy Ranch\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via AutoSub)
+*[[439: May 29-31, 2020]] (via AutoSub)
+*[[638: See You At The Cross-Rhodes]] (via AutoSub, Wiki Page)
+
+|}
+
+==Bunkerville==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bunkerville'
+
+|-
+|'''Sources:'''
+|
+
+*[[401: Formulaic Objections Part 3]] (via AutoSub)
+*[[638: See You At The Cross-Rhodes]] (via AutoSub)
+
+|}
+
+==Bureau of Alcohol Tobacco and Firearms==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'the Bureau of Alcohol Tobacco and Firearms'
+
+|-
+|'''Sources:'''
+|
+
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub)
+*[[539: March 10, 2021]] (via AutoSub)
+*[[581: June 3, 2003]] (via AutoSub)
+*[[601: June 16, 2003]] (via AutoSub)
+
+|}
+
+==Bureau of Justice==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Bureau of Justice'
+*'The Bureau of Justice'
+
+|-
+|'''Sources:'''
+|
+
+*[[329: August 4-5, 2019]] (via AutoSub)
+*[[439: May 29-31, 2020]] (via AutoSub)
+*[[544: May 1, 2003]] (via AutoSub)
+
+|}
+
+==Burger King==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Burger King'
+
+|-
+|'''Sources:'''
+|
+
+*[[222: March 15-19, 2009]] (via otter.ai)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[230D: Obama Deception, Part 4]] (via AutoSub)
+*[[258: April 12-13, 2009]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[398: February 9-10, 2020]] (via AutoSub)
+*[[407: March 5-10, 2020]] (via AutoSub)
+*[[409: The Lionel Countdown]] (via AutoSub)
+*[[539: March 10, 2021]] (via AutoSub)
+*[[95: Project Camelot Break]] (via AutoSub)
+
+|}
+
+==Burning Down==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Burning Down'
+
+|-
+|'''Sources:'''
+|
+
+*[[249: Predicting 9/11]] (via AutoSub)
+*[[465: August 3-4, 2020]] (via AutoSub)
+
+|}
+
+==Bush Administration==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|20
+|-
+|'''Source Texts:'''
+|
+
+*'Bush Administration'
+*'The Bush Administration'
+*'the Bush Administration'
+
+|-
+|'''Sources:'''
+|
+
+*[[211: March 10, 2009]] (via AutoSub)
+*[[230C: Obama Deception, Part 3]] (via AutoSub)
+*[[326: July 26-29, 2019]] (via AutoSub)
+*[[329: August 4-5, 2019]] (via AutoSub)
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[555: May 7, 2003]] (via AutoSub)
+*[[558: May 8-9, 2003]] (via AutoSub)
+*[[566: May 21, 2003]] (via AutoSub)
+*[[574: May 28-29, 2003]] (via AutoSub)
+*[[613: June 24-25, 2003]] (via AutoSub)
+*[[614: The Purge of Gates]] (via AutoSub)
+*[[628: July 10, 2003]] (via AutoSub)
+*[[637: January 13, 2022]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub)
+*[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub)
+*[[98: May 2-3, 2012]] (via AutoSub)
+
+|}
+
+==Bush Clinton==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bush Clinton'
+
+|-
+|'''Sources:'''
+|
+
+*[[720: August 6, 2003]] (via AutoSub, otter.ai)
+
+|}
+
+==Bush League==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Bush League'
+
+|-
+|'''Sources:'''
+|
+
+*[[238: Coach Dave]] (via AutoSub)
+*[[239: December 12-13, 2018]] (via AutoSub)
+*[[243: April 1-2, 2009]] (via AutoSub)
+*[[3: The Secret of 2017]] (via AutoSub)
+*[[358: October 18, 2019]] (via AutoSub)
+
+|}
+
+==Bushmaster==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bushmaster'
+
+|-
+|'''Sources:'''
+|
+
+*[[272: December 20, 2012]] (via AutoSub)
+*[[275: December 23-31, 2012]] (via AutoSub)
+
+|}
+
+==Business Insider==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, GPE
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Business Insider'
+*'the Business Insider'
+
+|-
+|'''Sources:'''
+|
+
+*[[170: Live In Austin]] (via AutoSub)
+*[[328: March 11-12, 2013]] (via AutoSub)
+*[[430: May 5-7, 2020]] (via AutoSub)
+*[[432: May 10-11, 2020]] (via AutoSub)
+*[[433: May 12-13, 2020]] (via AutoSub)
+*[[90: October 10, 2017]] (via AutoSub)
+
+|}
+
+==Buzz Aldrin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Buzz Aldrin'
+
+|-
+|'''Sources:'''
+|
+
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
+*[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
+
+|}
+
+==Buzz Bissinger==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Buzz Bissinger'
+
+|-
+|'''Sources:'''
+|
+
+*[[288: January 7-9, 2013]] (via Wiki Page)
+*[[289: January 10-13, 2013]] (via Wiki Page)
+*[[298: January 20-23, 2013]] (via Wiki Page)
+*[[310: June 13-14, 2019]] (via otter.ai)
+
+|}
+
+==Buzz Marketing==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Buzz Marketing'
+
+|-
+|'''Sources:'''
+|
+
+*[[153: More Mark Richards Fun]] (via AutoSub)
+*[[188: August 1, 2018]] (via AutoSub)
+*[[21: March 9, 2017]] (via AutoSub)
+*[[264: February 11-13, 2019]] (via AutoSub)
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[353: Mark Richards Pt. 11]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub)
+*[[643: January 28, 2022]] (via AutoSub)
+
+|}

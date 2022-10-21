@@ -1,0 +1,3141 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==Kaepernick==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'Kaepernick'
+
+|-
+|'''Sources:'''
+|
+
+*[[155: January 7-9, 2009]] (via AutoSub)
+*[[164: May 25, 2018]] (via AutoSub)
+*[[202: September 4-6, 2018]] (via AutoSub, Wiki Page)
+*[[267: December 16, 2012]] (via AutoSub)
+*[[451: June 29-30, 2020]] (via AutoSub)
+*[[480: September 9-10, 2020]] (via Wiki Page)
+*[[529: February 8, 2021]] (via AutoSub)
+*[[550: April 16, 2021]] (via AutoSub)
+*[[582: Chattin' With Jared]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub)
+*[[92: October 13 & 16, 2017]] (via AutoSub)
+
+|}
+
+==Kaiser Wilhelm==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Kaiser Wilhelm'
+*'The Kaiser Wilhelm'
+*'the Kaiser Wilhelm'
+
+|-
+|'''Sources:'''
+|
+
+*[[130C: Endgame, Part 3]] (via AutoSub)
+*[[310: June 13-14, 2019]] (via AutoSub, otter.ai)
+*[[57: August 12-16, 2015]] (via AutoSub)
+
+|}
+
+==Kaitlin Bennett==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|31
+|-
+|'''Source Texts:'''
+|
+
+*'Kaitlin Bennett'
+
+|-
+|'''Sources:'''
+|
+
+*[[195: August 17, 2018]] (via AutoSub, Wiki Page)
+*[[265: September 1, 2011]] (via AutoSub)
+*[[287: April 15-18, 2019]] (via AutoSub)
+*[[308: February 6-8, 2013]] (via AutoSub)
+*[[309: June 10-11, 2019]] (via AutoSub, Wiki Page)
+*[[318: July 5, 2019]] (via AutoSub)
+*[[322: July 16-17, 2019]] (via AutoSub, Wiki Page)
+*[[327: July 31, 2019]] (via AutoSub)
+*[[337: August 28-29, 2019]] (via AutoSub, Wiki Page)
+*[[347: September 23, 2019]] (via AutoSub)
+*[[359: It's All Legs]] (via AutoSub)
+*[[389: January 15-17, 2020]] (via AutoSub, Wiki Page)
+*[[401: Formulaic Objections Part 3]] (via AutoSub)
+*[[440: June 1-2, 2020]] (via AutoSub)
+*[[443: June 9, 2020]] (via AutoSub)
+*[[472: August 17-19, 2020]] (via AutoSub)
+*[[473: August 20-21, 2020]] (via AutoSub, Wiki Page)
+*[[512: December 16-17, 2020]] (via AutoSub)
+
+|}
+
+==Kamala Harris==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|55
+|-
+|'''Source Texts:'''
+|
+
+*'Kamala Harris'
+*"Kamala Harris's"
+
+|-
+|'''Sources:'''
+|
+
+*[[245: December 24, 2018]] (via AutoSub)
+*[[357: October 16, 2019]] (via AutoSub)
+*[[469: August 12-13, 2020]] (via AutoSub, Wiki Page)
+*[[485: September 23-24, 2020]] (via AutoSub)
+*[[491: October 12, 2020]] (via AutoSub)
+*[[494: October 19, 2020]] (via AutoSub)
+*[[501: November 7-8, 2020]] (via AutoSub)
+*[[506: November 22-24, 2020]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+*[[509: December 3-4, 2020]] (via AutoSub)
+*[[515: December 28-29, 2020]] (via AutoSub)
+*[[518: January 7-8, 2021]] (via AutoSub)
+*[[519: January 10-11, 2021]] (via AutoSub)
+*[[530: February 10-11, 2021]] (via AutoSub, Wiki Page)
+*[[589: August 18-20, 2021]] (via AutoSub, Wiki Page)
+*[[614: The Purge of Gates]] (via AutoSub)
+*[[616: November 9, 2021]] (via AutoSub)
+*[[619: November 16, 2021]] (via AutoSub)
+*[[622: June 30-July 1, 2003]] (via AutoSub)
+*[[637: January 13, 2022]] (via AutoSub)
+*[[69: August 1, 2017]] (via AutoSub)
+*[[711: August 2, 2022]] (via AutoSub)
+*[[717: August 17, 2022]] (via AutoSub, Welder)
+*[[723: September 8, 2022]] (via AutoSub, otter.ai)
+*[[726: September 15-16, 2022]] (via AutoSub, otter.ai)
+*[[731: September 29-30, 2022]] (via AutoSub, otter.ai)
+*[[79: Meet Captain Mark Richards]] (via AutoSub)
+
+|}
+
+==Kangaroo Court==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kangaroo Court'
+
+|-
+|'''Sources:'''
+|
+
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[693: August 4, 2003]] (via AutoSub)
+
+|}
+
+==Kansas City==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, FAC
+|-
+|'''Total Count:'''
+|38
+|-
+|'''Source Texts:'''
+|
+
+*'Kansas City'
+*"Kansas City's"
+
+|-
+|'''Sources:'''
+|
+
+*[[112: December 15, 2017]] (via AutoSub)
+*[[117: January 8, 2018]] (via AutoSub)
+*[[130C: Endgame, Part 3]] (via AutoSub, Wiki Page)
+*[[137: March 12, 2018]] (via AutoSub)
+*[[174: February 11, 2009]] (via AutoSub)
+*[[224: March 20, 2009]] (via AutoSub)
+*[[230A: Obama Deception, Part 1]] (via AutoSub)
+*[[252: April 7-8, 2009]] (via AutoSub)
+*[[254: April 9-10, 2009]] (via AutoSub)
+*[[272: December 20, 2012]] (via AutoSub)
+*[[341: September 5, 2019]] (via AutoSub)
+*[[377: December 6-10, 2019]] (via AutoSub)
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[485: September 23-24, 2020]] (via AutoSub)
+*[[489: October 2-4, 2020]] (via AutoSub)
+*[[529: February 8, 2021]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
+*[[581: June 3, 2003]] (via AutoSub)
+*[[591: June 11, 2003]] (via AutoSub)
+*[[592: June 12, 2003]] (via AutoSub)
+*[[6: Inauguration Speech Recap]] (via otter.ai)
+*[[607: A Chat With Mike Rothschild]] (via AutoSub)
+*[[680: July 31-August 1, 2003]] (via AutoSub)
+*[[683: May 16, 2022]] (via AutoSub)
+*[[736: Reflections on a Verdict]] (via otter.ai)
+
+|}
+
+==Kanye West==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|51
+|-
+|'''Source Texts:'''
+|
+
+*'Kanye West'
+*'Kanye West\n\n'
+*"Kanye West's"
+
+|-
+|'''Sources:'''
+|
+
+*[[154: April 23, 2018]] (via AutoSub, Wiki Page)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[190: August 6, 2018]] (via AutoSub)
+*[[21: March 9, 2017]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[242: December 18-19, 2018]] (via AutoSub)
+*[[281: April 4, 2019]] (via AutoSub)
+*[[363: October 30, 2019]] (via AutoSub, Wiki Page)
+*[[396: February 6, 2020]] (via AutoSub)
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[469: August 12-13, 2020]] (via AutoSub)
+*[[734: October 9, 2022]] (via Wiki Page, otter.ai)
+*[[738: Taking a Powder With Chowder]] (via Welder)
+*[[76: October 7-11, 2015]] (via AutoSub)
+
+|}
+
+==Karate Kid==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Karate Kid'
+*'The Karate Kid'
+*'The Karate Kid\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[475: August 24-26, 2020]] (via AutoSub)
+
+|}
+
+==Kardashian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kardashian'
+
+|-
+|'''Sources:'''
+|
+
+*[[163: January 27-29, 2009]] (via AutoSub)
+*[[3: The Secret of 2017]] (via otter.ai)
+
+|}
+
+==Kardashians==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|18
+|-
+|'''Source Texts:'''
+|
+
+*'Kardashians'
+
+|-
+|'''Sources:'''
+|
+
+*[[154: April 23, 2018]] (via AutoSub)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
+*[[284: April 12, 2019]] (via AutoSub)
+*[[608: Jordan Takes The Wheel 7]] (via AutoSub, Wiki Page)
+
+|}
+
+==Karen Kingston==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Karen Kingston'
+*"Karen Kingston's"
+
+|-
+|'''Sources:'''
+|
+
+*[[584: August 5, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
+==Karen Russo==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Karen Russo'
+
+|-
+|'''Sources:'''
+|
+
+*[[240: March 30-31, 2009]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kary Mullis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kary Mullis'
+
+|-
+|'''Sources:'''
+|
+
+*[[508: December 1-2, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kate Beckinsale==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kate Beckinsale'
+
+|-
+|'''Sources:'''
+|
+
+*[[222: March 15-19, 2009]] (via AutoSub, otter.ai)
+
+|}
+
+==Kate Daniels==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Kate Daniels'
+
+|-
+|'''Sources:'''
+|
+
+*[[378: Formulaic Objections Part 2]] (via AutoSub)
+*[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
+*[[685: Formulaic Objections Part 7]] (via AutoSub)
+
+|}
+
+==Kathy Griffin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE, LOC, ORG
+|-
+|'''Total Count:'''
+|28
+|-
+|'''Source Texts:'''
+|
+
+*'Kathy Griffin'
+*"Kathy Griffin's"
+*'the Kathy Griffin'
+
+|-
+|'''Sources:'''
+|
+
+*[[48: May 31, 2017]] (via AutoSub, Wiki Page)
+*[[604: October 5, 2021]] (via AutoSub, Wiki Page)
+*[[61: July 5, 2017]] (via AutoSub)
+
+|}
+
+==Katie Hopkins==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|12
+|-
+|'''Source Texts:'''
+|
+
+*'Katie Hopkins'
+*'the Katie Hopkins'
+
+|-
+|'''Sources:'''
+|
+
+*[[143: March 25-31 Part 1]] (via Wiki Page)
+*[[144: March 25-31, Part 2]] (via AutoSub, Wiki Page)
+*[[273: March 5-6, 2019]] (via AutoSub)
+*[[360: October 23, 2019]] (via AutoSub)
+*[[376: December 3-5, 2019]] (via AutoSub)
+
+|}
+
+==Katie Miller==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Katie Miller'
+
+|-
+|'''Sources:'''
+|
+
+*[[432: May 10-11, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Katt Williams==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Katt Williams'
+
+|-
+|'''Sources:'''
+|
+
+*[[550: April 16, 2021]] (via AutoSub)
+*[[650: July 17, 2003]] (via AutoSub)
+
+|}
+
+==Katy Perry==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'Katy Perry'
+
+|-
+|'''Sources:'''
+|
+
+*[[11: February 10, 2017]] (via otter.ai)
+*[[21: March 9, 2017]] (via AutoSub)
+*[[45: May 25, 2017]] (via AutoSub, Wiki Page)
+*[[538: March 2, 2021]] (via AutoSub)
+*[[612: October 31, 2021]] (via AutoSub)
+
+|}
+
+==Kazakhstan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kazakhstan'
+
+|-
+|'''Sources:'''
+|
+
+*[[111: January 21-22, 2016]] (via AutoSub)
+*[[364: April 21-22, 2013]] (via AutoSub)
+
+|}
+
+==Keanu Reeves==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|14
+|-
+|'''Source Texts:'''
+|
+
+*'Keanu Reeves'
+
+|-
+|'''Sources:'''
+|
+
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[13: February 14, 2017]] (via otter.ai)
+*[[189: February 19-20, 2009]] (via AutoSub)
+*[[296: May 8, 2019]] (via AutoSub)
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[435: May 18-21, 2020]] (via AutoSub)
+*[[467: August 7-9, 2020]] (via AutoSub)
+*[[52: July 14-21, 2015]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+*[[641: Formulaic Objections Part 4]] (via AutoSub)
+*[[71: August 4, 2017]] (via AutoSub)
+
+|}
+
+==Keilon Judiciary Committee==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Keilon Judiciary Committee'
+
+|-
+|'''Sources:'''
+|
+
+*25(Repost) (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
+==Keisha Scott==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Keisha Scott'
+*'Keisha Scott\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[290: April 25-26, 2019]] (via AutoSub)
+*[[389: January 15-17, 2020]] (via AutoSub)
+
+|}
+
+==Keith Ellison==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Keith Ellison'
+
+|-
+|'''Sources:'''
+|
+
+*[[264: February 11-13, 2019]] (via AutoSub)
+*[[6: Inauguration Speech Recap]] (via otter.ai)
+
+|}
+
+==Keith Olberman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Keith Olberman'
+*'Keith Olberman\r\n    '
+
+|-
+|'''Sources:'''
+|
+
+*[[41: May 12, 2017]] (via Wiki Page)
+*[[491: October 12, 2020]] (via Wiki Page)
+*[[492: October 13, 2020]] (via Wiki Page)
+
+|}
+
+==Keith Olbermann==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|27
+|-
+|'''Source Texts:'''
+|
+
+*'Keith Olbermann'
+*'Keith Olbermann\n\n'
+*'Keith Olbermann\r\n\r\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[110: December 5, 2017]] (via AutoSub)
+*[[36: June 29, 2015]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub, Wiki Page)
+*[[491: October 12, 2020]] (via AutoSub)
+*[[492: October 13, 2020]] (via AutoSub)
+*[[494: October 19, 2020]] (via AutoSub)
+*[[496: October 22-23, 2020]] (via AutoSub)
+*[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
+*[[65: September 2-4, 2015]] (via AutoSub)
+*[[707: Dan's War]] (via AutoSub)
+*[[72: August 9, 2017]] (via AutoSub)
+
+|}
+
+==Keith Overman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Keith Overman'
+
+|-
+|'''Sources:'''
+|
+
+*[[32: April 21, 2017]] (via AutoSub)
+*[[491: October 12, 2020]] (via AutoSub)
+
+|}
+
+==Keith Richards==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Keith Richards'
+
+|-
+|'''Sources:'''
+|
+
+*[[342: September 6-11, 2019]] (via AutoSub)
+*[[4: Research and Stand Up]] (via otter.ai)
+
+|}
+
+==Kelly Aprilia==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kelly Aprilia'
+
+|-
+|'''Sources:'''
+|
+
+*[[164: May 25, 2018]] (via AutoSub)
+*[[727: Chatting with Sebastian Murdock]] (via AutoSub)
+
+|}
+
+==Kelly Clark==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kelly Clark'
+
+|-
+|'''Sources:'''
+|
+
+*[[548: May 5, 2003]] (via AutoSub)
+*[[549: April 13-14, 2021]] (via AutoSub)
+
+|}
+
+==Kelly Johnson==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Kelly Johnson'
+*"Kelly Johnson's"
+
+|-
+|'''Sources:'''
+|
+
+*[[431: Smash-N-Grab Spy Jobs]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kelly Jones==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Kelly\r\nJones'
+*'Kelly Jones'
+
+|-
+|'''Sources:'''
+|
+
+*InfoWars (via Wiki Page)
+*Kelly Jones (via Wiki Page)
+*PQPR (via Wiki Page)
+*[[191: Blood Moons and Our First Call-In]] (via AutoSub)
+*[[422: April 17, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kellyanne Conway==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Kellyanne Conway'
+
+|-
+|'''Sources:'''
+|
+
+*[[17: February 7, 2017]] (via otter.ai)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[713: Chatting With Becca Lewis]] (via AutoSub)
+*[[8: January 26-27, 2017]] (via otter.ai)
+
+|}
+
+==Kelsey Grammer==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kelsey Grammer'
+
+|-
+|'''Sources:'''
+|
+
+*[[724: August 7-11, 2003]] (via AutoSub, otter.ai)
+
+|}
+
+==Ken Paxton==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Ken Paxton'
+
+|-
+|'''Sources:'''
+|
+
+*[[413: March 27, 2020]] (via AutoSub)
+*[[78: October 12-15, 2015]] (via AutoSub)
+
+|}
+
+==Kenneth Branagh==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kenneth Branagh'
+
+|-
+|'''Sources:'''
+|
+
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[3: The Secret of 2017]] (via AutoSub, otter.ai)
+
+|}
+
+==Kenny Bravo==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kenny Bravo'
+*"Kenny Bravo's"
+
+|-
+|'''Sources:'''
+|
+
+*[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
+
+|}
+
+==Kenny Loggins==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Kenny Loggins'
+
+|-
+|'''Sources:'''
+|
+
+*[[144: March 25-31, Part 2]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[250: Remote Poisoners And Crypto Bigotry]] (via AutoSub)
+
+|}
+
+==Kermit Gosnell==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kermit Gosnell'
+
+|-
+|'''Sources:'''
+|
+
+*[[176: June 28, 2018]] (via AutoSub)
+*[[373: April 24, 2013]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kernel of Truth==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kernel of Truth'
+
+|-
+|'''Sources:'''
+|
+
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[222: March 15-19, 2009]] (via AutoSub)
+
+|}
+
+==Kerry Cassidy==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|224
+|-
+|'''Source Texts:'''
+|
+
+*'Carrie Cassidy'
+*"Carrie Cassidy's"
+*'Kerry\r\n    Cassidy'
+*'Kerry Cassidy'
+*"Kerry Cassidy's"
+
+|-
+|'''Sources:'''
+|
+
+*Mark Richards (via Wiki Page)
+*Solomon Berg (via Wiki Page)
+*[[100: January 6-7, 2016]] (via AutoSub)
+*[[125: Project Camelot's War In Heaven]] (via AutoSub, Wiki Page)
+*[[149: The Press Conference]] (via AutoSub)
+*[[153: More Mark Richards Fun]] (via AutoSub)
+*[[154: April 23, 2018]] (via AutoSub)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub, Wiki Page)
+*[[159: Mantids and Chakra Attacks]] (via AutoSub)
+*[[165: Rotondo, Round 2]] (via AutoSub)
+*[[171: Loosh and Let Live]] (via AutoSub, Wiki Page)
+*[[177: Sweary Kerry and the Racist Alien]] (via AutoSub)
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+*[[184: Godly Particles and Illiteracy]] (via AutoSub)
+*[[185: July 27, 2018]] (via AutoSub)
+*[[187: Magic Cheesecloth and Secret Pleiadians]] (via AutoSub)
+*[[190: August 6, 2018]] (via AutoSub)
+*[[193: Big Skeletons and Pencil Ink]] (via AutoSub)
+*[[195: August 17, 2018]] (via AutoSub)
+*[[197: Jared Holt from the Sh!tpost Podcast]] (via AutoSub)
+*[[201: A New Messiah and The Plunger Toss]] (via AutoSub)
+*[[204: Sweary Kerry's Larry]] (via AutoSub)
+*[[207: Bus Station Photography and The Magic of Zoom]] (via AutoSub)
+*[[212: Matrix Schemes and Billions In Liens]] (via AutoSub)
+*[[217: Space Liars and Dragon Moths]] (via AutoSub)
+*[[218: October 17, 2018]] (via AutoSub)
+*[[223: A Progressive Space Diplomat]] (via AutoSub, Wiki Page)
+*[[224: March 20, 2009]] (via AutoSub)
+*[[229: Mars Germans and Moon Leases]] (via AutoSub)
+*[[232: Reverend Manning]] (via AutoSub, Wiki Page)
+*[[249: Predicting 9/11]] (via AutoSub)
+*[[251: January 8, 2019]] (via AutoSub)
+*[[260: Aliens Need Editors]] (via AutoSub)
+*[[261: February 5-6, 2019]] (via AutoSub)
+*[[271: The Serpent Loves Word Games]] (via AutoSub)
+*[[280: Raptor Weddings and Sardinian Spiders]] (via AutoSub)
+*[[291: Feline Contessas And Canine Capitalists]] (via AutoSub, Wiki Page)
+*[[302: Discernment Overload]] (via AutoSub, Wiki Page)
+*[[318: July 5, 2019]] (via AutoSub)
+*[[324: Bilderberg Speeches]] (via AutoSub, Wiki Page)
+*[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub)
+*[[338: March 27-28, 2013]] (via AutoSub)
+*[[344: April 9-10, 2013]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[359: It's All Legs]] (via AutoSub)
+*[[362: There Is No Mermaid]] (via AutoSub)
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[371: Canonical Space Weirdness]] (via AutoSub)
+*[[392: January 24, 2020]] (via AutoSub)
+*[[393: January 28, 2020]] (via AutoSub)
+*[[400: One Out Of Five Seems High]] (via AutoSub, Wiki Page)
+*[[405: Root Races and Terminated Spiders]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub)
+*[[419: Disease Denial and Vampire Affirmation]] (via AutoSub)
+*[[437: Gawain With a Telescope]] (via AutoSub, Wiki Page)
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[459: July 17, 2020]] (via AutoSub)
+*[[466: August 5-6, 2020]] (via AutoSub)
+*[[470: ShadowGate]] (via AutoSub)
+*[[479: The Devil Went Down To Kiev]] (via AutoSub)
+*[[507: Jordan Doesn't Know About Walk-Ins]] (via AutoSub)
+*[[521: Salt Break]] (via AutoSub)
+*[[529: February 8, 2021]] (via AutoSub)
+*[[560: May 12-13, 2003]] (via AutoSub)
+*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
+*[[629: Black Goo and Space Covid]] (via AutoSub)
+*[[67: Protocols of Zion]] (via AutoSub)
+*[[686: Continental Negotiations]] (via AutoSub)
+*[[698: For Squatch, There Are No Heroes]] (via Wiki Page)
+*[[722: Space Capitalism Is Still Capitalism]] (via otter.ai)
+*[[75: January 7, 2011]] (via AutoSub)
+*[[79: Meet Captain Mark Richards]] (via AutoSub)
+*[[84: December 21, 2012]] (via AutoSub)
+*[[87: Mark Richards Revisited]] (via AutoSub, Wiki Page)
+*[[95: Project Camelot Break]] (via AutoSub, Wiki Page)
+*[[98: May 2-3, 2012]] (via AutoSub)
+
+|}
+
+==Kevin Bacon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Bacon'
+
+|-
+|'''Sources:'''
+|
+
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
+*[[254: April 9-10, 2009]] (via AutoSub)
+*[[349: April 15-16, 2013]] (via AutoSub)
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[400: One Out Of Five Seems High]] (via AutoSub)
+*[[409: The Lionel Countdown]] (via AutoSub)
+*[[430: May 5-7, 2020]] (via AutoSub)
+
+|}
+
+==Kevin Booth==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|18
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Booth'
+
+|-
+|'''Sources:'''
+|
+
+*[[227: March 23, 2009]] (via AutoSub, Wiki Page)
+*[[704: 9/11, Part 2]] (via AutoSub)
+*[[88: The 2015 Investigation Ends]] (via AutoSub, Wiki Page)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kevin Boothe==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Boothe'
+
+|-
+|'''Sources:'''
+|
+
+*[[227: March 23, 2009]] (via AutoSub)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub)
+
+|}
+
+==Kevin Brown==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Brown'
+
+|-
+|'''Sources:'''
+|
+
+*[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
+
+|}
+
+==Kevin Conroy==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Conroy'
+
+|-
+|'''Sources:'''
+|
+
+*[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Kevin Costner==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Costner'
+*'Kevin Costner\r\n    '
+
+|-
+|'''Sources:'''
+|
+
+*[[254: April 9-10, 2009]] (via AutoSub)
+*[[355: April 18, 2013]] (via Wiki Page)
+
+|}
+
+==Kevin Hart==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Hart'
+
+|-
+|'''Sources:'''
+|
+
+*[[146: April 4, 2018]] (via AutoSub)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[209: Drunk Hotel Interview]] (via AutoSub)
+*[[259: January 27-29, 2019]] (via AutoSub)
+*[[468: August 11, 2020]] (via AutoSub)
+*[[565: June 10, 2021]] (via AutoSub)
+
+|}
+
+==Kevin Hogan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Hogan'
+
+|-
+|'''Sources:'''
+|
+
+*[[222: March 15-19, 2009]] (via AutoSub, otter.ai)
+*[[230E: Obama Deception, Part 5]] (via AutoSub)
+
+|}
+
+==Kevin Ives==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Ives'
+
+|-
+|'''Sources:'''
+|
+
+*[[398: February 9-10, 2020]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kevin McCarthy==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|22
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin McCarthy'
+
+|-
+|'''Sources:'''
+|
+
+*[[630: Mr. Jones Goes to Washington (To Sue Congress)]] (via AutoSub)
+*[[635: January 6-7, 2022]] (via AutoSub)
+*[[643: January 28, 2022]] (via Wiki Page)
+*[[644: February 2, 2022]] (via AutoSub)
+*[[645: November 4, 2014]] (via AutoSub)
+*[[647: February 8, 2022]] (via AutoSub)
+*[[666: March 31, 2022]] (via AutoSub, Wiki Page)
+*[[671: April 13, 2022]] (via AutoSub)
+*[[675: April 25, 2022]] (via AutoSub)
+*[[678: July 29-30, 2003]] (via AutoSub)
+*[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Kevin McDonald==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin McDonald'
+
+|-
+|'''Sources:'''
+|
+
+*[[617: June 27, 2003]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kevin McHale==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin McHale'
+
+|-
+|'''Sources:'''
+|
+
+*[[172: June 11, 2013]] (via AutoSub)
+*[[45: May 25, 2017]] (via AutoSub)
+
+|}
+
+==Kevin Moore==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|54
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Moore'
+*"Kevin Moore's"
+*'The Kevin Moore'
+*'the Kevin Moore'
+
+|-
+|'''Sources:'''
+|
+
+*[[291: Feline Contessas And Canine Capitalists]] (via AutoSub)
+*[[302: Discernment Overload]] (via AutoSub, Wiki Page)
+*[[305: February 1, 2013]] (via AutoSub)
+*[[353: Mark Richards Pt. 11]] (via AutoSub, Wiki Page)
+*[[359: It's All Legs]] (via AutoSub)
+*[[362: There Is No Mermaid]] (via AutoSub, Wiki Page)
+*[[371: Canonical Space Weirdness]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kevin Morris==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Morris'
+
+|-
+|'''Sources:'''
+|
+
+*[[291: Feline Contessas And Canine Capitalists]] (via AutoSub)
+*[[302: Discernment Overload]] (via AutoSub)
+*[[362: There Is No Mermaid]] (via AutoSub)
+*[[371: Canonical Space Weirdness]] (via AutoSub)
+
+|}
+
+==Kevin Nash==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Nash'
+
+|-
+|'''Sources:'''
+|
+
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[246: April 5-6, 2009]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+*[[4: Research and Stand Up]] (via otter.ai)
+*[[603: October 3-4, 2021]] (via AutoSub)
+
+|}
+
+==Kevin Nealon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Nealon'
+
+|-
+|'''Sources:'''
+|
+
+*[[102: Alex On Russian Media]] (via AutoSub)
+*[[471: August 14-16, 2020]] (via AutoSub)
+*[[526: January 28-31, 2021]] (via AutoSub)
+
+|}
+
+==Kevin Owens==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Owens'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
+*[[666: March 31, 2022]] (via AutoSub)
+
+|}
+
+==Kevin Smith==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Smith'
+
+|-
+|'''Sources:'''
+|
+
+*Norm Pattis (via Wiki Page)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[396: February 6, 2020]] (via AutoSub)
+*[[544: May 1, 2003]] (via AutoSub)
+
+|}
+
+==Kevin Spacey==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Spacey'
+
+|-
+|'''Sources:'''
+|
+
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
+*[[19: March 3, 2017]] (via AutoSub, otter.ai)
+*[[211: March 10, 2009]] (via AutoSub)
+*[[280: Raptor Weddings and Sardinian Spiders]] (via AutoSub, Wiki Page)
+*[[73: August 12, 2017]] (via AutoSub)
+*[[77: August 23, 2017]] (via AutoSub)
+
+|}
+
+==Kevin Trudeau==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Kevin Trudeau'
+
+|-
+|'''Sources:'''
+|
+
+*[[105: March 18, 2014]] (via AutoSub, Wiki Page)
+
+|}
+
+==Keyser Soze==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Keyser Soze'
+
+|-
+|'''Sources:'''
+|
+
+*[[300: May 21-22, 2019]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[696: June 24, 2022]] (via AutoSub)
+
+|}
+
+==Keystone Pipeline==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Keystone Pipeline'
+*'the Keystone Pipeline'
+
+|-
+|'''Sources:'''
+|
+
+*[[336: March 24-26, 2013]] (via AutoSub)
+*[[557: May 11, 2021]] (via AutoSub)
+
+|}
+
+==Kickstarter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kickstarter'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via AutoSub)
+*[[696: June 24, 2022]] (via AutoSub)
+
+|}
+
+==kid daniel==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*"The Kid Daniel's"
+*"the Kid Daniel's"
+
+|-
+|'''Sources:'''
+|
+
+*[[665: Formulaic Objections Part 6]] (via AutoSub)
+*[[681: May 8, 2022]] (via AutoSub)
+*[[687: May 24, 2022]] (via AutoSub)
+
+|}
+
+==Killer Instinct==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Killer Instinct'
+
+|-
+|'''Sources:'''
+|
+
+*[[455: July 7-8, 2020]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub)
+
+|}
+
+==Killer Mike==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Killer Mike'
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via AutoSub)
+*[[160: January 22-25, 2009]] (via AutoSub)
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+
+|}
+
+==Kim Jeong Hoon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|32
+|-
+|'''Source Texts:'''
+|
+
+*'Kim Jeong Hoon'
+
+|-
+|'''Sources:'''
+|
+
+*[[116: January 5, 2018]] (via AutoSub)
+*[[14: February 17, 2017]] (via AutoSub)
+*[[164: May 25, 2018]] (via AutoSub)
+*[[179: July 10, 2018]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[230E: Obama Deception, Part 5]] (via AutoSub)
+*[[304: May 30-31, 2019]] (via AutoSub)
+*[[305: February 1, 2013]] (via AutoSub)
+*[[328: March 11-12, 2013]] (via AutoSub)
+*[[335: March 15-22, 2013]] (via AutoSub)
+*[[339: March 29-April 1, 2013]] (via AutoSub)
+*[[342: September 6-11, 2019]] (via AutoSub)
+*[[346: April 11-14, 2013]] (via AutoSub)
+*[[384: January 3, 2020]] (via AutoSub)
+*[[72: August 9, 2017]] (via AutoSub)
+*[[731: September 29-30, 2022]] (via AutoSub)
+*[[77: August 23, 2017]] (via AutoSub)
+*[[86: September 22, 2017]] (via AutoSub)
+
+|}
+
+==Kim Jong Il==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|13
+|-
+|'''Source Texts:'''
+|
+
+*'Kim Jong Il'
+*'Kim Jong-il'
+
+|-
+|'''Sources:'''
+|
+
+*[[22: March 14, 2017]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[30: April 14, 2017]] (via AutoSub)
+*[[605: June 17, 2003]] (via AutoSub, Wiki Page)
+*[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
+
+|}
+
+==Kim Jong kook==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kim Jong-kook'
+
+|-
+|'''Sources:'''
+|
+
+*[[304: May 30-31, 2019]] (via AutoSub)
+*[[328: March 11-12, 2013]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+
+|}
+
+==Kim Jong Un==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|22
+|-
+|'''Source Texts:'''
+|
+
+*'Kim Jong Un'
+*"Kim Jong Un's"
+*'Kim Jong-un'
+*"Kim jong-un's"
+
+|-
+|'''Sources:'''
+|
+
+*[[23: March 16-17, 2017]] (via AutoSub)
+*[[30: April 14, 2017]] (via AutoSub)
+*[[304: May 30-31, 2019]] (via Wiki Page)
+*[[305: February 1, 2013]] (via Wiki Page)
+*[[328: March 11-12, 2013]] (via AutoSub, Wiki Page)
+*[[335: March 15-22, 2013]] (via AutoSub)
+*[[339: March 29-April 1, 2013]] (via AutoSub, Wiki Page)
+*[[61: July 5, 2017]] (via AutoSub)
+*[[73: August 12, 2017]] (via AutoSub)
+*[[731: September 29-30, 2022]] (via Wiki Page, otter.ai)
+*[[86: September 22, 2017]] (via AutoSub, Wiki Page)
+*[[87: Mark Richards Revisited]] (via AutoSub)
+
+|}
+
+==Kim Kardashian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Kim Kardashian'
+
+|-
+|'''Sources:'''
+|
+
+*[[179: July 10, 2018]] (via AutoSub)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[39: Jack Posobiec...Ya Busted]] (via AutoSub)
+*[[416: April 2, 2020]] (via AutoSub)
+*[[658: It's Pretty Easy Being Greene]] (via AutoSub)
+
+|}
+
+==Kim Possible==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kim Possible'
+
+|-
+|'''Sources:'''
+|
+
+*[[112: December 15, 2017]] (via AutoSub)
+*[[459: July 17, 2020]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub)
+
+|}
+
+==King County==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'King County'
+*"King County's"
+
+|-
+|'''Sources:'''
+|
+
+*[[432: May 10-11, 2020]] (via AutoSub)
+*[[702: July 11-12, 2022]] (via AutoSub)
+
+|}
+
+==King of England==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the King of England'
+
+|-
+|'''Sources:'''
+|
+
+*[[723: September 8, 2022]] (via otter.ai)
+*[[731: September 29-30, 2022]] (via otter.ai)
+
+|}
+
+==King's College==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*"King's College"
+
+|-
+|'''Sources:'''
+|
+
+*[[321: February 24-26, 2013]] (via AutoSub)
+*[[349: April 15-16, 2013]] (via AutoSub)
+
+|}
+
+==Kingdom of Heaven==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'The Kingdom of Heaven'
+*'the Kingdom of Heaven'
+
+|-
+|'''Sources:'''
+|
+
+*[[131: David Lynch Interview]] (via AutoSub)
+*[[681: May 8, 2022]] (via AutoSub)
+*[[730: August 12, 2003]] (via AutoSub, otter.ai)
+
+|}
+
+==Kingsville==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kingsville'
+
+|-
+|'''Sources:'''
+|
+
+*[[432: May 10-11, 2020]] (via AutoSub)
+*[[704: 9/11, Part 2]] (via AutoSub)
+
+|}
+
+==Kinky Friedman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Kinky Friedman'
+*'Kinky Friedman\r\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via otter.ai)
+*[[148: June 1-3, 2009]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kirk Cameron==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kirk Cameron'
+
+|-
+|'''Sources:'''
+|
+
+*[[144: March 25-31, Part 2]] (via AutoSub)
+*[[192: August 10, 2018]] (via AutoSub)
+*[[550: April 16, 2021]] (via AutoSub)
+
+|}
+
+==Kirk Franklin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kirk Franklin'
+
+|-
+|'''Sources:'''
+|
+
+*[[69: August 1, 2017]] (via AutoSub)
+*[[93: 2015 Investigation Last Looks]] (via AutoSub)
+
+|}
+
+==Kirk Lions==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kirk Lions'
+
+|-
+|'''Sources:'''
+|
+
+*[[341: September 5, 2019]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via AutoSub)
+
+|}
+
+==Kit Daniels==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|223
+|-
+|'''Source Texts:'''
+|
+
+*'Kit Daniels'
+*'the Kit Daniels'
+
+|-
+|'''Sources:'''
+|
+
+*Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
+*[[664: Formulaic Objections Part 5]] (via AutoSub, Wiki Page, otter.ai)
+*[[718: August 21-22, 2022]] (via Welder)
+
+|}
+
+==Kitt Daniels==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Kitt Daniels'
+
+|-
+|'''Sources:'''
+|
+
+*[[378: Formulaic Objections Part 2]] (via otter.ai)
+*[[664: Formulaic Objections Part 5]] (via otter.ai)
+
+|}
+
+==Klaus Schwab==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG, PERSON, EVENT, GPE
+|-
+|'''Total Count:'''
+|74
+|-
+|'''Source Texts:'''
+|
+
+*'Call Schwab'
+*"Clash Schwab's"
+*'Claude Schwab'
+*'Claus Schwab'
+*'Klaus\r\n    Schwab'
+*'Klaus Schwab'
+*'Klaus Schwab\n\n'
+*'Klaus Schwab\r\n    '
+*"Klaus Schwab's"
+
+|-
+|'''Sources:'''
+|
+
+*[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub, Wiki Page)
+*[[504: November 16-17, 2020]] (via AutoSub)
+*[[506: November 22-24, 2020]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via Wiki Page)
+*[[509: December 3-4, 2020]] (via Wiki Page)
+*[[523: January 18-19, 2021]] (via AutoSub)
+*[[525: January 27, 2021]] (via AutoSub)
+*[[562: May 27, 2021]] (via AutoSub)
+*[[572: June 28-30, 2021]] (via AutoSub, Wiki Page)
+*[[598: September 17, 2021]] (via Wiki Page)
+*[[618: November 15, 2021]] (via Wiki Page)
+*[[624: November 30, 2021]] (via Wiki Page)
+*[[625: December 5, 2021]] (via AutoSub)
+*[[626: December 9, 2021]] (via AutoSub, Wiki Page)
+*[[627: Reset Wars: Episode 2]] (via AutoSub)
+*[[631: December 20, 2021]] (via Wiki Page)
+*[[632: Christmas Message and More]] (via AutoSub, Wiki Page)
+*[[637: January 13, 2022]] (via AutoSub, Wiki Page)
+*[[643: January 28, 2022]] (via Wiki Page)
+*[[644: February 2, 2022]] (via AutoSub, Wiki Page)
+*[[648: February 11, 2022]] (via AutoSub)
+*[[651: February 18, 2022]] (via Wiki Page)
+*[[653: February 25, 2022]] (via Wiki Page)
+*[[654: February 27, 2022]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub)
+*[[662: March 22, 2022]] (via AutoSub, Wiki Page)
+*[[666: March 31, 2022]] (via AutoSub)
+*[[675: April 25, 2022]] (via AutoSub, Wiki Page)
+*[[677: May 4, 2022]] (via AutoSub)
+*[[678: July 29-30, 2003]] (via AutoSub)
+*[[691: June 6, 2022]] (via AutoSub)
+*[[696: June 24, 2022]] (via AutoSub)
+*[[702: July 11-12, 2022]] (via AutoSub)
+*[[704: 9/11, Part 2]] (via AutoSub)
+*[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub)
+*[[718: August 21-22, 2022]] (via AutoSub)
+*[[719: August 19, 2022]] (via AutoSub, Welder)
+*[[720: August 6, 2003]] (via Welder, otter.ai)
+*[[726: September 15-16, 2022]] (via otter.ai)
+*[[728: Elizabeth Williamson Returns Once More]] (via AutoSub, otter.ai)
+*[[729: September 24, 2022]] (via otter.ai)
+*[[731: September 29-30, 2022]] (via otter.ai)
+*[[733: October 6, 2022]] (via otter.ai)
+
+|}
+
+==Knights Templar==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'The Knights Templar'
+*'the Knights Templar'
+
+|-
+|'''Sources:'''
+|
+
+*[[120: January 27, 2016]] (via AutoSub)
+*[[356: October 11, 2019]] (via AutoSub)
+*[[79: Meet Captain Mark Richards]] (via AutoSub)
+
+|}
+
+==knock knock==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Knock-Knock'
+
+|-
+|'''Sources:'''
+|
+
+*[[394: January 31, 2020]] (via AutoSub)
+*[[415: April 1, 2020]] (via AutoSub)
+*[[481: September 13, 2012]] (via AutoSub)
+
+|}
+
+==Knowledge Fight==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|ORG, FAC, PERSON
+|-
+|'''Total Count:'''
+|53
+|-
+|'''Source Texts:'''
+|
+
+*'Knowledge Fight'
+*'the Knowledge Fight'
+
+|-
+|'''Sources:'''
+|
+
+*Alex Jones (via Wiki Page)
+*Bill Ogden (via Wiki Page)
+*Celine (via Wiki Page)
+*Dan Friesen (via Wiki Page)
+*Jordan Holmes (via Wiki Page)
+*Kerry Cassidy (via Wiki Page)
+*Mark Bankston (via Wiki Page)
+*Solomon Berg (via Wiki Page)
+*The Protocols of the Elders of Zion (via Wiki Page)
+*Tyler Snodgrass (via Wiki Page)
+*[[136: March 30-31, 2008]] (via Wiki Page)
+*[[138: March 13-15, 2018]] (via Wiki Page)
+*[[141: March 20-22, 2018]] (via Wiki Page)
+*[[142: March 23, 2018]] (via Wiki Page)
+*[[143: March 25-31 Part 1]] (via Wiki Page)
+*[[145: April 2, 2018]] (via Wiki Page)
+*[[146: April 4, 2018]] (via Wiki Page)
+*[[148: June 1-3, 2009]] (via Wiki Page)
+*[[151: April 16, 2018]] (via Wiki Page)
+*[[152: April 18, 2018]] (via Wiki Page)
+*[[155: January 7-9, 2009]] (via Wiki Page)
+*[[158: January 21, 2009]] (via Wiki Page)
+*[[160: January 22-25, 2009]] (via Wiki Page)
+*[[196: August 21, 2018]] (via Wiki Page)
+*[[199: August 29, 2018]] (via Wiki Page)
+*[[241: Larry Gets Coached]] (via Wiki Page)
+*[[342: September 6-11, 2019]] (via Wiki Page)
+*[[42: March 11, 2014]] (via Wiki Page)
+*[[516: December 31, 2020- January 1, 2021]] (via Wiki Page)
+*[[57: August 12-16, 2015]] (via Wiki Page)
+*[[59: August 17-18, 2015]] (via Wiki Page)
+*[[698: For Squatch, There Are No Heroes]] (via Wiki Page)
+*[[731: September 29-30, 2022]] (via otter.ai)
+*[[733: October 6, 2022]] (via otter.ai)
+*[[734: October 9, 2022]] (via otter.ai)
+*[[735: October 12, 2022]] (via otter.ai)
+
+|}
+
+==Knowledgefight.com==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Knowledgebite.com'
+*'Knowledgebuy.com'
+
+|-
+|'''Sources:'''
+|
+
+*[[714: Trial Recap, Part 1]] (via Welder)
+*[[720: August 6, 2003]] (via Welder)
+*[[738: Taking a Powder With Chowder]] (via Welder)
+
+|}
+
+==Knowledgerightcom==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Knowledgeright.com'
+
+|-
+|'''Sources:'''
+|
+
+*[[719: August 19, 2022]] (via Welder)
+
+|}
+
+==Kobe Bryant==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Kobe Bryant'
+*"Kobe Bryant's"
+
+|-
+|'''Sources:'''
+|
+
+*[[272: December 20, 2012]] (via AutoSub)
+*[[383: December 31, 2019]] (via AutoSub)
+*[[680: July 31-August 1, 2003]] (via AutoSub, Wiki Page)
+*[[730: August 12, 2003]] (via otter.ai)
+
+|}
+
+==Korean War==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|15
+|-
+|'''Source Texts:'''
+|
+
+*'Korean War'
+*'The Korean War'
+*'the Korean War'
+
+|-
+|'''Sources:'''
+|
+
+*[[148: June 1-3, 2009]] (via AutoSub)
+*[[227: March 23, 2009]] (via AutoSub)
+*[[251: January 8, 2019]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[380: December 19-20, 2019]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub)
+*[[416: April 2, 2020]] (via AutoSub)
+*[[544: May 1, 2003]] (via AutoSub)
+*[[692: Alex Jones' Punch Out]] (via AutoSub)
+
+|}
+
+==Krauthammer==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Krauthammer'
+
+|-
+|'''Sources:'''
+|
+
+*[[107: December 12, 2014]] (via AutoSub, Wiki Page)
+
+|}
+
+==Kris Jenner==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kris Jenner'
+
+|-
+|'''Sources:'''
+|
+
+*[[277: March 15, 2019]] (via AutoSub)
+*[[583: August 1, 2021]] (via AutoSub)
+
+|}
+
+==Kris Kristofferson==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kris Kristofferson'
+
+|-
+|'''Sources:'''
+|
+
+*[[123: March 18, 2008]] (via AutoSub)
+*[[3: The Secret of 2017]] (via otter.ai)
+*[[453: July 2, 2020]] (via AutoSub)
+*[[610: June 23, 2003]] (via AutoSub)
+
+|}
+
+==Kristen Bell==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kristen Bell'
+
+|-
+|'''Sources:'''
+|
+
+*[[289: January 10-13, 2013]] (via AutoSub)
+*[[319: July 7-8, 2019]] (via AutoSub)
+
+|}
+
+==Kristin Davis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kristin Davis'
+
+|-
+|'''Sources:'''
+|
+
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[487: September 28, 2020]] (via AutoSub)
+*[[495: November 4-6, 2016]] (via AutoSub)
+
+|}
+
+==Ku Klux Klan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, PERSON, LOC
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Ku Klux Klan'
+*'the Ku Klux Klan'
+*'the Ku Klux Klan\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[198: July 22, 2011]] (via AutoSub)
+*[[47: June 19-July 5, 2015]] (via AutoSub)
+*[[57: August 12-16, 2015]] (via AutoSub)
+*[[575: July 4, 2021]] (via AutoSub)
+*[[74: October 4-6, 2015]] (via AutoSub)
+*[[84: December 21, 2012]] (via AutoSub)
+
+|}
+
+==Kurt Angle==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kurt Angle'
+
+|-
+|'''Sources:'''
+|
+
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[196: August 21, 2018]] (via AutoSub)
+
+|}
+
+==Kurt Nimmo==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|16
+|-
+|'''Source Texts:'''
+|
+
+*'Kurt Nimmo'
+*"Kurt Nimmo's"
+
+|-
+|'''Sources:'''
+|
+
+*[[107: December 12, 2014]] (via AutoSub, Wiki Page)
+*[[173: February 6-10, 2009]] (via AutoSub)
+*[[339: March 29-April 1, 2013]] (via AutoSub, Wiki Page)
+*[[389: January 15-17, 2020]] (via AutoSub)
+*[[636: April 27, 2009]] (via AutoSub, Wiki Page)
+*[[678: July 29-30, 2003]] (via AutoSub, Wiki Page)
+*[[685: Formulaic Objections Part 7]] (via otter.ai)
+
+|}
+
+==Kurt Russell==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|23
+|-
+|'''Source Texts:'''
+|
+
+*'Kurt Russell'
+*"Kurt Russell's"
+*'The Kurt Russell'
+
+|-
+|'''Sources:'''
+|
+
+*[[101: January 11, 2016]] (via AutoSub)
+*[[125: Project Camelot's War In Heaven]] (via AutoSub)
+*[[14: February 17, 2017]] (via AutoSub, otter.ai)
+*[[210: March 9, 2009]] (via AutoSub)
+*[[223: A Progressive Space Diplomat]] (via AutoSub)
+*[[354: October 8-9, 2019]] (via AutoSub, Wiki Page)
+*[[372: November 20-21, 2019]] (via AutoSub)
+*[[400: One Out Of Five Seems High]] (via AutoSub)
+*[[433: May 12-13, 2020]] (via AutoSub)
+
+|}
+
+==Kurt Vonnegut==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|6
+|-
+|'''Source Texts:'''
+|
+
+*'Kurt Vonnegut'
+*'the Kurt Vonnegut'
+
+|-
+|'''Sources:'''
+|
+
+*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[488: The First Debate Spectacular]] (via AutoSub, Wiki Page)
+*[[658: It's Pretty Easy Being Greene]] (via AutoSub)
+*[[87: Mark Richards Revisited]] (via AutoSub)
+
+|}
+
+==Kyle Farah==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kyle Farah'
+
+|-
+|'''Sources:'''
+|
+
+*[[602: Sandy Hook Response]] (via otter.ai)
+*[[664: Formulaic Objections Part 5]] (via otter.ai)
+
+|}
+
+==Kyle Kinane==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kyle Kinane'
+
+|-
+|'''Sources:'''
+|
+
+*[[511: The 12/12 Rallies]] (via AutoSub)
+*[[560: May 12-13, 2003]] (via AutoSub)
+
+|}
+
+==Kyle Rittenhouse==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|11
+|-
+|'''Source Texts:'''
+|
+
+*'Kyle Rittenhouse'
+*"Kyle Rittenhouse's"
+
+|-
+|'''Sources:'''
+|
+
+*Robert Barnes (via Wiki Page)
+*[[475: August 24-26, 2020]] (via Wiki Page)
+*[[515: December 28-29, 2020]] (via AutoSub, Wiki Page)
+*[[620: November 23, 2021]] (via AutoSub)
+*[[658: It's Pretty Easy Being Greene]] (via AutoSub)
+*[[689: May 26, 2022]] (via AutoSub)
+
+|}
+
+==Kylie Minogue==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Kylie Minogue'
+
+|-
+|'''Sources:'''
+|
+
+*[[731: September 29-30, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Kyoto Protocol==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Kyoto Protocol'
+*'the Kyoto Protocol'
+
+|-
+|'''Sources:'''
+|
+
+*[[181: August 16, 2016]] (via AutoSub)
+*[[702: July 11-12, 2022]] (via AutoSub)
+
+|}
