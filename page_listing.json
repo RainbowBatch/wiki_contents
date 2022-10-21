@@ -4935,11 +4935,14 @@
     "title": "Rainbow Snatch"
   },
   {
+<<<<<<< HEAD
     "oldid": null,
     "slug": "RainbowBatch_Generated_Entity_Listing",
     "title": "RainbowBatch Generated Entity Listing"
   },
   {
+=======
+>>>>>>> latest_edits
     "oldid": 2668,
     "slug": "Ralph_Northam",
     "title": "Ralph Northam"
@@ -5395,12 +5398,12 @@
     "title": "Transcript/733: October 6, 2022"
   },
   {
-    "oldid": 4078,
+    "oldid": 4082,
     "slug": "Transcript{{FORWARD_SLASH}}734{{COLON}}_October_9,_2022",
     "title": "Transcript/734: October 9, 2022"
   },
   {
-    "oldid": 4050,
+    "oldid": 4083,
     "slug": "Transcript{{FORWARD_SLASH}}735{{COLON}}_October_12,_2022",
     "title": "Transcript/735: October 12, 2022"
   },
