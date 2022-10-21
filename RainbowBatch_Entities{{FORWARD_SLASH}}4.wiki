@@ -1,0 +1,34 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==4th Amendment==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT, PRODUCT, LAW, WORK_OF_ART
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Fourth Amendment'
+*'The Fourth Amendment'
+*'the Fourth Amendment'
+
+|-
+|'''Sources:'''
+|
+
+*25(Repost) (via AutoSub)
+*[[290: April 25-26, 2019]] (via AutoSub)
+*[[715: Trial Recap, Part 2]] (via otter.ai)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}

@@ -1,0 +1,300 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==Zach Voorhees==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Zach Voorhees'
+
+|-
+|'''Sources:'''
+|
+
+*[[333: August 16, 2019]] (via Wiki Page)
+*[[334: August 21-22, 2019]] (via AutoSub, Wiki Page)
+*[[374: November 25, 2019]] (via AutoSub, Wiki Page)
+*[[379: December 13-16, 2019]] (via AutoSub, Wiki Page)
+
+|}
+
+==Zach Woods==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Zach Woods'
+
+|-
+|'''Sources:'''
+|
+
+*[[142: March 23, 2018]] (via AutoSub)
+*[[78: October 12-15, 2015]] (via AutoSub)
+
+|}
+
+==Zachary Taylor==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Zachary Taylor'
+
+|-
+|'''Sources:'''
+|
+
+*[[723: September 8, 2022]] (via AutoSub, otter.ai)
+
+|}
+
+==Zack Morris==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Zack Morris'
+
+|-
+|'''Sources:'''
+|
+
+*[[8: January 26-27, 2017]] (via otter.ai)
+*[[99: November 1, 2017]] (via otter.ai)
+
+|}
+
+==Zbigniew Brzezinski==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Zbigniew Brzezinski'
+
+|-
+|'''Sources:'''
+|
+
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
+*[[202: September 4-6, 2018]] (via AutoSub)
+*[[210: March 9, 2009]] (via AutoSub)
+*[[373: April 24, 2013]] (via AutoSub, Wiki Page)
+*[[52: July 14-21, 2015]] (via AutoSub)
+*[[540: March 15-16, 2021]] (via AutoSub, Wiki Page)
+*[[651: February 18, 2022]] (via AutoSub)
+
+|}
+
+==Zeb Colter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Zeb Colter'
+
+|-
+|'''Sources:'''
+|
+
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[286: Wrestling With Disappointment]] (via AutoSub)
+*[[317: February 19-20, 2013]] (via AutoSub)
+
+|}
+
+==Zeb Coulter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Zeb Coulter'
+
+|-
+|'''Sources:'''
+|
+
+*[[286: Wrestling With Disappointment]] (via Wiki Page)
+*[[317: February 19-20, 2013]] (via AutoSub, Wiki Page)
+
+|}
+
+==Zell Miller==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Zell Miller'
+
+|-
+|'''Sources:'''
+|
+
+*[[594: September 7, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
+==Zero Hedge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, ORG
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'Zero Hedge'
+
+|-
+|'''Sources:'''
+|
+
+*[[160: January 22-25, 2009]] (via Wiki Page)
+*[[397: February 7-8, 2020]] (via AutoSub, Wiki Page)
+*[[594: September 7, 2021]] (via AutoSub)
+*[[602: Sandy Hook Response]] (via otter.ai)
+*[[665: Formulaic Objections Part 6]] (via otter.ai)
+*[[685: Formulaic Objections Part 7]] (via otter.ai)
+*[[714: Trial Recap, Part 1]] (via Welder)
+*[[715: Trial Recap, Part 2]] (via otter.ai)
+
+|}
+
+==Zodiac Killer==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, FAC
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Zodiac Killer'
+*'the Zodiac Killer'
+
+|-
+|'''Sources:'''
+|
+
+*[[104: November 20, 2017]] (via AutoSub)
+*[[13: February 14, 2017]] (via AutoSub, otter.ai)
+*[[14: February 17, 2017]] (via otter.ai)
+*[[269: December 19, 2012]] (via AutoSub)
+*[[352: April 17, 2013]] (via AutoSub)
+*[[382: December 23-27, 2019]] (via AutoSub)
+*[[474: June 6, 2016]] (via AutoSub)
+*[[604: October 5, 2021]] (via AutoSub)
+*[[8: January 26-27, 2017]] (via otter.ai)
+
+|}
+
+==Zombie Apocalypse==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Zombie Apocalypse'
+
+|-
+|'''Sources:'''
+|
+
+*[[2: December 31, 1999 (Y2K)]] (via otter.ai)
+*[[577: July 13, 2021]] (via AutoSub)
+
+|}

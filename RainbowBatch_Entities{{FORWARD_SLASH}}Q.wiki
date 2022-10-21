@@ -1,0 +1,340 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
+
+==QAnon Anonymous==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'QAnon Anonymous'
+*'QAnon Anonymous\r\n'
+
+|-
+|'''Sources:'''
+|
+
+*List of Knowledge Fight episodes (via Wiki Page)
+*[[295: Crossover With QAnon Anonymous]] (via Wiki Page)
+
+|}
+
+==Qanon Twitter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Qanon Twitter'
+
+|-
+|'''Sources:'''
+|
+
+*[[348: September 24-25, 2019]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub)
+
+|}
+
+==Quantum Leap==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quantum Leap'
+
+|-
+|'''Sources:'''
+|
+
+*[[548: May 5, 2003]] (via AutoSub)
+*[[589: August 18-20, 2021]] (via AutoSub)
+
+|}
+
+==Quarterback==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quarterback'
+
+|-
+|'''Sources:'''
+|
+
+*[[528: 2021 Super Bowl Commercial Spectacular]] (via AutoSub)
+*[[689: May 26, 2022]] (via AutoSub)
+
+|}
+
+==Quebec City==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quebec City'
+
+|-
+|'''Sources:'''
+|
+
+*[[17: February 7, 2017]] (via otter.ai)
+*[[78: October 12-15, 2015]] (via AutoSub)
+
+|}
+
+==Queen Beatrix==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Queen Beatrix'
+
+|-
+|'''Sources:'''
+|
+
+*[[130B: Endgame, Part 2]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub)
+*[[732: Trial Press Conference]] (via AutoSub, otter.ai)
+
+|}
+
+==Queen Elizabeth==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Queen Elizabeth'
+
+|-
+|'''Sources:'''
+|
+
+*[[111: January 21-22, 2016]] (via AutoSub)
+*[[240: March 30-31, 2009]] (via AutoSub, Wiki Page)
+*[[243: April 1-2, 2009]] (via Wiki Page)
+*[[385: January 6, 2020]] (via AutoSub)
+*[[723: September 8, 2022]] (via otter.ai)
+
+|}
+
+==Queen Victoria==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Queen Victoria'
+*'Queen Victoria\n\n'
+*"Queen Victoria's"
+
+|-
+|'''Sources:'''
+|
+
+*[[139: St. Patrick's Day Special Report]] (via AutoSub)
+*[[596: Possibly Too Much Wacky]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub)
+
+|}
+
+==Queensland==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Queensland'
+
+|-
+|'''Sources:'''
+|
+
+*[[624: November 30, 2021]] (via Wiki Page)
+*[[714: Trial Recap, Part 1]] (via otter.ai)
+
+|}
+
+==Quentin Tarantino==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, PRODUCT
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Quentin Tarantino'
+*'the Quentin Tarantino'
+
+|-
+|'''Sources:'''
+|
+
+*[[127: February 8, 2018]] (via AutoSub, Wiki Page)
+*[[539: March 10, 2021]] (via AutoSub)
+*[[575: July 4, 2021]] (via AutoSub)
+
+|}
+
+==Quincy Adams==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quincy Adams'
+
+|-
+|'''Sources:'''
+|
+
+*[[11: February 10, 2017]] (via AutoSub)
+*[[723: September 8, 2022]] (via otter.ai)
+
+|}
+
+==Quincy Jones==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quincy Jones'
+
+|-
+|'''Sources:'''
+|
+
+*[[130B: Endgame, Part 2]] (via AutoSub)
+*[[328: March 11-12, 2013]] (via AutoSub)
+
+|}
+
+==Quinnipiac==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quinnipiac'
+
+|-
+|'''Sources:'''
+|
+
+*[[344: April 9-10, 2013]] (via AutoSub)
+*[[379: December 13-16, 2019]] (via AutoSub)
+
+|}
