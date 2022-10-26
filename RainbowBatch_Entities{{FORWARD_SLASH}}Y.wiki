@@ -295,7 +295,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -321,7 +321,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG, PERSON
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |32
@@ -491,7 +491,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC, ORG
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
 |5

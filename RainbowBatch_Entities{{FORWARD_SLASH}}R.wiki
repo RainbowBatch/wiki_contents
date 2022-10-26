@@ -76,7 +76,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |12
@@ -111,7 +111,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -256,7 +256,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |5
@@ -596,7 +596,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, NORP
+|NORP, ORG
 |-
 |'''Total Count:'''
 |2
@@ -676,7 +676,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -958,7 +958,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -1191,7 +1191,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PRODUCT
+|PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -1425,7 +1425,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, NORP, PRODUCT
+|NORP, ORG, PRODUCT
 |-
 |'''Total Count:'''
 |6
@@ -2325,7 +2325,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -2403,7 +2403,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, PRODUCT
+|ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |17
@@ -2459,7 +2459,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -2510,7 +2510,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -2562,7 +2562,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC, EVENT
+|EVENT, FAC, ORG
 |-
 |'''Total Count:'''
 |24
@@ -2627,39 +2627,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Revolution==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|EVENT
-|-
-|'''Total Count:'''
-|11
-|-
-|'''Source Texts:'''
-|
-
-*'Revolution'
-
-|-
-|'''Sources:'''
-|
-
-*[[25: Dennis Montgomery Investigation]] (via AutoSub)
-*[[64: Aug 27-Sep 1, 2015]] (via AutoSub)
-*[[130D: Endgame, Part 4]] (via AutoSub)
-*[[130E: Endgame, Part 5]] (via AutoSub)
-*[[136: March 30-31, 2008]] (via AutoSub)
-*[[248: January 2, 2019]] (via AutoSub)
-*[[269: December 19, 2012]] (via AutoSub)
-*[[299: May 17-20, 2019]] (via AutoSub)
-*[[311: June 17-19, 2019]] (via AutoSub)
-*[[529: February 8, 2021]] (via AutoSub)
-
-|}
-
 ==Revolutionary==
 {| class="fandom-table"
 |'''Status:'''
@@ -2697,7 +2664,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|42
+|43
 |-
 |'''Source Texts:'''
 |
@@ -2706,6 +2673,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Revolutionary War\n\n'
 *'The Revolutionary War'
 *'the Revolutionary War'
+*'this Revolutionary War'
 
 |-
 |'''Sources:'''
@@ -2717,6 +2685,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[88: The 2015 Investigation Ends]] (via AutoSub)
 *[[141: March 20-22, 2018]] (via AutoSub)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub)
+*[[267: December 16, 2012]] (via AutoSub)
 *[[269: December 19, 2012]] (via AutoSub)
 *[[284: April 12, 2019]] (via AutoSub)
 *[[315: February 17-18, 2013]] (via AutoSub)
@@ -2745,7 +2714,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
 |3
@@ -4054,7 +4023,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -4079,7 +4048,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -4211,7 +4180,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LAW
+|LAW, ORG
 |-
 |'''Total Count:'''
 |6
@@ -4290,7 +4259,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |4
@@ -4604,7 +4573,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -4633,7 +4602,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, FAC
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
 |173
@@ -5748,7 +5717,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC
+|LOC, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -5850,7 +5819,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, WORK_OF_ART, FAC
+|FAC, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |6
@@ -5902,16 +5871,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, WORK_OF_ART, FAC
+|FAC, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
 
 *'Robert Steele'
 *'The Robert Steele'
+*'This Robert Steele'
 *'the Robert Steele'
 *'the Robert Steele\n\n'
 
@@ -5981,7 +5951,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |11
@@ -6036,15 +6006,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|FAC, PERSON
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
 
 *'Robert Young'
+*'this Robert Young'
 
 |-
 |'''Sources:'''
@@ -6562,7 +6533,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, ORG, FAC
+|FAC, LOC, ORG
 |-
 |'''Total Count:'''
 |7
@@ -6621,7 +6592,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -6844,7 +6815,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |917
@@ -7111,7 +7082,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -8298,7 +8269,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |163
@@ -8634,7 +8605,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |9
@@ -8728,7 +8699,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, FAC, GPE
+|FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |21
@@ -8898,7 +8869,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, WORK_OF_ART
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |74
@@ -8971,7 +8942,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |13
@@ -9101,7 +9072,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -9110,11 +9081,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'The Russian Bots\n\n'
 *'the Russian Bots'
 *'the Russian Bots\n\n'
+*'these Russian Bots'
 
 |-
 |'''Sources:'''
 |
 
+*[[31: April 17, 2017]] (via AutoSub)
 *[[99: November 1, 2017]] (via AutoSub)
 *[[101: January 11, 2016]] (via AutoSub)
 *[[105: March 18, 2014]] (via AutoSub)
@@ -9340,7 +9313,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |2

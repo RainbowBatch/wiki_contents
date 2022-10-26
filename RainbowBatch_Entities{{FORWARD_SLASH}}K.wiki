@@ -72,7 +72,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |31
@@ -167,17 +167,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Kangaroo Court'
+*'this Kangaroo Court'
 
 |-
 |'''Sources:'''
 |
 
+*[[370: November 14-15, 2019]] (via AutoSub)
 *[[399: February 12-14, 2020]] (via AutoSub)
 *[[693: August 4, 2003]] (via AutoSub)
 
@@ -189,7 +191,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, FAC
+|FAC, GPE
 |-
 |'''Total Count:'''
 |39
@@ -238,7 +240,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |60
@@ -277,7 +279,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -453,7 +455,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |5
@@ -479,10 +481,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE, LOC, ORG
+|GPE, LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|28
+|29
 |-
 |'''Source Texts:'''
 |
@@ -490,6 +492,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Kathy Griffin'
 *"Kathy Griffin's"
 *'the Kathy Griffin'
+*'this Kathy Griffin'
 
 |-
 |'''Sources:'''
@@ -507,7 +510,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |12
@@ -638,7 +641,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |14
@@ -778,7 +781,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|27
+|28
 |-
 |'''Source Texts:'''
 |
@@ -786,6 +789,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Keith Olbermann'
 *'Keith Olbermann\n\n'
 *'Keith Olbermann\r\n\r\n'
+*'This Keith Olbermann\n\n'
 
 |-
 |'''Sources:'''
@@ -936,7 +940,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -1839,7 +1843,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -1918,7 +1922,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -2236,13 +2240,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
 
 *'The Kingdom of Heaven'
 *'the Kingdom of Heaven'
+*'this Kingdom of Heaven'
 
 |-
 |'''Sources:'''
@@ -2285,7 +2290,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |9
@@ -2362,7 +2367,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -2387,7 +2392,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |224
@@ -2440,7 +2445,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, ORG, PERSON, EVENT, GPE
+|EVENT, FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |74
@@ -2541,7 +2546,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -2567,7 +2572,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|ORG, FAC, PERSON
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
 |55
@@ -2868,7 +2873,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, PERSON, LOC
+|FAC, LOC, PERSON
 |-
 |'''Total Count:'''
 |8
@@ -2990,7 +2995,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6

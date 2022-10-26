@@ -65,7 +65,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, GPE
+|GPE, NORP
 |-
 |'''Total Count:'''
 |3
@@ -383,7 +383,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, PERSON
+|PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |2
@@ -507,7 +507,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LAW, PERSON
+|LAW, ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -584,7 +584,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |14
@@ -862,7 +862,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |8
@@ -1439,16 +1439,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC, PERSON
+|LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
 
 *'Marcel Fontaine'
 *'the Marcel Fontaine'
+*'this Marcel Fontaine'
 
 |-
 |'''Sources:'''
@@ -1459,7 +1460,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[602: Sandy Hook Response]] (via otter.ai)
 *[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
 *[[665: Formulaic Objections Part 6]] (via AutoSub)
-*[[685: Formulaic Objections Part 7]] (via otter.ai)
+*[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
 
 |}
 
@@ -1519,7 +1520,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |30
@@ -1579,7 +1580,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC
+|LOC, PERSON
 |-
 |'''Total Count:'''
 |5
@@ -1867,7 +1868,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
 |11
@@ -2031,7 +2032,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, NORP, PRODUCT
+|NORP, PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |8
@@ -2099,7 +2100,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |16
@@ -2730,7 +2731,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |271
@@ -2896,7 +2897,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |18
@@ -3017,7 +3018,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE, ORG
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |97
@@ -3209,7 +3210,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, LOC
+|LOC, NORP
 |-
 |'''Total Count:'''
 |8
@@ -3656,7 +3657,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |178
@@ -3699,7 +3700,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -4056,7 +4057,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==MasterCard==
+==Mastercard==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -4120,7 +4121,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -4789,7 +4790,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, EVENT
+|EVENT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -5254,6 +5255,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Medical Association==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'these Medical Association\n\n'
+
+|-
+|'''Sources:'''
+|
+
+*25(Repost) (via AutoSub)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
+
+|}
+
 ==Medical Services==
 {| class="fandom-table"
 |'''Status:'''
@@ -5392,7 +5418,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, WORK_OF_ART, ORG
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |30
@@ -5448,7 +5474,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |37
@@ -5591,7 +5617,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |41
@@ -5752,7 +5778,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -5990,7 +6016,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |13
@@ -6076,7 +6102,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |13
@@ -6165,13 +6191,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
 
 *'Message Board'
 *'The Message Board'
+*'these Message Board'
 
 |-
 |'''Sources:'''
@@ -6184,6 +6211,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[352: April 17, 2013]] (via AutoSub)
 *[[355: April 18, 2013]] (via AutoSub)
 *[[485: September 23-24, 2020]] (via AutoSub)
+*[[607: A Chat With Mike Rothschild]] (via AutoSub)
 
 |}
 
@@ -6243,7 +6271,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -6449,7 +6477,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -6473,7 +6501,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, ORG, PERSON, FAC
+|FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |10
@@ -6501,7 +6529,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |8
@@ -7219,7 +7247,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Michael McLendon==
+==Michael Mclendon==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -7250,10 +7278,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
-|64
+|65
 |-
 |'''Source Texts:'''
 |
@@ -7261,6 +7289,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Michael Moore'
 *"Michael Moore's"
 *"the Michael Moore's"
+*'this Michael Moore'
 
 |-
 |'''Sources:'''
@@ -7284,6 +7313,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[331: March 13-14, 2013]] (via AutoSub, Wiki Page)
 *[[335: March 15-22, 2013]] (via AutoSub)
 *[[352: April 17, 2013]] (via AutoSub, Wiki Page)
+*[[359: It's All Legs]] (via AutoSub)
 *[[489: October 2-4, 2020]] (via AutoSub, Wiki Page)
 *[[678: July 29-30, 2003]] (via AutoSub, Wiki Page)
 *[[690: May 27, 2022]] (via AutoSub, Wiki Page)
@@ -7503,10 +7533,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC, ORG
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|163
+|164
 |-
 |'''Source Texts:'''
 |
@@ -7516,6 +7546,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Michael Savage\r\n\r\n'
 *"Michael Savage's"
 *'the Michael Savage'
+*'this Michael Savage'
 
 |-
 |'''Sources:'''
@@ -8384,7 +8415,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -8623,7 +8654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, LOC
+|LOC, NORP
 |-
 |'''Total Count:'''
 |6
@@ -8657,19 +8688,22 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
 
 *'Middle Ground'
+*'this Middle Ground'
 
 |-
 |'''Sources:'''
 |
 
 *[[100: January 6-7, 2016]] (via AutoSub)
+*[[351: Jordan Takes The Wheel 2]] (via AutoSub)
 *[[499: Jordan Takes The Wheel 5]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub)
 
 |}
 
@@ -8727,6 +8761,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Midway Island==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Midway Island'
+*'this Midway Island'
+
+|-
+|'''Sources:'''
+|
+
+*[[333: August 16, 2019]] (via AutoSub, Wiki Page)
+
+|}
+
 ==Mighty Duck==
 {| class="fandom-table"
 |'''Status:'''
@@ -8757,7 +8816,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LAW, WORK_OF_ART
+|LAW, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |7
@@ -8789,7 +8848,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, PRODUCT
+|ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |5
@@ -9137,7 +9196,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Mike Flynn JR==
+==Mike Flynn Jr==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -9419,7 +9478,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |61
@@ -10027,7 +10086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |118
@@ -10205,7 +10264,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG, PERSON
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -10406,7 +10465,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LAW
+|LAW, ORG
 |-
 |'''Total Count:'''
 |2
@@ -10818,7 +10877,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, PRODUCT
+|ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |6
@@ -10923,7 +10982,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, ORG
+|ORG, PRODUCT
 |-
 |'''Total Count:'''
 |2
@@ -10948,7 +11007,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -11259,7 +11318,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON, GPE
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |30
@@ -11342,7 +11401,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, PERSON, LOC
+|GPE, LOC, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -11442,7 +11501,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |9
@@ -11551,7 +11610,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, GPE
+|GPE, LOC
 |-
 |'''Total Count:'''
 |11
@@ -11605,7 +11664,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, PERSON, LOC
+|LOC, NORP, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -11959,7 +12018,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -12008,7 +12067,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, PERSON
+|PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |4

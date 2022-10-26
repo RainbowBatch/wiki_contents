@@ -86,7 +86,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON, GPE
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |12
@@ -117,7 +117,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, EVENT
+|EVENT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -331,7 +331,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, PERSON, WORK_OF_ART
+|PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |24
@@ -364,7 +364,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, ORG
+|ORG, PRODUCT
 |-
 |'''Total Count:'''
 |6
@@ -715,7 +715,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |17
@@ -1295,7 +1295,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
 |2
@@ -1319,7 +1319,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |4
@@ -1595,7 +1595,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, FAC
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
 |22
@@ -2018,7 +2018,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PRODUCT
+|PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |4
@@ -2299,7 +2299,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC
+|LOC, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -2327,7 +2327,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -2439,7 +2439,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -2519,7 +2519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -2544,7 +2544,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -2729,7 +2729,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG, FAC
+|FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |7
@@ -2944,57 +2944,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Fourteenth Amendment==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, LAW
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Fourteenth Amendment'
-*'the Fourteenth Amendment'
-
-|-
-|'''Sources:'''
-|
-
-*[[606: June 18-19, 2003]] (via AutoSub)
-*[[679: May 9, 2022]] (via AutoSub)
-
-|}
-
-==Fourth Amendment 2451==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|LAW
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'the Fourth Amendment\n\n2451'
-
-|-
-|'''Sources:'''
-|
-
-*25(Repost) (via AutoSub)
-*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
-
-|}
-
 ==Fox & Friends==
 {| class="fandom-table"
 |'''Status:'''
@@ -3183,7 +3132,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -3275,13 +3224,38 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Francis Crick Institute==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Francis Crick Institute'
+*'this Francis Crick Institute'
+
+|-
+|'''Sources:'''
+|
+
+*[[580: July 20-21, 2021]] (via AutoSub, Wiki Page)
+
+|}
+
 ==Frank Bates==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |9
@@ -3519,7 +3493,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |29
@@ -4040,7 +4014,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, WORK_OF_ART
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |6
@@ -4101,7 +4075,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, WORK_OF_ART, FAC
+|FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |6
