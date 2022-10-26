@@ -36,7 +36,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, GPE
+|GPE, LOC
 |-
 |'''Total Count:'''
 |2
@@ -61,7 +61,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC
+|LOC, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -184,7 +184,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
 |2
@@ -389,7 +389,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |8
@@ -443,7 +443,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, GPE
+|GPE, LOC
 |-
 |'''Total Count:'''
 |17
@@ -834,7 +834,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, PERSON, ORG
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -860,7 +860,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, WORK_OF_ART, LOC
+|LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |111
@@ -941,7 +941,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -1370,7 +1370,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, FAC
+|FAC, GPE
 |-
 |'''Total Count:'''
 |4
@@ -1605,7 +1605,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -1725,7 +1725,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, LOC, GPE, PRODUCT, PERSON
+|GPE, LOC, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |30
@@ -1780,13 +1780,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
 
 *'Elementary School'
 *'Elementary School\n\n'
+*'this Elementary School'
 
 |-
 |'''Sources:'''
@@ -1798,6 +1799,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[297: January 17-18, 2013]] (via AutoSub)
 *[[329: August 4-5, 2019]] (via AutoSub)
 *[[641: Formulaic Objections Part 4]] (via AutoSub)
+*[[650: July 17, 2003]] (via AutoSub)
 *[[687: May 24, 2022]] (via AutoSub)
 
 |}
@@ -2318,7 +2320,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |3
@@ -2932,7 +2934,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |53

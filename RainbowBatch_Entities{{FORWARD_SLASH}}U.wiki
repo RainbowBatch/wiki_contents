@@ -167,7 +167,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -246,7 +246,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, LOC, GPE
+|FAC, GPE, LOC
 |-
 |'''Total Count:'''
 |15
@@ -642,7 +642,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|1450
+|1451
 |-
 |'''Source Texts:'''
 |
@@ -652,6 +652,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'a United States'
 *'the United States'
 *'the United States\n\n'
+*'these United States'
 
 |-
 |'''Sources:'''
@@ -1694,11 +1695,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
 
+*'This University of North Carolina'
 *'University of North Carolina'
 *'the University of North Carolina'
 
@@ -2067,7 +2069,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LAW, EVENT
+|EVENT, LAW
 |-
 |'''Total Count:'''
 |3
@@ -2137,13 +2139,39 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==US Department==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the US Department'
+*'this US Department'
+
+|-
+|'''Sources:'''
+|
+
+*[[262: April 14, 2009]] (via AutoSub)
+*[[396: February 6, 2020]] (via AutoSub)
+
+|}
+
 ==US Embassy==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |17
@@ -2465,7 +2493,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2

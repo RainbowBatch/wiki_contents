@@ -264,7 +264,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -452,7 +452,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |18
@@ -504,7 +504,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |27
@@ -626,7 +626,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |5
@@ -674,10 +674,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==TED ANDERSON==
+==Ted Anderson==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |PERSON
@@ -1154,7 +1154,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -1407,7 +1407,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG, PRODUCT
+|ORG, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |22
@@ -1957,7 +1957,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
 |4
@@ -2380,7 +2380,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, WORK_OF_ART, ORG, FAC, PRODUCT
+|FAC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |1567
@@ -2633,31 +2633,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==their First Amendment==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|LAW
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'their First Amendment'
-
-|-
-|'''Sources:'''
-|
-
-*[[398: February 9-10, 2020]] (via AutoSub)
-*[[732: Trial Press Conference]] (via otter.ai)
-
-|}
-
 ==Theo Fleury==
 {| class="fandom-table"
 |'''Status:'''
@@ -2706,31 +2681,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[111: January 21-22, 2016]] (via AutoSub)
 *[[160: January 22-25, 2009]] (via AutoSub)
 *[[663: July 24, 2003]] (via AutoSub)
-
-|}
-
-==these Medical Association==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'these Medical Association\n\n'
-
-|-
-|'''Sources:'''
-|
-
-*25(Repost) (via AutoSub)
-*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
 
@@ -2818,7 +2768,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |9
@@ -2842,220 +2792,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[384: January 3, 2020]] (via AutoSub)
 *[[450: June 25-26, 2020]] (via AutoSub)
 *[[522: January 14-17, 2021]] (via AutoSub)
-
-|}
-
-==this American Free Press==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'this American Free Press'
-
-|-
-|'''Sources:'''
-|
-
-*[[739: Formulaic Objections Part 8]] (via AutoSub, Welder)
-
-|}
-
-==This Bill Gates==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON, LAW
-|-
-|'''Total Count:'''
-|6
-|-
-|'''Source Texts:'''
-|
-
-*'This Bill Gates'
-*'this Bill Gates'
-
-|-
-|'''Sources:'''
-|
-
-*[[21: March 9, 2017]] (via AutoSub)
-*[[432: May 10-11, 2020]] (via AutoSub)
-*[[492: October 13, 2020]] (via AutoSub)
-*[[593: September 2, 2021]] (via AutoSub)
-*[[684: May 20, 2022]] (via AutoSub)
-*[[718: August 21-22, 2022]] (via AutoSub)
-
-|}
-
-==this Civil War==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|EVENT
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'this Civil War'
-
-|-
-|'''Sources:'''
-|
-
-*[[78: October 12-15, 2015]] (via AutoSub)
-*[[346: April 11-14, 2013]] (via AutoSub)
-
-|}
-
-==this Las Vegas==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|LOC, ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'this Las Vegas'
-
-|-
-|'''Sources:'''
-|
-
-*[[93: 2015 Investigation Last Looks]] (via AutoSub)
-*[[231: March 24, 2009]] (via AutoSub)
-
-|}
-
-==this Middle Ground==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|LOC
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'this Middle Ground'
-
-|-
-|'''Sources:'''
-|
-
-*[[351: Jordan Takes The Wheel 2]] (via AutoSub)
-*[[564: May 15-20, 2003]] (via AutoSub)
-
-|}
-
-==This New York Times==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|13
-|-
-|'''Source Texts:'''
-|
-
-*'This New York Times'
-*'this New York Times'
-
-|-
-|'''Sources:'''
-|
-
-*[[6: Inauguration Speech Recap]] (via otter.ai)
-*[[23: March 16-17, 2017]] (via AutoSub)
-*[[41: May 12, 2017]] (via AutoSub)
-*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
-*[[313: June 23-24, 2019]] (via AutoSub)
-*[[376: December 3-5, 2019]] (via AutoSub)
-*[[377: December 6-10, 2019]] (via AutoSub)
-*[[425: April 23-24, 2020]] (via AutoSub)
-*[[634: July 11, 2003]] (via AutoSub)
-
-|}
-
-==This Supreme Court==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'This Supreme Court'
-
-|-
-|'''Sources:'''
-|
-
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
-*[[679: May 9, 2022]] (via AutoSub)
-
-|}
-
-==This World Health Organization==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|3
-|-
-|'''Source Texts:'''
-|
-
-*'This World Health Organization'
-*'this World Health Organization'
-
-|-
-|'''Sources:'''
-|
-
-*[[394: January 31, 2020]] (via AutoSub)
-*[[433: May 12-13, 2020]] (via AutoSub)
-*[[456: July 9-11, 2020]] (via AutoSub)
 
 |}
 
@@ -3824,7 +3560,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -4035,12 +3771,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
 
 *'Time Travelers'
+*'these Time Travelers'
 
 |-
 |'''Sources:'''
@@ -4050,6 +3787,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[362: There Is No Mermaid]] (via AutoSub)
 *[[371: Canonical Space Weirdness]] (via AutoSub)
 *[[378: Formulaic Objections Part 2]] (via AutoSub)
+*[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub)
 *[[716: April 25, 2014]] (via AutoSub)
 
 |}
@@ -4173,7 +3911,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, PRODUCT
+|ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |22
@@ -4391,7 +4129,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |7
@@ -5120,7 +4858,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE, PERSON
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -5224,7 +4962,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, WORK_OF_ART, ORG
+|FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |7
@@ -5600,7 +5338,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, FAC
+|FAC, GPE
 |-
 |'''Total Count:'''
 |30
@@ -5692,7 +5430,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC, ORG
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
 |12
@@ -5910,7 +5648,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |5
@@ -6470,7 +6208,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |25
@@ -6781,7 +6519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT
+|EVENT, ORG
 |-
 |'''Total Count:'''
 |4
@@ -6807,7 +6545,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, WORK_OF_ART, FAC, LOC, PRODUCT
+|FAC, LOC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |179
@@ -6944,7 +6682,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -7131,7 +6869,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, FAC, ORG
+|FAC, ORG, PRODUCT
 |-
 |'''Total Count:'''
 |4
@@ -7188,7 +6926,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, ORG
+|ORG, PRODUCT
 |-
 |'''Total Count:'''
 |2
@@ -7212,7 +6950,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, WORK_OF_ART, FAC, LOC, ORG
+|FAC, GPE, LOC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |29
@@ -7306,7 +7044,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, LAW
+|LAW, WORK_OF_ART
 |-
 |'''Total Count:'''
 |12
@@ -7417,7 +7155,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -7520,7 +7258,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3
