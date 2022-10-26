@@ -10,7 +10,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -170,7 +170,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -225,7 +225,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|50
+|51
 |-
 |'''Source Texts:'''
 |
@@ -234,6 +234,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Wall Street Journal'
 *'Wall Street Journal\n\n'
 *'the Wall Street Journal'
+*'this Wall Street Journal'
 
 |-
 |'''Sources:'''
@@ -242,6 +243,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Paul Craig Roberts (via Wiki Page)
 *[[92: October 13 & 16, 2017]] (via AutoSub)
 *[[93: 2015 Investigation Last Looks]] (via AutoSub)
+*[[126: February 2, 2018 (Special Report)]] (via AutoSub)
 *[[131: David Lynch Interview]] (via AutoSub)
 *[[151: April 16, 2018]] (via Wiki Page)
 *[[155: January 7-9, 2009]] (via Wiki Page)
@@ -447,7 +449,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, EVENT
+|EVENT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |6
@@ -470,6 +472,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[580: July 20-21, 2021]] (via AutoSub)
 *[[675: April 25, 2022]] (via AutoSub)
 *[[732: Trial Press Conference]] (via AutoSub)
+
+|}
+
+==War on Christmas==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'War on Christmas'
+*'this War on Christmas'
+
+|-
+|'''Sources:'''
+|
+
+*[[370: November 14-15, 2019]] (via AutoSub)
+*[[380: December 19-20, 2019]] (via AutoSub)
 
 |}
 
@@ -940,7 +968,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Washington DC==
+==Washington dc==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -1606,7 +1634,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |5
@@ -1801,7 +1829,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, WORK_OF_ART, EVENT
+|EVENT, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |10
@@ -2661,7 +2689,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |4
@@ -2754,7 +2782,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, GPE
+|GPE, LOC
 |-
 |'''Total Count:'''
 |2
@@ -2827,7 +2855,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -2934,7 +2962,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |488
@@ -3211,13 +3239,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
 
 *'White House Press'
 *'the White House Press'
+*'these White House Press'
 
 |-
 |'''Sources:'''
@@ -3225,6 +3254,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[35: Custody Press Conference]] (via AutoSub)
 *[[257: January 25, 2019]] (via AutoSub)
+*[[424: April 21-22, 2020]] (via AutoSub)
 *[[661: March 17, 2022]] (via AutoSub)
 *[[709: 2 Dan's 2 War]] (via AutoSub)
 
@@ -3236,7 +3266,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -3527,7 +3557,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC, WORK_OF_ART, ORG
+|LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |8
@@ -3848,7 +3878,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, LOC
+|LOC, PRODUCT
 |-
 |'''Total Count:'''
 |3
@@ -4013,7 +4043,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC
+|LOC, PERSON
 |-
 |'''Total Count:'''
 |8
@@ -4651,7 +4681,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -4677,7 +4707,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |3
@@ -4707,7 +4737,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |WORK_OF_ART
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -4717,6 +4747,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *"Willy Wonka's"
 *'Willy Wonka.'
 *'the Willy Wonka\n\n'
+*'this Willy Wonka'
 
 |-
 |'''Sources:'''
@@ -4766,7 +4797,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, PERSON
+|PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |4
@@ -4879,7 +4910,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |17
@@ -4969,7 +5000,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |7
@@ -5046,7 +5077,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |65
@@ -5407,7 +5438,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT
+|EVENT, ORG
 |-
 |'''Total Count:'''
 |2
@@ -5475,16 +5506,18 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|94
+|97
 |-
 |'''Source Texts:'''
 |
 
 *'The World Health Organization'
+*'This World Health Organization'
 *'World Health Organization'
 *'a World Health Organization'
 *'the World Health Organization'
 *'the World Health Organization\n\n'
+*'this World Health Organization'
 
 |-
 |'''Sources:'''
@@ -5510,6 +5543,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[432: May 10-11, 2020]] (via AutoSub)
 *[[433: May 12-13, 2020]] (via AutoSub)
 *[[435: May 18-21, 2020]] (via AutoSub)
+*[[456: July 9-11, 2020]] (via AutoSub)
 *[[468: August 11, 2020]] (via AutoSub)
 *[[483: September 17, 2020]] (via AutoSub)
 *[[491: October 12, 2020]] (via AutoSub)
@@ -5620,7 +5654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |4
@@ -5647,7 +5681,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, EVENT
+|EVENT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -5735,7 +5769,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT
+|EVENT, ORG
 |-
 |'''Total Count:'''
 |52
@@ -6118,7 +6152,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -6141,7 +6175,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==WrestleMania==
+==Wrestlemania==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -6217,7 +6251,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2

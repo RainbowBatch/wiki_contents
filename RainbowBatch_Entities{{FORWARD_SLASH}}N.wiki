@@ -113,7 +113,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|GPE, LOC, PERSON, FAC, ORG
+|FAC, GPE, LOC, ORG, PERSON
 |-
 |'''Total Count:'''
 |64
@@ -229,7 +229,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |22
@@ -320,7 +320,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PRODUCT
+|PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |5
@@ -349,7 +349,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PRODUCT
+|PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -887,7 +887,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|98
+|99
 |-
 |'''Source Texts:'''
 |
@@ -899,6 +899,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'the National Guard'
 *'the National Guard\n\n'
 *"the National Guard's"
+*'this National Guard'
 
 |-
 |'''Sources:'''
@@ -1831,13 +1832,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG
 |-
 |'''Total Count:'''
-|44
+|45
 |-
 |'''Source Texts:'''
 |
 
 *'Native American'
 *'the Native American'
+*'this Native American'
 
 |-
 |'''Sources:'''
@@ -2133,7 +2135,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |9
@@ -2373,7 +2375,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |23
@@ -2638,7 +2640,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -2693,7 +2695,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT
+|EVENT, ORG
 |-
 |'''Total Count:'''
 |7
@@ -2800,7 +2802,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
 |3
@@ -2880,12 +2882,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
 
 *'New England Journal of Medicine'
+*'This New England Journal of Medicine'
 *'the New England Journal of\r\n    Medicine'
 *'the New England Journal of Medicine'
 
@@ -2990,7 +2993,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, GPE
+|GPE, LOC
 |-
 |'''Total Count:'''
 |2
@@ -3266,7 +3269,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC, WORK_OF_ART
+|FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |11
@@ -3302,7 +3305,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC, EVENT, WORK_OF_ART, LAW
+|EVENT, FAC, LAW, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |489
@@ -3933,7 +3936,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|53
+|54
 |-
 |'''Source Texts:'''
 |
@@ -3941,6 +3944,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'New York Post'
 *'The New York Post'
 *'the New York Post'
+*'this New York Post'
 
 |-
 |'''Sources:'''
@@ -4040,7 +4044,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|487
+|501
 |-
 |'''Source Texts:'''
 |
@@ -4048,7 +4052,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'New York Times'
 *'The New\r\nYork Times'
 *'The New York Times'
+*'This New York Times'
 *'the New York Times'
+*'these New York Times'
+*'this New York Times'
 
 |-
 |'''Sources:'''
@@ -4072,6 +4079,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[34: April 25, 2017]] (via AutoSub)
 *[[38: 30 Hour Marathon Coverage]] (via AutoSub)
 *[[39: Jack Posobiec...Ya Busted]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub)
 *[[44: May 22, 2017]] (via AutoSub)
 *[[45: May 25, 2017]] (via AutoSub)
 *[[47: June 19-July 5, 2015]] (via AutoSub)
@@ -4293,7 +4301,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|31
+|32
 |-
 |'''Source Texts:'''
 |
@@ -4302,6 +4310,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'The New Yorker'
 *'a New Yorker'
 *'the New Yorker'
+*'this New Yorker'
 
 |-
 |'''Sources:'''
@@ -4427,18 +4436,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'News Network'
+*'this News Network'
 
 |-
 |'''Sources:'''
 |
 
 *[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub)
+*[[609: October 20, 2021]] (via AutoSub)
 *[[717: August 17, 2022]] (via AutoSub)
 
 |}
@@ -4501,7 +4512,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -4659,7 +4670,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LAW
+|LAW, ORG
 |-
 |'''Total Count:'''
 |9
@@ -4743,7 +4754,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -4844,7 +4855,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -4894,7 +4905,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -4972,7 +4983,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, WORK_OF_ART
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |164
@@ -5067,7 +5078,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -5149,7 +5160,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -5176,7 +5187,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |31
@@ -5420,7 +5431,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT
+|EVENT, ORG
 |-
 |'''Total Count:'''
 |17
@@ -5592,7 +5603,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, ORG, FAC
+|FAC, GPE, ORG
 |-
 |'''Total Count:'''
 |5
@@ -5948,7 +5959,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |79
@@ -6196,7 +6207,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, LOC, ORG
+|LOC, NORP, ORG
 |-
 |'''Total Count:'''
 |27
@@ -6300,7 +6311,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, LOC
+|LOC, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -6627,7 +6638,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, LOC, ORG
+|LOC, NORP, ORG
 |-
 |'''Total Count:'''
 |51
@@ -6710,7 +6721,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|NORP, LOC
+|LOC, NORP
 |-
 |'''Total Count:'''
 |2
@@ -6790,7 +6801,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, PERSON, LOC
+|GPE, LOC, PERSON
 |-
 |'''Total Count:'''
 |4
@@ -6989,7 +7000,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |6
@@ -7183,7 +7194,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |3

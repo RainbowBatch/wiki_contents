@@ -10,7 +10,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, WORK_OF_ART, PERSON
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |44
@@ -183,7 +183,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG, PERSON, LAW
+|LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |64
@@ -295,7 +295,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |2
@@ -321,7 +321,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |4
@@ -398,7 +398,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, LOC
+|LOC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -968,7 +968,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |17
@@ -1184,7 +1184,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT, FAC
+|EVENT, FAC, ORG
 |-
 |'''Total Count:'''
 |3
@@ -1639,7 +1639,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, NORP
+|NORP, ORG
 |-
 |'''Total Count:'''
 |2
@@ -1793,7 +1793,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |3
@@ -1870,7 +1870,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |16
@@ -1939,15 +1939,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
 
 *'Owen Troyer'
+*'this Owen Troyer'
 
 |-
 |'''Sources:'''
@@ -1959,6 +1960,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[99: November 1, 2017]] (via otter.ai)
 *[[279: Formulaic Objections]] (via otter.ai)
 *[[665: Formulaic Objections Part 6]] (via otter.ai)
+*[[685: Formulaic Objections Part 7]] (via otter.ai)
 *[[714: Trial Recap, Part 1]] (via otter.ai, Welder)
 *[[715: Trial Recap, Part 2]] (via otter.ai, Welder)
 
@@ -1970,7 +1972,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG, WORK_OF_ART
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
 |573

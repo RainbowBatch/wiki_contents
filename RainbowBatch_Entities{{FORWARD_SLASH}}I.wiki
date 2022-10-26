@@ -10,7 +10,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |20
@@ -228,7 +228,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
 |16
@@ -265,7 +265,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, ORG, EVENT
+|EVENT, GPE, ORG
 |-
 |'''Total Count:'''
 |220
@@ -535,7 +535,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, EVENT
+|EVENT, WORK_OF_ART
 |-
 |'''Total Count:'''
 |4
@@ -563,16 +563,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|LOC, ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
 
 *'Imperial Marin'
 *'Imperial Marin\r\n\r\n'
+*'this Imperial Marin'
 
 |-
 |'''Sources:'''
@@ -1210,7 +1211,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==InfoWars Caravan==
+==Infowars Caravan==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -1241,7 +1242,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART, ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |2
@@ -1260,13 +1261,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==InfoWars Nightly News==
+==Infowars Nightly News==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, WORK_OF_ART, EVENT
+|EVENT, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |8
@@ -1384,7 +1385,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==InfoWars Studios==
+==Infowars Studios==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -1437,7 +1438,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==InfoWars YouTube==
+==Infowars YouTube==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -1748,7 +1749,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT, PERSON
+|PERSON, PRODUCT
 |-
 |'''Total Count:'''
 |2
@@ -1959,7 +1960,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, EVENT, FAC
+|EVENT, FAC, ORG
 |-
 |'''Total Count:'''
 |21
@@ -2277,7 +2278,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -2302,7 +2303,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, FAC
+|FAC, GPE
 |-
 |'''Total Count:'''
 |3
@@ -2872,7 +2873,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |5
@@ -3254,44 +3255,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[61: July 5, 2017]] (via AutoSub)
 *[[441: June 3-4, 2020]] (via Wiki Page)
-
-|}
-
-==Ivermectin==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|NORP, ORG, PERSON
-|-
-|'''Total Count:'''
-|41
-|-
-|'''Source Texts:'''
-|
-
-*'Ivermectin'
-
-|-
-|'''Sources:'''
-|
-
-*[[417: April 5, 2020]] (via AutoSub)
-*[[575: July 4, 2021]] (via AutoSub)
-*[[592: June 12, 2003]] (via AutoSub)
-*[[593: September 2, 2021]] (via AutoSub, Wiki Page)
-*[[598: September 17, 2021]] (via AutoSub)
-*[[600: September 22, 2021]] (via AutoSub)
-*[[616: November 9, 2021]] (via AutoSub, Wiki Page)
-*[[625: December 5, 2021]] (via AutoSub)
-*[[632: Christmas Message and More]] (via AutoSub)
-*[[639: January 17, 2022]] (via AutoSub)
-*[[644: February 2, 2022]] (via AutoSub)
-*[[646: February 6, 2022]] (via AutoSub)
-*[[649: February 14, 2022]] (via AutoSub)
-*[[656: March 5, 2022]] (via AutoSub)
-*[[699: July 4-5, 2022]] (via AutoSub)
 
 |}
 
