@@ -194,7 +194,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE
 |-
 |'''Total Count:'''
-|39
+|40
 |-
 |'''Source Texts:'''
 |
@@ -231,6 +231,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[680: July 31-August 1, 2003]] (via AutoSub)
 *[[683: May 16, 2022]] (via AutoSub)
 *[[736: Reflections on a Verdict]] (via AutoSub, otter.ai)
+*[[740: August 13, 2003]] (via otter.ai)
 
 |}
 
@@ -243,7 +244,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|60
+|61
 |-
 |'''Source Texts:'''
 |
@@ -269,7 +270,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[455: July 7-8, 2020]] (via AutoSub)
 *[[469: August 12-13, 2020]] (via AutoSub)
 *[[734: October 9, 2022]] (via AutoSub, otter.ai, Wiki Page)
-*[[738: Taking a Powder With Chowder]] (via AutoSub, Welder)
+*[[738: Taking a Powder With Chowder]] (via AutoSub, otter.ai, Welder)
 
 |}
 
@@ -2448,7 +2449,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|74
+|68
 |-
 |'''Source Texts:'''
 |
@@ -2636,7 +2637,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|3
 |-
 |'''Source Texts:'''
 |
@@ -2654,30 +2655,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Knowledgerightcom==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Knowledgeright.com'
-
-|-
-|'''Sources:'''
-|
-
-*[[719: August 19, 2022]] (via Welder)
-
-|}
-
 ==Kobe Bryant==
 {| class="fandom-table"
 |'''Status:'''
@@ -2687,7 +2664,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -2703,6 +2680,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[383: December 31, 2019]] (via AutoSub)
 *[[680: July 31-August 1, 2003]] (via AutoSub, Wiki Page)
 *[[730: August 12, 2003]] (via otter.ai)
+*[[740: August 13, 2003]] (via otter.ai)
 
 |}
 
@@ -3017,6 +2995,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Kurt Waldheim==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kurt Waldheim'
+
+|-
+|'''Sources:'''
+|
+
+*[[740: August 13, 2003]] (via AutoSub, otter.ai)
+
+|}
+
 ==Kyle Farah==
 {| class="fandom-table"
 |'''Status:'''
@@ -3076,7 +3078,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|14
 |-
 |'''Source Texts:'''
 |
@@ -3094,6 +3096,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[620: November 23, 2021]] (via AutoSub)
 *[[658: It's Pretty Easy Being Greene]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
+*[[738: Taking a Powder With Chowder]] (via otter.ai)
 
 |}
 
