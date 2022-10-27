@@ -591,7 +591,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|213
+|212
 |-
 |'''Source Texts:'''
 |
@@ -738,7 +738,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|20
+|24
 |-
 |'''Source Texts:'''
 |
@@ -763,6 +763,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
 *[[571: May 22-27, 2003]] (via AutoSub)
 *[[613: June 24-25, 2003]] (via AutoSub, Wiki Page)
+*[[740: August 13, 2003]] (via AutoSub, otter.ai)
 
 |}
 
@@ -911,30 +912,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[102: Alex On Russian Media]] (via AutoSub)
 *[[255: September 25, 2011]] (via AutoSub)
-
-|}
-
-==Omar Al-Faruq==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|4
-|-
-|'''Source Texts:'''
-|
-
-*'Omar Alfaruk'
-
-|-
-|'''Sources:'''
-|
-
-*[[720: August 6, 2003]] (via Welder)
 
 |}
 
@@ -1101,30 +1078,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Operation Batador==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|GPE
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Operation Batador'
-
-|-
-|'''Sources:'''
-|
-
-*[[721: September 2, 2022]] (via Welder)
-
-|}
-
 ==Operation Lockstep==
 {| class="fandom-table"
 |'''Status:'''
@@ -1163,7 +1116,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1187,7 +1140,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1200,7 +1153,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[703: 9/11, Part 1]] (via AutoSub)
 *[[718: August 21-22, 2022]] (via Welder)
-*[[738: Taking a Powder With Chowder]] (via Welder)
+*[[738: Taking a Powder With Chowder]] (via otter.ai, Welder)
 
 |}
 
@@ -1523,6 +1476,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[152: April 18, 2018]] (via AutoSub)
 *[[716: April 25, 2014]] (via Welder)
+
+|}
+
+==Orlando Sentinel==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Orlando Sentinel'
+
+|-
+|'''Sources:'''
+|
+
+*[[739: Formulaic Objections Part 8]] (via otter.ai, Welder)
 
 |}
 
@@ -2174,7 +2151,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|6
 |-
 |'''Source Texts:'''
 |
