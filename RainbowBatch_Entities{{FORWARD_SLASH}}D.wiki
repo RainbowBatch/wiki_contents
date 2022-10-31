@@ -169,7 +169,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
 |3
@@ -576,7 +576,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -593,6 +593,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Knowledge Fight (via Wiki Page)
 *Knowledge Fight Wiki (via Wiki Page)
 *List of Knowledge Fight episodes (via Wiki Page)
+*[[1: January 2, 2017]] (via OpenAI Whisper)
 *[[65: September 2-4, 2015]] (via AutoSub)
 *[[130E: Endgame, Part 5]] (via AutoSub)
 *[[142: March 23, 2018]] (via AutoSub)
@@ -665,7 +666,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|34
+|33
 |-
 |'''Source Texts:'''
 |
@@ -694,7 +695,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[719: August 19, 2022]] (via Welder)
 *[[720: August 6, 2003]] (via otter.ai)
 *[[721: September 2, 2022]] (via otter.ai)
-*[[722: Space Capitalism Is Still Capitalism]] (via otter.ai)
 *[[723: September 8, 2022]] (via otter.ai)
 *[[724: August 7-11, 2003]] (via AutoSub, otter.ai)
 *[[725: September 13-14, 2022]] (via otter.ai)
@@ -5653,12 +5653,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|3
 |-
 |'''Source Texts:'''
 |
 
-*'the Department of'
 *'the Department of\n\n'
 *'the Department of\r\n'
 
@@ -5666,7 +5665,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[9: Joe Rogan Appearance]] (via otter.ai)
 *[[201: A New Messiah and The Plunger Toss]] (via Wiki Page)
 *[[555: May 7, 2003]] (via AutoSub)
 *[[621: Reset Wars: Episode 1]] (via AutoSub)
@@ -7491,7 +7489,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP
 |-
 |'''Total Count:'''
-|9
+|8
 |-
 |'''Source Texts:'''
 |
@@ -7510,7 +7508,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[536: February 28, 2021]] (via AutoSub)
 *[[576: July 9, 2021]] (via AutoSub)
 *[[610: June 23, 2003]] (via AutoSub)
-*[[741: December 2, 2015]] (via otter.ai)
 
 |}
 
@@ -8259,7 +8256,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|6000
+|6054
 |-
 |'''Source Texts:'''
 |
@@ -8295,7 +8292,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Roger Stone (via Wiki Page)
 *Satan (via Wiki Page)
 *Webster Tarpley (via Wiki Page)
-*[[1: January 2, 2017]] (via AutoSub, otter.ai, Wiki Page)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
 *[[3: The Secret of 2017]] (via AutoSub, otter.ai)
 *[[4: Research and Stand Up]] (via AutoSub, otter.ai, Wiki Page)
@@ -9758,7 +9755,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|63
+|66
 |-
 |'''Source Texts:'''
 |
@@ -9771,7 +9768,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[4: Research and Stand Up]] (via otter.ai)
 *[[24: March 23, 2017]] (via AutoSub)
 *[[60: Mars Colonies]] (via AutoSub)

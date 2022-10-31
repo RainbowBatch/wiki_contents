@@ -864,7 +864,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|111
+|112
 |-
 |'''Source Texts:'''
 |
@@ -1782,6 +1782,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==eleventh hour==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC, TIME
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'eleventh-hour'
+*'the eleventh hour'
+
+|-
+|'''Sources:'''
+|
+
+*[[499: Jordan Takes The Wheel 5]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub)
+
+|}
+
 ==Elijah Schaffer==
 {| class="fandom-table"
 |'''Status:'''
@@ -1804,6 +1830,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[439: May 29-31, 2020]] (via AutoSub)
 *[[614: The Purge of Gates]] (via AutoSub, Wiki Page)
+
+|}
+
+==Eliot Spitzer==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|CARDINAL, PERSON, PRODUCT
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Eliot Spitzer'
+*"Eliot Spitzer's"
+
+|-
+|'''Sources:'''
+|
+
+*Roger Stone (via Wiki Page)
+*[[257: January 25, 2019]] (via AutoSub, Wiki Page)
+*[[504: November 16-17, 2020]] (via AutoSub)
 
 |}
 
@@ -2458,7 +2511,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -2469,7 +2522,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[1: January 2, 2017]] (via otter.ai)
+*[[1: January 2, 2017]] (via otter.ai, OpenAI Whisper)
 *[[362: There Is No Mermaid]] (via AutoSub)
 
 |}
