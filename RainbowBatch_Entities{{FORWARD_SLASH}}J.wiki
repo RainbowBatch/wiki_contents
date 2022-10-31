@@ -800,7 +800,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -3912,7 +3912,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -3927,7 +3927,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[16: February 24, 2017]] (via otter.ai)
 *[[125: Project Camelot's War In Heaven]] (via AutoSub)
 *[[666: March 31, 2022]] (via AutoSub)
-*[[740: August 13, 2003]] (via AutoSub)
+*[[740: August 13, 2003]] (via AutoSub, otter.ai)
 
 |}
 
@@ -3993,12 +3993,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|46
+|48
 |-
 |'''Source Texts:'''
 |
 
 *'Jesse James'
+*'the Jesse James'
 
 |-
 |'''Sources:'''
@@ -4322,6 +4323,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[347: September 23, 2019]] (via AutoSub)
 *[[625: December 5, 2021]] (via AutoSub)
 *[[680: July 31-August 1, 2003]] (via AutoSub)
+
+|}
+
+==Jewish Boogeyman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Jewish Boogeyman'
+
+|-
+|'''Sources:'''
+|
+
+*[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
 
 |}
 
@@ -5662,7 +5687,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -5673,7 +5698,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8194,6 +8219,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==John Rutledge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'John Rutledge'
+
+|-
+|'''Sources:'''
+|
+
+*[[1: January 2, 2017]] (via otter.ai, OpenAI Whisper)
+
+|}
+
 ==John Smith==
 {| class="fandom-table"
 |'''Status:'''
@@ -8764,31 +8813,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[383: December 31, 2019]] (via AutoSub)
 *[[615: November 8, 2021?]] (via AutoSub)
 *[[707: Dan's War]] (via AutoSub)
-
-|}
-
-==Johnnie Cochran==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Johnnie Cochran'
-
-|-
-|'''Sources:'''
-|
-
-*[[602: Sandy Hook Response]] (via otter.ai)
-*[[664: Formulaic Objections Part 5]] (via otter.ai)
 
 |}
 
@@ -9755,17 +9779,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
 
-*'Jordan\n\nDan  '
+*'Jordan\r\n\r\nDan'
+*'Jordan\r\n\r\nDan  '
 
 |-
 |'''Sources:'''
 |
 
+*[[4: Research and Stand Up]] (via otter.ai)
 *[[310: June 13-14, 2019]] (via otter.ai)
 *[[733: October 6, 2022]] (via otter.ai)
 *[[734: October 9, 2022]] (via otter.ai)
@@ -9806,7 +9832,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -9825,7 +9851,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Knowledge Fight Wiki (via Wiki Page)
 *List of Knowledge Fight episodes (via Wiki Page)
 *PEZ Dispenser (via Wiki Page)
-*[[1: January 2, 2017]] (via otter.ai)
+*[[1: January 2, 2017]] (via otter.ai, OpenAI Whisper)
 *[[11: February 10, 2017]] (via otter.ai)
 *[[13: February 14, 2017]] (via AutoSub, otter.ai)
 *[[14: February 17, 2017]] (via AutoSub, otter.ai)
