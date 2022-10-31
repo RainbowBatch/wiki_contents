@@ -1084,7 +1084,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -1097,6 +1097,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Genesis Communications Network (via Wiki Page)
+*[[1: January 2, 2017]] (via OpenAI Whisper)
 *[[136: March 30-31, 2008]] (via Wiki Page)
 
 |}
@@ -1699,6 +1700,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==George H W Bush==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'George H.W. Bush'
+*"George HW Bush's"
+
+|-
+|'''Sources:'''
+|
+
+*[[1: January 2, 2017]] (via OpenAI Whisper)
+*[[240: March 30-31, 2009]] (via AutoSub)
+
+|}
+
 ==George Herbert Walker==
 {| class="fandom-table"
 |'''Status:'''
@@ -2041,7 +2068,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|595
+|618
 |-
 |'''Source Texts:'''
 |
@@ -2061,7 +2088,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Gavin McInnes (via Wiki Page)
 *George Soros (via Wiki Page)
 *Lee Stranahan (via Wiki Page)
-*[[1: January 2, 2017]] (via AutoSub, otter.ai, Wiki Page)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[2: December 31, 1999 (Y2K)]] (via otter.ai)
 *[[4: Research and Stand Up]] (via AutoSub, otter.ai)
 *[[5: January 19, 2017]] (via AutoSub, otter.ai)
@@ -2328,7 +2355,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|36
+|37
 |-
 |'''Source Texts:'''
 |
@@ -2347,7 +2374,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *Laura Loomer (via Wiki Page)
 *Roger Stone (via Wiki Page)
-*[[1: January 2, 2017]] (via otter.ai)
+*[[1: January 2, 2017]] (via otter.ai, OpenAI Whisper)
 *[[4: Research and Stand Up]] (via otter.ai)
 *[[9: Joe Rogan Appearance]] (via otter.ai)
 *[[15: February 20-21, 2017]] (via otter.ai)
@@ -2452,7 +2479,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|110
+|113
 |-
 |'''Source Texts:'''
 |
@@ -2466,7 +2493,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[1: January 2, 2017]] (via AutoSub, otter.ai)
+*[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai, Wiki Page)
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
 *[[11: February 10, 2017]] (via AutoSub, otter.ai)
@@ -3993,6 +4020,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Glory Days==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|DATE, EVENT
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Glory Days'
+*'the glory days'
+
+|-
+|'''Sources:'''
+|
+
+*[[17: February 7, 2017]] (via otter.ai)
+*[[377: December 6-10, 2019]] (via AutoSub)
+
+|}
+
 ==Gloversville==
 {| class="fandom-table"
 |'''Status:'''
@@ -5311,7 +5364,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC
+|FAC, PERSON
 |-
 |'''Total Count:'''
 |6
@@ -6275,18 +6328,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC
+|LOC, WORK_OF_ART
 |-
 |'''Total Count:'''
-|27
+|29
 |-
 |'''Source Texts:'''
 |
 
+*'Gulf of Tonkin'
 *'The Gulf of Tonkin'
 *'The Gulf of Tonkin\n\n'
 *'the Gulf of Tonkin'
 *'the Gulf of Tonkin\n\n'
+*'the Gulf of Tonkin\r\n\r\n'
 *'this Gulf of Tonkin'
 
 |-
