@@ -241,10 +241,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|62
+|63
 |-
 |'''Source Texts:'''
 |
@@ -271,7 +271,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[469: August 12-13, 2020]] (via AutoSub)
 *[[734: October 9, 2022]] (via AutoSub, otter.ai, Wiki Page)
 *[[738: Taking a Powder With Chowder]] (via AutoSub, otter.ai, Welder)
-*[[743: October 29-30, 2022]] (via otter.ai)
+*[[743: October 29-30, 2022]] (via AutoSub, otter.ai)
 
 |}
 
@@ -354,103 +354,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Karen Kingston==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|4
-|-
-|'''Source Texts:'''
-|
-
-*'Karen Kingston'
-*"Karen Kingston's"
-
-|-
-|'''Sources:'''
-|
-
-*[[584: August 5, 2021]] (via AutoSub, Wiki Page)
-
-|}
-
-==Karen Russo==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Karen Russo'
-
-|-
-|'''Sources:'''
-|
-
-*[[240: March 30-31, 2009]] (via AutoSub, Wiki Page)
-
-|}
-
-==Kary Mullis==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|3
-|-
-|'''Source Texts:'''
-|
-
-*'Kary Mullis'
-
-|-
-|'''Sources:'''
-|
-
-*[[508: December 1-2, 2020]] (via AutoSub, Wiki Page)
-
-|}
-
-==Kate Beckinsale==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kate Beckinsale'
-
-|-
-|'''Sources:'''
-|
-
-*[[222: March 15-19, 2009]] (via AutoSub, otter.ai)
-
-|}
-
 ==Kate Daniels==
 {| class="fandom-table"
 |'''Status:'''
@@ -474,30 +377,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[378: Formulaic Objections Part 2]] (via AutoSub)
 *[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
 *[[685: Formulaic Objections Part 7]] (via AutoSub)
-
-|}
-
-==Kathy Giffords==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kathy Giffords'
-
-|-
-|'''Sources:'''
-|
-
-*[[1: January 2, 2017]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -556,30 +435,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[273: March 5-6, 2019]] (via AutoSub)
 *[[360: October 23, 2019]] (via AutoSub)
 *[[376: December 3-5, 2019]] (via AutoSub)
-
-|}
-
-==Katie Miller==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Katie Miller'
-
-|-
-|'''Sources:'''
-|
-
-*[[432: May 10-11, 2020]] (via AutoSub, Wiki Page)
 
 |}
 
@@ -944,7 +799,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|17
 |-
 |'''Source Texts:'''
 |
@@ -956,32 +811,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[549: April 13-14, 2021]] (via AutoSub)
-*[[745: Formulaic Objections Part 10]] (via otter.ai)
-
-|}
-
-==Kelly Johnson==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|5
-|-
-|'''Source Texts:'''
-|
-
-*'Kelly Johnson'
-*"Kelly Johnson's"
-
-|-
-|'''Sources:'''
-|
-
-*[[431: Smash-N-Grab Spy Jobs]] (via AutoSub, Wiki Page)
+*[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai)
 
 |}
 
@@ -1042,30 +872,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Kelsey Grammer==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kelsey Grammer'
-
-|-
-|'''Sources:'''
-|
-
-*[[724: August 7-11, 2003]] (via AutoSub, otter.ai)
-
-|}
-
 ==Ken Paxton==
 {| class="fandom-table"
 |'''Status:'''
@@ -1113,31 +919,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[3: The Secret of 2017]] (via AutoSub, otter.ai)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub)
-
-|}
-
-==Kenny Bravo==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|4
-|-
-|'''Source Texts:'''
-|
-
-*'Kenny Bravo'
-*"Kenny Bravo's"
-
-|-
-|'''Sources:'''
-|
-
-*[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
 
 |}
 
@@ -1403,54 +1184,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Kevin Brown==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kevin Brown'
-
-|-
-|'''Sources:'''
-|
-
-*[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
-
-|}
-
-==Kevin Conroy==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kevin Conroy'
-
-|-
-|'''Sources:'''
-|
-
-*[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
-
-|}
-
 ==Kevin Costner==
 {| class="fandom-table"
 |'''Status:'''
@@ -1531,30 +1264,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Kevin Ives==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kevin Ives'
-
-|-
-|'''Sources:'''
-|
-
-*[[398: February 9-10, 2020]] (via AutoSub, Wiki Page)
-
-|}
-
 ==Kevin McCarthy==
 {| class="fandom-table"
 |'''Status:'''
@@ -1586,30 +1295,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[675: April 25, 2022]] (via AutoSub)
 *[[678: July 29-30, 2003]] (via AutoSub)
 *[[725: September 13-14, 2022]] (via AutoSub, otter.ai)
-
-|}
-
-==Kevin McDonald==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kevin McDonald'
-
-|-
-|'''Sources:'''
-|
-
-*[[617: June 27, 2003]] (via AutoSub, Wiki Page)
 
 |}
 
@@ -1835,30 +1520,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
 *[[211: March 10, 2009]] (via AutoSub)
 *[[280: Raptor Weddings and Sardinian Spiders]] (via AutoSub, Wiki Page)
-
-|}
-
-==Kevin Trudeau==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|9
-|-
-|'''Source Texts:'''
-|
-
-*'Kevin Trudeau'
-
-|-
-|'''Sources:'''
-|
-
-*[[105: March 18, 2014]] (via AutoSub, Wiki Page)
 
 |}
 
@@ -2499,7 +2160,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|73
+|76
 |-
 |'''Source Texts:'''
 |
@@ -2561,8 +2222,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[729: September 24, 2022]] (via otter.ai)
 *[[731: September 29-30, 2022]] (via otter.ai)
 *[[733: October 6, 2022]] (via otter.ai)
-*[[743: October 29-30, 2022]] (via otter.ai)
-*[[744: November 3, 2022]] (via otter.ai)
+*[[743: October 29-30, 2022]] (via AutoSub, otter.ai)
+*[[744: November 3, 2022]] (via AutoSub, otter.ai)
 
 |}
 
@@ -2768,30 +2429,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[416: April 2, 2020]] (via AutoSub)
 *[[544: May 1, 2003]] (via AutoSub)
 *[[692: Alex Jones' Punch Out]] (via AutoSub)
-
-|}
-
-==Krauthammer==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Krauthammer'
-
-|-
-|'''Sources:'''
-|
-
-*[[107: December 12, 2014]] (via AutoSub, Wiki Page)
 
 |}
 
@@ -3048,30 +2685,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Kurt Waldheim==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|3
-|-
-|'''Source Texts:'''
-|
-
-*'Kurt Waldheim'
-
-|-
-|'''Sources:'''
-|
-
-*[[740: August 13, 2003]] (via AutoSub, otter.ai)
-
-|}
-
 ==Kyle Farah==
 {| class="fandom-table"
 |'''Status:'''
@@ -3150,30 +2763,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[658: It's Pretty Easy Being Greene]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
 *[[738: Taking a Powder With Chowder]] (via otter.ai)
-
-|}
-
-==Kylie Minogue==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Kylie Minogue'
-
-|-
-|'''Sources:'''
-|
-
-*[[731: September 29-30, 2022]] (via AutoSub, otter.ai)
 
 |}
 
