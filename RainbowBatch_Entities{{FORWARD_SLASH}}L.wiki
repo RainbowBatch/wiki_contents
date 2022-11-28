@@ -137,15 +137,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'LaFontaine'
+*'the LaFontaine'
 
 |-
 |'''Sources:'''
@@ -153,6 +154,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[428: May 1, 2020]] (via AutoSub)
 *[[580: July 20-21, 2021]] (via AutoSub)
+*[[748: November 16, 2022]] (via otter.ai)
 
 |}
 
@@ -267,7 +269,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|44
+|48
 |-
 |'''Source Texts:'''
 |
@@ -283,8 +285,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[23: March 16-17, 2017]] (via AutoSub)
-*[[33: April 22, 2017]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via otter.ai)
+*[[33: April 22, 2017]] (via AutoSub, otter.ai)
 *[[106: Drunk Special Report]] (via AutoSub)
 *[[346: April 11-14, 2013]] (via AutoSub)
 *[[347: September 23, 2019]] (via AutoSub, Wiki Page)
@@ -384,20 +387,47 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|12
 |-
 |'''Source Texts:'''
 |
 
 *'Larry C Johnson'
+*'Larry C. Johnson'
 
 |-
 |'''Sources:'''
 |
 
-*[[23: March 16-17, 2017]] (via Wiki Page)
-*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via otter.ai, Wiki Page)
+*[[26: March 30 (Special Report)]] (via AutoSub, otter.ai)
+*[[28: How Not To Cover Alex Jones]] (via otter.ai)
 *[[290: April 25-26, 2019]] (via AutoSub)
+
+|}
+
+==Larry Clemens==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Larry Clemens'
+
+|-
+|'''Sources:'''
+|
+
+*[[25: Dennis Montgomery Investigation]] (via otter.ai)
+*[[401: Formulaic Objections Part 3]] (via AutoSub)
 
 |}
 
@@ -462,7 +492,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -473,7 +503,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via AutoSub)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
 *[[122 LIVE: March 1-2, 2012]] (via AutoSub)
 *[[155: January 7-9, 2009]] (via Wiki Page)
 *[[337: August 28-29, 2019]] (via AutoSub)
@@ -567,19 +597,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|21
 |-
 |'''Source Texts:'''
 |
 
 *'Larry Johnson'
+*"Larry Johnson's"
 
 |-
 |'''Sources:'''
 |
 
-*[[23: March 16-17, 2017]] (via AutoSub)
-*[[26: March 30 (Special Report)]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
+*[[26: March 30 (Special Report)]] (via AutoSub, otter.ai)
 *[[290: April 25-26, 2019]] (via AutoSub)
 *[[399: February 12-14, 2020]] (via AutoSub)
 
@@ -623,7 +654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|147
+|206
 |-
 |'''Source Texts:'''
 |
@@ -636,7 +667,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via Wiki Page)
+*[[25: Dennis Montgomery Investigation]] (via otter.ai, Wiki Page)
 *[[98: May 2-3, 2012]] (via Wiki Page)
 *[[99: November 1, 2017]] (via otter.ai)
 *[[244: October 5, 2014]] (via Wiki Page)
@@ -731,7 +762,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|416
+|417
 |-
 |'''Source Texts:'''
 |
@@ -855,6 +886,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[674: April 22, 2022]] (via AutoSub)
 *[[703: 9/11, Part 1]] (via AutoSub)
 *[[744: November 3, 2022]] (via AutoSub, otter.ai)
+*[[748: November 16, 2022]] (via otter.ai)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub)
 
 |}
@@ -1154,7 +1186,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|25
+|31
 |-
 |'''Source Texts:'''
 |
@@ -1169,7 +1201,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[7: January 23-24, 2017]] (via otter.ai)
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
 *[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
-*[[30: April 14, 2017]] (via AutoSub)
+*[[21: March 9, 2017]] (via otter.ai)
+*[[24: March 23, 2017]] (via otter.ai)
+*[[30: April 14, 2017]] (via AutoSub, otter.ai)
 *[[43: May 17, 2017]] (via AutoSub)
 *[[66: September 6-17, 2015]] (via AutoSub)
 *[[98: May 2-3, 2012]] (via AutoSub)
@@ -1213,6 +1247,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[609: October 20, 2021]] (via AutoSub)
 *[[678: July 29-30, 2003]] (via AutoSub)
 *[[726: September 15-16, 2022]] (via otter.ai)
+
+|}
+
+==Latin Americans==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Latin Americans'
+
+|-
+|'''Sources:'''
+|
+
+*[[21: March 9, 2017]] (via otter.ai)
+*[[26: March 30 (Special Report)]] (via otter.ai)
+*[[426: April 27-28, 2020]] (via AutoSub)
 
 |}
 
@@ -1412,7 +1472,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|23
+|24
 |-
 |'''Source Texts:'''
 |
@@ -1425,6 +1485,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[30: April 14, 2017]] (via otter.ai)
 *[[38: 30 Hour Marathon Coverage]] (via AutoSub)
 *[[47: June 19-July 5, 2015]] (via Wiki Page)
 *[[48: May 31, 2017]] (via AutoSub)
@@ -1506,7 +1567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|10
 |-
 |'''Source Texts:'''
 |
@@ -1519,7 +1580,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[29: April 11, 2017]] (via AutoSub)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai)
 *[[130A: Endgame, Part 1]] (via AutoSub, Wiki Page)
 *[[350: September 29-30, 2019]] (via AutoSub, Wiki Page)
 *[[423: April 20, 2020]] (via AutoSub)
@@ -1605,6 +1666,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Leave Alex==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Leave Alex'
+
+|-
+|'''Sources:'''
+|
+
+*[[28: How Not To Cover Alex Jones]] (via otter.ai)
+*[[343: April 3-8, 2013]] (via AutoSub)
+
+|}
+
 ==Leavenworth==
 {| class="fandom-table"
 |'''Status:'''
@@ -1681,7 +1767,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1692,7 +1778,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[23: March 16-17, 2017]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
 *[[184: Godly Particles and Illiteracy]] (via AutoSub)
 *[[349: April 15-16, 2013]] (via AutoSub)
 
@@ -1707,11 +1793,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|53
+|62
 |-
 |'''Source Texts:'''
 |
 
+*'LeAnn McAdoo'
 *'Leann McAdoo'
 *'Leanne McAdoo'
 *'Lee Ann McAdoo'
@@ -1727,8 +1814,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[6: Inauguration Speech Recap]] (via otter.ai, Wiki Page)
 *[[7: January 23-24, 2017]] (via AutoSub, otter.ai)
 *[[8: January 26-27, 2017]] (via otter.ai)
-*[[29: April 11, 2017]] (via AutoSub)
-*[[31: April 17, 2017]] (via AutoSub)
+*[[24: March 23, 2017]] (via otter.ai)
+*[[26: March 30 (Special Report)]] (via otter.ai)
+*[[27: March 31, 2017]] (via otter.ai)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai)
+*[[31: April 17, 2017]] (via AutoSub, otter.ai)
+*[[33: April 22, 2017]] (via otter.ai)
 *[[35: Custody Press Conference]] (via AutoSub)
 *[[52: July 14-21, 2015]] (via AutoSub, Wiki Page)
 *[[59: August 17-18, 2015]] (via AutoSub)
@@ -2343,7 +2434,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|7
 |-
 |'''Source Texts:'''
 |
@@ -2355,6 +2446,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[19: March 3, 2017]] (via otter.ai)
+*[[27: March 31, 2017]] (via otter.ai)
+*[[29: April 11, 2017]] (via otter.ai)
+*[[32: April 21, 2017]] (via otter.ai)
 *[[48: May 31, 2017]] (via AutoSub)
 *[[685: Formulaic Objections Part 7]] (via otter.ai)
 
@@ -2454,7 +2548,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -2465,7 +2559,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[22: March 14, 2017]] (via AutoSub)
+*[[22: March 14, 2017]] (via AutoSub, otter.ai)
 *[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub)
 
 |}
@@ -2479,7 +2573,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -2493,7 +2587,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[14: February 17, 2017]] (via otter.ai)
-*[[21: March 9, 2017]] (via AutoSub)
+*[[21: March 9, 2017]] (via AutoSub, otter.ai)
 *[[36: June 29, 2015]] (via AutoSub)
 *[[127: February 8, 2018]] (via AutoSub)
 *[[644: February 2, 2022]] (via AutoSub)
@@ -2509,7 +2603,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -2520,7 +2614,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[33: April 22, 2017]] (via AutoSub)
+*[[33: April 22, 2017]] (via AutoSub, otter.ai)
 *[[498: November 7, 2016]] (via AutoSub)
 
 |}
@@ -2693,7 +2787,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|8
 |-
 |'''Source Texts:'''
 |
@@ -2704,6 +2798,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[23: March 16-17, 2017]] (via otter.ai)
+*[[31: April 17, 2017]] (via otter.ai)
 *[[252: April 7-8, 2009]] (via AutoSub)
 *[[301: January 24-28, 2013]] (via AutoSub)
 *[[407: March 5-10, 2020]] (via AutoSub)
@@ -2852,7 +2948,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|60
+|61
 |-
 |'''Source Texts:'''
 |
@@ -2866,6 +2962,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[12: Jon Rappoport]] (via otter.ai)
 *[[13: February 14, 2017]] (via AutoSub)
 *[[16: February 24, 2017]] (via AutoSub)
+*[[32: April 21, 2017]] (via otter.ai)
 *[[35: Custody Press Conference]] (via AutoSub)
 *[[57: August 12-16, 2015]] (via AutoSub)
 *[[58: June 23, 2017]] (via AutoSub)
@@ -3271,7 +3368,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -3282,6 +3379,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[26: March 30 (Special Report)]] (via otter.ai)
 *[[41: May 12, 2017]] (via AutoSub)
 *[[117: January 8, 2018]] (via AutoSub)
 *[[230A: Obama Deception, Part 1]] (via AutoSub)
@@ -3403,7 +3501,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|24
+|29
 |-
 |'''Source Texts:'''
 |
@@ -3417,7 +3515,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[29: April 11, 2017]] (via AutoSub)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai)
 *[[38: 30 Hour Marathon Coverage]] (via AutoSub)
 *[[45: May 25, 2017]] (via Wiki Page)
 *[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub, Wiki Page)
@@ -3470,10 +3568,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE
+|GPE, LOC, PERSON
 |-
 |'''Total Count:'''
-|2
+|5
 |-
 |'''Source Texts:'''
 |
@@ -3484,6 +3582,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[33: April 22, 2017]] (via otter.ai)
 *[[51: June 6, 2017]] (via AutoSub)
 *[[295: Crossover With QAnon Anonymous]] (via AutoSub)
 
@@ -4090,6 +4189,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==London Telegraph==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'London Telegraph'
+*'The London Telegraph'
+*'the London Telegraph'
+
+|-
+|'''Sources:'''
+|
+
+*[[23: March 16-17, 2017]] (via otter.ai)
+*[[718: August 21-22, 2022]] (via AutoSub, Welder)
+
+|}
+
 ==London Times==
 {| class="fandom-table"
 |'''Status:'''
@@ -4099,7 +4225,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -4111,6 +4237,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[28: How Not To Cover Alex Jones]] (via otter.ai)
 *[[186: February 17-18, 2009]] (via AutoSub)
 *[[564: May 15-20, 2003]] (via AutoSub)
 
@@ -4377,7 +4504,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -4388,7 +4515,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[24: March 23, 2017]] (via AutoSub)
+*[[24: March 23, 2017]] (via AutoSub, otter.ai)
 *[[40: May 10, 2017]] (via AutoSub)
 *[[493: February 16, 2016]] (via AutoSub, Wiki Page)
 *[[567: June 13, 2021]] (via AutoSub)
@@ -4463,7 +4590,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|60
+|63
 |-
 |'''Source Texts:'''
 |
@@ -4476,7 +4603,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[10: February 6, 2017]] (via AutoSub, otter.ai)
 *[[14: February 17, 2017]] (via otter.ai)
-*[[27: March 31, 2017]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via otter.ai)
+*[[27: March 31, 2017]] (via AutoSub, otter.ai)
+*[[29: April 11, 2017]] (via otter.ai)
 *[[41: May 12, 2017]] (via AutoSub)
 *[[46: June 18, 2015]] (via AutoSub)
 *[[59: August 17-18, 2015]] (via AutoSub)
@@ -4581,6 +4710,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Lost Children of Babylon==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Lost Children of Babylon'
+
+|-
+|'''Sources:'''
+|
+
+*[[33: April 22, 2017]] (via otter.ai)
+*[[176: June 28, 2018]] (via AutoSub)
+
+|}
+
 ==Lost Highway==
 {| class="fandom-table"
 |'''Status:'''
@@ -4616,7 +4770,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -4628,7 +4782,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *25(Repost) (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
 *[[80: October 16-26, 2015]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
@@ -4669,7 +4823,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|39
+|41
 |-
 |'''Source Texts:'''
 |
@@ -4682,8 +4836,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *25(Repost) (via AutoSub)
 *Sun Myung Moon (via Wiki Page)
-*[[23: March 16-17, 2017]] (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
 *[[59: August 17-18, 2015]] (via AutoSub)
 *[[64: Aug 27-Sep 1, 2015]] (via AutoSub)
 *[[65: September 2-4, 2015]] (via AutoSub)
@@ -4956,7 +5110,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -4971,6 +5125,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[448: June 21-22, 2020]] (via Wiki Page)
 *[[735: October 12, 2022]] (via FoulEdgeKnight-edited, otter.ai)
 *[[744: November 3, 2022]] (via otter.ai)
+*[[748: November 16, 2022]] (via otter.ai)
 
 |}
 
