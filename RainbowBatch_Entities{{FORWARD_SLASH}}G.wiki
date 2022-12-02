@@ -682,7 +682,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|115
+|119
 |-
 |'''Source Texts:'''
 |
@@ -700,8 +700,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[13: February 14, 2017]] (via otter.ai)
 *[[30: April 14, 2017]] (via AutoSub, otter.ai)
 *[[31: April 17, 2017]] (via AutoSub, otter.ai)
+*[[35: Custody Press Conference]] (via otter.ai)
 *[[37: May 1, 2017]] (via AutoSub)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
 *[[45: May 25, 2017]] (via AutoSub)
 *[[47: June 19-July 5, 2015]] (via AutoSub)
 *[[65: September 2-4, 2015]] (via AutoSub)
@@ -904,7 +905,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
@@ -915,7 +916,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[41: May 12, 2017]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai)
 *[[414: Bill Cooper's Ambitiously Bad Idea]] (via AutoSub)
 
 |}
@@ -1495,7 +1496,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==George Floyd==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |PERSON
@@ -1607,12 +1608,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'George H.W. Bush'
+*'George HW Bush'
 *"George HW Bush's"
 
 |-
@@ -1621,6 +1623,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[1: January 2, 2017]] (via OpenAI Whisper)
 *[[240: March 30-31, 2009]] (via AutoSub)
+*[[752: Ye Took A Dip In The Pool]] (via otter.ai)
 
 |}
 
@@ -1745,7 +1748,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1758,6 +1761,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
 *[[505: November 18, 2020]] (via AutoSub)
+*[[752: Ye Took A Dip In The Pool]] (via AutoSub, otter.ai)
 
 |}
 
@@ -1967,7 +1971,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|654
+|697
 |-
 |'''Source Texts:'''
 |
@@ -2013,10 +2017,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[31: April 17, 2017]] (via AutoSub, otter.ai)
 *[[32: April 21, 2017]] (via otter.ai)
 *[[33: April 22, 2017]] (via AutoSub, otter.ai)
-*[[34: April 25, 2017]] (via AutoSub)
-*[[35: Custody Press Conference]] (via AutoSub)
-*[[36: June 29, 2015]] (via AutoSub)
-*[[41: May 12, 2017]] (via AutoSub)
+*[[34: April 25, 2017]] (via AutoSub, otter.ai)
+*[[35: Custody Press Conference]] (via AutoSub, otter.ai)
+*[[36: June 29, 2015]] (via AutoSub, otter.ai)
+*[[37: May 1, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai)
 *[[43: May 17, 2017]] (via AutoSub)
 *[[51: June 6, 2017]] (via AutoSub)
 *[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
@@ -2325,7 +2330,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|21
+|23
 |-
 |'''Source Texts:'''
 |
@@ -2346,6 +2351,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[578: A Little Side Track]] (via AutoSub)
 *[[617: June 27, 2003]] (via AutoSub, Wiki Page)
 *[[678: July 29-30, 2003]] (via AutoSub)
+*[[752: Ye Took A Dip In The Pool]] (via AutoSub, otter.ai)
 
 |}
 
@@ -2358,7 +2364,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|8
 |-
 |'''Source Texts:'''
 |
@@ -2375,6 +2381,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
 *[[571: May 22-27, 2003]] (via AutoSub)
 *[[618: November 15, 2021]] (via AutoSub)
+*[[752: Ye Took A Dip In The Pool]] (via AutoSub)
 
 |}
 
@@ -2387,7 +2394,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|120
+|127
 |-
 |'''Source Texts:'''
 |
@@ -2405,6 +2412,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai, Wiki Page)
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
 *[[11: February 10, 2017]] (via AutoSub, otter.ai)
+*[[35: Custody Press Conference]] (via otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
+*[[41: May 12, 2017]] (via otter.ai)
 *[[47: June 19-July 5, 2015]] (via AutoSub)
 *[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
 *[[59: August 17-18, 2015]] (via AutoSub)
@@ -2452,6 +2462,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[730: August 12, 2003]] (via otter.ai)
 *[[741: December 2, 2015]] (via AutoSub, otter.ai)
 *[[750: Formulaic Objections Part 11]] (via AutoSub, otter.ai)
+*[[752: Ye Took A Dip In The Pool]] (via otter.ai)
 
 |}
 
@@ -2645,7 +2656,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|65
+|66
 |-
 |'''Source Texts:'''
 |
@@ -2659,6 +2670,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Gerald Celente (via Wiki Page)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
 *[[49: July 6-13. 2015]] (via AutoSub, Wiki Page)
 *[[59: August 17-18, 2015]] (via AutoSub, Wiki Page)
 *[[98: May 2-3, 2012]] (via AutoSub, Wiki Page)
@@ -2797,6 +2809,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==German Transylvanian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'German Transylvanian'
+*'a German Transylvanian'
+*'the German Transylvanian'
+
+|-
+|'''Sources:'''
+|
+
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
+*[[723: September 8, 2022]] (via otter.ai)
+
+|}
+
 ==Gerry Epstein==
 {| class="fandom-table"
 |'''Status:'''
@@ -2831,7 +2870,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -2844,7 +2883,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[41: May 12, 2017]] (via AutoSub)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai)
 *[[131: David Lynch Interview]] (via AutoSub)
 *[[493: February 16, 2016]] (via AutoSub)
 *[[563: June 2, 2021]] (via AutoSub)
@@ -2915,7 +2954,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==Ghislaine Maxwell==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |ORG, PERSON
@@ -3102,7 +3141,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|549
+|550
 |-
 |'''Source Texts:'''
 |
@@ -3129,6 +3168,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[21: March 9, 2017]] (via otter.ai)
 *[[26: March 30 (Special Report)]] (via AutoSub, otter.ai)
 *[[32: April 21, 2017]] (via AutoSub, otter.ai)
+*[[41: May 12, 2017]] (via otter.ai)
 *[[51: June 6, 2017]] (via AutoSub)
 *[[63: July 12, 2017]] (via AutoSub)
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
@@ -4041,7 +4081,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|68
+|77
 |-
 |'''Source Texts:'''
 |
@@ -4059,8 +4099,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[10: February 6, 2017]] (via AutoSub, otter.ai)
 *[[29: April 11, 2017]] (via AutoSub, otter.ai)
 *[[31: April 17, 2017]] (via otter.ai)
-*[[35: Custody Press Conference]] (via AutoSub)
-*[[41: May 12, 2017]] (via AutoSub)
+*[[35: Custody Press Conference]] (via AutoSub, otter.ai)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai)
 *[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
 *[[88: The 2015 Investigation Ends]] (via AutoSub)
 *[[102: Alex On Russian Media]] (via AutoSub)
@@ -4916,7 +4956,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|41
+|44
 |-
 |'''Source Texts:'''
 |
@@ -4935,7 +4975,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Bob Chapman (via Wiki Page)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
 *[[166: February 2-3, 2009]] (via AutoSub)
 *[[167: February 4-5, 2009]] (via AutoSub)
@@ -5494,6 +5534,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[286: Wrestling With Disappointment]] (via AutoSub)
 *[[590: August 24, 2021]] (via AutoSub)
+
+|}
+
+==Greg Palast==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Greg Palast'
+
+|-
+|'''Sources:'''
+|
+
+*[[36: June 29, 2015]] (via otter.ai)
+*[[49: July 6-13. 2015]] (via Wiki Page)
 
 |}
 

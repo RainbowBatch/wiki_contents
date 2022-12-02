@@ -245,7 +245,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, GPE, ORG
 |-
 |'''Total Count:'''
-|224
+|229
 |-
 |'''Source Texts:'''
 |
@@ -273,9 +273,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[17: February 7, 2017]] (via AutoSub, otter.ai)
 *[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
 *[[24: March 23, 2017]] (via otter.ai)
-*[[34: April 25, 2017]] (via AutoSub)
-*[[36: June 29, 2015]] (via AutoSub)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
+*[[34: April 25, 2017]] (via AutoSub, otter.ai)
+*[[36: June 29, 2015]] (via AutoSub, otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
 *[[45: May 25, 2017]] (via AutoSub)
 *[[61: July 5, 2017]] (via AutoSub)
 *[[64: Aug 27-Sep 1, 2015]] (via AutoSub)
@@ -574,11 +574,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |DATE, EVENT
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
 
+*'Inauguration Day'
 *'Inauguration Day\n\n'
 *'inauguration day'
 *'the Inauguration Day'
@@ -588,6 +589,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[6: Inauguration Speech Recap]] (via otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
 *[[211: March 10, 2009]] (via Wiki Page)
 *[[218: October 17, 2018]] (via AutoSub)
 
@@ -662,7 +664,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|22
+|24
 |-
 |'''Source Texts:'''
 |
@@ -678,6 +680,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[15: February 20-21, 2017]] (via otter.ai)
 *[[22: March 14, 2017]] (via AutoSub, otter.ai)
 *[[31: April 17, 2017]] (via otter.ai)
+*[[35: Custody Press Conference]] (via otter.ai)
+*[[36: June 29, 2015]] (via otter.ai)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub)
 *[[203: March 2-4, 2009]] (via AutoSub)
 *[[267: December 16, 2012]] (via AutoSub)
@@ -1117,10 +1121,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|19
+|23
 |-
 |'''Source Texts:'''
 |
@@ -1139,6 +1143,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[26: March 30 (Special Report)]] (via otter.ai)
 *[[27: March 31, 2017]] (via otter.ai)
 *[[30: April 14, 2017]] (via otter.ai)
+*[[34: April 25, 2017]] (via otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
+*[[40: May 10, 2017]] (via otter.ai)
 *[[99: November 1, 2017]] (via otter.ai)
 *[[213: October 2, 2018]] (via AutoSub)
 *[[714: Trial Recap, Part 1]] (via otter.ai)
@@ -1331,6 +1338,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Inglorious Basterds==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Inglorious Basterds'
+
+|-
+|'''Sources:'''
+|
+
+*[[10: February 6, 2017]] (via otter.ai)
+*[[752: Ye Took A Dip In The Pool]] (via otter.ai)
+
+|}
+
 ==Inner Circle==
 {| class="fandom-table"
 |'''Status:'''
@@ -1444,14 +1476,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
+*'Inside Job'
 *'Inside Job\n\n'
 *'Inside Job\r\n\r\n'
 
@@ -1459,6 +1492,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[34: April 25, 2017]] (via otter.ai)
 *[[580: July 20-21, 2021]] (via AutoSub)
 *[[698: For Squatch, There Are No Heroes]] (via Wiki Page)
 
@@ -1574,6 +1608,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[387: May 13, 2014]] (via AutoSub)
 *[[399: February 12-14, 2020]] (via AutoSub)
 *[[687: May 24, 2022]] (via AutoSub)
+
+|}
+
+==Intelligence Committee==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Intelligence Committee'
+
+|-
+|'''Sources:'''
+|
+
+*[[24: March 23, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via otter.ai)
 
 |}
 
@@ -2741,10 +2800,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|GPE, ORG
 |-
 |'''Total Count:'''
-|20
+|25
 |-
 |'''Source Texts:'''
 |
@@ -2762,6 +2821,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[30: April 14, 2017]] (via otter.ai)
 *[[32: April 21, 2017]] (via otter.ai)
 *[[33: April 22, 2017]] (via otter.ai)
+*[[34: April 25, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via otter.ai)
 *[[69: August 1, 2017]] (via Wiki Page)
 *[[99: November 1, 2017]] (via otter.ai)
 *[[303: January 29-31, 2013]] (via Wiki Page)
@@ -2901,10 +2962,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON, PRODUCT
+|FAC, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -2916,6 +2977,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[21: March 9, 2017]] (via otter.ai)
+*[[35: Custody Press Conference]] (via otter.ai)
+*[[37: May 1, 2017]] (via otter.ai)
 *[[61: July 5, 2017]] (via AutoSub)
 *[[441: June 3-4, 2020]] (via Wiki Page)
 
