@@ -4,20 +4,47 @@ This page is part of an attempt to make everything RainbowBatch knows available 
 
 Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
 
-==Qanon Twitter==
+==QAnon Anonymous==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|2
 |-
 |'''Source Texts:'''
 |
 
+*'QAnon Anonymous'
+*'QAnon Anonymous\r\n'
+
+|-
+|'''Sources:'''
+|
+
+*[[295: Crossover With QAnon Anonymous]] (via Wiki Page)
+*[[514: An X-Mas Report Rebuttal]] (via OpenAI Whisper)
+
+|}
+
+==QAnon Twitter==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'QAnon Twitter'
 *'Qanon Twitter'
 
 |-
@@ -25,7 +52,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[348: September 24-25, 2019]] (via AutoSub)
-*[[508: December 1-2, 2020]] (via AutoSub)
+*[[508: December 1-2, 2020]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -219,7 +246,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -230,6 +257,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[526: January 28-31, 2021]] (via OpenAI Whisper)
 *[[624: November 30, 2021]] (via Wiki Page)
 *[[714: Trial Recap, Part 1]] (via otter.ai)
 
@@ -244,7 +272,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -257,7 +285,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[127: February 8, 2018]] (via AutoSub, Wiki Page)
-*[[539: March 10, 2021]] (via AutoSub)
+*[[539: March 10, 2021]] (via AutoSub, OpenAI Whisper)
 *[[575: July 4, 2021]] (via AutoSub)
 
 |}
