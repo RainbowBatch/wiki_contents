@@ -1333,7 +1333,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*760: December 9-10, 2003 (via Wiki Page)
 *[[46: June 18, 2015]] (via AutoSub, otter.ai)
 *[[617: June 27, 2003]] (via AutoSub)
 *[[703: 9/11, Part 1]] (via AutoSub)
@@ -1341,7 +1340,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[718: August 21-22, 2022]] (via Welder)
 *[[738: Taking a Powder With Chowder]] (via otter.ai, Welder)
 *[[753: December 1, 2022]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via otter.ai, Wiki Page)
 
 |}
 
@@ -1542,7 +1541,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|25
+|27
 |-
 |'''Source Texts:'''
 |
@@ -1970,10 +1969,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON
+|LOC, PERSON
 |-
 |'''Total Count:'''
-|54
+|63
 |-
 |'''Source Texts:'''
 |
@@ -1984,12 +1983,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Osama bin Laden'
 *'Osama bin Laden\r\n'
 *"Osama bin Laden's"
+*'the Osama bin Laden'
 
 |-
 |'''Sources:'''
 |
 
 *Ron Paul (via Wiki Page)
+*[[2: December 31, 1999 (Y2K)]] (via Wiki Page)
 *[[6: Inauguration Speech Recap]] (via otter.ai)
 *[[30: April 14, 2017]] (via otter.ai)
 *[[98: May 2-3, 2012]] (via AutoSub, Wiki Page)
@@ -2005,8 +2006,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[340: All About Steve]] (via AutoSub)
 *[[369: November 13, 2019]] (via AutoSub)
 *[[544: May 1, 2003]] (via AutoSub, OpenAI Whisper)
-*[[551: April 20-21, 2021]] (via AutoSub)
-*[[552: May 6, 2003]] (via AutoSub)
+*[[551: April 20-21, 2021]] (via AutoSub, OpenAI Whisper)
+*[[552: May 6, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[614: The Purge of Gates]] (via AutoSub)
 *[[648: February 11, 2022]] (via AutoSub)
 *[[658: It's Pretty Easy Being Greene]] (via AutoSub)
@@ -2320,13 +2321,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|39
+|42
 |-
 |'''Source Texts:'''
 |
 
 *'Owen Benjamin'
 *"Owen Benjamin's"
+*'Owen Benjamin]]'
 
 |-
 |'''Sources:'''
@@ -2357,7 +2359,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|101
+|106
 |-
 |'''Source Texts:'''
 |
@@ -2406,6 +2408,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[540: March 15-16, 2021]] (via OpenAI Whisper)
 *[[541: March 17-18, 2021]] (via OpenAI Whisper)
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
+*[[549: April 13-14, 2021]] (via OpenAI Whisper)
+*[[551: April 20-21, 2021]] (via OpenAI Whisper)
 *[[641: Formulaic Objections Part 4]] (via OpenAI Whisper)
 *[[665: Formulaic Objections Part 6]] (via otter.ai)
 *[[685: Formulaic Objections Part 7]] (via otter.ai)
