@@ -258,10 +258,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PRODUCT
+|FAC, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -272,7 +272,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[68: September 19-28, 2015]] (via AutoSub)
+*[[68: September 19-28, 2015]] (via AutoSub, otter.ai)
 *[[318: July 5, 2019]] (via AutoSub)
 
 |}
@@ -612,7 +612,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -854,6 +854,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[377: December 6-10, 2019]] (via AutoSub)
 *[[744: November 3, 2022]] (via AutoSub)
+
+|}
+
+==Viktor Yanukovych==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Viktor Yanukovych'
+
+|-
+|'''Sources:'''
+|
+
+*[[68: September 19-28, 2015]] (via otter.ai)
+*[[72: August 9, 2017]] (via AutoSub)
 
 |}
 
@@ -1494,7 +1519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|1049
+|1088
 |-
 |'''Source Texts:'''
 |
@@ -1556,7 +1581,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[63: July 12, 2017]] (via AutoSub)
 *[[64: Aug 27-Sep 1, 2015]] (via AutoSub)
 *[[66: September 6-17, 2015]] (via AutoSub, OpenAI Whisper)
-*[[68: September 19-28, 2015]] (via AutoSub)
+*[[68: September 19-28, 2015]] (via AutoSub, otter.ai)
 *[[69: August 1, 2017]] (via AutoSub)
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub, Wiki Page)
 *[[71: August 4, 2017]] (via AutoSub, Wiki Page)
