@@ -53,8 +53,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*25(Repost) (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -143,10 +142,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LOC, PERSON
+|GPE, LOC, PERSON
 |-
 |'''Total Count:'''
-|8
+|10
 |-
 |'''Source Texts:'''
 |
@@ -162,6 +161,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[44: May 22, 2017]] (via otter.ai)
 *[[108: November 30, 2017]] (via AutoSub)
 *[[375: November 29, 2019]] (via AutoSub)
+*[[567: June 13, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -327,7 +327,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -338,7 +338,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[568: June 19, 2021]] (via AutoSub)
+*[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper)
 *[[653: February 25, 2022]] (via AutoSub)
 *[[740: August 13, 2003]] (via otter.ai)
 
@@ -1361,7 +1361,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|35
+|37
 |-
 |'''Source Texts:'''
 |
@@ -1382,7 +1382,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[162: May 19, 2018]] (via AutoSub)
 *[[248: January 2, 2019]] (via AutoSub)
 *[[306: June 4-5, 2019]] (via AutoSub, Wiki Page)
-*[[564: May 15-20, 2003]] (via Wiki Page)
+*[[564: May 15-20, 2003]] (via OpenAI Whisper, Wiki Page)
 *[[629: Black Goo and Space Covid]] (via AutoSub)
 
 |}
@@ -1584,19 +1584,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|29
+|30
 |-
 |'''Source Texts:'''
 |
 
 *'Edward Snowden'
+*"Edward Snowden's"
 
 |-
 |'''Sources:'''
 |
 
-*25(Repost) (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[32: April 21, 2017]] (via otter.ai)
 *[[56: July 22-Aug 11, 2015]] (via Wiki Page)
 *[[68: September 19-28, 2015]] (via AutoSub, otter.ai)
@@ -3673,9 +3673,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*25(Repost) (via AutoSub)
 *[[19: March 3, 2017]] (via AutoSub, otter.ai)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[107: December 12, 2014]] (via AutoSub)
 *[[119: August 16, 2012]] (via AutoSub, Wiki Page)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub, Wiki Page)
@@ -4725,7 +4724,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|57
+|58
 |-
 |'''Source Texts:'''
 |
@@ -4777,6 +4776,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[533: February 17, 2021]] (via OpenAI Whisper)
 *[[537: July 16-18, 2010]] (via AutoSub)
 *[[562: May 27, 2021]] (via AutoSub)
+*[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[588: August 15, 2021]] (via AutoSub)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
@@ -4871,31 +4871,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[405: Root Races and Terminated Spiders]] (via AutoSub)
 *[[671: April 13, 2022]] (via AutoSub)
-
-|}
-
-==Exeter Murphy==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Exeter Murphy'
-
-|-
-|'''Sources:'''
-|
-
-*25(Repost) (via AutoSub)
-*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
 
@@ -5093,7 +5068,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -5105,7 +5080,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai)
 *[[83: November 10-12, 2015]] (via Wiki Page)
 *[[130E: Endgame, Part 5]] (via AutoSub)
 

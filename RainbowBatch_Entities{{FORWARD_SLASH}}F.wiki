@@ -213,7 +213,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|16
+|17
 |-
 |'''Source Texts:'''
 |
@@ -224,8 +224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*25(Repost) (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[455: July 7-8, 2020]] (via AutoSub)
 *[[463: July 28-30, 2020]] (via AutoSub)
 *[[656: March 5, 2022]] (via AutoSub)
@@ -1263,7 +1262,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|5
 |-
 |'''Source Texts:'''
 |
@@ -1274,7 +1273,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*25(Repost) (via AutoSub)
 *[[62: August 19-26, 2015]] (via AutoSub)
 *[[118: January 10-11, 2018]] (via AutoSub)
 *[[459: July 17, 2020]] (via AutoSub)
@@ -1344,7 +1342,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|299
+|301
 |-
 |'''Source Texts:'''
 |
@@ -1453,6 +1451,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[552: May 6, 2003]] (via AutoSub, OpenAI Whisper)
 *[[555: May 7, 2003]] (via AutoSub, OpenAI Whisper)
 *[[556: May 6-7, 2021]] (via OpenAI Whisper)
+*[[558: May 8-9, 2003]] (via OpenAI Whisper)
+*[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[574: May 28-29, 2003]] (via AutoSub)
 *[[577: July 13, 2021]] (via AutoSub)
 *[[578: A Little Side Track]] (via AutoSub)
@@ -1541,7 +1541,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -1558,6 +1558,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[37: May 1, 2017]] (via otter.ai)
 *[[279: Formulaic Objections]] (via otter.ai)
 *[[378: Formulaic Objections Part 2]] (via otter.ai)
+*[[558: May 8-9, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -1767,7 +1768,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|20
+|21
 |-
 |'''Source Texts:'''
 |
@@ -1785,6 +1786,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[401: Formulaic Objections Part 3]] (via AutoSub, otter.ai)
 *[[502: Dan's Cara-Vanity Project Part 1]] (via OpenAI Whisper)
 *[[531: February 14, 2021]] (via AutoSub, OpenAI Whisper)
+*[[558: May 8-9, 2003]] (via OpenAI Whisper)
 *[[729: September 24, 2022]] (via AutoSub, otter.ai)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai)
 
@@ -2580,6 +2582,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Fitzcarraldo==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP, PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Fitzcarraldo'
+
+|-
+|'''Sources:'''
+|
+
+*[[508: December 1-2, 2020]] (via OpenAI Whisper)
+*[[558: May 8-9, 2003]] (via OpenAI Whisper)
+
+|}
+
 ==Fitzwilliam==
 {| class="fandom-table"
 |'''Status:'''
@@ -2614,7 +2641,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -2626,6 +2653,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[539: March 10, 2021]] (via OpenAI Whisper)
+*[[569: June 23, 2021]] (via OpenAI Whisper)
 *[[573: July 1, 2021]] (via AutoSub)
 
 |}
@@ -2664,7 +2692,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -2678,7 +2706,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[130D: Endgame, Part 4]] (via AutoSub)
 *[[183: February 12-16, 2009]] (via AutoSub)
-*[[310: June 13-14, 2019]] (via AutoSub, otter.ai)
+*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[457: July 12-13, 2020]] (via AutoSub)
 *[[542: September 15, 2010]] (via AutoSub)
 
@@ -2996,8 +3024,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*25(Repost) (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -3600,7 +3627,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|70
+|71
 |-
 |'''Source Texts:'''
 |
@@ -3634,7 +3661,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[278: January 3, 2013]] (via AutoSub)
 *[[297: January 17-18, 2013]] (via AutoSub)
 *[[309: June 10-11, 2019]] (via AutoSub)
-*[[310: June 13-14, 2019]] (via otter.ai)
+*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
 *[[315: February 17-18, 2013]] (via AutoSub)
 *[[347: September 23, 2019]] (via AutoSub)
 *[[355: April 18, 2013]] (via AutoSub)
@@ -3834,16 +3861,18 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|DATE, ORG
 |-
 |'''Total Count:'''
-|12
+|14
 |-
 |'''Source Texts:'''
 |
 
 *'Four Seasons'
+*'four seasons'
 *'the Four Seasons'
+*'the four seasons'
 
 |-
 |'''Sources:'''
@@ -3853,6 +3882,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[386: January 8, 2020]] (via AutoSub)
 *[[501: November 7-8, 2020]] (via AutoSub, OpenAI Whisper)
 *[[519: January 10-11, 2021]] (via OpenAI Whisper)
+*[[563: June 2, 2021]] (via OpenAI Whisper)
+*[[565: June 10, 2021]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via AutoSub)
 *[[697: June 29, 2022]] (via AutoSub)
 
@@ -4130,7 +4161,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|104
+|105
 |-
 |'''Source Texts:'''
 |
@@ -4161,7 +4192,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[541: March 17-18, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[554: April 30, 2021]] (via AutoSub, OpenAI Whisper)
 *[[557: May 11, 2021]] (via OpenAI Whisper)
-*[[561: Jordan Takes The Wheel 6]] (via AutoSub)
+*[[561: Jordan Takes The Wheel 6]] (via AutoSub, OpenAI Whisper)
 *[[661: March 17, 2022]] (via AutoSub, Wiki Page)
 *[[662: March 22, 2022]] (via AutoSub)
 *[[763: December 15, 2003]] (via AutoSub, otter.ai)
@@ -4394,7 +4425,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|30
+|35
 |-
 |'''Source Texts:'''
 |
@@ -4412,7 +4443,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[403: February 24, 2020]] (via AutoSub)
 *[[416: April 2, 2020]] (via AutoSub)
 *[[431: Smash-N-Grab Spy Jobs]] (via AutoSub)
-*[[562: May 27, 2021]] (via AutoSub)
+*[[562: May 27, 2021]] (via AutoSub, OpenAI Whisper)
 *[[611: October 29, 2021]] (via AutoSub)
 *[[645: November 4, 2014]] (via AutoSub)
 *[[715: Trial Recap, Part 2]] (via AutoSub, otter.ai, Welder)
@@ -4429,7 +4460,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -4440,7 +4471,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai)
 *[[41: May 12, 2017]] (via otter.ai)
 
 |}
@@ -5118,6 +5149,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Freedom Fries==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Freedom Fries'
+
+|-
+|'''Sources:'''
+|
+
+*[[268: December 17-18, 2012]] (via Wiki Page)
+*[[560: May 12-13, 2003]] (via OpenAI Whisper)
+
+|}
+
 ==Freedom of Association==
 {| class="fandom-table"
 |'''Status:'''
@@ -5288,7 +5344,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|6
+|10
 |-
 |'''Source Texts:'''
 |
@@ -5301,8 +5357,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[490: October 9, 2020]] (via AutoSub)
-*[[564: May 15-20, 2003]] (via AutoSub)
-*[[571: May 22-27, 2003]] (via AutoSub)
+*[[564: May 15-20, 2003]] (via AutoSub, OpenAI Whisper)
+*[[571: May 22-27, 2003]] (via AutoSub, OpenAI Whisper)
 *[[684: May 20, 2022]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
 *[[721: September 2, 2022]] (via otter.ai)
