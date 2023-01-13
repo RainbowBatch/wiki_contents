@@ -809,7 +809,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|15
+|16
 |-
 |'''Source Texts:'''
 |
@@ -831,7 +831,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[515: December 28-29, 2020]] (via AutoSub, OpenAI Whisper)
 *[[533: February 17, 2021]] (via AutoSub)
 *[[543: March 23-24, 2021]] (via Wiki Page)
-*[[577: July 13, 2021]] (via AutoSub)
+*[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
 *[[742: Formulaic Objections Part 9]] (via otter.ai)
 
 |}
@@ -1342,7 +1342,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|301
+|307
 |-
 |'''Source Texts:'''
 |
@@ -1356,6 +1356,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'the Federal Reserve'
 *'the Federal Reserve\r\n'
 *"the Federal Reserve's"
+*'this Federal Reserve'
 
 |-
 |'''Sources:'''
@@ -1453,10 +1454,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[556: May 6-7, 2021]] (via OpenAI Whisper)
 *[[558: May 8-9, 2003]] (via OpenAI Whisper)
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
-*[[574: May 28-29, 2003]] (via AutoSub)
+*[[574: May 28-29, 2003]] (via AutoSub, OpenAI Whisper)
 *[[577: July 13, 2021]] (via AutoSub)
-*[[578: A Little Side Track]] (via AutoSub)
-*[[579: May 30, 2003]] (via AutoSub)
+*[[578: A Little Side Track]] (via AutoSub, OpenAI Whisper)
+*[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
 *[[617: June 27, 2003]] (via AutoSub)
 *[[653: February 25, 2022]] (via AutoSub)
@@ -1469,6 +1470,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[753: December 1, 2022]] (via AutoSub, otter.ai)
 *[[758: December 8, 2003]] (via otter.ai)
 *[[763: December 15, 2003]] (via otter.ai)
+*[[766: December 16, 2003]] (via AutoSub)
 
 |}
 
@@ -4538,7 +4540,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -4550,7 +4552,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[549: April 13-14, 2021]] (via AutoSub, OpenAI Whisper)
-*[[579: May 30, 2003]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -4653,6 +4655,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
 *[[83: November 10-12, 2015]] (via AutoSub)
 *[[230C: Obama Deception, Part 3]] (via AutoSub)
+
+|}
+
+==Fred Durst==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Fred Durst'
+
+|-
+|'''Sources:'''
+|
+
+*[[14: February 17, 2017]] (via otter.ai)
+*[[581: June 3, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -4836,7 +4863,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -4847,6 +4874,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[575: July 4, 2021]] (via OpenAI Whisper)
 *[[611: October 29, 2021]] (via AutoSub)
 *[[694: The Case of the Missing Propagandist]] (via AutoSub)
 
@@ -5519,7 +5547,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PRODUCT
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -5532,6 +5560,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[130E: Endgame, Part 5]] (via AutoSub)
 *[[360: October 23, 2019]] (via AutoSub)
+*[[766: December 16, 2003]] (via AutoSub)
 
 |}
 

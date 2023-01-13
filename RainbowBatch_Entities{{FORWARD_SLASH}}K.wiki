@@ -224,7 +224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|47
+|49
 |-
 |'''Source Texts:'''
 |
@@ -253,7 +253,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[489: October 2-4, 2020]] (via AutoSub)
 *[[529: February 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[564: May 15-20, 2003]] (via AutoSub, OpenAI Whisper)
-*[[581: June 3, 2003]] (via AutoSub)
+*[[574: May 28-29, 2003]] (via OpenAI Whisper)
+*[[581: June 3, 2003]] (via AutoSub, OpenAI Whisper)
 *[[591: June 11, 2003]] (via AutoSub)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
@@ -274,7 +275,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|221
+|222
 |-
 |'''Source Texts:'''
 |
@@ -300,6 +301,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[455: July 7-8, 2020]] (via AutoSub, Wiki Page)
 *[[469: August 12-13, 2020]] (via AutoSub)
 *[[480: September 9-10, 2020]] (via Wiki Page)
+*[[578: A Little Side Track]] (via OpenAI Whisper)
 *[[734: October 9, 2022]] (via AutoSub, otter.ai, Wiki Page)
 *[[738: Taking a Powder With Chowder]] (via AutoSub, otter.ai, Welder)
 *[[743: October 29-30, 2022]] (via AutoSub, otter.ai)
@@ -1053,6 +1055,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Kennedy Center==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Kennedy Center'
+
+|-
+|'''Sources:'''
+|
+
+*[[180: Heresy and God Kings]] (via AutoSub)
+*[[579: May 30, 2003]] (via OpenAI Whisper)
+
+|}
+
 ==Kenneth Branagh==
 {| class="fandom-table"
 |'''Status:'''
@@ -1384,7 +1411,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -1398,6 +1425,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[254: April 9-10, 2009]] (via AutoSub)
 *[[355: April 18, 2013]] (via Wiki Page)
+*[[577: July 13, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -1824,6 +1852,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Khalid Mohammed==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Khalid Mohammed'
+
+|-
+|'''Sources:'''
+|
+
+*[[581: June 3, 2003]] (via OpenAI Whisper)
+*[[758: December 8, 2003]] (via otter.ai)
+
+|}
+
 ==Khalid Muhammad==
 {| class="fandom-table"
 |'''Status:'''
@@ -2217,7 +2270,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|18
+|19
 |-
 |'''Source Texts:'''
 |
@@ -2235,6 +2288,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
 *[[555: May 7, 2003]] (via OpenAI Whisper)
 *[[605: June 17, 2003]] (via AutoSub, Wiki Page)
+*[[766: December 16, 2003]] (via AutoSub)
 
 |}
 
@@ -2676,7 +2730,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|227
+|228
 |-
 |'''Source Texts:'''
 |
@@ -2691,6 +2745,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
 *[[66: September 6-17, 2015]] (via OpenAI Whisper)
 *[[123: March 18, 2008]] (via Wiki Page)
+*[[577: July 13, 2021]] (via OpenAI Whisper)
 *[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai, Wiki Page)
 *[[718: August 21-22, 2022]] (via Welder)
 *[[739: Formulaic Objections Part 8]] (via Welder)
@@ -2758,7 +2813,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|107
+|109
 |-
 |'''Source Texts:'''
 |
@@ -2787,7 +2842,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[526: January 28-31, 2021]] (via OpenAI Whisper)
 *[[532: February 15, 2021]] (via OpenAI Whisper)
 *[[562: May 27, 2021]] (via AutoSub, OpenAI Whisper)
-*[[572: June 28-30, 2021]] (via AutoSub, Wiki Page)
+*[[572: June 28-30, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[598: September 17, 2021]] (via Wiki Page)
 *[[618: November 15, 2021]] (via Wiki Page)
 *[[624: November 30, 2021]] (via AutoSub, Wiki Page)
@@ -2891,7 +2946,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|86
+|88
 |-
 |'''Source Texts:'''
 |
@@ -2945,6 +3000,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[516: December 31, 2020- January 1, 2021]] (via Wiki Page)
 *[[522: January 14-17, 2021]] (via OpenAI Whisper)
 *[[551: April 20-21, 2021]] (via OpenAI Whisper)
+*[[576: July 9, 2021]] (via OpenAI Whisper)
+*[[577: July 13, 2021]] (via OpenAI Whisper)
 *[[698: For Squatch, There Are No Heroes]] (via Wiki Page)
 *[[731: September 29-30, 2022]] (via otter.ai)
 *[[733: October 6, 2022]] (via otter.ai)
@@ -2990,7 +3047,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|56
+|66
 |-
 |'''Source Texts:'''
 |
@@ -3034,6 +3091,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[561: Jordan Takes The Wheel 6]] (via OpenAI Whisper)
 *[[562: May 27, 2021]] (via OpenAI Whisper)
 *[[565: June 10, 2021]] (via OpenAI Whisper)
+*[[572: June 28-30, 2021]] (via OpenAI Whisper)
+*[[574: May 28-29, 2003]] (via OpenAI Whisper)
+*[[575: July 4, 2021]] (via OpenAI Whisper)
+*[[576: July 9, 2021]] (via OpenAI Whisper)
+*[[578: A Little Side Track]] (via OpenAI Whisper)
+*[[581: June 3, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -3098,7 +3161,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|62
+|73
 |-
 |'''Source Texts:'''
 |
@@ -3149,6 +3212,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[563: June 2, 2021]] (via OpenAI Whisper)
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[565: June 10, 2021]] (via OpenAI Whisper)
+*[[572: June 28-30, 2021]] (via OpenAI Whisper)
+*[[574: May 28-29, 2003]] (via OpenAI Whisper)
+*[[575: July 4, 2021]] (via OpenAI Whisper)
+*[[576: July 9, 2021]] (via OpenAI Whisper)
+*[[577: July 13, 2021]] (via OpenAI Whisper)
+*[[578: A Little Side Track]] (via OpenAI Whisper)
+*[[579: May 30, 2003]] (via OpenAI Whisper)
+*[[581: June 3, 2003]] (via OpenAI Whisper)
 *[[714: Trial Recap, Part 1]] (via Welder)
 *[[717: August 17, 2022]] (via Welder)
 *[[718: August 21-22, 2022]] (via Welder)
@@ -3466,7 +3537,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|20
+|21
 |-
 |'''Source Texts:'''
 |
@@ -3486,7 +3557,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[84: December 21, 2012]] (via AutoSub)
 *[[198: July 22, 2011]] (via AutoSub)
 *[[530: February 10-11, 2021]] (via OpenAI Whisper)
-*[[575: July 4, 2021]] (via AutoSub)
+*[[575: July 4, 2021]] (via AutoSub, OpenAI Whisper)
 *[[758: December 8, 2003]] (via otter.ai)
 
 |}
