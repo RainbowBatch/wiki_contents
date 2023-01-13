@@ -246,7 +246,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|8
 |-
 |'''Source Texts:'''
 |
@@ -261,7 +261,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
 *[[384: January 3, 2020]] (via AutoSub)
 *[[475: August 24-26, 2020]] (via AutoSub)
-*[[579: May 30, 2003]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -892,7 +892,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|53
+|56
 |-
 |'''Source Texts:'''
 |
@@ -937,7 +937,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[541: March 17-18, 2021]] (via AutoSub)
 *[[561: Jordan Takes The Wheel 6]] (via OpenAI Whisper)
 *[[571: May 22-27, 2003]] (via OpenAI Whisper)
-*[[579: May 30, 2003]] (via AutoSub)
+*[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via AutoSub)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[615: November 8, 2021?]] (via AutoSub)
@@ -997,7 +997,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|64
+|67
 |-
 |'''Source Texts:'''
 |
@@ -1048,7 +1048,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[530: February 10-11, 2021]] (via AutoSub, OpenAI Whisper)
 *[[536: February 28, 2021]] (via AutoSub)
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
-*[[579: May 30, 2003]] (via AutoSub)
+*[[572: June 28-30, 2021]] (via OpenAI Whisper)
+*[[575: July 4, 2021]] (via OpenAI Whisper)
+*[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[583: August 1, 2021]] (via AutoSub)
 *[[605: June 17, 2003]] (via AutoSub)
 *[[618: November 15, 2021]] (via AutoSub)
@@ -1105,7 +1107,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|1897
+|1933
 |-
 |'''Source Texts:'''
 |
@@ -1532,15 +1534,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[568: June 19, 2021]] (via OpenAI Whisper)
 *[[569: June 23, 2021]] (via AutoSub, OpenAI Whisper)
-*[[570: June 24, 2021]] (via AutoSub)
+*[[570: June 24, 2021]] (via AutoSub, OpenAI Whisper)
 *[[571: May 22-27, 2003]] (via AutoSub, OpenAI Whisper)
-*[[572: June 28-30, 2021]] (via AutoSub)
-*[[573: July 1, 2021]] (via AutoSub)
-*[[575: July 4, 2021]] (via AutoSub)
-*[[576: July 9, 2021]] (via AutoSub)
+*[[572: June 28-30, 2021]] (via AutoSub, OpenAI Whisper)
+*[[573: July 1, 2021]] (via AutoSub, OpenAI Whisper)
+*[[574: May 28-29, 2003]] (via OpenAI Whisper)
+*[[575: July 4, 2021]] (via AutoSub, OpenAI Whisper)
+*[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
 *[[577: July 13, 2021]] (via AutoSub)
-*[[578: A Little Side Track]] (via AutoSub)
-*[[579: May 30, 2003]] (via AutoSub)
+*[[578: A Little Side Track]] (via AutoSub, OpenAI Whisper)
+*[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via AutoSub)
 *[[583: August 1, 2021]] (via AutoSub)
 *[[584: August 5, 2021]] (via AutoSub)
@@ -1672,6 +1675,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[758: December 8, 2003]] (via AutoSub, otter.ai)
 *[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
 *[[765: Formulaic Objections Part 13]] (via AutoSub, otter.ai)
+*[[766: December 16, 2003]] (via AutoSub)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
