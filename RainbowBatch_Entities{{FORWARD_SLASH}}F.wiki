@@ -1342,7 +1342,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|307
+|308
 |-
 |'''Source Texts:'''
 |
@@ -1470,7 +1470,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[753: December 1, 2022]] (via AutoSub, otter.ai)
 *[[758: December 8, 2003]] (via otter.ai)
 *[[763: December 15, 2003]] (via otter.ai)
-*[[766: December 16, 2003]] (via AutoSub)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai)
 
 |}
 
@@ -3500,7 +3500,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -3512,7 +3512,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[162: May 19, 2018]] (via AutoSub)
-*[[580: July 20-21, 2021]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3741,7 +3741,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|72
+|73
 |-
 |'''Source Texts:'''
 |
@@ -3793,6 +3793,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[482: September 15, 2020]] (via AutoSub)
 *[[524: Inauguration 2021]] (via OpenAI Whisper)
 *[[541: March 17-18, 2021]] (via AutoSub)
+*[[583: August 1, 2021]] (via OpenAI Whisper)
 *[[629: Black Goo and Space Covid]] (via AutoSub)
 *[[712: The Decompression Session]] (via otter.ai)
 *[[723: September 8, 2022]] (via AutoSub)
@@ -4207,14 +4208,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, WORK_OF_ART
+|FAC, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
+*'Francis Crick'
 *'The Francis Crick'
 *'the Francis Crick'
 
@@ -4222,7 +4224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[580: July 20-21, 2021]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via AutoSub)
 
 |}
@@ -5439,10 +5441,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -5458,6 +5460,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub)
 *[[300: May 21-22, 2019]] (via AutoSub)
 *[[580: July 20-21, 2021]] (via AutoSub)
+*[[766: December 16, 2003]] (via otter.ai)
 
 |}
 

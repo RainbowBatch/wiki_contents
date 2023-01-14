@@ -76,7 +76,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|60
+|63
 |-
 |'''Source Texts:'''
 |
@@ -114,7 +114,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[740: August 13, 2003]] (via otter.ai)
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai, Wiki Page)
 *[[763: December 15, 2003]] (via otter.ai, Wiki Page)
-*[[766: December 16, 2003]] (via AutoSub)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai)
 
 |}
 
@@ -1651,7 +1651,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|35
+|36
 |-
 |'''Source Texts:'''
 |
@@ -1680,7 +1680,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[506: November 22-24, 2020]] (via OpenAI Whisper)
 *[[534: February 19, 2021]] (via AutoSub, OpenAI Whisper)
 *[[560: May 12-13, 2003]] (via AutoSub)
-*[[580: July 20-21, 2021]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[605: June 17, 2003]] (via AutoSub)
 *[[625: December 5, 2021]] (via AutoSub)
@@ -4183,10 +4183,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -4203,6 +4203,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[653: February 25, 2022]] (via AutoSub)
 *[[666: March 31, 2022]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
+*[[766: December 16, 2003]] (via otter.ai)
 
 |}
 
@@ -7969,7 +7970,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -7988,6 +7989,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub, Wiki Page)
 *[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub, Wiki Page)
 *[[534: February 19, 2021]] (via AutoSub)
+*[[580: July 20-21, 2021]] (via OpenAI Whisper)
 *[[712: The Decompression Session]] (via AutoSub)
 
 |}
@@ -8868,7 +8870,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|82
+|84
 |-
 |'''Source Texts:'''
 |
@@ -8913,7 +8915,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[741: December 2, 2015]] (via otter.ai)
 *[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
 *[[764: Jordan Takes The Wheel 9]] (via AutoSub, otter.ai)
-*[[766: December 16, 2003]] (via AutoSub)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, Wiki Page)
 
 |}
