@@ -3533,10 +3533,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|LAW
+|LAW, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -3548,7 +3548,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[573: July 1, 2021]] (via OpenAI Whisper)
-*[[580: July 20-21, 2021]] (via Wiki Page)
+*[[580: July 20-21, 2021]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -4209,7 +4209,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -4227,7 +4227,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[351: Jordan Takes The Wheel 2]] (via AutoSub)
 *[[408: March 11-13, 2020]] (via AutoSub)
 *[[639: January 17, 2022]] (via AutoSub)
-*[[766: December 16, 2003]] (via AutoSub)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai)
 *[[TWTWYTT Special]] (via AutoSub)
 
 |}
@@ -4752,7 +4752,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|59
+|60
 |-
 |'''Source Texts:'''
 |
@@ -4806,6 +4806,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[562: May 27, 2021]] (via AutoSub)
 *[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[579: May 30, 2003]] (via OpenAI Whisper)
+*[[580: July 20-21, 2021]] (via OpenAI Whisper)
 *[[588: August 15, 2021]] (via AutoSub)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
