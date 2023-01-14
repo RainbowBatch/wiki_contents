@@ -671,7 +671,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|77
+|78
 |-
 |'''Source Texts:'''
 |
@@ -727,7 +727,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[522: January 14-17, 2021]] (via AutoSub, Wiki Page)
 *[[543: March 23-24, 2021]] (via AutoSub)
 *[[545: March 30-31, 2021]] (via Wiki Page)
-*[[578: A Little Side Track]] (via Wiki Page)
+*[[578: A Little Side Track]] (via OpenAI Whisper, Wiki Page)
 *[[588: August 15, 2021]] (via Wiki Page)
 *[[598: September 17, 2021]] (via AutoSub)
 *[[609: October 20, 2021]] (via AutoSub)
@@ -1045,7 +1045,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|25
+|26
 |-
 |'''Source Texts:'''
 |
@@ -1076,6 +1076,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[430: May 5-7, 2020]] (via AutoSub)
 *[[473: August 20-21, 2020]] (via AutoSub)
 *[[570: June 24, 2021]] (via AutoSub)
+*[[575: July 4, 2021]] (via OpenAI Whisper)
 *[[634: July 11, 2003]] (via AutoSub)
 *[[699: July 4-5, 2022]] (via AutoSub)
 *[[721: September 2, 2022]] (via AutoSub)
@@ -1092,7 +1093,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|35
+|39
 |-
 |'''Source Texts:'''
 |
@@ -1120,7 +1121,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[455: July 7-8, 2020]] (via AutoSub)
 *[[502: Dan's Cara-Vanity Project Part 1]] (via OpenAI Whisper)
 *[[523: January 18-19, 2021]] (via AutoSub, OpenAI Whisper)
-*[[575: July 4, 2021]] (via AutoSub)
+*[[575: July 4, 2021]] (via AutoSub, OpenAI Whisper)
 *[[613: June 24-25, 2003]] (via AutoSub)
 *[[622: June 30-July 1, 2003]] (via AutoSub)
 *[[625: December 5, 2021]] (via AutoSub)
@@ -1890,7 +1891,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|282
+|285
 |-
 |'''Source Texts:'''
 |
@@ -2062,7 +2063,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[570: June 24, 2021]] (via AutoSub)
-*[[574: May 28-29, 2003]] (via AutoSub)
+*[[574: May 28-29, 2003]] (via AutoSub, OpenAI Whisper)
 *[[584: August 5, 2021]] (via AutoSub)
 *[[588: August 15, 2021]] (via AutoSub)
 *[[594: September 7, 2021]] (via AutoSub)
@@ -3698,7 +3699,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|43
+|44
 |-
 |'''Source Texts:'''
 |
@@ -3726,6 +3727,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[490: October 9, 2020]] (via AutoSub, Wiki Page)
 *[[499: Jordan Takes The Wheel 5]] (via AutoSub)
 *[[533: February 17, 2021]] (via AutoSub, OpenAI Whisper)
+*[[579: May 30, 2003]] (via OpenAI Whisper)
 *[[628: July 10, 2003]] (via AutoSub)
 *[[709: 2 Dan's 2 War]] (via AutoSub)
 *[[762: December 31, 2022]] (via AutoSub, otter.ai)
@@ -4137,7 +4139,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -4151,7 +4153,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[9: Joe Rogan Appearance]] (via otter.ai)
 *[[425: April 23-24, 2020]] (via AutoSub)
 *[[561: Jordan Takes The Wheel 6]] (via AutoSub, OpenAI Whisper)
-*[[577: July 13, 2021]] (via AutoSub)
+*[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai)
 
 |}

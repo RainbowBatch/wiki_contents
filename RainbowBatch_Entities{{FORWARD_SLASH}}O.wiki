@@ -733,7 +733,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|251
+|252
 |-
 |'''Source Texts:'''
 |
@@ -800,7 +800,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[560: May 12-13, 2003]] (via AutoSub, OpenAI Whisper)
 *[[567: June 13, 2021]] (via AutoSub, OpenAI Whisper)
 *[[571: May 22-27, 2003]] (via AutoSub, OpenAI Whisper)
-*[[577: July 13, 2021]] (via AutoSub)
+*[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[605: June 17, 2003]] (via AutoSub)
 *[[612: October 31, 2021]] (via AutoSub, Wiki Page)
@@ -952,7 +952,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|21
+|23
 |-
 |'''Source Texts:'''
 |
@@ -970,7 +970,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[360: October 23, 2019]] (via AutoSub, Wiki Page)
 *[[391: January 22, 2020]] (via AutoSub)
 *[[462: July 26, 2020]] (via AutoSub)
-*[[577: July 13, 2021]] (via AutoSub)
+*[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1315,7 +1315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|18
+|19
 |-
 |'''Source Texts:'''
 |
@@ -1334,6 +1334,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[526: January 28-31, 2021]] (via OpenAI Whisper, Wiki Page)
 *[[546: April 1-3, 2021]] (via OpenAI Whisper)
 *[[556: May 6-7, 2021]] (via OpenAI Whisper)
+*[[577: July 13, 2021]] (via OpenAI Whisper)
 *[[640: January 22, 2022]] (via Wiki Page)
 *[[675: April 25, 2022]] (via Wiki Page)
 
@@ -2348,7 +2349,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|42
+|43
 |-
 |'''Source Texts:'''
 |
@@ -2366,7 +2367,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[345: September 19, 2019]] (via AutoSub, Wiki Page)
 *[[357: October 16, 2019]] (via AutoSub)
 *[[375: November 29, 2019]] (via AutoSub)
-*[[576: July 9, 2021]] (via AutoSub, Wiki Page)
+*[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[713: Chatting With Becca Lewis]] (via AutoSub)
 *[[714: Trial Recap, Part 1]] (via AutoSub, otter.ai, Welder)
 *[[723: September 8, 2022]] (via AutoSub)
@@ -2385,7 +2386,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|115
+|118
 |-
 |'''Source Texts:'''
 |
@@ -2441,6 +2442,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[559: Noam Man's Land]] (via OpenAI Whisper)
 *[[562: May 27, 2021]] (via OpenAI Whisper)
 *[[567: June 13, 2021]] (via OpenAI Whisper)
+*[[572: June 28-30, 2021]] (via OpenAI Whisper)
+*[[577: July 13, 2021]] (via OpenAI Whisper)
 *[[641: Formulaic Objections Part 4]] (via OpenAI Whisper)
 *[[665: Formulaic Objections Part 6]] (via otter.ai)
 *[[685: Formulaic Objections Part 7]] (via otter.ai)
