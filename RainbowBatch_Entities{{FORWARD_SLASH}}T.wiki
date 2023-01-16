@@ -2376,7 +2376,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|201
+|202
 |-
 |'''Source Texts:'''
 |
@@ -2396,6 +2396,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *InfoWars (via Wiki Page)
 *Joe Rogan (via Wiki Page)
 *Mark Dice (via Wiki Page)
+*Wolfgang Halbig (via Wiki Page)
 *[[1: January 2, 2017]] (via otter.ai)
 *[[2: December 31, 1999 (Y2K)]] (via otter.ai, Wiki Page)
 *[[6: Inauguration Speech Recap]] (via otter.ai)
@@ -2558,7 +2559,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2199
+|2200
 |-
 |'''Source Texts:'''
 |
@@ -2588,6 +2589,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Texas Parkland Shooting Lawsuit (Fontaine v. Jones) (via Wiki Page)
 *Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
 *The Sandy Hook Elementary Massacre (via Wiki Page)
+*Wolfgang Halbig (via Wiki Page)
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
 *[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
 *[[16: February 24, 2017]] (via AutoSub, otter.ai)
@@ -3245,7 +3247,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|229
+|235
 |-
 |'''Source Texts:'''
 |
@@ -3332,7 +3334,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[572: June 28-30, 2021]] (via OpenAI Whisper)
 *[[575: July 4, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper)
-*[[585: August 8, 2021]] (via AutoSub, Wiki Page)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[612: October 31, 2021]] (via AutoSub, Wiki Page)
 *[[621: Reset Wars: Episode 1]] (via AutoSub)
 *[[622: June 30-July 1, 2003]] (via AutoSub)
@@ -4517,7 +4520,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -4530,7 +4533,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[267: December 16, 2012]] (via AutoSub)
 *[[577: July 13, 2021]] (via OpenAI Whisper)
-*[[587: August 14, 2021]] (via AutoSub)
+*[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8207,7 +8210,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -8223,7 +8226,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[368: November 11-12, 2019]] (via AutoSub)
 *[[403: February 24, 2020]] (via AutoSub)
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
-*[[582: Chattin' With Jared]] (via AutoSub)
+*[[582: Chattin' With Jared]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8236,7 +8239,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|40
+|43
 |-
 |'''Source Texts:'''
 |
@@ -8258,7 +8261,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[418: April 8, 2020]] (via AutoSub)
 *[[505: November 18, 2020]] (via AutoSub, OpenAI Whisper)
 *[[577: July 13, 2021]] (via AutoSub)
-*[[582: Chattin' With Jared]] (via AutoSub)
+*[[582: Chattin' With Jared]] (via AutoSub, OpenAI Whisper)
 *[[669: Chatting With Amanda Moore]] (via AutoSub)
 *[[734: October 9, 2022]] (via otter.ai)
 *[[744: November 3, 2022]] (via AutoSub, otter.ai)
@@ -8302,7 +8305,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|58
+|59
 |-
 |'''Source Texts:'''
 |
@@ -8342,7 +8345,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[738: Taking a Powder With Chowder]] (via Welder)
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai)
 *[[753: December 1, 2022]] (via AutoSub, otter.ai)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 

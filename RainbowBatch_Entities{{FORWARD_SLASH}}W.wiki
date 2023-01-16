@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -26,6 +26,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Joel Skousen (via Wiki Page)
 *Webster Tarpley (via Wiki Page)
 *[[219: March 13, 2009]] (via Wiki Page)
 *[[230A: Obama Deception, Part 1]] (via Wiki Page)
@@ -688,7 +689,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|423
+|425
 |-
 |'''Source Texts:'''
 |
@@ -857,7 +858,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[570: June 24, 2021]] (via AutoSub)
 *[[574: May 28-29, 2003]] (via AutoSub)
-*[[584: August 5, 2021]] (via AutoSub, Wiki Page)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[594: September 7, 2021]] (via AutoSub)
 *[[597: September 14, 2021]] (via AutoSub)
@@ -936,7 +937,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|107
+|108
 |-
 |'''Source Texts:'''
 |
@@ -1018,7 +1019,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[703: 9/11, Part 1]] (via AutoSub)
 *[[721: September 2, 2022]] (via AutoSub, otter.ai)
 *[[745: Formulaic Objections Part 10]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -2704,7 +2705,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|44
+|45
 |-
 |'''Source Texts:'''
 |
@@ -2743,7 +2744,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[649: February 14, 2022]] (via AutoSub)
 *[[693: August 4, 2003]] (via AutoSub)
 *[[707: Dan's War]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 
 |}
@@ -3563,7 +3564,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|679
+|681
 |-
 |'''Source Texts:'''
 |
@@ -3780,7 +3781,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
 *[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub, Wiki Page)
 *[[599: June 13, 2003]] (via AutoSub)
@@ -4111,31 +4113,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[46: June 18, 2015]] (via AutoSub)
 *[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub)
-
-|}
-
-==Whitley Strieber==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, PERSON
-|-
-|'''Total Count:'''
-|25
-|-
-|'''Source Texts:'''
-|
-
-*'Whitley Strieber'
-
-|-
-|'''Sources:'''
-|
-
-*764: Jordan Takes The Wheel 9 (via Wiki Page)
-*[[764: Jordan Takes The Wheel 9]] (via otter.ai)
 
 |}
 
@@ -6086,7 +6063,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|121
+|122
 |-
 |'''Source Texts:'''
 |
@@ -6103,6 +6080,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *Adan Salazar (via Wiki Page)
 *The Sandy Hook Elementary Massacre (via Wiki Page)
+*Wolfgang Halbig (via Wiki Page)
 *[[33: April 22, 2017]] (via otter.ai)
 *[[49: July 6-13. 2015]] (via otter.ai)
 *[[279: Formulaic Objections]] (via otter.ai, Wiki Page)
@@ -7235,7 +7213,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|118
+|120
 |-
 |'''Source Texts:'''
 |
@@ -7319,7 +7297,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[571: May 22-27, 2003]] (via OpenAI Whisper)
 *[[575: July 4, 2021]] (via OpenAI Whisper)
-*[[584: August 5, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[628: July 10, 2003]] (via AutoSub)
 *[[644: February 2, 2022]] (via AutoSub)
 *[[653: February 25, 2022]] (via AutoSub)

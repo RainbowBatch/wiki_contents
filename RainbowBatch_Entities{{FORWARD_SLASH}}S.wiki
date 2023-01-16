@@ -88,7 +88,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*766: December 16, 2003 (via Wiki Page)
 *[[4: Research and Stand Up]] (via AutoSub, otter.ai)
 *[[33: April 22, 2017]] (via otter.ai)
 *[[36: June 29, 2015]] (via otter.ai)
@@ -114,7 +113,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[740: August 13, 2003]] (via otter.ai)
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai, Wiki Page)
 *[[763: December 15, 2003]] (via otter.ai, Wiki Page)
-*[[766: December 16, 2003]] (via AutoSub, otter.ai)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai, Wiki Page)
 
 |}
 
@@ -1476,18 +1475,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
 
 *'Sandy Hook Elementary School'
 *'the Sandy Hook Elementary School'
+*'the Sandy Hook Elementary School\r\n'
 
 |-
 |'''Sources:'''
 |
 
+*Wolfgang Halbig (via Wiki Page)
 *[[33: April 22, 2017]] (via otter.ai)
 *[[34: April 25, 2017]] (via otter.ai)
 *[[55: Megyn Kelly Interview Pt. 2]] (via AutoSub)
@@ -5943,7 +5944,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -5959,6 +5960,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[99: November 1, 2017]] (via otter.ai)
 *[[243: April 1-2, 2009]] (via AutoSub)
 *[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[642: January 24, 2022]] (via AutoSub)
 
 |}
@@ -6647,7 +6649,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -6661,7 +6663,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[740: August 13, 2003]] (via otter.ai, Wiki Page)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 
 |}
 
@@ -6793,7 +6795,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|8
+|10
 |-
 |'''Source Texts:'''
 |
@@ -6805,8 +6807,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[4: Research and Stand Up]] (via otter.ai)
-*[[584: August 5, 2021]] (via AutoSub)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[586: August 11-12, 2021]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, Wiki Page)
 
@@ -7835,7 +7837,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|44
+|46
 |-
 |'''Source Texts:'''
 |
@@ -7873,7 +7875,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[549: April 13-14, 2021]] (via AutoSub)
 *[[552: May 6, 2003]] (via OpenAI Whisper)
 *[[561: Jordan Takes The Wheel 6]] (via AutoSub)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[596: Possibly Too Much Wacky]] (via AutoSub)
 *[[609: October 20, 2021]] (via AutoSub)
 *[[632: Christmas Message and More]] (via AutoSub)
@@ -8566,7 +8568,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|159
+|168
 |-
 |'''Source Texts:'''
 |
@@ -8642,7 +8644,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[686: Continental Negotiations]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
 *[[713: Chatting With Becca Lewis]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -8655,7 +8657,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|57
+|58
 |-
 |'''Source Texts:'''
 |
@@ -8690,7 +8692,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[538: March 2, 2021]] (via AutoSub, OpenAI Whisper)
 *[[597: September 14, 2021]] (via AutoSub)
 *[[751: November 20-21, 2022]] (via AutoSub, otter.ai)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 
 |}
 
@@ -8836,6 +8838,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==South Austin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'South Austin'
+
+|-
+|'''Sources:'''
+|
+
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
+
+|}
+
 ==South Australia==
 {| class="fandom-table"
 |'''Status:'''
@@ -8870,7 +8897,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|84
+|88
 |-
 |'''Source Texts:'''
 |
@@ -8913,7 +8940,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[700: July 6, 2022]] (via AutoSub)
 *[[727: Chatting with Sebastian Murdock]] (via AutoSub, otter.ai)
 *[[741: December 2, 2015]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 *[[764: Jordan Takes The Wheel 9]] (via AutoSub, otter.ai)
 *[[766: December 16, 2003]] (via AutoSub, otter.ai)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, Wiki Page)
@@ -9130,7 +9157,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -9142,7 +9169,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[29: April 11, 2017]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 
 |}
 
@@ -9662,7 +9689,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, ORG
 |-
 |'''Total Count:'''
-|40
+|43
 |-
 |'''Source Texts:'''
 |
@@ -9695,10 +9722,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[538: March 2, 2021]] (via AutoSub, OpenAI Whisper)
 *[[562: May 27, 2021]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via OpenAI Whisper)
-*[[582: Chattin' With Jared]] (via AutoSub)
+*[[582: Chattin' With Jared]] (via AutoSub, OpenAI Whisper)
 *[[638: See You At The Cross-Rhodes]] (via AutoSub)
 *[[730: August 12, 2003]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 
 |}
 
@@ -9944,7 +9971,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|159
+|163
 |-
 |'''Source Texts:'''
 |
@@ -10020,7 +10047,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai)
 *[[733: October 6, 2022]] (via AutoSub)
 *[[741: December 2, 2015]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -12540,7 +12567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -12558,7 +12585,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[670: July 28, 2003]] (via AutoSub)
 *[[677: May 4, 2022]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 
 |}
 
@@ -14405,7 +14432,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|123
+|124
 |-
 |'''Source Texts:'''
 |
@@ -14444,6 +14471,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[734: October 9, 2022]] (via otter.ai)
 *[[735: October 12, 2022]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, Wiki Page)
 *[[748: November 16, 2022]] (via AutoSub, otter.ai, Wiki Page)
+*[[760: December 9-10, 2003]] (via Manually-created)
 
 |}
 
@@ -17616,13 +17644,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|612
+|615
 |-
 |'''Source Texts:'''
 |
 
 *'Supreme Court'
 *"Supreme Court's"
+*'Supreme court'
 *'The Supreme Court'
 *"The Supreme Court's"
 *'This Supreme Court'
@@ -17762,7 +17791,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[565: June 10, 2021]] (via AutoSub, OpenAI Whisper)
 *[[567: June 13, 2021]] (via AutoSub, OpenAI Whisper)
 *[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
-*[[584: August 5, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[585: August 8, 2021]] (via AutoSub)
 *[[586: August 11-12, 2021]] (via AutoSub)
 *[[589: August 18-20, 2021]] (via AutoSub)
