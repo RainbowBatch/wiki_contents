@@ -753,7 +753,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -772,6 +772,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[339: March 29-April 1, 2013]] (via AutoSub)
 *[[409: The Lionel Countdown]] (via AutoSub)
 *[[516: December 31, 2020- January 1, 2021]] (via AutoSub, OpenAI Whisper)
+*[[585: August 8, 2021]] (via OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via AutoSub)
 
 |}
@@ -785,7 +786,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|253
+|254
 |-
 |'''Source Texts:'''
 |
@@ -799,6 +800,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Harrison Smith (via Wiki Page)
 *[[118: January 10-11, 2018]] (via Wiki Page)
 *[[133: Operation Paul Revere]] (via AutoSub)
 *[[137: March 12, 2018]] (via AutoSub)
@@ -1024,7 +1026,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|125
+|126
 |-
 |'''Source Texts:'''
 |
@@ -1058,7 +1060,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
 *[[518: January 7-8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[572: June 28-30, 2021]] (via AutoSub, OpenAI Whisper)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[610: June 23, 2003]] (via AutoSub, Wiki Page)
 *[[611: October 29, 2021]] (via AutoSub, Wiki Page)
 *[[613: June 24-25, 2003]] (via AutoSub, Wiki Page)
@@ -3101,7 +3103,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|647
+|648
 |-
 |'''Source Texts:'''
 |
@@ -3317,7 +3319,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[570: June 24, 2021]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via AutoSub, Wiki Page)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
 *[[602: Sandy Hook Response]] (via AutoSub, otter.ai)
@@ -3972,6 +3974,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Holy Grail==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Holy Grail'
+*'the Holy Grail'
+
+|-
+|'''Sources:'''
+|
+
+*[[577: July 13, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via OpenAI Whisper)
+
+|}
+
 ==Holy Roman Emperor==
 {| class="fandom-table"
 |'''Status:'''
@@ -4397,7 +4425,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==HONR network==
+==HONR Network==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -6110,12 +6138,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
 
 *'Hutton Gibson'
+*"Hutton Gibson's"
 
 |-
 |'''Sources:'''
@@ -6124,6 +6153,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[694: The Case of the Missing Propagandist]] (via AutoSub)
 *[[740: August 13, 2003]] (via Wiki Page)
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created)
 
 |}
 
@@ -6163,7 +6193,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|19
+|20
 |-
 |'''Source Texts:'''
 |
@@ -6183,6 +6213,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[436: May 22, 2020]] (via AutoSub)
 *[[463: July 28-30, 2020]] (via AutoSub)
 *[[577: July 13, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[639: January 17, 2022]] (via AutoSub)
 
 |}

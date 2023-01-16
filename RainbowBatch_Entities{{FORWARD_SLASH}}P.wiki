@@ -882,7 +882,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -896,7 +896,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[730: August 12, 2003]] (via otter.ai)
 *[[740: August 13, 2003]] (via AutoSub, otter.ai)
-*[[760: December 9-10, 2003]] (via AutoSub)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created)
 
 |}
 
@@ -1842,7 +1842,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|5
+|11
 |-
 |'''Source Texts:'''
 |
@@ -1855,7 +1855,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[56: July 22-Aug 11, 2015]] (via AutoSub)
-*[[585: August 8, 2021]] (via AutoSub, Wiki Page)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -1868,7 +1868,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1882,6 +1882,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[511: The 12/12 Rallies]] (via OpenAI Whisper)
 *[[551: April 20-21, 2021]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via OpenAI Whisper)
+*[[582: Chattin' With Jared]] (via OpenAI Whisper)
 
 |}
 
@@ -2016,7 +2017,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|783
+|785
 |-
 |'''Source Texts:'''
 |
@@ -2210,7 +2211,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[554: April 30, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[584: August 5, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[588: August 15, 2021]] (via AutoSub)
 *[[601: June 16, 2003]] (via AutoSub)
 *[[602: Sandy Hook Response]] (via AutoSub, otter.ai, Wiki Page)
@@ -3212,7 +3214,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|218
+|219
 |-
 |'''Source Texts:'''
 |
@@ -3273,7 +3275,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[564: May 15-20, 2003]] (via AutoSub)
 *[[565: June 10, 2021]] (via AutoSub)
 *[[574: May 28-29, 2003]] (via OpenAI Whisper)
-*[[584: August 5, 2021]] (via AutoSub, Wiki Page)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
 *[[597: September 14, 2021]] (via AutoSub)
 *[[612: October 31, 2021]] (via AutoSub)
@@ -4380,7 +4382,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -4396,7 +4398,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[30: April 14, 2017]] (via AutoSub, otter.ai)
 *[[281: April 4, 2019]] (via AutoSub)
 *[[379: December 13-16, 2019]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -5606,7 +5608,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PRODUCT
 |-
 |'''Total Count:'''
-|27
+|29
 |-
 |'''Source Texts:'''
 |
@@ -5636,7 +5638,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[615: November 8, 2021?]] (via AutoSub)
 *[[640: January 22, 2022]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -5688,6 +5690,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[192: August 10, 2018]] (via AutoSub)
 *[[198: July 22, 2011]] (via AutoSub)
+
+|}
+
+==PlayStation 5==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PRODUCT
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'PlayStation 5'
+
+|-
+|'''Sources:'''
+|
+
+*[[449: June 23-24, 2020]] (via AutoSub)
+*[[760: December 9-10, 2003]] (via Manually-created)
 
 |}
 
@@ -8074,7 +8101,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|454
+|457
 |-
 |'''Source Texts:'''
 |
@@ -8090,10 +8117,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Jo Ann Richards (via Wiki Page)
 *Kerry Cassidy (via Wiki Page)
 *Leo Zagami (via Wiki Page)
 *Mark Richards (via Wiki Page)
 *Ole Dammegård (via Wiki Page)
+*Robert David Steele (via Wiki Page)
 *Solomon Berg (via Wiki Page)
 *[[23: March 16-17, 2017]] (via AutoSub, otter.ai, Wiki Page)
 *[[60: Mars Colonies]] (via AutoSub)
@@ -8367,7 +8396,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|68
+|71
 |-
 |'''Source Texts:'''
 |
@@ -8411,6 +8440,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[547: April 8, 2021]] (via OpenAI Whisper)
 *[[551: April 20-21, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[580: July 20-21, 2021]] (via OpenAI Whisper, Wiki Page)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[586: August 11-12, 2021]] (via AutoSub)
 *[[604: October 5, 2021]] (via Wiki Page)
 *[[637: January 13, 2022]] (via AutoSub)
@@ -8805,13 +8835,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
 
 *'Protocols of the Elders of Zion'
 *'The\r\nProtocols of the Elders of Zion'
+*'The Protocols of the Elders of Zion'
 *'the Protocols of the Elders of\r\nZion'
 *'the Protocols of the Elders of Zion'
 
@@ -8820,6 +8851,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *PEZ Dispenser (via Wiki Page)
+*Robert David Steele (via Wiki Page)
 *[[36: June 29, 2015]] (via otter.ai)
 *[[67: Protocols of Zion]] (via AutoSub, Wiki Page)
 *[[68: September 19-28, 2015]] (via otter.ai)
@@ -8864,7 +8896,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|23
+|24
 |-
 |'''Source Texts:'''
 |
@@ -8890,6 +8922,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[527: February 4, 2021]] (via OpenAI Whisper, Wiki Page)
 *[[539: March 10, 2021]] (via OpenAI Whisper)
 *[[568: June 19, 2021]] (via OpenAI Whisper, Wiki Page)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[620: November 23, 2021]] (via Wiki Page)
 
 |}
@@ -8903,7 +8936,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|29
+|31
 |-
 |'''Source Texts:'''
 |
@@ -8928,7 +8961,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[521: Salt Break]] (via AutoSub)
 *[[553: April 26-27, 2021]] (via OpenAI Whisper)
 *[[558: May 8-9, 2003]] (via AutoSub)
-*[[587: August 14, 2021]] (via AutoSub)
+*[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[655: July 18, 2003]] (via AutoSub)
 
 |}
