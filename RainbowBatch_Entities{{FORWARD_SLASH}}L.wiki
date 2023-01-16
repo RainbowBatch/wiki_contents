@@ -977,7 +977,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|574
+|575
 |-
 |'''Source Texts:'''
 |
@@ -1095,7 +1095,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[541: March 17-18, 2021]] (via AutoSub, OpenAI Whisper)
 *[[567: June 13, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[586: August 11-12, 2021]] (via AutoSub)
-*[[587: August 14, 2021]] (via AutoSub)
+*[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[597: September 14, 2021]] (via AutoSub)
 *[[602: Sandy Hook Response]] (via otter.ai)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
@@ -1275,7 +1275,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|65
+|68
 |-
 |'''Source Texts:'''
 |
@@ -1315,7 +1315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[462: July 26, 2020]] (via AutoSub)
 *[[605: June 17, 2003]] (via AutoSub)
 *[[693: August 4, 2003]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub)
 
 |}
@@ -1656,7 +1656,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|195
+|196
 |-
 |'''Source Texts:'''
 |
@@ -1707,7 +1707,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[520: January 12-13, 2021]] (via AutoSub)
 *[[522: January 14-17, 2021]] (via AutoSub, OpenAI Whisper)
 *[[538: March 2, 2021]] (via AutoSub, OpenAI Whisper)
-*[[582: Chattin' With Jared]] (via AutoSub)
+*[[582: Chattin' With Jared]] (via AutoSub, OpenAI Whisper)
 *[[614: The Purge of Gates]] (via AutoSub)
 *[[640: January 22, 2022]] (via AutoSub)
 *[[643: January 28, 2022]] (via AutoSub, Wiki Page)
@@ -2181,7 +2181,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|30
+|32
 |-
 |'''Source Texts:'''
 |
@@ -2208,7 +2208,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[264: February 11-13, 2019]] (via AutoSub)
 *[[300: May 21-22, 2019]] (via AutoSub)
 *[[495: November 4-6, 2016]] (via AutoSub)
-*[[584: August 5, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[744: November 3, 2022]] (via AutoSub)
 
 |}
@@ -2725,7 +2725,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -2746,7 +2746,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
 *[[408: March 11-13, 2020]] (via AutoSub)
 *[[454: December 17, 2013]] (via AutoSub)
-*[[582: Chattin' With Jared]] (via AutoSub)
+*[[582: Chattin' With Jared]] (via AutoSub, OpenAI Whisper)
 *[[602: Sandy Hook Response]] (via otter.ai)
 *[[733: October 6, 2022]] (via AutoSub, otter.ai)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai)
@@ -2900,7 +2900,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|176
+|177
 |-
 |'''Source Texts:'''
 |
@@ -2955,6 +2955,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[563: June 2, 2021]] (via AutoSub, OpenAI Whisper)
 *[[570: June 24, 2021]] (via AutoSub, OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[586: August 11-12, 2021]] (via AutoSub)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
 *[[629: Black Goo and Space Covid]] (via AutoSub)

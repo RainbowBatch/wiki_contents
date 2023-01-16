@@ -1102,7 +1102,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1116,7 +1116,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *Mark Bailen (via Wiki Page)
 *[[107: December 12, 2014]] (via AutoSub)
-*[[584: August 5, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3410,6 +3410,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Forest Service==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Forest Service'
+*'the Forest Service'
+
+|-
+|'''Sources:'''
+|
+
+*[[352: April 17, 2013]] (via AutoSub)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
+
+|}
+
 ==Forest Whitaker==
 {| class="fandom-table"
 |'''Status:'''
@@ -3474,7 +3500,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -3487,7 +3513,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[415: April 1, 2020]] (via AutoSub)
 *[[484: September 18-19, 2020]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -4009,7 +4035,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|14
+|17
 |-
 |'''Source Texts:'''
 |
@@ -4020,7 +4046,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[584: August 5, 2021]] (via AutoSub, Wiki Page)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[614: The Purge of Gates]] (via AutoSub, Wiki Page)
 *[[743: October 29-30, 2022]] (via AutoSub)
 
@@ -4942,7 +4968,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|17
+|19
 |-
 |'''Source Texts:'''
 |
@@ -4962,7 +4988,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[415: April 1, 2020]] (via AutoSub)
 *[[424: April 21-22, 2020]] (via AutoSub)
 *[[477: September 3, 2020]] (via AutoSub)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 

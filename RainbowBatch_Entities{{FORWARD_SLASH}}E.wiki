@@ -199,7 +199,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|83
+|85
 |-
 |'''Source Texts:'''
 |
@@ -257,14 +257,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
 *[[557: May 11, 2021]] (via AutoSub, OpenAI Whisper)
 *[[560: May 12-13, 2003]] (via AutoSub)
-*[[584: August 5, 2021]] (via AutoSub)
+*[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[609: October 20, 2021]] (via AutoSub)
 *[[625: December 5, 2021]] (via AutoSub)
 *[[631: December 20, 2021]] (via AutoSub)
 *[[636: April 27, 2009]] (via AutoSub)
 *[[669: Chatting With Amanda Moore]] (via AutoSub)
 *[[678: July 29-30, 2003]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -578,7 +578,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|34
+|36
 |-
 |'''Source Texts:'''
 |
@@ -613,7 +613,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[661: March 17, 2022]] (via AutoSub)
 *[[702: July 11-12, 2022]] (via AutoSub)
 *[[742: Formulaic Objections Part 9]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai, Wiki Page)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai, Wiki Page)
 
 |}
 
@@ -626,7 +626,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG
 |-
 |'''Total Count:'''
-|17
+|19
 |-
 |'''Source Texts:'''
 |
@@ -646,7 +646,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[653: February 25, 2022]] (via AutoSub)
 *[[679: May 9, 2022]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -1550,7 +1550,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==edward r murrow==
+==Edward R Murrow==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -1559,11 +1559,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
+*'Edward R Murrow'
 *'Edward R. Murrow'
 
 |-
@@ -1572,6 +1573,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[39: Jack Posobiec...Ya Busted]] (via otter.ai)
 *[[48: May 31, 2017]] (via otter.ai)
+*[[585: August 8, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -4752,7 +4754,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|60
+|61
 |-
 |'''Source Texts:'''
 |
@@ -4807,6 +4809,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[579: May 30, 2003]] (via OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via OpenAI Whisper)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[588: August 15, 2021]] (via AutoSub)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)

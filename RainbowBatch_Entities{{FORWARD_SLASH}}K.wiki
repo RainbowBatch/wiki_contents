@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|21
+|24
 |-
 |'''Source Texts:'''
 |
@@ -35,7 +35,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[529: February 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[550: April 16, 2021]] (via AutoSub, OpenAI Whisper)
 *[[582: Chattin' With Jared]] (via AutoSub)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -224,7 +224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|49
+|50
 |-
 |'''Source Texts:'''
 |
@@ -262,7 +262,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[683: May 16, 2022]] (via AutoSub)
 *[[736: Reflections on a Verdict]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[740: August 13, 2003]] (via otter.ai)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -275,7 +275,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|222
+|223
 |-
 |'''Source Texts:'''
 |
@@ -287,6 +287,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Candace Owens (via Wiki Page)
 *Kanye West (via Wiki Page)
 *[[21: March 9, 2017]] (via AutoSub, otter.ai)
 *[[23: March 16-17, 2017]] (via AutoSub)
@@ -2095,10 +2096,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|GPE, PERSON
 |-
 |'''Total Count:'''
-|2
+|5
 |-
 |'''Source Texts:'''
 |
@@ -2110,7 +2111,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[455: July 7-8, 2020]] (via AutoSub)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2813,7 +2814,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|109
+|111
 |-
 |'''Source Texts:'''
 |
@@ -2843,6 +2844,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[532: February 15, 2021]] (via OpenAI Whisper)
 *[[562: May 27, 2021]] (via AutoSub, OpenAI Whisper)
 *[[572: June 28-30, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[598: September 17, 2021]] (via Wiki Page)
 *[[618: November 15, 2021]] (via Wiki Page)
 *[[624: November 30, 2021]] (via AutoSub, Wiki Page)
@@ -3013,6 +3016,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Knowledge Fight HQ==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Knowledge Fight HQ'
+
+|-
+|'''Sources:'''
+|
+
+*[[582: Chattin' With Jared]] (via OpenAI Whisper)
+*[[766: December 16, 2003]] (via Wiki Page)
+
+|}
+
 ==Knowledge Fights==
 {| class="fandom-table"
 |'''Status:'''
@@ -3047,7 +3075,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|68
+|70
 |-
 |'''Source Texts:'''
 |
@@ -3098,6 +3126,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[578: A Little Side Track]] (via OpenAI Whisper)
 *[[581: June 3, 2003]] (via OpenAI Whisper)
 *[[583: August 1, 2021]] (via OpenAI Whisper)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -3162,7 +3191,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|76
+|79
 |-
 |'''Source Texts:'''
 |
@@ -3223,6 +3252,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[580: July 20-21, 2021]] (via OpenAI Whisper)
 *[[581: June 3, 2003]] (via OpenAI Whisper)
 *[[583: August 1, 2021]] (via OpenAI Whisper)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
+*[[585: August 8, 2021]] (via OpenAI Whisper)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[714: Trial Recap, Part 1]] (via Welder)
 *[[717: August 17, 2022]] (via Welder)
 *[[718: August 21-22, 2022]] (via Welder)

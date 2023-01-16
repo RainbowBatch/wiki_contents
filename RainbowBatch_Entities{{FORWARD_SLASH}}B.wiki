@@ -857,7 +857,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1457
+|1463
 |-
 |'''Source Texts:'''
 |
@@ -1197,7 +1197,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[575: July 4, 2021]] (via AutoSub, OpenAI Whisper)
 *[[576: July 9, 2021]] (via OpenAI Whisper)
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
-*[[585: August 8, 2021]] (via AutoSub, Wiki Page)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[586: August 11-12, 2021]] (via AutoSub)
 *[[588: August 15, 2021]] (via AutoSub)
 *[[590: August 24, 2021]] (via AutoSub)
@@ -5439,7 +5439,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|259
+|260
 |-
 |'''Source Texts:'''
 |
@@ -5519,7 +5519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[719: August 19, 2022]] (via Welder)
 *[[733: October 6, 2022]] (via AutoSub, otter.ai)
 *[[756: December 5, 2003]] (via AutoSub, otter.ai, Wiki Page)
-*[[760: December 9-10, 2003]] (via AutoSub, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 
 |}
 
@@ -5610,7 +5610,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|767
+|778
 |-
 |'''Source Texts:'''
 |
@@ -5748,9 +5748,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[569: June 23, 2021]] (via AutoSub, OpenAI Whisper)
 *[[571: May 22-27, 2003]] (via AutoSub, OpenAI Whisper)
 *[[583: August 1, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[585: August 8, 2021]] (via AutoSub, Wiki Page)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[586: August 11-12, 2021]] (via AutoSub, Wiki Page)
-*[[587: August 14, 2021]] (via AutoSub)
+*[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via AutoSub)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[594: September 7, 2021]] (via AutoSub)
@@ -7897,7 +7898,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -7914,7 +7915,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[410: March 19-20, 2020]] (via AutoSub)
 *[[455: July 7-8, 2020]] (via AutoSub)
 *[[540: March 15-16, 2021]] (via AutoSub, OpenAI Whisper)
-*[[585: August 8, 2021]] (via AutoSub)
+*[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8980,7 +8981,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|126
+|127
 |-
 |'''Source Texts:'''
 |
@@ -9023,6 +9024,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[545: March 30-31, 2021]] (via AutoSub)
 *[[564: May 15-20, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[579: May 30, 2003]] (via OpenAI Whisper)
+*[[584: August 5, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -11908,7 +11910,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|123
+|124
 |-
 |'''Source Texts:'''
 |
@@ -11954,6 +11956,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[576: July 9, 2021]] (via OpenAI Whisper, Wiki Page)
 *[[577: July 13, 2021]] (via OpenAI Whisper)
 *[[579: May 30, 2003]] (via OpenAI Whisper)
+*[[582: Chattin' With Jared]] (via OpenAI Whisper)
 *[[639: January 17, 2022]] (via Wiki Page)
 *[[644: February 2, 2022]] (via Wiki Page)
 *[[712: The Decompression Session]] (via otter.ai)
@@ -12643,6 +12646,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[1: January 2, 2017]] (via AutoSub)
 *[[4: Research and Stand Up]] (via AutoSub)
 *[[103: January 17, 2016]] (via AutoSub)
+
+|}
+
+==Broadcasting Network==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Broadcasting Network'
+
+|-
+|'''Sources:'''
+|
+
+*[[582: Chattin' With Jared]] (via OpenAI Whisper)
+*[[752: Ye Took A Dip In The Pool]] (via AutoSub, otter.ai)
 
 |}
 
@@ -14453,5 +14481,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[632: Christmas Message and More]] (via AutoSub)
 *[[643: January 28, 2022]] (via AutoSub)
 *[[656: March 5, 2022]] (via AutoSub)
+
+|}
+
+==BuzzFeed News==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'BuzzFeed News'
+
+|-
+|'''Sources:'''
+|
+
+*[[518: January 7-8, 2021]] (via OpenAI Whisper)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 
 |}
