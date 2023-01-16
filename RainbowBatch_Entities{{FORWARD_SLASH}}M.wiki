@@ -478,7 +478,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PRODUCT
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -490,6 +490,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[245: December 24, 2018]] (via AutoSub)
+*[[588: August 15, 2021]] (via OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 
 |}
@@ -530,7 +531,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -545,6 +546,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[548: May 5, 2003]] (via OpenAI Whisper)
 *[[552: May 6, 2003]] (via OpenAI Whisper)
 *[[556: May 6-7, 2021]] (via AutoSub, OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub)
 *[[693: August 4, 2003]] (via AutoSub)
 
@@ -2164,7 +2166,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|30
+|31
 |-
 |'''Source Texts:'''
 |
@@ -2189,6 +2191,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[385: January 6, 2020]] (via AutoSub)
 *[[476: Moon Colonies Part 2]] (via AutoSub)
 *[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper)
+*[[591: June 11, 2003]] (via OpenAI Whisper)
 *[[621: Reset Wars: Episode 1]] (via AutoSub)
 *[[698: For Squatch, There Are No Heroes]] (via AutoSub)
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai)
@@ -4553,7 +4556,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|37
+|38
 |-
 |'''Source Texts:'''
 |
@@ -4589,6 +4592,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[498: November 7, 2016]] (via Wiki Page)
 *[[500: November 5-6, 2020]] (via OpenAI Whisper)
 *[[518: January 7-8, 2021]] (via OpenAI Whisper, Wiki Page)
+*[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[678: July 29-30, 2003]] (via AutoSub)
 *[[753: December 1, 2022]] (via otter.ai)
 
@@ -6112,7 +6116,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|26
+|27
 |-
 |'''Source Texts:'''
 |
@@ -6138,6 +6142,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[463: July 28-30, 2020]] (via AutoSub)
 *[[526: January 28-31, 2021]] (via OpenAI Whisper)
 *[[556: May 6-7, 2021]] (via AutoSub, OpenAI Whisper)
+*[[588: August 15, 2021]] (via OpenAI Whisper)
 *[[636: April 27, 2009]] (via AutoSub)
 
 |}
@@ -7702,13 +7707,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|47
+|58
 |-
 |'''Source Texts:'''
 |
 
 *'Michael Jordan'
 *"Michael Jordan's"
+*'the Michael Jordan'
 
 |-
 |'''Sources:'''
@@ -7727,7 +7733,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[446: The Super Alpha Male Championship]] (via AutoSub)
 *[[489: October 2-4, 2020]] (via AutoSub)
 *[[505: November 18, 2020]] (via AutoSub, OpenAI Whisper)
-*[[586: August 11-12, 2021]] (via AutoSub, Wiki Page)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[650: July 17, 2003]] (via AutoSub)
 *[[733: October 6, 2022]] (via AutoSub, otter.ai)
@@ -7785,6 +7791,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[12: Jon Rappoport]] (via AutoSub, otter.ai)
 *[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
 *[[349: April 15-16, 2013]] (via AutoSub)
+
+|}
+
+==Michael Lindell==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Michael Lindell'
+*"Michael Lindell's"
+
+|-
+|'''Sources:'''
+|
+
+*[[586: August 11-12, 2021]] (via OpenAI Whisper)
+*[[587: August 14, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -9281,7 +9313,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|204
+|207
 |-
 |'''Source Texts:'''
 |
@@ -9380,7 +9412,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[570: June 24, 2021]] (via AutoSub)
 *[[572: June 28-30, 2021]] (via OpenAI Whisper)
 *[[575: July 4, 2021]] (via AutoSub)
-*[[588: August 15, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
 *[[604: October 5, 2021]] (via AutoSub)
 *[[628: July 10, 2003]] (via AutoSub)
 *[[635: January 6-7, 2022]] (via AutoSub)
@@ -9642,7 +9674,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|447
+|448
 |-
 |'''Source Texts:'''
 |
@@ -9742,7 +9774,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[573: July 1, 2021]] (via AutoSub)
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[583: August 1, 2021]] (via AutoSub, Wiki Page)
-*[[586: August 11-12, 2021]] (via AutoSub, Wiki Page)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[594: September 7, 2021]] (via AutoSub)
 *[[603: October 3-4, 2021]] (via AutoSub, Wiki Page)
 *[[634: July 11, 2003]] (via AutoSub)
@@ -10199,7 +10231,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|209
+|235
 |-
 |'''Source Texts:'''
 |
@@ -10226,9 +10258,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[580: July 20-21, 2021]] (via OpenAI Whisper)
 *[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
-*[[586: August 11-12, 2021]] (via AutoSub, Wiki Page)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
-*[[589: August 18-20, 2021]] (via AutoSub, Wiki Page)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[590: August 24, 2021]] (via AutoSub)
 *[[593: September 2, 2021]] (via AutoSub, Wiki Page)
 *[[597: September 14, 2021]] (via AutoSub, Wiki Page)
@@ -10675,7 +10707,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -10691,7 +10723,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[284: April 12, 2019]] (via AutoSub)
 *[[344: April 9-10, 2013]] (via AutoSub)
 *[[488: The First Debate Spectacular]] (via AutoSub)
-*[[589: August 18-20, 2021]] (via AutoSub)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper)
 *[[605: June 17, 2003]] (via AutoSub)
 
 |}
