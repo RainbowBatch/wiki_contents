@@ -1625,7 +1625,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|130
+|149
 |-
 |'''Source Texts:'''
 |
@@ -1677,8 +1677,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[553: April 26-27, 2021]] (via AutoSub, OpenAI Whisper)
 *[[572: June 28-30, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
-*[[588: August 15, 2021]] (via AutoSub, Wiki Page)
-*[[589: August 18-20, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub, Wiki Page)
 *[[602: Sandy Hook Response]] (via AutoSub, otter.ai)
 *[[605: June 17, 2003]] (via AutoSub, Wiki Page)
@@ -4651,7 +4651,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|54359
+|54645
 |-
 |'''Source Texts:'''
 |
@@ -5378,12 +5378,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[583: August 1, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[586: August 11-12, 2021]] (via AutoSub, Wiki Page)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[588: August 15, 2021]] (via AutoSub, Wiki Page)
-*[[589: August 18-20, 2021]] (via AutoSub, Wiki Page)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[590: August 24, 2021]] (via AutoSub, Wiki Page)
-*[[591: June 11, 2003]] (via AutoSub, Wiki Page)
+*[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[592: June 12, 2003]] (via AutoSub, Wiki Page)
 *[[593: September 2, 2021]] (via AutoSub, Wiki Page)
 *[[594: September 7, 2021]] (via AutoSub, Wiki Page)
@@ -5559,6 +5559,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[764: Jordan Takes The Wheel 9]] (via AutoSub, otter.ai)
 *[[765: Formulaic Objections Part 13]] (via AutoSub, otter.ai, Wiki Page)
 *[[766: December 16, 2003]] (via AutoSub, otter.ai, Wiki Page)
+*[[767: January 12, 2023]] (via Wiki Page)
 *[[Alex's Breaky Minisode]] (via AutoSub, Wiki Page)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, Wiki Page)
@@ -17087,7 +17088,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|102
+|104
 |-
 |'''Source Texts:'''
 |
@@ -17142,7 +17143,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[560: May 12-13, 2003]] (via AutoSub, OpenAI Whisper)
 *[[579: May 30, 2003]] (via OpenAI Whisper)
 *[[586: August 11-12, 2021]] (via AutoSub)
-*[[588: August 15, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[601: June 16, 2003]] (via AutoSub)
 *[[602: Sandy Hook Response]] (via AutoSub, otter.ai)
 *[[603: October 3-4, 2021]] (via AutoSub)
@@ -18235,7 +18237,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|161
+|162
 |-
 |'''Source Texts:'''
 |
@@ -18297,7 +18299,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[559: Noam Man's Land]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
 *[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
-*[[586: August 11-12, 2021]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via Wiki Page)
 *[[597: September 14, 2021]] (via AutoSub)
@@ -18337,7 +18339,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -18351,7 +18353,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[185: July 27, 2018]] (via AutoSub)
 *[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
 *[[526: January 28-31, 2021]] (via OpenAI Whisper)
-*[[589: August 18-20, 2021]] (via AutoSub)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper)
 *[[624: November 30, 2021]] (via AutoSub, Wiki Page)
 *[[625: December 5, 2021]] (via AutoSub)
 *[[715: Trial Recap, Part 2]] (via AutoSub, otter.ai, Welder)

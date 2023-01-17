@@ -119,7 +119,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|727
+|728
 |-
 |'''Source Texts:'''
 |
@@ -341,7 +341,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[567: June 13, 2021]] (via AutoSub, OpenAI Whisper)
 *[[574: May 28-29, 2003]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
-*[[586: August 11-12, 2021]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
 *[[590: August 24, 2021]] (via AutoSub)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[594: September 7, 2021]] (via AutoSub)
@@ -1265,7 +1265,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|45
+|46
 |-
 |'''Source Texts:'''
 |
@@ -1288,6 +1288,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[522: January 14-17, 2021]] (via OpenAI Whisper)
 *[[530: February 10-11, 2021]] (via AutoSub, OpenAI Whisper)
 *[[549: April 13-14, 2021]] (via OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[612: October 31, 2021]] (via AutoSub)
 *[[614: The Purge of Gates]] (via AutoSub)
 *[[647: February 8, 2022]] (via AutoSub, Wiki Page)
@@ -1304,7 +1305,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -1316,7 +1317,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[92: October 13 & 16, 2017]] (via AutoSub)
-*[[588: August 15, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2795,14 +2796,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
 
+*'Center for Medical Progress'
 *'The Center For Medical Progress'
 *'the Center For Medical\r\n    Progress'
 *'the Center For Medical Progress'
+*'the Center for Medical Progress'
 
 |-
 |'''Sources:'''
@@ -2810,6 +2813,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[52: July 14-21, 2015]] (via Wiki Page)
 *[[56: July 22-Aug 11, 2015]] (via Wiki Page)
+*[[586: August 11-12, 2021]] (via OpenAI Whisper)
+*[[588: August 15, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -5320,10 +5325,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|GPE, PERSON
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
@@ -5337,7 +5342,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[21: March 9, 2017]] (via AutoSub)
 *[[81: September 6-7, 2017]] (via AutoSub)
 *[[305: February 1, 2013]] (via AutoSub)
-*[[588: August 15, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -7272,7 +7277,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG
 |-
 |'''Total Count:'''
-|445
+|446
 |-
 |'''Source Texts:'''
 |
@@ -7414,7 +7419,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[581: June 3, 2003]] (via OpenAI Whisper, Wiki Page)
 *[[582: Chattin' With Jared]] (via OpenAI Whisper)
 *[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
-*[[591: June 11, 2003]] (via AutoSub)
+*[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[598: September 17, 2021]] (via Wiki Page)
 *[[601: June 16, 2003]] (via AutoSub)
@@ -7490,7 +7495,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|428
+|435
 |-
 |'''Source Texts:'''
 |
@@ -7641,8 +7646,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[581: June 3, 2003]] (via AutoSub, OpenAI Whisper)
 *[[582: Chattin' With Jared]] (via OpenAI Whisper)
 *[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
-*[[589: August 18-20, 2021]] (via AutoSub)
-*[[591: June 11, 2003]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper)
+*[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[601: June 16, 2003]] (via AutoSub, Wiki Page)
 *[[603: October 3-4, 2021]] (via AutoSub)
@@ -9334,7 +9340,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -9353,6 +9359,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[363: October 30, 2019]] (via AutoSub)
 *[[424: April 21-22, 2020]] (via AutoSub)
 *[[491: October 12, 2020]] (via AutoSub)
+*[[588: August 15, 2021]] (via OpenAI Whisper)
 *[[632: Christmas Message and More]] (via Wiki Page)
 *[[672: April 18, 2022]] (via AutoSub)
 
@@ -12629,7 +12636,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|580
+|581
 |-
 |'''Source Texts:'''
 |
@@ -12708,6 +12715,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[560: May 12-13, 2003]] (via AutoSub, OpenAI Whisper)
 *[[564: May 15-20, 2003]] (via AutoSub)
 *[[569: June 23, 2021]] (via AutoSub, OpenAI Whisper)
+*[[586: August 11-12, 2021]] (via OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[597: September 14, 2021]] (via AutoSub)
 *[[602: Sandy Hook Response]] (via AutoSub, otter.ai, Wiki Page)
@@ -15604,7 +15612,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|36
+|58
 |-
 |'''Source Texts:'''
 |
@@ -15622,7 +15630,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[548: May 5, 2003]] (via OpenAI Whisper)
 *[[560: May 12-13, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[564: May 15-20, 2003]] (via AutoSub, OpenAI Whisper)
-*[[591: June 11, 2003]] (via AutoSub, Wiki Page)
+*[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -16701,7 +16709,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
@@ -16714,7 +16722,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[584: August 5, 2021]] (via AutoSub, Wiki Page)
-*[[586: August 11-12, 2021]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
 *[[726: September 15-16, 2022]] (via AutoSub)
 
 |}

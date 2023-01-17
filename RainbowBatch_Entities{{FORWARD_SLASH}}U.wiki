@@ -4,6 +4,31 @@ This page is part of an attempt to make everything RainbowBatch knows available 
 
 Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
 
+==U S Capitol==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the U S Capitol'
+
+|-
+|'''Sources:'''
+|
+
+*[[523: January 18-19, 2021]] (via OpenAI Whisper)
+*[[588: August 15, 2021]] (via OpenAI Whisper)
+
+|}
+
 ==u store it==
 {| class="fandom-table"
 |'''Status:'''
@@ -892,7 +917,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|57
+|58
 |-
 |'''Source Texts:'''
 |
@@ -939,7 +964,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[571: May 22-27, 2003]] (via OpenAI Whisper)
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via OpenAI Whisper)
-*[[589: August 18-20, 2021]] (via AutoSub)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[615: November 8, 2021?]] (via AutoSub)
 *[[618: November 15, 2021]] (via AutoSub)
@@ -998,7 +1023,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|67
+|68
 |-
 |'''Source Texts:'''
 |
@@ -1007,6 +1032,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'United Nations'
 *'the United\r\n    Nations'
 *'the United Nations'
+*'this United Nations'
 
 |-
 |'''Sources:'''
@@ -1053,6 +1079,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[575: July 4, 2021]] (via OpenAI Whisper)
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[583: August 1, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via OpenAI Whisper)
 *[[605: June 17, 2003]] (via AutoSub)
 *[[618: November 15, 2021]] (via AutoSub)
 *[[636: April 27, 2009]] (via AutoSub)
@@ -1108,7 +1135,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|1950
+|1972
 |-
 |'''Source Texts:'''
 |
@@ -1549,12 +1576,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[583: August 1, 2021]] (via AutoSub, OpenAI Whisper)
 *[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
-*[[586: August 11-12, 2021]] (via AutoSub)
+*[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
-*[[588: August 15, 2021]] (via AutoSub)
-*[[589: August 18-20, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper)
 *[[590: August 24, 2021]] (via AutoSub)
-*[[591: June 11, 2003]] (via AutoSub)
+*[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[593: September 2, 2021]] (via AutoSub)
 *[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
@@ -3040,13 +3067,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|15
+|16
 |-
 |'''Source Texts:'''
 |
 
 *'The US Embassy'
 *'US Embassy'
+*'the U.S. Embassy'
 *'the US Embassy'
 
 |-
@@ -3056,7 +3084,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[161: May 14, 2018]] (via AutoSub)
 *[[343: April 3-8, 2013]] (via AutoSub)
 *[[384: January 3, 2020]] (via AutoSub)
-*[[588: August 15, 2021]] (via AutoSub)
+*[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
 *[[609: October 20, 2021]] (via AutoSub)
 *[[720: August 6, 2003]] (via AutoSub, otter.ai)
 

@@ -117,7 +117,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|83
+|85
 |-
 |'''Source Texts:'''
 |
@@ -146,7 +146,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[519: January 10-11, 2021]] (via AutoSub, OpenAI Whisper)
 *[[530: February 10-11, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[557: May 11, 2021]] (via OpenAI Whisper)
-*[[589: August 18-20, 2021]] (via AutoSub, Wiki Page)
+*[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[614: The Purge of Gates]] (via AutoSub)
 *[[616: November 9, 2021]] (via AutoSub)
 *[[619: November 16, 2021]] (via AutoSub)
@@ -224,7 +224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|50
+|53
 |-
 |'''Source Texts:'''
 |
@@ -255,7 +255,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[564: May 15-20, 2003]] (via AutoSub, OpenAI Whisper)
 *[[574: May 28-29, 2003]] (via OpenAI Whisper)
 *[[581: June 3, 2003]] (via AutoSub, OpenAI Whisper)
-*[[591: June 11, 2003]] (via AutoSub)
+*[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper)
 *[[592: June 12, 2003]] (via AutoSub)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
 *[[680: July 31-August 1, 2003]] (via AutoSub)
@@ -2814,7 +2814,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|111
+|113
 |-
 |'''Source Texts:'''
 |
@@ -2846,6 +2846,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[572: June 28-30, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[598: September 17, 2021]] (via Wiki Page)
 *[[618: November 15, 2021]] (via Wiki Page)
 *[[624: November 30, 2021]] (via AutoSub, Wiki Page)
@@ -3075,7 +3076,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|70
+|75
 |-
 |'''Source Texts:'''
 |
@@ -3126,7 +3127,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[578: A Little Side Track]] (via OpenAI Whisper)
 *[[581: June 3, 2003]] (via OpenAI Whisper)
 *[[583: August 1, 2021]] (via OpenAI Whisper)
+*[[586: August 11-12, 2021]] (via OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
+*[[591: June 11, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -3191,7 +3194,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|79
+|82
 |-
 |'''Source Texts:'''
 |
@@ -3254,7 +3257,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[583: August 1, 2021]] (via OpenAI Whisper)
 *[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[585: August 8, 2021]] (via OpenAI Whisper)
+*[[586: August 11-12, 2021]] (via OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
+*[[589: August 18-20, 2021]] (via OpenAI Whisper)
+*[[591: June 11, 2003]] (via OpenAI Whisper)
 *[[714: Trial Recap, Part 1]] (via Welder)
 *[[717: August 17, 2022]] (via Welder)
 *[[718: August 21-22, 2022]] (via Welder)
