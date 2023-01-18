@@ -224,13 +224,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|53
+|54
 |-
 |'''Source Texts:'''
 |
 
 *'Kansas City'
 *"Kansas City's"
+*'Kansas city'
 
 |-
 |'''Sources:'''
@@ -256,7 +257,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[574: May 28-29, 2003]] (via OpenAI Whisper)
 *[[581: June 3, 2003]] (via AutoSub, OpenAI Whisper)
 *[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper)
-*[[592: June 12, 2003]] (via AutoSub)
+*[[592: June 12, 2003]] (via AutoSub, OpenAI Whisper)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
 *[[680: July 31-August 1, 2003]] (via AutoSub)
 *[[683: May 16, 2022]] (via AutoSub)
@@ -459,7 +460,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|74
+|75
 |-
 |'''Source Texts:'''
 |
@@ -477,6 +478,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[49: July 6-13. 2015]] (via otter.ai)
 *[[53: June 12, 2017]] (via otter.ai)
 *[[61: July 5, 2017]] (via AutoSub)
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[604: October 5, 2021]] (via AutoSub, Wiki Page)
 
 |}
@@ -1223,7 +1225,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|268
+|271
 |-
 |'''Source Texts:'''
 |
@@ -1248,7 +1250,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[87: Mark Richards Revisited]] (via AutoSub, Wiki Page)
 *[[95: Project Camelot Break]] (via AutoSub, Wiki Page)
 *[[98: May 2-3, 2012]] (via AutoSub)
-*[[100: January 6-7, 2016]] (via AutoSub)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai)
 *[[125: Project Camelot's War In Heaven]] (via AutoSub, Wiki Page)
 *[[149: The Press Conference]] (via AutoSub)
 *[[153: More Mark Richards Fun]] (via AutoSub, Wiki Page)
@@ -1313,7 +1315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[521: Salt Break]] (via AutoSub, OpenAI Whisper)
 *[[529: February 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[560: May 12-13, 2003]] (via AutoSub, OpenAI Whisper)
-*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub, Wiki Page)
+*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[629: Black Goo and Space Covid]] (via AutoSub, Wiki Page)
 *[[686: Continental Negotiations]] (via AutoSub)
 *[[698: For Squatch, There Are No Heroes]] (via Wiki Page)
@@ -1518,12 +1520,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|31
+|42
 |-
 |'''Source Texts:'''
 |
 
 *'Kevin McCarthy'
+*"Kevin McCarthy's"
 
 |-
 |'''Sources:'''
@@ -1544,6 +1547,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[747: November 11, 2022]] (via AutoSub, otter.ai)
 *[[748: November 16, 2022]] (via AutoSub, otter.ai)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via otter.ai)
+*[[767: January 12, 2023]] (via AutoSub, otter.ai)
 
 |}
 
@@ -1640,7 +1644,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -1657,6 +1661,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub)
 *[[246: April 5-6, 2009]] (via AutoSub)
 *[[379: December 13-16, 2019]] (via AutoSub)
+*[[597: September 14, 2021]] (via OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub)
 
 |}
@@ -1670,7 +1675,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1681,6 +1686,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[102: Alex On Russian Media]] (via AutoSub)
 *[[471: August 14-16, 2020]] (via AutoSub)
 *[[526: January 28-31, 2021]] (via AutoSub)
@@ -2814,7 +2820,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|113
+|115
 |-
 |'''Source Texts:'''
 |
@@ -2847,6 +2853,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via OpenAI Whisper)
+*[[593: September 2, 2021]] (via OpenAI Whisper)
+*[[597: September 14, 2021]] (via OpenAI Whisper)
 *[[598: September 17, 2021]] (via Wiki Page)
 *[[618: November 15, 2021]] (via Wiki Page)
 *[[624: November 30, 2021]] (via AutoSub, Wiki Page)
@@ -3076,7 +3084,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|75
+|82
 |-
 |'''Source Texts:'''
 |
@@ -3130,6 +3138,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[586: August 11-12, 2021]] (via OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[591: June 11, 2003]] (via OpenAI Whisper)
+*[[592: June 12, 2003]] (via OpenAI Whisper)
+*[[593: September 2, 2021]] (via OpenAI Whisper)
+*[[595: Boulder Missiles and Gettysburg Nukes]] (via OpenAI Whisper)
+*[[597: September 14, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -3194,7 +3206,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|82
+|89
 |-
 |'''Source Texts:'''
 |
@@ -3261,6 +3273,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[587: August 14, 2021]] (via OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[591: June 11, 2003]] (via OpenAI Whisper)
+*[[592: June 12, 2003]] (via OpenAI Whisper)
+*[[593: September 2, 2021]] (via OpenAI Whisper)
+*[[595: Boulder Missiles and Gettysburg Nukes]] (via OpenAI Whisper)
+*[[597: September 14, 2021]] (via OpenAI Whisper)
 *[[714: Trial Recap, Part 1]] (via Welder)
 *[[717: August 17, 2022]] (via Welder)
 *[[718: August 21-22, 2022]] (via Welder)
@@ -3303,7 +3319,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -3315,6 +3331,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[272: December 20, 2012]] (via AutoSub)
 *[[383: December 31, 2019]] (via AutoSub)
 *[[436: May 22, 2020]] (via AutoSub)
@@ -3578,7 +3595,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -3596,6 +3613,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[57: August 12-16, 2015]] (via AutoSub)
 *[[74: October 4-6, 2015]] (via AutoSub)
 *[[84: December 21, 2012]] (via AutoSub)
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[198: July 22, 2011]] (via AutoSub)
 *[[530: February 10-11, 2021]] (via OpenAI Whisper)
 *[[575: July 4, 2021]] (via AutoSub, OpenAI Whisper)

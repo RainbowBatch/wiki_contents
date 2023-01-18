@@ -4,6 +4,31 @@ This page is part of an attempt to make everything RainbowBatch knows available 
 
 Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
 
+==Vaccine Adverse Event Reporting System==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Vaccine Adverse Event Reporting System'
+
+|-
+|'''Sources:'''
+|
+
+*[[593: September 2, 2021]] (via OpenAI Whisper)
+*[[718: August 21-22, 2022]] (via Welder)
+
+|}
+
 ==Val Kilmer==
 {| class="fandom-table"
 |'''Status:'''
@@ -1468,7 +1493,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -1486,6 +1511,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[568: June 19, 2021]] (via AutoSub)
 *[[631: December 20, 2021]] (via AutoSub)
 *[[762: December 31, 2022]] (via AutoSub)
+*[[767: January 12, 2023]] (via AutoSub)
 
 |}
 
@@ -1549,19 +1575,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Vlad Guerrero Jr'
+*'Vlad Guerrero Jr.'
 
 |-
 |'''Sources:'''
 |
 
 *[[576: July 9, 2021]] (via OpenAI Whisper)
-*[[597: September 14, 2021]] (via AutoSub)
+*[[597: September 14, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1574,7 +1601,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|1152
+|1167
 |-
 |'''Source Texts:'''
 |
@@ -1654,7 +1681,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[94: October 19, 2017]] (via AutoSub)
 *[[96: October 22-23, 2017]] (via AutoSub, Wiki Page)
 *[[97: October 25, 2017]] (via AutoSub)
-*[[100: January 6-7, 2016]] (via AutoSub, Wiki Page)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, Wiki Page)
 *[[101: January 11, 2016]] (via AutoSub)
 *[[102: Alex On Russian Media]] (via AutoSub, Wiki Page)
 *[[105: March 18, 2014]] (via AutoSub)
@@ -1722,7 +1749,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[571: May 22-27, 2003]] (via AutoSub, OpenAI Whisper)
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
-*[[597: September 14, 2021]] (via AutoSub)
+*[[597: September 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub)
 *[[632: Christmas Message and More]] (via AutoSub)
 *[[634: July 11, 2003]] (via AutoSub)
