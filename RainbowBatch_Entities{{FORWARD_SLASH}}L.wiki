@@ -862,7 +862,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|293
+|294
 |-
 |'''Source Texts:'''
 |
@@ -888,6 +888,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[522: January 14-17, 2021]] (via OpenAI Whisper)
 *[[529: February 8, 2021]] (via OpenAI Whisper)
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
+*[[593: September 2, 2021]] (via OpenAI Whisper)
 *[[613: June 24-25, 2003]] (via Wiki Page)
 *[[715: Trial Recap, Part 2]] (via otter.ai)
 
@@ -977,7 +978,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|576
+|587
 |-
 |'''Source Texts:'''
 |
@@ -1020,7 +1021,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[94: October 19, 2017]] (via AutoSub)
 *[[98: May 2-3, 2012]] (via AutoSub)
 *[[99: November 1, 2017]] (via AutoSub, otter.ai, Wiki Page)
-*[[100: January 6-7, 2016]] (via AutoSub)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai)
 *[[102: Alex On Russian Media]] (via AutoSub)
 *[[109: December 4, 2017]] (via AutoSub)
 *[[110: December 5, 2017]] (via AutoSub)
@@ -1096,7 +1097,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[567: June 13, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
-*[[597: September 14, 2021]] (via AutoSub)
+*[[597: September 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[602: Sandy Hook Response]] (via otter.ai)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
 *[[620: November 23, 2021]] (via AutoSub)
@@ -1460,7 +1461,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|41
+|42
 |-
 |'''Source Texts:'''
 |
@@ -1493,6 +1494,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[574: May 28-29, 2003]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via OpenAI Whisper)
 *[[578: A Little Side Track]] (via OpenAI Whisper)
+*[[597: September 14, 2021]] (via OpenAI Whisper)
 *[[609: October 20, 2021]] (via AutoSub, Wiki Page)
 *[[667: July 25, 2003]] (via AutoSub)
 *[[679: May 9, 2022]] (via AutoSub)
@@ -2248,7 +2250,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|73
+|74
 |-
 |'''Source Texts:'''
 |
@@ -2301,6 +2303,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[496: October 22-23, 2020]] (via AutoSub)
 *[[498: November 7, 2016]] (via Wiki Page)
 *[[513: December 18, 2020]] (via OpenAI Whisper)
+*[[590: August 24, 2021]] (via OpenAI Whisper)
 *[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
 *[[717: August 17, 2022]] (via AutoSub)
 
@@ -2900,7 +2903,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|178
+|179
 |-
 |'''Source Texts:'''
 |
@@ -2957,7 +2960,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[584: August 5, 2021]] (via OpenAI Whisper)
 *[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
-*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
+*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub, OpenAI Whisper)
 *[[629: Black Goo and Space Covid]] (via AutoSub)
 *[[634: July 11, 2003]] (via AutoSub)
 *[[635: January 6-7, 2022]] (via AutoSub)
@@ -3134,6 +3137,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub)
 *[[572: June 28-30, 2021]] (via AutoSub)
 *[[686: Continental Negotiations]] (via AutoSub)
+
+|}
+
+==Lesley Stahl==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Lesley Stahl'
+
+|-
+|'''Sources:'''
+|
+
+*[[33: April 22, 2017]] (via otter.ai)
+*[[767: January 12, 2023]] (via otter.ai)
 
 |}
 
@@ -3666,6 +3694,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[8: January 26-27, 2017]] (via AutoSub)
 *[[61: July 5, 2017]] (via AutoSub)
+
+|}
+
+==Liberal Party==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Liberal Party'
+*'the Liberal Party'
+
+|-
+|'''Sources:'''
+|
+
+*[[100: January 6-7, 2016]] (via otter.ai)
+*[[494: October 19, 2020]] (via AutoSub)
 
 |}
 
@@ -4427,6 +4481,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Linda Sarsour==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Linda Sarsour'
+
+|-
+|'''Sources:'''
+|
+
+*[[99: November 1, 2017]] (via otter.ai)
+*[[100: January 6-7, 2016]] (via otter.ai)
+
+|}
+
 ==Linda Thompson==
 {| class="fandom-table"
 |'''Status:'''
@@ -4587,7 +4666,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -4600,6 +4679,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[33: April 22, 2017]] (via AutoSub, otter.ai)
 *[[51: June 6, 2017]] (via AutoSub, otter.ai)
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[295: Crossover With QAnon Anonymous]] (via AutoSub)
 *[[508: December 1-2, 2020]] (via OpenAI Whisper)
 
@@ -6227,7 +6307,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|47
+|57
 |-
 |'''Source Texts:'''
 |
@@ -6245,7 +6325,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[59: August 17-18, 2015]] (via AutoSub)
 *[[64: Aug 27-Sep 1, 2015]] (via AutoSub)
 *[[65: September 2-4, 2015]] (via AutoSub)
-*[[100: January 6-7, 2016]] (via AutoSub, Wiki Page)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, Wiki Page)
 *[[101: January 11, 2016]] (via AutoSub, Wiki Page)
 *[[102: Alex On Russian Media]] (via AutoSub)
 *[[130C: Endgame, Part 3]] (via AutoSub)
@@ -6654,7 +6734,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -6670,6 +6750,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[448: June 21-22, 2020]] (via Wiki Page)
 *[[495: November 4-6, 2016]] (via AutoSub)
 *[[515: December 28-29, 2020]] (via OpenAI Whisper)
+*[[597: September 14, 2021]] (via OpenAI Whisper)
 *[[676: April 29, 2022]] (via AutoSub)
 *[[735: October 12, 2022]] (via FoulEdgeKnight-edited, otter.ai)
 *[[744: November 3, 2022]] (via otter.ai)

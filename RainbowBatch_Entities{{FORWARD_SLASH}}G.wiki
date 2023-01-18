@@ -1636,7 +1636,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|116
+|117
 |-
 |'''Source Texts:'''
 |
@@ -1693,7 +1693,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[571: May 22-27, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[588: August 15, 2021]] (via AutoSub, OpenAI Whisper)
-*[[592: June 12, 2003]] (via AutoSub)
+*[[592: June 12, 2003]] (via AutoSub, OpenAI Whisper)
 *[[628: July 10, 2003]] (via AutoSub)
 *[[636: April 27, 2009]] (via AutoSub)
 *[[652: February 21-24, 2022]] (via AutoSub)
@@ -2744,7 +2744,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|74
+|75
 |-
 |'''Source Texts:'''
 |
@@ -2774,6 +2774,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[44: May 22, 2017]] (via otter.ai)
 *[[69: August 1, 2017]] (via AutoSub)
 *[[80: October 16-26, 2015]] (via AutoSub)
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[130C: Endgame, Part 3]] (via Wiki Page)
 *[[136: March 30-31, 2008]] (via Wiki Page)
 *[[141: March 20-22, 2018]] (via Wiki Page)
@@ -3552,10 +3553,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE
+|GPE, PERSON
 |-
 |'''Total Count:'''
-|5
+|19
 |-
 |'''Source Texts:'''
 |
@@ -3566,7 +3567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub)
+*[[595: Boulder Missiles and Gettysburg Nukes]] (via AutoSub, OpenAI Whisper)
 *[[737: Reflections on a Verdict Part 2]] (via AutoSub)
 
 |}
@@ -4139,7 +4140,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|73
+|77
 |-
 |'''Source Texts:'''
 |
@@ -4178,6 +4179,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[743: October 29-30, 2022]] (via AutoSub, otter.ai, Wiki Page)
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai)
 *[[750: Formulaic Objections Part 11]] (via otter.ai)
+*[[767: January 12, 2023]] (via AutoSub, otter.ai)
 
 |}
 
@@ -4206,20 +4208,21 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Glitterbug==
+==GlitterBug==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
 
+*'GlitterBug'
 *'Glitterbug'
 
 |-
@@ -4227,6 +4230,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[80: October 16-26, 2015]] (via AutoSub)
+*[[100: January 6-7, 2016]] (via otter.ai)
 *[[103: January 17, 2016]] (via AutoSub)
 *[[342: September 6-11, 2019]] (via AutoSub)
 *[[482: September 15, 2020]] (via AutoSub)
@@ -6951,7 +6955,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -6963,7 +6967,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[286: Wrestling With Disappointment]] (via AutoSub)
-*[[590: August 24, 2021]] (via AutoSub)
+*[[590: August 24, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
 
