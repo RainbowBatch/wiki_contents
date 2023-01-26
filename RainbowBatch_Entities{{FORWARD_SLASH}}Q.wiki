@@ -166,7 +166,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -178,7 +178,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[130B: Endgame, Part 2]] (via AutoSub)
-*[[659: July 21-23, 2003]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub, OpenAI Whisper)
 *[[732: Trial Press Conference]] (via AutoSub, otter.ai)
 
 |}
@@ -192,7 +192,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -207,6 +207,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[240: March 30-31, 2009]] (via AutoSub, Wiki Page)
 *[[243: April 1-2, 2009]] (via Wiki Page)
 *[[385: January 6, 2020]] (via AutoSub)
+*[[626: December 9, 2021]] (via OpenAI Whisper)
 *[[723: September 8, 2022]] (via otter.ai)
 
 |}
@@ -246,7 +247,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -260,7 +261,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[139: St. Patrick's Day Special Report]] (via AutoSub)
 *[[596: Possibly Too Much Wacky]] (via OpenAI Whisper)
-*[[644: February 2, 2022]] (via AutoSub)
+*[[644: February 2, 2022]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -273,7 +274,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -285,7 +286,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[526: January 28-31, 2021]] (via OpenAI Whisper)
-*[[624: November 30, 2021]] (via Wiki Page)
+*[[624: November 30, 2021]] (via OpenAI Whisper, Wiki Page)
 *[[714: Trial Recap, Part 1]] (via otter.ai)
 
 |}
@@ -429,7 +430,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|7
 |-
 |'''Source Texts:'''
 |
@@ -440,8 +441,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[618: November 15, 2021]] (via AutoSub)
-*[[619: November 16, 2021]] (via AutoSub)
+*[[618: November 15, 2021]] (via AutoSub, OpenAI Whisper)
+*[[619: November 16, 2021]] (via AutoSub, OpenAI Whisper)
+*[[625: December 5, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -571,5 +573,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[38: 30 Hour Marathon Coverage]] (via AutoSub)
 *[[675: April 25, 2022]] (via AutoSub)
+
+|}
+
+==Quote Alex Jones==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quote Alex Jones'
+
+|-
+|'''Sources:'''
+|
+
+*[[590: August 24, 2021]] (via OpenAI Whisper)
+*[[649: February 14, 2022]] (via OpenAI Whisper)
 
 |}

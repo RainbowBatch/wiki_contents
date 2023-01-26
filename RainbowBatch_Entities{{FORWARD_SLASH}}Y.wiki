@@ -90,11 +90,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
+*'The Yale Law School'
 *'Yale Law School'
 
 |-
@@ -102,7 +103,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[384: January 3, 2020]] (via AutoSub)
-*[[662: March 22, 2022]] (via Wiki Page)
+*[[662: March 22, 2022]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -130,6 +131,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[555: May 7, 2003]] (via AutoSub)
 *[[613: June 24-25, 2003]] (via AutoSub)
 *[[631: December 20, 2021]] (via AutoSub)
+
+|}
+
+==Yeah Harrison Smith==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Yeah Harrison Smith'
+
+|-
+|'''Sources:'''
+|
+
+*[[543: March 23-24, 2021]] (via AutoSub)
+*[[770: January 20, 2023]] (via AutoSub)
 
 |}
 
@@ -246,7 +272,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -260,6 +286,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[504: November 16-17, 2020]] (via OpenAI Whisper)
 *[[600: September 22, 2021]] (via OpenAI Whisper)
+*[[622: June 30-July 1, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -383,7 +410,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|48
+|49
 |-
 |'''Source Texts:'''
 |
@@ -410,6 +437,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[460: Donk's Dojo]] (via AutoSub)
 *[[498: November 7, 2016]] (via AutoSub)
 *[[541: March 17-18, 2021]] (via AutoSub, OpenAI Whisper)
+*[[633: December 30, 2021]] (via OpenAI Whisper)
 *[[712: The Decompression Session]] (via AutoSub, otter.ai)
 *[[729: September 24, 2022]] (via AutoSub, otter.ai, Wiki Page)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai)
@@ -631,10 +659,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|5
+|9
 |-
 |'''Source Texts:'''
 |
@@ -645,7 +673,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[635: January 6-7, 2022]] (via AutoSub, Wiki Page)
-*[[676: April 29, 2022]] (via AutoSub)
+*[[635: January 6-7, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[675: April 25, 2022]] (via OpenAI Whisper)
+*[[676: April 29, 2022]] (via AutoSub, OpenAI Whisper)
 
 |}

@@ -90,7 +90,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -102,7 +102,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[465: August 3-4, 2020]] (via AutoSub)
-*[[642: January 24, 2022]] (via AutoSub, Wiki Page)
+*[[642: January 24, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -721,7 +721,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|50
+|54
 |-
 |'''Source Texts:'''
 |
@@ -760,7 +760,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[558: May 8-9, 2003]] (via AutoSub, OpenAI Whisper)
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[570: June 24, 2021]] (via OpenAI Whisper)
-*[[634: July 11, 2003]] (via AutoSub)
+*[[634: July 11, 2003]] (via AutoSub, OpenAI Whisper)
 *[[665: Formulaic Objections Part 6]] (via AutoSub, otter.ai)
 *[[709: 2 Dan's 2 War]] (via AutoSub)
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai)
@@ -776,7 +776,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|32
+|33
 |-
 |'''Source Texts:'''
 |
@@ -806,7 +806,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[588: August 15, 2021]] (via OpenAI Whisper)
 *[[589: August 18-20, 2021]] (via OpenAI Whisper)
 *[[652: February 21-24, 2022]] (via AutoSub)
-*[[659: July 21-23, 2003]] (via AutoSub)
+*[[659: July 21-23, 2003]] (via AutoSub, OpenAI Whisper)
 *[[668: April 8, 2022]] (via AutoSub)
 
 |}
@@ -1086,7 +1086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|20
+|22
 |-
 |'''Source Texts:'''
 |
@@ -1110,7 +1110,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[523: January 18-19, 2021]] (via AutoSub, OpenAI Whisper)
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
 *[[602: Sandy Hook Response]] (via AutoSub)
-*[[652: February 21-24, 2022]] (via AutoSub)
+*[[652: February 21-24, 2022]] (via AutoSub, OpenAI Whisper)
+*[[668: April 8, 2022]] (via OpenAI Whisper)
 
 |}
 
@@ -1202,7 +1203,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -1216,6 +1217,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[120: January 27, 2016]] (via AutoSub)
 *[[184: Godly Particles and Illiteracy]] (via AutoSub)
 *[[522: January 14-17, 2021]] (via AutoSub, OpenAI Whisper)
+*[[678: July 29-30, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -1357,7 +1359,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -1372,7 +1374,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[386: January 8, 2020]] (via AutoSub)
 *[[389: January 15-17, 2020]] (via AutoSub)
 *[[449: June 23-24, 2020]] (via AutoSub)
-*[[627: Reset Wars: Episode 2]] (via AutoSub)
+*[[627: Reset Wars: Episode 2]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1413,7 +1415,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -1428,7 +1430,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[210: March 9, 2009]] (via AutoSub)
 *[[297: January 17-18, 2013]] (via AutoSub)
 *[[389: January 15-17, 2020]] (via AutoSub)
-*[[657: Chatting With Elizabeth Williamson]] (via AutoSub)
+*[[657: Chatting With Elizabeth Williamson]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1627,7 +1629,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|1181
+|1638
 |-
 |'''Source Texts:'''
 |
@@ -1777,27 +1779,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[579: May 30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[597: September 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub, OpenAI Whisper)
-*[[632: Christmas Message and More]] (via AutoSub)
-*[[634: July 11, 2003]] (via AutoSub)
-*[[639: January 17, 2022]] (via AutoSub)
-*[[643: January 28, 2022]] (via AutoSub)
-*[[646: February 6, 2022]] (via AutoSub, Wiki Page)
-*[[647: February 8, 2022]] (via AutoSub, Wiki Page)
-*[[649: February 14, 2022]] (via AutoSub)
+*[[632: Christmas Message and More]] (via AutoSub, OpenAI Whisper)
+*[[634: July 11, 2003]] (via AutoSub, OpenAI Whisper)
+*[[635: January 6-7, 2022]] (via OpenAI Whisper)
+*[[639: January 17, 2022]] (via AutoSub, OpenAI Whisper)
+*[[643: January 28, 2022]] (via AutoSub, OpenAI Whisper)
+*[[646: February 6, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[647: February 8, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[649: February 14, 2022]] (via AutoSub, OpenAI Whisper)
 *[[651: February 18, 2022]] (via AutoSub, Wiki Page)
-*[[652: February 21-24, 2022]] (via AutoSub, Wiki Page)
+*[[652: February 21-24, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[653: February 25, 2022]] (via AutoSub, Wiki Page)
-*[[654: February 27, 2022]] (via AutoSub, Wiki Page)
-*[[656: March 5, 2022]] (via AutoSub)
-*[[661: March 17, 2022]] (via AutoSub, Wiki Page)
-*[[662: March 22, 2022]] (via AutoSub)
-*[[666: March 31, 2022]] (via AutoSub)
-*[[667: July 25, 2003]] (via AutoSub)
-*[[668: April 8, 2022]] (via AutoSub)
-*[[670: July 28, 2003]] (via AutoSub)
-*[[671: April 13, 2022]] (via AutoSub)
-*[[676: April 29, 2022]] (via AutoSub)
-*[[677: May 4, 2022]] (via AutoSub)
+*[[654: February 27, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[656: March 5, 2022]] (via AutoSub, OpenAI Whisper)
+*[[658: It's Pretty Easy Being Greene]] (via OpenAI Whisper)
+*[[660: February 11, 2014]] (via OpenAI Whisper)
+*[[661: March 17, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[662: March 22, 2022]] (via AutoSub, OpenAI Whisper)
+*[[666: March 31, 2022]] (via AutoSub, OpenAI Whisper)
+*[[667: July 25, 2003]] (via AutoSub, OpenAI Whisper)
+*[[668: April 8, 2022]] (via AutoSub, OpenAI Whisper)
+*[[670: July 28, 2003]] (via AutoSub, OpenAI Whisper)
+*[[671: April 13, 2022]] (via AutoSub, OpenAI Whisper)
+*[[675: April 25, 2022]] (via OpenAI Whisper)
+*[[676: April 29, 2022]] (via AutoSub, OpenAI Whisper)
+*[[677: May 4, 2022]] (via AutoSub, OpenAI Whisper)
 *[[680: July 31-August 1, 2003]] (via AutoSub)
 *[[686: Continental Negotiations]] (via AutoSub)
 *[[692: Alex Jones' Punch Out]] (via AutoSub)
@@ -2039,7 +2045,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -2053,6 +2059,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[364: April 21-22, 2013]] (via AutoSub)
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub, OpenAI Whisper)
 *[[425: April 23-24, 2020]] (via AutoSub)
+*[[645: November 4, 2014]] (via OpenAI Whisper)
 *[[677: May 4, 2022]] (via AutoSub)
 
 |}
