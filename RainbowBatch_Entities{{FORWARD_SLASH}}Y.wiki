@@ -30,6 +30,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Yahoo News==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Yahoo News'
+
+|-
+|'''Sources:'''
+|
+
+*[[309: June 10-11, 2019]] (via OpenAI Whisper)
+*[[469: August 12-13, 2020]] (via OpenAI Whisper)
+
+|}
+
 ==Yair Bolsonaro==
 {| class="fandom-table"
 |'''Status:'''
@@ -90,7 +115,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -104,6 +129,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[106: Drunk Special Report]] (via AutoSub)
 *[[151: April 16, 2018]] (via AutoSub)
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub)
+*[[480: September 9-10, 2020]] (via OpenAI Whisper)
 
 |}
 
@@ -327,7 +353,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -344,6 +370,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[287: April 15-18, 2019]] (via AutoSub)
 *[[425: April 23-24, 2020]] (via OpenAI Whisper)
 *[[441: June 3-4, 2020]] (via OpenAI Whisper)
+*[[488: The First Debate Spectacular]] (via OpenAI Whisper)
 *[[541: March 17-18, 2021]] (via AutoSub)
 *[[580: July 20-21, 2021]] (via OpenAI Whisper)
 *[[621: Reset Wars: Episode 1]] (via AutoSub)
@@ -406,6 +433,34 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Young Jevity==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG, PERSON, WORK_OF_ART
+|-
+|'''Total Count:'''
+|17
+|-
+|'''Source Texts:'''
+|
+
+*'Young Jevity'
+
+|-
+|'''Sources:'''
+|
+
+*[[301: January 24-28, 2013]] (via OpenAI Whisper)
+*[[307: February 3-5, 2013]] (via OpenAI Whisper)
+*[[308: February 6-8, 2013]] (via OpenAI Whisper)
+*[[320: February 21-22, 2013]] (via OpenAI Whisper)
+*[[662: March 22, 2022]] (via OpenAI Whisper)
+
+|}
+
 ==Young Thug==
 {| class="fandom-table"
 |'''Status:'''
@@ -440,7 +495,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|50
+|51
 |-
 |'''Source Texts:'''
 |
@@ -465,6 +520,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[349: April 15-16, 2013]] (via AutoSub)
 *[[379: December 13-16, 2019]] (via AutoSub)
 *[[460: Donk's Dojo]] (via AutoSub, OpenAI Whisper)
+*[[486: September 27, 2020]] (via OpenAI Whisper)
 *[[498: November 7, 2016]] (via AutoSub)
 *[[541: March 17-18, 2021]] (via AutoSub, OpenAI Whisper)
 *[[633: December 30, 2021]] (via OpenAI Whisper)

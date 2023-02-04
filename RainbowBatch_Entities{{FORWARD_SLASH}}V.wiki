@@ -342,7 +342,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -358,7 +358,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[183: February 12-16, 2009]] (via AutoSub)
 *[[204: Sweary Kerry's Larry]] (via AutoSub)
 *[[284: April 12, 2019]] (via AutoSub)
-*[[489: October 2-4, 2020]] (via AutoSub)
+*[[489: October 2-4, 2020]] (via AutoSub, OpenAI Whisper)
 *[[517: January 5-6, 2021]] (via AutoSub)
 *[[610: June 23, 2003]] (via AutoSub)
 *[[754: Formulaic Objections Part 12]] (via AutoSub)
@@ -569,7 +569,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|9
 |-
 |'''Source Texts:'''
 |
@@ -583,7 +583,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[198: July 22, 2011]] (via AutoSub)
 *[[218: October 17, 2018]] (via AutoSub)
 *[[236: December 4-5, 2018]] (via AutoSub)
-*[[316: July 1, 2019]] (via AutoSub)
+*[[316: July 1, 2019]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -621,7 +621,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -632,7 +632,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[485: September 23-24, 2020]] (via AutoSub)
+*[[485: September 23-24, 2020]] (via AutoSub, OpenAI Whisper)
 *[[598: September 17, 2021]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -698,7 +698,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -712,7 +712,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[83: November 10-12, 2015]] (via AutoSub)
 *[[117: January 8, 2018]] (via AutoSub)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
-*[[306: June 4-5, 2019]] (via AutoSub)
+*[[306: June 4-5, 2019]] (via AutoSub, OpenAI Whisper)
 *[[390: Grab Bag Minisode]] (via AutoSub)
 *[[549: April 13-14, 2021]] (via AutoSub)
 *[[695: June 22, 2022]] (via AutoSub)
@@ -728,7 +728,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|59
+|60
 |-
 |'''Source Texts:'''
 |
@@ -764,6 +764,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub, OpenAI Whisper)
 *[[437: Gawain With a Telescope]] (via AutoSub, OpenAI Whisper)
 *[[465: August 3-4, 2020]] (via OpenAI Whisper)
+*[[481: September 13, 2012]] (via OpenAI Whisper)
 *[[511: The 12/12 Rallies]] (via AutoSub, OpenAI Whisper)
 *[[522: January 14-17, 2021]] (via AutoSub)
 *[[558: May 8-9, 2003]] (via AutoSub, OpenAI Whisper)
@@ -1085,7 +1086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|36
+|37
 |-
 |'''Source Texts:'''
 |
@@ -1107,7 +1108,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[66: September 6-17, 2015]] (via AutoSub, OpenAI Whisper)
 *[[92: October 13 & 16, 2017]] (via AutoSub)
 *[[241: Larry Gets Coached]] (via AutoSub)
-*[[495: November 4-6, 2016]] (via AutoSub)
+*[[495: November 4-6, 2016]] (via AutoSub, OpenAI Whisper)
 *[[716: April 25, 2014]] (via AutoSub, Welder)
 
 |}
@@ -1121,7 +1122,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|25
+|33
 |-
 |'''Source Texts:'''
 |
@@ -1136,7 +1137,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[61: July 5, 2017]] (via AutoSub)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
 *[[286: Wrestling With Disappointment]] (via Wiki Page)
-*[[317: February 19-20, 2013]] (via AutoSub, Wiki Page)
+*[[317: February 19-20, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[378: Formulaic Objections Part 2]] (via AutoSub)
 *[[411: Jordan Takes The Wheel 3]] (via AutoSub, OpenAI Whisper)
 *[[415: April 1, 2020]] (via AutoSub, OpenAI Whisper)
@@ -1186,7 +1187,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -1199,6 +1200,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[359: It's All Legs]] (via AutoSub)
 *[[578: A Little Side Track]] (via OpenAI Whisper)
+*[[773: February 2, 2023]] (via AutoSub)
 
 |}
 
@@ -1370,7 +1372,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |WORK_OF_ART
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -1383,7 +1385,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[108: November 30, 2017]] (via AutoSub)
 *[[260: Aliens Need Editors]] (via AutoSub)
-*[[303: January 29-31, 2013]] (via AutoSub)
+*[[303: January 29-31, 2013]] (via AutoSub, OpenAI Whisper)
 *[[695: June 22, 2022]] (via OpenAI Whisper)
 
 |}
@@ -1425,7 +1427,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -1440,7 +1442,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[346: April 11-14, 2013]] (via AutoSub)
 *[[389: January 15-17, 2020]] (via AutoSub)
-*[[475: August 24-26, 2020]] (via AutoSub)
+*[[475: August 24-26, 2020]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1667,7 +1669,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|1670
+|1693
 |-
 |'''Source Texts:'''
 |
@@ -1788,8 +1790,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[269: December 19, 2012]] (via AutoSub)
 *[[283: January 4-6, 2013]] (via AutoSub)
 *[[293: May 2-3, 2019]] (via AutoSub)
-*[[301: January 24-28, 2013]] (via AutoSub)
-*[[308: February 6-8, 2013]] (via AutoSub)
+*[[301: January 24-28, 2013]] (via AutoSub, OpenAI Whisper)
+*[[308: February 6-8, 2013]] (via AutoSub, OpenAI Whisper)
+*[[318: July 5, 2019]] (via OpenAI Whisper)
 *[[335: March 15-22, 2013]] (via AutoSub)
 *[[347: September 23, 2019]] (via AutoSub)
 *[[349: April 15-16, 2013]] (via Wiki Page)
@@ -1804,6 +1807,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[413: March 27, 2020]] (via OpenAI Whisper, Wiki Page)
 *[[446: The Super Alpha Male Championship]] (via OpenAI Whisper)
 *[[468: August 11, 2020]] (via OpenAI Whisper)
+*[[477: September 3, 2020]] (via OpenAI Whisper)
+*[[480: September 9-10, 2020]] (via OpenAI Whisper)
+*[[483: September 17, 2020]] (via OpenAI Whisper)
+*[[488: The First Debate Spectacular]] (via OpenAI Whisper)
+*[[492: October 13, 2020]] (via OpenAI Whisper)
+*[[498: November 7, 2016]] (via OpenAI Whisper)
 *[[508: December 1-2, 2020]] (via AutoSub, OpenAI Whisper)
 *[[514: An X-Mas Report Rebuttal]] (via AutoSub, OpenAI Whisper)
 *[[515: December 28-29, 2020]] (via AutoSub, OpenAI Whisper)
@@ -1872,6 +1881,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[761: December 11, 2003]] (via Manually-created, otter.ai)
 *[[762: December 31, 2022]] (via AutoSub, otter.ai)
 *[[766: December 16, 2003]] (via AutoSub, otter.ai)
+*[[773: February 2, 2023]] (via AutoSub, otter.ai)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub)
 
 |}
@@ -1941,7 +1951,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|73
+|79
 |-
 |'''Source Texts:'''
 |
@@ -1968,6 +1978,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[277: March 15, 2019]] (via AutoSub)
 *[[303: January 29-31, 2013]] (via AutoSub)
 *[[312: February 10-13, 2013]] (via AutoSub)
+*[[315: February 17-18, 2013]] (via OpenAI Whisper)
 *[[331: March 13-14, 2013]] (via AutoSub)
 *[[332: Anunnaki Stasis and Emerald Treaties]] (via AutoSub)
 *[[346: April 11-14, 2013]] (via AutoSub)
@@ -2064,7 +2075,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -2076,6 +2087,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[317: February 19-20, 2013]] (via OpenAI Whisper)
 *[[518: January 7-8, 2021]] (via AutoSub)
 
 |}
