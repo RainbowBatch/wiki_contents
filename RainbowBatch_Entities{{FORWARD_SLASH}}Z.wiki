@@ -38,7 +38,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|13
+|37
 |-
 |'''Source Texts:'''
 |
@@ -49,10 +49,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[333: August 16, 2019]] (via Wiki Page)
-*[[334: August 21-22, 2019]] (via AutoSub, Wiki Page)
-*[[374: November 25, 2019]] (via AutoSub, Wiki Page)
-*[[379: December 13-16, 2019]] (via AutoSub, Wiki Page)
+*[[333: August 16, 2019]] (via OpenAI Whisper, Wiki Page)
+*[[334: August 21-22, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[379: December 13-16, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -192,7 +192,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|26
+|34
 |-
 |'''Source Texts:'''
 |
@@ -209,7 +209,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
 *[[202: September 4-6, 2018]] (via AutoSub)
 *[[210: March 9, 2009]] (via AutoSub)
-*[[373: April 24, 2013]] (via AutoSub, Wiki Page)
+*[[336: March 24-26, 2013]] (via OpenAI Whisper)
+*[[340: All About Steve]] (via OpenAI Whisper)
+*[[373: April 24, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[532: February 15, 2021]] (via OpenAI Whisper)
 *[[540: March 15-16, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[562: May 27, 2021]] (via OpenAI Whisper)
@@ -305,7 +307,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|42
+|46
 |-
 |'''Source Texts:'''
 |
@@ -324,7 +326,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[68: September 19-28, 2015]] (via otter.ai)
 *[[160: January 22-25, 2009]] (via Wiki Page)
 *[[322: July 16-17, 2019]] (via OpenAI Whisper)
-*[[397: February 7-8, 2020]] (via AutoSub, Wiki Page)
+*[[385: January 6, 2020]] (via OpenAI Whisper)
+*[[397: February 7-8, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[402: February 20, 2020]] (via OpenAI Whisper)
 *[[407: March 5-10, 2020]] (via OpenAI Whisper)
 *[[422: April 17, 2020]] (via OpenAI Whisper)
@@ -350,7 +353,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|15
+|16
 |-
 |'''Source Texts:'''
 |
@@ -367,6 +370,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[14: February 17, 2017]] (via AutoSub, otter.ai)
 *[[104: November 20, 2017]] (via AutoSub)
 *[[269: December 19, 2012]] (via AutoSub)
+*[[331: March 13-14, 2013]] (via OpenAI Whisper)
 *[[352: April 17, 2013]] (via AutoSub)
 *[[382: December 23-27, 2019]] (via AutoSub)
 *[[408: March 11-13, 2020]] (via OpenAI Whisper)
@@ -399,5 +403,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[2: December 31, 1999 (Y2K)]] (via otter.ai)
 *[[448: June 21-22, 2020]] (via OpenAI Whisper)
 *[[577: July 13, 2021]] (via AutoSub)
+
+|}
+
+==Zoroastrian==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Zoroastrian'
+
+|-
+|'''Sources:'''
+|
+
+*[[180: Heresy and God Kings]] (via AutoSub)
+*[[384: January 3, 2020]] (via OpenAI Whisper)
 
 |}
