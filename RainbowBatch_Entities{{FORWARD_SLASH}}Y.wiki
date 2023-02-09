@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -25,8 +25,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[163: January 27-29, 2009]] (via AutoSub)
-*[[374: November 25, 2019]] (via AutoSub)
+*[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper)
 *[[The Halloween Story]] (via AutoSub)
+
+|}
+
+==Yahoo Answers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Yahoo Answers'
+
+|-
+|'''Sources:'''
+|
+
+*[[343: April 3-8, 2013]] (via OpenAI Whisper)
+*[[480: September 9-10, 2020]] (via OpenAI Whisper)
 
 |}
 
@@ -39,7 +64,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -51,6 +76,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[309: June 10-11, 2019]] (via OpenAI Whisper)
+*[[329: August 4-5, 2019]] (via OpenAI Whisper)
 *[[469: August 12-13, 2020]] (via OpenAI Whisper)
 
 |}
@@ -317,6 +343,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Yitzhak Rabin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'Yitzhak Rabin'
+
+|-
+|'''Sources:'''
+|
+
+*[[382: December 23-27, 2019]] (via OpenAI Whisper, Wiki Page)
+*[[384: January 3, 2020]] (via OpenAI Whisper)
+
+|}
+
 ==Yoko Kanno==
 {| class="fandom-table"
 |'''Status:'''
@@ -353,7 +404,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -368,6 +419,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[15: February 20-21, 2017]] (via otter.ai)
 *[[34: April 25, 2017]] (via otter.ai)
 *[[287: April 15-18, 2019]] (via AutoSub)
+*[[368: November 11-12, 2019]] (via OpenAI Whisper)
+*[[373: April 24, 2013]] (via OpenAI Whisper)
 *[[425: April 23-24, 2020]] (via OpenAI Whisper)
 *[[441: June 3-4, 2020]] (via OpenAI Whisper)
 *[[488: The First Debate Spectacular]] (via OpenAI Whisper)
@@ -387,7 +440,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -403,7 +456,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[100: January 6-7, 2016]] (via AutoSub, otter.ai, Wiki Page)
 *[[128: March 3, 2015]] (via AutoSub)
 *[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
-*[[357: October 16, 2019]] (via Wiki Page)
+*[[355: April 18, 2013]] (via OpenAI Whisper)
+*[[357: October 16, 2019]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -433,6 +487,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Young Jeezy==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Young Jeezy'
+
+|-
+|'''Sources:'''
+|
+
+*[[12: Jon Rappoport]] (via otter.ai)
+*[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
+
+|}
+
 ==Young Jevity==
 {| class="fandom-table"
 |'''Status:'''
@@ -442,7 +521,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|17
+|21
 |-
 |'''Source Texts:'''
 |
@@ -457,6 +536,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[307: February 3-5, 2013]] (via OpenAI Whisper)
 *[[308: February 6-8, 2013]] (via OpenAI Whisper)
 *[[320: February 21-22, 2013]] (via OpenAI Whisper)
+*[[328: March 11-12, 2013]] (via OpenAI Whisper)
+*[[359: It's All Legs]] (via OpenAI Whisper)
 *[[662: March 22, 2022]] (via OpenAI Whisper)
 
 |}
@@ -486,16 +567,42 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Young Turk==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Young Turk'
+*'the Young Turk'
+
+|-
+|'''Sources:'''
+|
+
+*[[345: September 19, 2019]] (via OpenAI Whisper)
+*[[672: April 18, 2022]] (via AutoSub)
+
+|}
+
 ==Young Turks==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, ORG, PERSON, WORK_OF_ART
+|FAC, LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|51
+|71
 |-
 |'''Source Texts:'''
 |
@@ -514,11 +621,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[117: January 8, 2018]] (via AutoSub, Wiki Page)
 *[[118: January 10-11, 2018]] (via AutoSub)
 *[[269: December 19, 2012]] (via AutoSub)
-*[[333: August 16, 2019]] (via AutoSub)
-*[[345: September 19, 2019]] (via AutoSub)
-*[[348: September 24-25, 2019]] (via AutoSub)
-*[[349: April 15-16, 2013]] (via AutoSub)
-*[[379: December 13-16, 2019]] (via AutoSub)
+*[[333: August 16, 2019]] (via AutoSub, OpenAI Whisper)
+*[[345: September 19, 2019]] (via AutoSub, OpenAI Whisper)
+*[[348: September 24-25, 2019]] (via AutoSub, OpenAI Whisper)
+*[[349: April 15-16, 2013]] (via AutoSub, OpenAI Whisper)
+*[[379: December 13-16, 2019]] (via AutoSub, OpenAI Whisper)
 *[[460: Donk's Dojo]] (via AutoSub, OpenAI Whisper)
 *[[486: September 27, 2020]] (via OpenAI Whisper)
 *[[498: November 7, 2016]] (via AutoSub)
@@ -696,7 +803,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -708,7 +815,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[146: April 4, 2018]] (via AutoSub)
-*[[340: All About Steve]] (via AutoSub)
+*[[340: All About Steve]] (via AutoSub, OpenAI Whisper)
 *[[544: May 1, 2003]] (via AutoSub, OpenAI Whisper)
 
 |}
