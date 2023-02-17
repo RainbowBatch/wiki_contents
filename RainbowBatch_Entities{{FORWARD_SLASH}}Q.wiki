@@ -200,7 +200,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -213,7 +213,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[111: January 21-22, 2016]] (via AutoSub)
-*[[240: March 30-31, 2009]] (via AutoSub, Wiki Page)
+*[[240: March 30-31, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[243: April 1-2, 2009]] (via Wiki Page)
 *[[385: January 6, 2020]] (via AutoSub, OpenAI Whisper)
 *[[416: April 2, 2020]] (via OpenAI Whisper)
@@ -285,7 +285,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -296,6 +296,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[219: March 13, 2009]] (via OpenAI Whisper)
 *[[526: January 28-31, 2021]] (via OpenAI Whisper)
 *[[624: November 30, 2021]] (via OpenAI Whisper, Wiki Page)
 *[[714: Trial Recap, Part 1]] (via otter.ai)
@@ -493,7 +494,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
@@ -505,7 +506,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[130B: Endgame, Part 2]] (via AutoSub)
-*[[205: September 13, 2018]] (via AutoSub)
+*[[205: September 13, 2018]] (via AutoSub, OpenAI Whisper)
 *[[328: March 11-12, 2013]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -610,5 +611,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[590: August 24, 2021]] (via OpenAI Whisper)
 *[[649: February 14, 2022]] (via OpenAI Whisper)
+
+|}
+
+==Quote Biden==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Quote Biden'
+*"Quote Biden's"
+
+|-
+|'''Sources:'''
+|
+
+*[[588: August 15, 2021]] (via AutoSub)
+*[[775: Fireside Chatting]] (via AutoSub)
 
 |}
