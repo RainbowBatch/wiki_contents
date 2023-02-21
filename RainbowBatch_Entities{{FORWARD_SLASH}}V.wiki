@@ -66,7 +66,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -78,7 +78,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[61: July 5, 2017]] (via AutoSub)
-*[[166: February 2-3, 2009]] (via AutoSub)
+*[[166: February 2-3, 2009]] (via AutoSub, OpenAI Whisper)
 *[[298: January 20-23, 2013]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -117,11 +117,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|6
+|8
 |-
 |'''Source Texts:'''
 |
 
+*'The Van Helsing'
 *'Van Helsing'
 *"Van Helsing's"
 *'a Van Helsing'
@@ -131,7 +132,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[45: May 25, 2017]] (via otter.ai)
-*[[189: February 19-20, 2009]] (via AutoSub)
+*[[189: February 19-20, 2009]] (via AutoSub, OpenAI Whisper)
 *[[209: Drunk Hotel Interview]] (via OpenAI Whisper)
 *[[388: January 12-13, 2020]] (via OpenAI Whisper)
 *[[419: Disease Denial and Vampire Affirmation]] (via OpenAI Whisper)
@@ -240,7 +241,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|21
+|26
 |-
 |'''Source Texts:'''
 |
@@ -258,7 +259,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[101: January 11, 2016]] (via AutoSub, OpenAI Whisper)
 *[[130B: Endgame, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[142: March 23, 2018]] (via OpenAI Whisper)
-*[[154: April 23, 2018]] (via AutoSub)
+*[[154: April 23, 2018]] (via AutoSub, OpenAI Whisper)
+*[[163: January 27-29, 2009]] (via OpenAI Whisper)
+*[[186: February 17-18, 2009]] (via OpenAI Whisper)
+*[[190: August 6, 2018]] (via OpenAI Whisper)
 *[[288: January 7-9, 2013]] (via OpenAI Whisper)
 *[[328: March 11-12, 2013]] (via OpenAI Whisper)
 *[[377: December 6-10, 2019]] (via AutoSub, OpenAI Whisper)
@@ -383,7 +387,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -398,6 +402,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[45: May 25, 2017]] (via otter.ai)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
+*[[152: April 18, 2018]] (via OpenAI Whisper)
 *[[364: April 21-22, 2013]] (via AutoSub)
 *[[381: Making It Big With Silent Weapons]] (via AutoSub)
 
@@ -438,7 +443,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -450,6 +455,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[133: Operation Paul Revere]] (via AutoSub, OpenAI Whisper)
+*[[189: February 19-20, 2009]] (via OpenAI Whisper)
 *[[256: January 17-23, 2019]] (via AutoSub, OpenAI Whisper)
 *[[417: April 5, 2020]] (via OpenAI Whisper)
 *[[505: November 18, 2020]] (via AutoSub)
@@ -656,7 +662,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -667,7 +673,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[198: July 22, 2011]] (via AutoSub)
+*[[198: July 22, 2011]] (via AutoSub, OpenAI Whisper)
 *[[218: October 17, 2018]] (via AutoSub, OpenAI Whisper)
 *[[236: December 4-5, 2018]] (via AutoSub, OpenAI Whisper)
 *[[316: July 1, 2019]] (via AutoSub, OpenAI Whisper)
@@ -775,6 +781,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Victor Orban==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Victor Orban'
+
+|-
+|'''Sources:'''
+|
+
+*[[179: July 10, 2018]] (via OpenAI Whisper)
+*[[713: Chatting With Becca Lewis]] (via OpenAI Whisper)
+
+|}
+
 ==Victoria Soto==
 {| class="fandom-table"
 |'''Status:'''
@@ -842,13 +873,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|72
+|75
 |-
 |'''Source Texts:'''
 |
 
 *'The Vietnam War'
 *'Vietnam War'
+*'Vietnam war'
 *'the Vietnam War'
 *'the Vietnam war'
 *'the vietnam war'
@@ -867,9 +899,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[104: November 20, 2017]] (via OpenAI Whisper)
 *[[127: February 8, 2018]] (via AutoSub, OpenAI Whisper)
 *[[148: June 1-3, 2009]] (via OpenAI Whisper)
+*[[150: Alex Jones Attempts A Face Turn]] (via OpenAI Whisper)
 *[[158: January 21, 2009]] (via Wiki Page)
-*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
-*[[192: August 10, 2018]] (via AutoSub)
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub, OpenAI Whisper)
+*[[192: August 10, 2018]] (via AutoSub, OpenAI Whisper)
 *[[215: March 11-12, 2009]] (via AutoSub, OpenAI Whisper)
 *[[230A: Obama Deception, Part 1]] (via AutoSub, OpenAI Whisper)
 *[[230D: Obama Deception, Part 4]] (via OpenAI Whisper)
@@ -906,7 +939,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|44
+|45
 |-
 |'''Source Texts:'''
 |
@@ -919,7 +952,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
 *[[73: August 12, 2017]] (via AutoSub)
-*[[177: Sweary Kerry and the Racist Alien]] (via AutoSub)
+*[[177: Sweary Kerry and the Racist Alien]] (via AutoSub, OpenAI Whisper)
 *[[230B: Obama Deception, Part 2]] (via OpenAI Whisper)
 *[[270: The Rogan Return]] (via AutoSub)
 *[[299: May 17-20, 2019]] (via AutoSub, OpenAI Whisper)
@@ -1275,7 +1308,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|41
+|45
 |-
 |'''Source Texts:'''
 |
@@ -1289,7 +1322,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
 *[[61: July 5, 2017]] (via AutoSub)
 *[[117: January 8, 2018]] (via OpenAI Whisper)
-*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub, OpenAI Whisper)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via OpenAI Whisper)
 *[[202: September 4-6, 2018]] (via OpenAI Whisper)
 *[[286: Wrestling With Disappointment]] (via OpenAI Whisper, Wiki Page)
 *[[317: February 19-20, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -1315,7 +1349,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|24
 |-
 |'''Source Texts:'''
 |
@@ -1327,8 +1361,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
-*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
-*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub, OpenAI Whisper)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub, OpenAI Whisper)
+*[[179: July 10, 2018]] (via OpenAI Whisper)
 *[[286: Wrestling With Disappointment]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -1421,7 +1456,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -1434,7 +1469,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[120: January 27, 2016]] (via AutoSub)
-*[[184: Godly Particles and Illiteracy]] (via AutoSub)
+*[[184: Godly Particles and Illiteracy]] (via AutoSub, OpenAI Whisper)
 *[[328: March 11-12, 2013]] (via OpenAI Whisper)
 *[[473: August 20-21, 2020]] (via OpenAI Whisper)
 *[[522: January 14-17, 2021]] (via AutoSub, OpenAI Whisper)
@@ -1852,7 +1887,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|1940
+|2002
 |-
 |'''Source Texts:'''
 |
@@ -1950,21 +1985,24 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[144: March 25-31, Part 2]] (via OpenAI Whisper)
 *[[146: April 4, 2018]] (via AutoSub, OpenAI Whisper)
 *[[149: The Press Conference]] (via AutoSub, OpenAI Whisper)
-*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
-*[[151: April 16, 2018]] (via AutoSub)
-*[[153: More Mark Richards Fun]] (via AutoSub, Wiki Page)
-*[[155: January 7-9, 2009]] (via AutoSub)
-*[[156: Gaseous Beings and Antiques]] (via AutoSub)
-*[[159: Mantids and Chakra Attacks]] (via AutoSub)
-*[[162: May 19, 2018]] (via AutoSub)
-*[[163: January 27-29, 2009]] (via AutoSub)
-*[[175: Giants And Bonus Potatoes]] (via AutoSub)
-*[[179: July 10, 2018]] (via AutoSub)
-*[[181: August 16, 2016]] (via AutoSub)
-*[[191: Blood Moons and Our First Call-In]] (via AutoSub)
-*[[193: Big Skeletons and Pencil Ink]] (via AutoSub, Wiki Page)
-*[[194: February 22-24, 2009]] (via AutoSub)
-*[[198: July 22, 2011]] (via AutoSub)
+*[[150: Alex Jones Attempts A Face Turn]] (via AutoSub, OpenAI Whisper)
+*[[151: April 16, 2018]] (via AutoSub, OpenAI Whisper)
+*[[153: More Mark Richards Fun]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[155: January 7-9, 2009]] (via AutoSub, OpenAI Whisper)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub, OpenAI Whisper)
+*[[159: Mantids and Chakra Attacks]] (via AutoSub, OpenAI Whisper)
+*[[162: May 19, 2018]] (via AutoSub, OpenAI Whisper)
+*[[163: January 27-29, 2009]] (via AutoSub, OpenAI Whisper)
+*[[175: Giants And Bonus Potatoes]] (via AutoSub, OpenAI Whisper)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via OpenAI Whisper)
+*[[179: July 10, 2018]] (via AutoSub, OpenAI Whisper)
+*[[181: August 16, 2016]] (via AutoSub, OpenAI Whisper)
+*[[183: February 12-16, 2009]] (via OpenAI Whisper)
+*[[191: Blood Moons and Our First Call-In]] (via AutoSub, OpenAI Whisper)
+*[[193: Big Skeletons and Pencil Ink]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[194: February 22-24, 2009]] (via AutoSub, OpenAI Whisper)
+*[[196: August 21, 2018]] (via OpenAI Whisper)
+*[[198: July 22, 2011]] (via AutoSub, OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub, OpenAI Whisper)
 *[[203: March 2-4, 2009]] (via AutoSub, OpenAI Whisper)
 *[[204: Sweary Kerry's Larry]] (via AutoSub, Wiki Page)
@@ -2090,7 +2128,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[773: February 2, 2023]] (via AutoSub, otter.ai)
 *[[774: December 22, 2003]] (via otter.ai)
 *[[775: Fireside Chatting]] (via otter.ai)
-*[[777: An X-Men Scenario Is Coming]] (via otter.ai)
+*[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub)
 
 |}
@@ -2148,6 +2186,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[476: Moon Colonies Part 2]] (via Wiki Page)
 *[[489: October 2-4, 2020]] (via Wiki Page)
+
+|}
+
+==Volcanologist==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Volcanologist'
+
+|-
+|'''Sources:'''
+|
+
+*[[167: February 4-5, 2009]] (via AutoSub)
+*[[177: Sweary Kerry and the Racist Alien]] (via OpenAI Whisper)
 
 |}
 
@@ -2301,6 +2364,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Von Daniken==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*"Von Daniken's"
+*'the Von Daniken'
+*'von Daniken'
+
+|-
+|'''Sources:'''
+|
+
+*[[68: September 19-28, 2015]] (via otter.ai)
+*[[171: Loosh and Let Live]] (via OpenAI Whisper)
+
+|}
+
 ==Von Erichs==
 {| class="fandom-table"
 |'''Status:'''
@@ -2310,7 +2400,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|3
+|6
 |-
 |'''Source Texts:'''
 |
@@ -2321,9 +2411,37 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via OpenAI Whisper)
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
 *[[317: February 19-20, 2013]] (via OpenAI Whisper)
 *[[518: January 7-8, 2021]] (via AutoSub)
+
+|}
+
+==Von Mies Institute==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'The Von Mies Institute'
+*'the Von Mies Institute'
+
+|-
+|'''Sources:'''
+|
+
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via OpenAI Whisper)
+*[[163: January 27-29, 2009]] (via OpenAI Whisper)
+*[[512: December 16-17, 2020]] (via OpenAI Whisper)
 
 |}
 
