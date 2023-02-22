@@ -121,7 +121,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -135,7 +135,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[60: Mars Colonies]] (via AutoSub)
 *[[130E: Endgame, Part 5]] (via AutoSub)
-*[[156: Gaseous Beings and Antiques]] (via AutoSub)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub, OpenAI Whisper)
 *[[462: July 26, 2020]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -224,7 +224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|16
+|17
 |-
 |'''Source Texts:'''
 |
@@ -240,6 +240,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[37: May 1, 2017]] (via AutoSub, otter.ai)
 *[[44: May 22, 2017]] (via otter.ai)
 *[[108: November 30, 2017]] (via AutoSub, OpenAI Whisper)
+*[[174: February 11, 2009]] (via OpenAI Whisper)
 *[[375: November 29, 2019]] (via AutoSub, OpenAI Whisper)
 *[[376: December 3-5, 2019]] (via OpenAI Whisper)
 *[[457: July 12-13, 2020]] (via OpenAI Whisper)
@@ -307,7 +308,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|122
+|127
 |-
 |'''Source Texts:'''
 |
@@ -336,11 +337,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[109: December 4, 2017]] (via AutoSub, OpenAI Whisper)
 *[[111: January 21-22, 2016]] (via AutoSub, OpenAI Whisper)
 *[[135: The Wikileaks Press Conference]] (via AutoSub, OpenAI Whisper)
-*[[151: April 16, 2018]] (via AutoSub)
+*[[151: April 16, 2018]] (via AutoSub, OpenAI Whisper)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
-*[[169: November 30, 2014]] (via AutoSub)
+*[[169: November 30, 2014]] (via AutoSub, OpenAI Whisper)
+*[[180: Heresy and God Kings]] (via OpenAI Whisper)
+*[[186: February 17-18, 2009]] (via OpenAI Whisper)
 *[[197: Jared Holt from the Sh!tpost Podcast]] (via AutoSub)
-*[[199: August 29, 2018]] (via AutoSub)
+*[[199: August 29, 2018]] (via AutoSub, OpenAI Whisper)
 *[[201: A New Messiah and The Plunger Toss]] (via OpenAI Whisper)
 *[[202: September 4-6, 2018]] (via AutoSub, OpenAI Whisper)
 *[[236: December 4-5, 2018]] (via AutoSub, OpenAI Whisper)
@@ -469,7 +472,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -483,6 +486,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[23: March 16-17, 2017]] (via otter.ai)
 *[[62: August 19-26, 2015]] (via otter.ai)
 *[[146: April 4, 2018]] (via OpenAI Whisper)
+*[[186: February 17-18, 2009]] (via OpenAI Whisper)
 *[[227: March 23, 2009]] (via OpenAI Whisper)
 *[[242: December 18-19, 2018]] (via AutoSub, OpenAI Whisper)
 *[[661: March 17, 2022]] (via AutoSub, OpenAI Whisper)
@@ -580,7 +584,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -594,6 +598,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
 *[[37: May 1, 2017]] (via otter.ai)
 *[[101: January 11, 2016]] (via OpenAI Whisper)
+*[[185: July 27, 2018]] (via OpenAI Whisper)
 *[[305: February 1, 2013]] (via OpenAI Whisper)
 *[[342: September 6-11, 2019]] (via OpenAI Whisper)
 *[[366: November 5-6, 2019]] (via OpenAI Whisper)
@@ -665,7 +670,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|15
+|16
 |-
 |'''Source Texts:'''
 |
@@ -679,7 +684,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[98: May 2-3, 2012]] (via AutoSub)
 *[[135: The Wikileaks Press Conference]] (via AutoSub, OpenAI Whisper)
-*[[156: Gaseous Beings and Antiques]] (via AutoSub)
+*[[156: Gaseous Beings and Antiques]] (via AutoSub, OpenAI Whisper)
 *[[272: December 20, 2012]] (via OpenAI Whisper)
 *[[427: April 29-30, 2020]] (via OpenAI Whisper)
 *[[663: July 24, 2003]] (via OpenAI Whisper)
@@ -724,7 +729,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC, ORG
 |-
 |'''Total Count:'''
-|53
+|54
 |-
 |'''Source Texts:'''
 |
@@ -742,6 +747,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[39: Jack Posobiec...Ya Busted]] (via AutoSub, otter.ai)
 *[[40: May 10, 2017]] (via AutoSub, otter.ai)
 *[[108: November 30, 2017]] (via OpenAI Whisper)
+*[[172: June 11, 2013]] (via OpenAI Whisper)
 *[[223: A Progressive Space Diplomat]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[230E: Obama Deception, Part 5]] (via AutoSub)
 *[[467: August 7-9, 2020]] (via AutoSub, OpenAI Whisper)
@@ -760,7 +766,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|63
+|67
 |-
 |'''Source Texts:'''
 |
@@ -778,8 +784,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[109: December 4, 2017]] (via AutoSub, OpenAI Whisper)
 *[[130B: Endgame, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[130D: Endgame, Part 4]] (via AutoSub)
-*[[155: January 7-9, 2009]] (via AutoSub)
-*[[170: Live In Austin]] (via AutoSub)
+*[[155: January 7-9, 2009]] (via AutoSub, OpenAI Whisper)
+*[[170: Live In Austin]] (via AutoSub, OpenAI Whisper)
+*[[179: July 10, 2018]] (via OpenAI Whisper)
 *[[191: Blood Moons and Our First Call-In]] (via AutoSub)
 *[[206: March 4-5, 2009]] (via OpenAI Whisper)
 *[[219: March 13, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -929,7 +936,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -942,6 +949,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[84: December 21, 2012]] (via AutoSub)
 *[[135: The Wikileaks Press Conference]] (via OpenAI Whisper)
+*[[176: June 28, 2018]] (via OpenAI Whisper)
 *[[266: December 14, 2012]] (via AutoSub)
 *[[389: January 15-17, 2020]] (via OpenAI Whisper)
 *[[488: The First Debate Spectacular]] (via AutoSub, OpenAI Whisper)
@@ -1086,7 +1094,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|13
+|16
 |-
 |'''Source Texts:'''
 |
@@ -1098,6 +1106,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[129: David Rothschild Interview]] (via AutoSub, OpenAI Whisper)
+*[[156: Gaseous Beings and Antiques]] (via OpenAI Whisper)
+*[[159: Mantids and Chakra Attacks]] (via OpenAI Whisper)
 *[[355: April 18, 2013]] (via AutoSub, OpenAI Whisper)
 *[[513: December 18, 2020]] (via AutoSub, OpenAI Whisper)
 *[[730: August 12, 2003]] (via AutoSub, otter.ai)
@@ -1412,7 +1422,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|243
+|256
 |-
 |'''Source Texts:'''
 |
@@ -1441,11 +1451,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[100: January 6-7, 2016]] (via otter.ai)
 *[[101: January 11, 2016]] (via OpenAI Whisper)
 *[[106: Drunk Special Report]] (via AutoSub, OpenAI Whisper)
-*[[160: January 22-25, 2009]] (via AutoSub)
-*[[162: May 19, 2018]] (via AutoSub)
-*[[166: February 2-3, 2009]] (via AutoSub, Wiki Page)
-*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
+*[[160: January 22-25, 2009]] (via AutoSub, OpenAI Whisper)
+*[[162: May 19, 2018]] (via AutoSub, OpenAI Whisper)
+*[[166: February 2-3, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub, OpenAI Whisper)
 *[[183: February 12-16, 2009]] (via AutoSub)
+*[[191: Blood Moons and Our First Call-In]] (via OpenAI Whisper)
 *[[209: Drunk Hotel Interview]] (via AutoSub, OpenAI Whisper)
 *[[219: March 13, 2009]] (via AutoSub, OpenAI Whisper)
 *[[261: February 5-6, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -1529,7 +1540,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|22
+|25
 |-
 |'''Source Texts:'''
 |
@@ -1543,8 +1554,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[14: February 17, 2017]] (via AutoSub, otter.ai)
 *[[29: April 11, 2017]] (via otter.ai)
 *[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
-*[[161: May 14, 2018]] (via AutoSub)
-*[[165: Rotondo, Round 2]] (via AutoSub)
+*[[161: May 14, 2018]] (via AutoSub, OpenAI Whisper)
+*[[165: Rotondo, Round 2]] (via AutoSub, OpenAI Whisper)
+*[[186: February 17-18, 2009]] (via OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
 *[[250: Remote Poisoners And Crypto Bigotry]] (via OpenAI Whisper)
 *[[292: January 14, 2013]] (via OpenAI Whisper)
@@ -1567,7 +1579,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|103
+|123
 |-
 |'''Source Texts:'''
 |
@@ -1579,8 +1591,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[177: Sweary Kerry and the Racist Alien]] (via Wiki Page)
-*[[187: Magic Cheesecloth and Secret Pleiadians]] (via Wiki Page)
+*[[171: Loosh and Let Live]] (via OpenAI Whisper)
+*[[177: Sweary Kerry and the Racist Alien]] (via OpenAI Whisper, Wiki Page)
+*[[182: Pay-To-Play Satan Fears]] (via OpenAI Whisper)
+*[[187: Magic Cheesecloth and Secret Pleiadians]] (via OpenAI Whisper, Wiki Page)
 *[[201: A New Messiah and The Plunger Toss]] (via OpenAI Whisper)
 *[[204: Sweary Kerry's Larry]] (via OpenAI Whisper, Wiki Page)
 *[[205: September 13, 2018]] (via OpenAI Whisper)
@@ -1743,12 +1757,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|30
+|31
 |-
 |'''Source Texts:'''
 |
 
 *'Edgar Cayce'
+*"Edgar Cayce's"
 
 |-
 |'''Sources:'''
@@ -1757,6 +1772,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[68: September 19-28, 2015]] (via AutoSub)
 *[[87: Mark Richards Revisited]] (via AutoSub)
 *[[131: David Lynch Interview]] (via AutoSub, OpenAI Whisper)
+*[[171: Loosh and Let Live]] (via OpenAI Whisper)
 *[[291: Feline Contessas And Canine Capitalists]] (via AutoSub, OpenAI Whisper)
 *[[400: One Out Of Five Seems High]] (via AutoSub)
 
@@ -1796,7 +1812,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|47
+|49
 |-
 |'''Source Texts:'''
 |
@@ -1814,7 +1830,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[98: May 2-3, 2012]] (via AutoSub)
 *[[147: Aaron Russo]] (via AutoSub, OpenAI Whisper)
 *[[149: The Press Conference]] (via AutoSub, OpenAI Whisper)
-*[[162: May 19, 2018]] (via AutoSub)
+*[[162: May 19, 2018]] (via AutoSub, OpenAI Whisper)
 *[[248: January 2, 2019]] (via AutoSub, OpenAI Whisper)
 *[[306: June 4-5, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[564: May 15-20, 2003]] (via OpenAI Whisper, Wiki Page)
@@ -2182,7 +2198,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -2194,7 +2210,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[87: Mark Richards Revisited]] (via AutoSub)
-*[[176: June 28, 2018]] (via AutoSub)
+*[[176: June 28, 2018]] (via AutoSub, OpenAI Whisper)
 *[[467: August 7-9, 2020]] (via AutoSub, OpenAI Whisper)
 *[[716: April 25, 2014]] (via AutoSub)
 
@@ -2209,7 +2225,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|24
+|25
 |-
 |'''Source Texts:'''
 |
@@ -2222,7 +2238,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[49: July 6-13. 2015]] (via otter.ai)
 *[[144: March 25-31, Part 2]] (via AutoSub, OpenAI Whisper)
-*[[181: August 16, 2016]] (via AutoSub)
+*[[181: August 16, 2016]] (via AutoSub, OpenAI Whisper)
 *[[205: September 13, 2018]] (via OpenAI Whisper)
 *[[218: October 17, 2018]] (via AutoSub, OpenAI Whisper)
 *[[264: February 11-13, 2019]] (via AutoSub, OpenAI Whisper)
@@ -2374,7 +2390,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|103
+|104
 |-
 |'''Source Texts:'''
 |
@@ -2408,7 +2424,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[136: March 30-31, 2008]] (via OpenAI Whisper)
 *[[171: Loosh and Let Live]] (via AutoSub)
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
-*[[182: Pay-To-Play Satan Fears]] (via AutoSub)
+*[[182: Pay-To-Play Satan Fears]] (via AutoSub, OpenAI Whisper)
 *[[187: Magic Cheesecloth and Secret Pleiadians]] (via AutoSub)
 *[[209: Drunk Hotel Interview]] (via AutoSub)
 *[[216: November 11, 2010]] (via AutoSub)
@@ -2480,7 +2496,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|60
+|61
 |-
 |'''Source Texts:'''
 |
@@ -2498,7 +2514,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[38: 30 Hour Marathon Coverage]] (via otter.ai)
 *[[41: May 12, 2017]] (via otter.ai)
 *[[117: January 8, 2018]] (via AutoSub, OpenAI Whisper)
-*[[185: July 27, 2018]] (via AutoSub)
+*[[185: July 27, 2018]] (via AutoSub, OpenAI Whisper)
 *[[300: May 21-22, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[399: February 12-14, 2020]] (via AutoSub)
 *[[413: March 27, 2020]] (via OpenAI Whisper)
@@ -3090,7 +3106,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|74
+|77
 |-
 |'''Source Texts:'''
 |
@@ -3109,9 +3125,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[107: December 12, 2014]] (via AutoSub, OpenAI Whisper)
 *[[111: January 21-22, 2016]] (via AutoSub, OpenAI Whisper)
 *[[133: Operation Paul Revere]] (via AutoSub, OpenAI Whisper)
-*[[179: July 10, 2018]] (via AutoSub)
-*[[190: August 6, 2018]] (via AutoSub)
-*[[195: August 17, 2018]] (via AutoSub)
+*[[179: July 10, 2018]] (via AutoSub, OpenAI Whisper)
+*[[190: August 6, 2018]] (via AutoSub, OpenAI Whisper)
+*[[195: August 17, 2018]] (via AutoSub, OpenAI Whisper)
 *[[228: Old Alex Clips]] (via AutoSub)
 *[[230E: Obama Deception, Part 5]] (via AutoSub)
 *[[245: December 24, 2018]] (via AutoSub, OpenAI Whisper)
@@ -3425,7 +3441,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|25
+|27
 |-
 |'''Source Texts:'''
 |
@@ -3441,7 +3457,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[62: August 19-26, 2015]] (via AutoSub)
 *[[73: August 12, 2017]] (via AutoSub, Wiki Page)
 *[[98: May 2-3, 2012]] (via AutoSub)
-*[[169: November 30, 2014]] (via AutoSub)
+*[[169: November 30, 2014]] (via AutoSub, OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub, OpenAI Whisper)
 *[[252: April 7-8, 2009]] (via OpenAI Whisper)
 *[[262: April 14, 2009]] (via AutoSub)
@@ -3451,6 +3467,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[389: January 15-17, 2020]] (via OpenAI Whisper)
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub, OpenAI Whisper)
 *[[527: February 4, 2021]] (via OpenAI Whisper)
+
+|}
+
+==Elon Musk Tesla==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Elon Musk Tesla'
+
+|-
+|'''Sources:'''
+|
+
+*[[13: February 14, 2017]] (via AutoSub)
+*[[171: Loosh and Let Live]] (via OpenAI Whisper)
 
 |}
 
@@ -3752,6 +3793,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[13: February 14, 2017]] (via AutoSub)
 *[[693: August 4, 2003]] (via AutoSub)
+
+|}
+
+==Emmanuel Goldstein==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Emmanuel Goldstein'
+
+|-
+|'''Sources:'''
+|
+
+*[[158: January 21, 2009]] (via OpenAI Whisper)
+*[[522: January 14-17, 2021]] (via AutoSub)
 
 |}
 
@@ -4067,7 +4133,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -4080,6 +4146,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[137: March 12, 2018]] (via Wiki Page)
+*[[198: July 22, 2011]] (via OpenAI Whisper)
 *[[247: Lionel]] (via OpenAI Whisper)
 *[[282: April 5, 2019]] (via OpenAI Whisper)
 *[[300: May 21-22, 2019]] (via OpenAI Whisper)
@@ -4616,7 +4683,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -4627,7 +4694,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub, OpenAI Whisper)
 *[[625: December 5, 2021]] (via OpenAI Whisper)
 *[[631: December 20, 2021]] (via AutoSub, OpenAI Whisper)
 
@@ -4693,7 +4760,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|109
+|110
 |-
 |'''Source Texts:'''
 |
@@ -4709,6 +4776,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
 *[[107: December 12, 2014]] (via AutoSub, OpenAI Whisper)
 *[[119: August 16, 2012]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[189: February 19-20, 2009]] (via OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[202: September 4-6, 2018]] (via OpenAI Whisper)
 *[[221: October 24, 2018]] (via OpenAI Whisper)
@@ -4791,7 +4859,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|29
+|33
 |-
 |'''Source Texts:'''
 |
@@ -4808,7 +4876,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[110: December 5, 2017]] (via AutoSub)
 *[[148: June 1-3, 2009]] (via OpenAI Whisper)
 *[[164: May 25, 2018]] (via Wiki Page)
-*[[181: August 16, 2016]] (via Wiki Page)
+*[[181: August 16, 2016]] (via OpenAI Whisper, Wiki Page)
 *[[276: January 1-2, 2013]] (via OpenAI Whisper)
 *[[383: December 31, 2019]] (via OpenAI Whisper)
 *[[385: January 6, 2020]] (via AutoSub, OpenAI Whisper)
@@ -4900,7 +4968,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Eric von Daniken==
+==Eric Von Daniken==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -4909,17 +4977,21 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|16
 |-
 |'''Source Texts:'''
 |
 
+*'Eric Von Daniken'
 *'Eric von Daniken'
 
 |-
 |'''Sources:'''
 |
 
+*[[156: Gaseous Beings and Antiques]] (via OpenAI Whisper)
+*[[171: Loosh and Let Live]] (via OpenAI Whisper)
+*[[199: August 29, 2018]] (via OpenAI Whisper)
 *[[271: The Serpent Loves Word Games]] (via OpenAI Whisper)
 *[[347: September 23, 2019]] (via OpenAI Whisper)
 *[[465: August 3-4, 2020]] (via OpenAI Whisper)
@@ -5015,12 +5087,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|31
+|35
 |-
 |'''Source Texts:'''
 |
 
 *'Erik Prince'
+*"Erik Prince's"
 
 |-
 |'''Sources:'''
@@ -5031,7 +5104,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[110: December 5, 2017]] (via AutoSub, OpenAI Whisper)
 *[[136: March 30-31, 2008]] (via AutoSub, OpenAI Whisper)
 *[[148: June 1-3, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[164: May 25, 2018]] (via AutoSub)
+*[[157: WWE's Kane (Ft. Marty DeRosa)]] (via OpenAI Whisper)
+*[[164: May 25, 2018]] (via AutoSub, OpenAI Whisper)
 *[[181: August 16, 2016]] (via AutoSub)
 *[[217: Space Liars and Dragon Moths]] (via AutoSub, OpenAI Whisper)
 *[[276: January 1-2, 2013]] (via AutoSub)
@@ -5103,7 +5177,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|12
+|16
 |-
 |'''Source Texts:'''
 |
@@ -5116,8 +5190,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper)
-*[[179: July 10, 2018]] (via AutoSub)
-*[[192: August 10, 2018]] (via AutoSub)
+*[[179: July 10, 2018]] (via AutoSub, OpenAI Whisper)
+*[[192: August 10, 2018]] (via AutoSub, OpenAI Whisper)
 *[[209: Drunk Hotel Interview]] (via OpenAI Whisper)
 *[[573: July 1, 2021]] (via AutoSub, OpenAI Whisper)
 *[[664: Formulaic Objections Part 5]] (via AutoSub, otter.ai)
@@ -5135,7 +5209,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -5150,6 +5224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[105: March 18, 2014]] (via OpenAI Whisper)
 *[[113: February 21-23, 2014]] (via OpenAI Whisper)
 *[[147: Aaron Russo]] (via OpenAI Whisper)
+*[[162: May 19, 2018]] (via OpenAI Whisper)
 *[[203: March 2-4, 2009]] (via OpenAI Whisper)
 *[[242: December 18-19, 2018]] (via OpenAI Whisper)
 *[[599: June 13, 2003]] (via OpenAI Whisper)
@@ -5375,7 +5450,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|22
+|26
 |-
 |'''Source Texts:'''
 |
@@ -5388,7 +5463,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[112: December 15, 2017]] (via AutoSub, OpenAI Whisper)
-*[[168: Alex Vs. Bill Ayers]] (via AutoSub)
+*[[168: Alex Vs. Bill Ayers]] (via AutoSub, OpenAI Whisper)
 *[[350: September 29-30, 2019]] (via AutoSub, OpenAI Whisper)
 *[[351: Jordan Takes The Wheel 2]] (via AutoSub, OpenAI Whisper)
 *[[408: March 11-13, 2020]] (via AutoSub)
@@ -5552,6 +5627,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[71: August 4, 2017]] (via AutoSub)
 *[[102: Alex On Russian Media]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Eurasianism==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Eurasianism'
+
+|-
+|'''Sources:'''
+|
+
+*[[102: Alex On Russian Media]] (via OpenAI Whisper)
+*[[151: April 16, 2018]] (via OpenAI Whisper)
 
 |}
 
@@ -5775,7 +5875,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|43
+|44
 |-
 |'''Source Texts:'''
 |
@@ -5796,7 +5896,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[130A: Endgame, Part 1]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[130B: Endgame, Part 2]] (via OpenAI Whisper)
 *[[136: March 30-31, 2008]] (via AutoSub, OpenAI Whisper)
-*[[159: Mantids and Chakra Attacks]] (via AutoSub)
+*[[159: Mantids and Chakra Attacks]] (via AutoSub, OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
 *[[230A: Obama Deception, Part 1]] (via AutoSub)
 *[[264: February 11-13, 2019]] (via AutoSub)
@@ -5851,7 +5951,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|39
+|41
 |-
 |'''Source Texts:'''
 |
@@ -5869,8 +5969,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[112: December 15, 2017]] (via AutoSub)
 *[[116: January 5, 2018]] (via AutoSub)
 *[[152: April 18, 2018]] (via AutoSub)
-*[[164: May 25, 2018]] (via AutoSub)
-*[[180: Heresy and God Kings]] (via AutoSub)
+*[[164: May 25, 2018]] (via AutoSub, OpenAI Whisper)
+*[[180: Heresy and God Kings]] (via AutoSub, OpenAI Whisper)
 *[[182: Pay-To-Play Satan Fears]] (via AutoSub)
 *[[185: July 27, 2018]] (via AutoSub)
 *[[248: January 2, 2019]] (via AutoSub)
@@ -5958,7 +6058,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -5970,6 +6070,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[156: Gaseous Beings and Antiques]] (via OpenAI Whisper)
 *[[188: August 1, 2018]] (via AutoSub)
 *[[376: December 3-5, 2019]] (via OpenAI Whisper)
 
@@ -6035,7 +6136,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|88
+|89
 |-
 |'''Source Texts:'''
 |
@@ -6062,6 +6163,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper)
 *[[144: March 25-31, Part 2]] (via AutoSub)
 *[[163: January 27-29, 2009]] (via AutoSub)
+*[[187: Magic Cheesecloth and Secret Pleiadians]] (via OpenAI Whisper)
 *[[196: August 21, 2018]] (via AutoSub)
 *[[202: September 4-6, 2018]] (via AutoSub)
 *[[207: Bus Station Photography and The Magic of Zoom]] (via AutoSub)
@@ -6405,7 +6507,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -6424,6 +6526,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[129: David Rothschild Interview]] (via OpenAI Whisper)
 *[[130E: Endgame, Part 5]] (via AutoSub, OpenAI Whisper)
 *[[146: April 4, 2018]] (via OpenAI Whisper)
+*[[166: February 2-3, 2009]] (via OpenAI Whisper)
 *[[246: April 5-6, 2009]] (via OpenAI Whisper)
 *[[258: April 12-13, 2009]] (via OpenAI Whisper)
 
