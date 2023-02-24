@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
@@ -26,7 +26,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[163: January 27-29, 2009]] (via AutoSub)
 *[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper)
-*[[The Halloween Story]] (via AutoSub)
+*[[The Halloween Story]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -375,10 +375,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, PERSON
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -390,6 +390,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Joe Rogan (via Wiki Page)
+*[[61: July 5, 2017]] (via OpenAI Whisper)
 *[[109: December 4, 2017]] (via OpenAI Whisper)
 *[[246: April 5-6, 2009]] (via OpenAI Whisper)
 *[[404: Mr. Jones Goes To CPAC]] (via OpenAI Whisper)
@@ -981,6 +982,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[23: March 16-17, 2017]] (via AutoSub)
 *[[287: April 15-18, 2019]] (via AutoSub)
 *[[645: November 4, 2014]] (via AutoSub)
+
+|}
+
+==Yuri Geller==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Yuri Geller'
+
+|-
+|'''Sources:'''
+|
+
+*[[95: Project Camelot Break]] (via OpenAI Whisper)
+*[[110: December 5, 2017]] (via OpenAI Whisper)
 
 |}
 
