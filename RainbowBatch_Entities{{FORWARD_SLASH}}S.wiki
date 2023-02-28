@@ -39,7 +39,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|62
+|63
 |-
 |'''Source Texts:'''
 |
@@ -52,7 +52,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[11: February 10, 2017]] (via AutoSub)
-*[[19: March 3, 2017]] (via AutoSub, otter.ai)
+*[[19: March 3, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[47: June 19-July 5, 2015]] (via AutoSub)
 *[[79: Meet Captain Mark Richards]] (via AutoSub, OpenAI Whisper)
 *[[130C: Endgame, Part 3]] (via AutoSub)
@@ -77,7 +77,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|101
+|110
 |-
 |'''Source Texts:'''
 |
@@ -89,11 +89,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[4: Research and Stand Up]] (via AutoSub, otter.ai)
-*[[33: April 22, 2017]] (via otter.ai)
-*[[36: June 29, 2015]] (via otter.ai)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
+*779: January 9-12, 2004 (via Wiki Page)
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[33: April 22, 2017]] (via otter.ai, OpenAI Whisper)
+*[[36: June 29, 2015]] (via otter.ai, OpenAI Whisper)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
 *[[67: Protocols of Zion]] (via AutoSub, OpenAI Whisper)
 *[[81: September 6-7, 2017]] (via OpenAI Whisper)
@@ -595,10 +596,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON, WORK_OF_ART
+|FAC, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3
+|6
 |-
 |'''Source Texts:'''
 |
@@ -609,7 +610,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[39: Jack Posobiec...Ya Busted]] (via otter.ai)
+*[[39: Jack Posobiec...Ya Busted]] (via otter.ai, OpenAI Whisper)
+*[[40: May 10, 2017]] (via OpenAI Whisper)
 *[[45: May 25, 2017]] (via AutoSub)
 *[[118: January 10-11, 2018]] (via AutoSub)
 
@@ -846,7 +848,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -857,7 +859,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[11: February 10, 2017]] (via otter.ai)
+*[[11: February 10, 2017]] (via otter.ai, OpenAI Whisper)
 *[[120: January 27, 2016]] (via OpenAI Whisper)
 *[[148: June 1-3, 2009]] (via OpenAI Whisper)
 *[[358: October 18, 2019]] (via AutoSub)
@@ -874,7 +876,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
@@ -886,7 +888,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[8: January 26-27, 2017]] (via otter.ai)
-*[[13: February 14, 2017]] (via otter.ai)
+*[[13: February 14, 2017]] (via otter.ai, OpenAI Whisper)
 *[[54: Megyn Kelly Interview Pt. 1]] (via OpenAI Whisper)
 *[[765: Formulaic Objections Part 13]] (via otter.ai)
 
@@ -1145,7 +1147,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -1156,7 +1158,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[49: July 6-13. 2015]] (via otter.ai)
+*[[49: July 6-13. 2015]] (via otter.ai, OpenAI Whisper)
 *[[305: February 1, 2013]] (via OpenAI Whisper)
 *[[469: August 12-13, 2020]] (via AutoSub, OpenAI Whisper)
 
@@ -1330,7 +1332,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|152
+|154
 |-
 |'''Source Texts:'''
 |
@@ -1341,8 +1343,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
-*[[42: March 11, 2014]] (via otter.ai)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[42: March 11, 2014]] (via otter.ai, OpenAI Whisper)
 *[[74: October 4-6, 2015]] (via AutoSub, OpenAI Whisper)
 *[[84: December 21, 2012]] (via AutoSub, OpenAI Whisper)
 *[[120: January 27, 2016]] (via AutoSub, OpenAI Whisper)
@@ -1396,7 +1398,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -1407,7 +1409,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -1421,7 +1423,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|12
+|16
 |-
 |'''Source Texts:'''
 |
@@ -1432,7 +1434,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[17: February 7, 2017]] (via AutoSub, otter.ai)
+*[[17: February 7, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[87: Mark Richards Revisited]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via AutoSub, OpenAI Whisper)
 *[[340: All About Steve]] (via AutoSub, OpenAI Whisper)
@@ -1474,7 +1476,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|227
+|237
 |-
 |'''Source Texts:'''
 |
@@ -1486,14 +1488,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[10: February 6, 2017]] (via AutoSub, otter.ai)
-*[[31: April 17, 2017]] (via AutoSub, otter.ai)
-*[[32: April 21, 2017]] (via AutoSub, otter.ai)
-*[[37: May 1, 2017]] (via AutoSub, otter.ai)
+*[[10: February 6, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[31: April 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[32: April 21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[37: May 1, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[47: June 19-July 5, 2015]] (via Wiki Page)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
-*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
-*[[53: June 12, 2017]] (via otter.ai)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
+*[[53: June 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[74: October 4-6, 2015]] (via OpenAI Whisper)
 *[[75: January 7, 2011]] (via AutoSub, OpenAI Whisper)
 *[[79: Meet Captain Mark Richards]] (via OpenAI Whisper)
@@ -1641,7 +1643,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1652,6 +1654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[52: July 14-21, 2015]] (via OpenAI Whisper)
 *[[108: November 30, 2017]] (via OpenAI Whisper)
 *[[215: March 11-12, 2009]] (via AutoSub, OpenAI Whisper)
 
@@ -1741,7 +1744,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|83
+|101
 |-
 |'''Source Texts:'''
 |
@@ -1754,16 +1757,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai, Wiki Page)
-*[[21: March 9, 2017]] (via otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[21: March 9, 2017]] (via otter.ai, OpenAI Whisper)
 *[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai)
-*[[28: How Not To Cover Alex Jones]] (via otter.ai, Wiki Page)
-*[[40: May 10, 2017]] (via otter.ai)
+*[[28: How Not To Cover Alex Jones]] (via otter.ai, OpenAI Whisper, Wiki Page)
+*[[40: May 10, 2017]] (via otter.ai, OpenAI Whisper)
 *[[66: September 6-17, 2015]] (via OpenAI Whisper, Wiki Page)
 *[[67: Protocols of Zion]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[74: October 4-6, 2015]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[75: January 7, 2011]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, Wiki Page)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[118: January 10-11, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[130A: Endgame, Part 1]] (via Wiki Page)
 *[[133: Operation Paul Revere]] (via OpenAI Whisper)
@@ -1950,7 +1953,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|27
+|29
 |-
 |'''Source Texts:'''
 |
@@ -1965,11 +1968,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *Wolfgang Halbig (via Wiki Page)
 *[[33: April 22, 2017]] (via otter.ai)
-*[[34: April 25, 2017]] (via otter.ai)
+*[[34: April 25, 2017]] (via otter.ai, OpenAI Whisper)
 *[[55: Megyn Kelly Interview Pt. 2]] (via AutoSub)
 *[[268: December 17-18, 2012]] (via AutoSub, OpenAI Whisper)
 *[[297: January 17-18, 2013]] (via OpenAI Whisper)
-*[[378: Formulaic Objections Part 2]] (via otter.ai)
+*[[378: Formulaic Objections Part 2]] (via otter.ai, OpenAI Whisper)
 *[[387: May 13, 2014]] (via AutoSub, OpenAI Whisper)
 *[[641: Formulaic Objections Part 4]] (via AutoSub, OpenAI Whisper)
 *[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai)
@@ -1989,7 +1992,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|150
+|159
 |-
 |'''Source Texts:'''
 |
@@ -2015,7 +2018,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[343: April 3-8, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[344: April 9-10, 2013]] (via AutoSub, OpenAI Whisper)
 *[[349: April 15-16, 2013]] (via AutoSub, OpenAI Whisper)
-*[[378: Formulaic Objections Part 2]] (via AutoSub, otter.ai)
+*[[378: Formulaic Objections Part 2]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[387: May 13, 2014]] (via AutoSub, OpenAI Whisper)
 *[[660: February 11, 2014]] (via AutoSub, OpenAI Whisper)
 *[[728: Elizabeth Williamson Returns Once More]] (via AutoSub, otter.ai)
@@ -2059,6 +2062,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Sandy Hook related==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Sandy Hook-related'
+
+|-
+|'''Sources:'''
+|
+
+*[[378: Formulaic Objections Part 2]] (via OpenAI Whisper)
+*[[387: May 13, 2014]] (via OpenAI Whisper)
+
+|}
+
 ==Sandy Hook Sandy Hook==
 {| class="fandom-table"
 |'''Status:'''
@@ -2081,6 +2109,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[665: Formulaic Objections Part 6]] (via AutoSub)
 *[[687: May 24, 2022]] (via OpenAI Whisper)
+
+|}
+
+==Sandy Hook School==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Sandy Hook School'
+
+|-
+|'''Sources:'''
+|
+
+*[[378: Formulaic Objections Part 2]] (via OpenAI Whisper)
+*[[739: Formulaic Objections Part 8]] (via Welder)
 
 |}
 
@@ -2254,6 +2307,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Santa Clarita==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Santa Clarita'
+*'the Santa Clarita'
+
+|-
+|'''Sources:'''
+|
+
+*[[12: Jon Rappoport]] (via OpenAI Whisper)
+*[[704: 9/11, Part 2]] (via AutoSub, OpenAI Whisper)
+
+|}
+
 ==Santa Claus==
 {| class="fandom-table"
 |'''Status:'''
@@ -2263,7 +2342,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|66
+|70
 |-
 |'''Source Texts:'''
 |
@@ -2276,9 +2355,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
-*[[13: February 14, 2017]] (via otter.ai)
-*[[41: May 12, 2017]] (via otter.ai)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[13: February 14, 2017]] (via otter.ai, OpenAI Whisper)
+*[[22: March 14, 2017]] (via OpenAI Whisper)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
 *[[82: Oct. 27-Nov. 9, 2015]] (via OpenAI Whisper)
 *[[98: May 2-3, 2012]] (via AutoSub, OpenAI Whisper)
@@ -2411,7 +2491,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -2422,7 +2502,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[73: August 12, 2017]] (via AutoSub)
 *[[95: Project Camelot Break]] (via AutoSub, OpenAI Whisper)
 *[[158: January 21, 2009]] (via AutoSub)
@@ -2541,7 +2621,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|38
+|42
 |-
 |'''Source Texts:'''
 |
@@ -2553,9 +2633,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[41: May 12, 2017]] (via AutoSub, otter.ai, Wiki Page)
-*[[45: May 25, 2017]] (via AutoSub)
-*[[53: June 12, 2017]] (via AutoSub, otter.ai)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[45: May 25, 2017]] (via AutoSub, OpenAI Whisper)
+*[[53: June 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[127: February 8, 2018]] (via OpenAI Whisper)
 *[[173: February 6-10, 2009]] (via AutoSub, OpenAI Whisper)
 *[[175: Giants And Bonus Potatoes]] (via AutoSub, OpenAI Whisper)
@@ -2609,7 +2689,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|32
+|33
 |-
 |'''Source Texts:'''
 |
@@ -2620,7 +2700,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[3: The Secret of 2017]] (via AutoSub, otter.ai)
+*[[3: The Secret of 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
 *[[136: March 30-31, 2008]] (via AutoSub, OpenAI Whisper)
 *[[170: Live In Austin]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -2640,7 +2720,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -2651,7 +2731,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[41: May 12, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[205: September 13, 2018]] (via AutoSub)
 *[[290: April 25-26, 2019]] (via OpenAI Whisper)
 
@@ -2777,7 +2857,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|10
+|14
 |-
 |'''Source Texts:'''
 |
@@ -2789,8 +2869,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[32: April 21, 2017]] (via AutoSub, otter.ai)
-*[[51: June 6, 2017]] (via AutoSub, otter.ai)
+*[[32: April 21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[51: June 6, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[113: February 21-23, 2014]] (via AutoSub)
 *[[375: November 29, 2019]] (via AutoSub)
 
@@ -2805,7 +2885,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -2816,6 +2896,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[51: June 6, 2017]] (via OpenAI Whisper)
 *[[163: January 27-29, 2009]] (via OpenAI Whisper)
 *[[375: November 29, 2019]] (via OpenAI Whisper)
 
@@ -2856,13 +2937,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|17
+|26
 |-
 |'''Source Texts:'''
 |
 
 *'Satanic Panic'
 *'the Satanic Panic'
+*'this Satanic Panic'
 
 |-
 |'''Sources:'''
@@ -2879,6 +2961,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[734: October 9, 2022]] (via otter.ai)
 *[[756: December 5, 2003]] (via otter.ai)
 *[[767: January 12, 2023]] (via otter.ai)
+*[[781: Chatting With Will Sommer]] (via otter.ai)
 
 |}
 
@@ -2916,7 +2999,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |WORK_OF_ART
 |-
 |'''Total Count:'''
-|33
+|38
 |-
 |'''Source Texts:'''
 |
@@ -2927,8 +3010,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[22: March 14, 2017]] (via otter.ai)
-*[[30: April 14, 2017]] (via otter.ai)
+*[[22: March 14, 2017]] (via otter.ai, OpenAI Whisper)
+*[[30: April 14, 2017]] (via otter.ai, OpenAI Whisper)
 *[[45: May 25, 2017]] (via AutoSub)
 *[[86: September 22, 2017]] (via OpenAI Whisper)
 *[[115: January 2, 2018]] (via OpenAI Whisper)
@@ -2957,7 +3040,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|493
+|542
 |-
 |'''Source Texts:'''
 |
@@ -2972,21 +3055,21 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
-*[[10: February 6, 2017]] (via AutoSub, otter.ai)
+*[[10: February 6, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[14: February 17, 2017]] (via AutoSub)
-*[[17: February 7, 2017]] (via AutoSub, otter.ai)
-*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
-*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
-*[[26: March 30 (Special Report)]] (via AutoSub, otter.ai)
-*[[29: April 11, 2017]] (via AutoSub, otter.ai)
-*[[34: April 25, 2017]] (via otter.ai)
-*[[36: June 29, 2015]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
-*[[43: May 17, 2017]] (via AutoSub, otter.ai)
-*[[44: May 22, 2017]] (via AutoSub, otter.ai)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
-*[[51: June 6, 2017]] (via AutoSub, otter.ai)
-*[[52: July 14-21, 2015]] (via AutoSub, otter.ai)
+*[[17: February 7, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[26: March 30 (Special Report)]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[34: April 25, 2017]] (via otter.ai, OpenAI Whisper)
+*[[36: June 29, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[43: May 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[44: May 22, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[51: June 6, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[52: July 14-21, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[57: August 12-16, 2015]] (via AutoSub, OpenAI Whisper)
 *[[58: June 23, 2017]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[59: August 17-18, 2015]] (via OpenAI Whisper)
@@ -2997,7 +3080,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[80: October 16-26, 2015]] (via AutoSub, OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via AutoSub, OpenAI Whisper)
 *[[99: November 1, 2017]] (via AutoSub)
-*[[100: January 6-7, 2016]] (via otter.ai)
+*[[100: January 6-7, 2016]] (via otter.ai, OpenAI Whisper)
 *[[102: Alex On Russian Media]] (via OpenAI Whisper)
 *[[116: January 5, 2018]] (via AutoSub, OpenAI Whisper)
 *[[128: March 3, 2015]] (via AutoSub, OpenAI Whisper)
@@ -3029,11 +3112,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[252: April 7-8, 2009]] (via AutoSub, OpenAI Whisper)
 *[[264: February 11-13, 2019]] (via AutoSub, OpenAI Whisper)
 *[[277: March 15, 2019]] (via OpenAI Whisper)
-*[[279: Formulaic Objections]] (via AutoSub, otter.ai)
+*[[279: Formulaic Objections]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[286: Wrestling With Disappointment]] (via OpenAI Whisper)
 *[[287: April 15-18, 2019]] (via OpenAI Whisper)
 *[[298: January 20-23, 2013]] (via AutoSub)
-*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
+*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[311: June 17-19, 2019]] (via OpenAI Whisper)
 *[[318: July 5, 2019]] (via AutoSub, OpenAI Whisper)
 *[[329: August 4-5, 2019]] (via AutoSub, OpenAI Whisper)
@@ -3080,7 +3163,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|65
+|69
 |-
 |'''Source Texts:'''
 |
@@ -3094,9 +3177,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *630 (via AutoSub, OpenAI Whisper)
 *[[1: January 2, 2017]] (via otter.ai)
-*[[14: February 17, 2017]] (via otter.ai)
-*[[17: February 7, 2017]] (via otter.ai)
-*[[51: June 6, 2017]] (via otter.ai)
+*[[14: February 17, 2017]] (via otter.ai, OpenAI Whisper)
+*[[17: February 7, 2017]] (via otter.ai, OpenAI Whisper)
+*[[51: June 6, 2017]] (via otter.ai, OpenAI Whisper)
 *[[57: August 12-16, 2015]] (via OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via AutoSub)
@@ -3105,7 +3188,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via OpenAI Whisper)
 *[[218: October 17, 2018]] (via OpenAI Whisper)
 *[[298: January 20-23, 2013]] (via OpenAI Whisper)
-*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[329: August 4-5, 2019]] (via OpenAI Whisper)
 *[[355: April 18, 2013]] (via AutoSub, OpenAI Whisper)
 *[[364: April 21-22, 2013]] (via AutoSub, OpenAI Whisper)
@@ -3212,7 +3295,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -3223,7 +3306,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[3: The Secret of 2017]] (via OpenAI Whisper)
 *[[22: March 14, 2017]] (via AutoSub)
+*[[26: March 30 (Special Report)]] (via OpenAI Whisper)
 *[[136: March 30-31, 2008]] (via OpenAI Whisper)
 
 |}
@@ -3522,7 +3607,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|17
+|20
 |-
 |'''Source Texts:'''
 |
@@ -3534,9 +3619,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[3: The Secret of 2017]] (via OpenAI Whisper)
 *[[32: April 21, 2017]] (via AutoSub, otter.ai)
-*[[33: April 22, 2017]] (via otter.ai)
-*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[33: April 22, 2017]] (via otter.ai, OpenAI Whisper)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[64: Aug 27-Sep 1, 2015]] (via OpenAI Whisper)
 *[[155: January 7-9, 2009]] (via OpenAI Whisper)
 *[[293: May 2-3, 2019]] (via OpenAI Whisper)
@@ -3876,7 +3962,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -3887,7 +3973,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[13: February 14, 2017]] (via AutoSub)
+*[[13: February 14, 2017]] (via AutoSub, OpenAI Whisper)
 *[[23: March 16-17, 2017]] (via AutoSub)
 *[[27: March 31, 2017]] (via AutoSub)
 *[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
@@ -3931,7 +4017,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -3942,7 +4028,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[36: June 29, 2015]] (via AutoSub, otter.ai)
+*[[36: June 29, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[219: March 13, 2009]] (via AutoSub)
 *[[331: March 13-14, 2013]] (via AutoSub)
 *[[340: All About Steve]] (via AutoSub)
@@ -4042,7 +4128,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|18
+|21
 |-
 |'''Source Texts:'''
 |
@@ -4054,9 +4140,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub, OpenAI Whisper)
-*[[11: February 10, 2017]] (via AutoSub, otter.ai)
+*[[11: February 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
-*[[222: March 15-19, 2009]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[222: March 15-19, 2009]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[242: December 18-19, 2018]] (via AutoSub)
 *[[420: The Militia Tech Support Call-In Show]] (via AutoSub, OpenAI Whisper)
 *[[478: September 4, 2020]] (via OpenAI Whisper)
@@ -4262,7 +4348,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|10
 |-
 |'''Source Texts:'''
 |
@@ -4273,8 +4359,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via AutoSub)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, OpenAI Whisper)
 *[[127: February 8, 2018]] (via AutoSub)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub)
 
@@ -4344,7 +4430,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -4356,7 +4442,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[7: January 23-24, 2017]] (via AutoSub)
-*[[33: April 22, 2017]] (via otter.ai)
+*[[33: April 22, 2017]] (via otter.ai, OpenAI Whisper)
 *[[73: August 12, 2017]] (via AutoSub)
 *[[84: December 21, 2012]] (via AutoSub)
 *[[150: Alex Jones Attempts A Face Turn]] (via AutoSub)
@@ -4431,7 +4517,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|33
+|34
 |-
 |'''Source Texts:'''
 |
@@ -4446,7 +4532,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[2: December 31, 1999 (Y2K)]] (via AutoSub)
-*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai, OpenAI Whisper)
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
 *[[84: December 21, 2012]] (via AutoSub, OpenAI Whisper)
 *[[130A: Endgame, Part 1]] (via AutoSub)
@@ -4566,7 +4652,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -4577,7 +4663,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[26: March 30 (Special Report)]] (via otter.ai)
+*[[26: March 30 (Special Report)]] (via otter.ai, OpenAI Whisper)
 *[[60: Mars Colonies]] (via AutoSub, OpenAI Whisper)
 *[[188: August 1, 2018]] (via AutoSub)
 
@@ -4839,7 +4925,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -4850,7 +4936,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[230E: Obama Deception, Part 5]] (via OpenAI Whisper)
 *[[284: April 12, 2019]] (via OpenAI Whisper)
 *[[546: April 1-3, 2021]] (via AutoSub, OpenAI Whisper)
@@ -4995,7 +5081,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|55
+|59
 |-
 |'''Source Texts:'''
 |
@@ -5008,8 +5094,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[9: Joe Rogan Appearance]] (via otter.ai)
-*[[30: April 14, 2017]] (via AutoSub, otter.ai)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
+*[[30: April 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[56: July 22-Aug 11, 2015]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via AutoSub, OpenAI Whisper)
 *[[130A: Endgame, Part 1]] (via AutoSub, OpenAI Whisper)
@@ -5044,7 +5130,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|134
+|151
 |-
 |'''Source Texts:'''
 |
@@ -5057,15 +5143,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[3: The Secret of 2017]] (via AutoSub, otter.ai)
-*[[15: February 20-21, 2017]] (via otter.ai)
-*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
-*[[26: March 30 (Special Report)]] (via otter.ai)
-*[[32: April 21, 2017]] (via AutoSub, otter.ai)
-*[[35: Custody Press Conference]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via otter.ai)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
-*[[53: June 12, 2017]] (via otter.ai)
+*[[3: The Secret of 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[15: February 20-21, 2017]] (via otter.ai, OpenAI Whisper)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[26: March 30 (Special Report)]] (via otter.ai, OpenAI Whisper)
+*[[32: April 21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[35: Custody Press Conference]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[53: June 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[63: July 12, 2017]] (via OpenAI Whisper)
 *[[66: September 6-17, 2015]] (via OpenAI Whisper)
 *[[69: August 1, 2017]] (via OpenAI Whisper)
@@ -5154,7 +5240,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|41
+|57
 |-
 |'''Source Texts:'''
 |
@@ -5168,18 +5254,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
-*[[13: February 14, 2017]] (via AutoSub, otter.ai)
-*[[17: February 7, 2017]] (via AutoSub, otter.ai)
-*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
-*[[22: March 14, 2017]] (via AutoSub, otter.ai)
-*[[28: How Not To Cover Alex Jones]] (via otter.ai)
-*[[29: April 11, 2017]] (via AutoSub, otter.ai)
-*[[35: Custody Press Conference]] (via AutoSub, otter.ai)
+*[[13: February 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[17: February 7, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai, OpenAI Whisper)
+*[[20: March 6 & Celebrity Cameos]] (via OpenAI Whisper)
+*[[22: March 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[28: How Not To Cover Alex Jones]] (via otter.ai, OpenAI Whisper)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[35: Custody Press Conference]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[40: May 10, 2017]] (via Wiki Page)
-*[[41: May 12, 2017]] (via otter.ai, Wiki Page)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper, Wiki Page)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[48: May 31, 2017]] (via Wiki Page)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[66: September 6-17, 2015]] (via AutoSub, OpenAI Whisper)
 *[[69: August 1, 2017]] (via AutoSub, OpenAI Whisper)
 *[[344: April 9-10, 2013]] (via AutoSub, OpenAI Whisper)
@@ -5310,7 +5397,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|39
+|45
 |-
 |'''Source Texts:'''
 |
@@ -5322,10 +5409,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[24: March 23, 2017]] (via otter.ai)
-*[[29: April 11, 2017]] (via AutoSub, otter.ai)
-*[[30: April 14, 2017]] (via AutoSub, otter.ai)
-*[[34: April 25, 2017]] (via AutoSub, otter.ai)
+*[[24: March 23, 2017]] (via otter.ai, OpenAI Whisper)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[30: April 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[34: April 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[68: September 19-28, 2015]] (via otter.ai)
 *[[342: September 6-11, 2019]] (via AutoSub, OpenAI Whisper)
 *[[346: April 11-14, 2013]] (via OpenAI Whisper)
@@ -5429,7 +5516,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -5441,6 +5528,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[7: January 23-24, 2017]] (via otter.ai)
+*[[15: February 20-21, 2017]] (via OpenAI Whisper)
 *[[96: October 22-23, 2017]] (via AutoSub)
 *[[123: March 18, 2008]] (via OpenAI Whisper)
 *[[168: Alex Vs. Bill Ayers]] (via OpenAI Whisper)
@@ -5623,7 +5711,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|23
+|24
 |-
 |'''Source Texts:'''
 |
@@ -5634,6 +5722,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[33: April 22, 2017]] (via OpenAI Whisper)
 *[[37: May 1, 2017]] (via AutoSub)
 *[[46: June 18, 2015]] (via AutoSub)
 *[[48: May 31, 2017]] (via AutoSub)
@@ -5722,10 +5811,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PRODUCT
+|PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|4
+|7
 |-
 |'''Source Texts:'''
 |
@@ -5737,7 +5826,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[3: The Secret of 2017]] (via otter.ai, Wiki Page)
+*[[3: The Secret of 2017]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[113: February 21-23, 2014]] (via OpenAI Whisper)
 
 |}
@@ -5829,7 +5918,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|159
+|164
 |-
 |'''Source Texts:'''
 |
@@ -5847,9 +5936,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Dan Bongino (via Wiki Page)
+*[[14: February 17, 2017]] (via OpenAI Whisper)
 *[[17: February 7, 2017]] (via otter.ai)
 *[[18: March 1, 2017/Super Bowl Bonus]] (via otter.ai)
-*[[23: March 16-17, 2017]] (via AutoSub, otter.ai)
+*[[23: March 16-17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[28: How Not To Cover Alex Jones]] (via AutoSub)
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub)
 *[[76: October 7-11, 2015]] (via AutoSub)
@@ -6074,7 +6164,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|27
+|28
 |-
 |'''Source Texts:'''
 |
@@ -6087,7 +6177,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[102: Alex On Russian Media]] (via OpenAI Whisper)
 *[[224: March 20, 2009]] (via AutoSub)
 *[[246: April 5-6, 2009]] (via AutoSub)
@@ -6417,7 +6507,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -6432,7 +6522,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[40: May 10, 2017]] (via otter.ai)
 *[[45: May 25, 2017]] (via Wiki Page)
 *[[48: May 31, 2017]] (via Wiki Page)
@@ -6495,6 +6585,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Sensibility==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Sensibility'
+
+|-
+|'''Sources:'''
+|
+
+*[[409: The Lionel Countdown]] (via AutoSub)
+*[[781: Chatting With Will Sommer]] (via AutoSub)
+
+|}
+
 ==Separatist==
 {| class="fandom-table"
 |'''Status:'''
@@ -6530,19 +6645,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |DATE, EVENT
 |-
 |'''Total Count:'''
-|57
+|59
 |-
 |'''Source Texts:'''
 |
 
 *'September 11th'
 *'the September 11th'
+*'this September 11th'
 
 |-
 |'''Sources:'''
 |
 
-*[[33: April 22, 2017]] (via AutoSub)
+*[[33: April 22, 2017]] (via AutoSub, OpenAI Whisper)
 *[[66: September 6-17, 2015]] (via AutoSub, OpenAI Whisper)
 *[[130A: Endgame, Part 1]] (via AutoSub, OpenAI Whisper)
 *[[158: January 21, 2009]] (via AutoSub, OpenAI Whisper)
@@ -6835,7 +6951,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, WORK_OF_ART
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -6848,8 +6964,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[16: February 24, 2017]] (via AutoSub)
-*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai)
-*[[52: July 14-21, 2015]] (via otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
+*[[52: July 14-21, 2015]] (via otter.ai, OpenAI Whisper)
 *[[76: October 7-11, 2015]] (via AutoSub)
 *[[101: January 11, 2016]] (via AutoSub, OpenAI Whisper)
 *[[292: January 14, 2013]] (via OpenAI Whisper)
@@ -6970,7 +7086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -6981,7 +7097,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[41: May 12, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[294: January 15-16, 2013]] (via OpenAI Whisper)
 *[[591: June 11, 2003]] (via AutoSub, OpenAI Whisper)
 
@@ -7098,7 +7214,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|20
+|22
 |-
 |'''Source Texts:'''
 |
@@ -7109,8 +7225,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[14: February 17, 2017]] (via AutoSub, otter.ai)
-*[[15: February 20-21, 2017]] (via otter.ai)
+*[[14: February 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[15: February 20-21, 2017]] (via otter.ai, OpenAI Whisper)
 *[[71: August 4, 2017]] (via AutoSub, OpenAI Whisper)
 *[[88: The 2015 Investigation Ends]] (via AutoSub, OpenAI Whisper)
 *[[287: April 15-18, 2019]] (via OpenAI Whisper)
@@ -7295,7 +7411,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|97
+|118
 |-
 |'''Source Texts:'''
 |
@@ -7307,14 +7423,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Laura Loomer (via Wiki Page)
-*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai)
-*[[31: April 17, 2017]] (via AutoSub, otter.ai)
-*[[33: April 22, 2017]] (via AutoSub, otter.ai)
-*[[35: Custody Press Conference]] (via otter.ai)
-*[[36: June 29, 2015]] (via otter.ai)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
+*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[31: April 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[33: April 22, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[35: Custody Press Conference]] (via otter.ai, OpenAI Whisper)
+*[[36: June 29, 2015]] (via otter.ai, OpenAI Whisper)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[39: Jack Posobiec...Ya Busted]] (via otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[51: June 6, 2017]] (via otter.ai)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
 *[[67: Protocols of Zion]] (via OpenAI Whisper)
@@ -7328,7 +7444,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[199: August 29, 2018]] (via AutoSub, OpenAI Whisper)
 *[[238: Coach Dave]] (via OpenAI Whisper)
 *[[257: January 25, 2019]] (via OpenAI Whisper)
-*[[279: Formulaic Objections]] (via otter.ai)
+*[[279: Formulaic Objections]] (via otter.ai, OpenAI Whisper)
 *[[304: May 30-31, 2019]] (via AutoSub, OpenAI Whisper)
 *[[320: February 21-22, 2013]] (via AutoSub, OpenAI Whisper)
 *[[377: December 6-10, 2019]] (via OpenAI Whisper)
@@ -7481,6 +7597,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Shaq Taylor==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Shaq Taylor'
+
+|-
+|'''Sources:'''
+|
+
+*[[45: May 25, 2017]] (via OpenAI Whisper)
+*[[47: June 19-July 5, 2015]] (via OpenAI Whisper)
+*[[124: March 23, 2008]] (via OpenAI Whisper)
+
+|}
+
 ==Shaquille O'Neal==
 {| class="fandom-table"
 |'''Status:'''
@@ -7490,7 +7632,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -7502,7 +7644,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[16: February 24, 2017]] (via AutoSub, otter.ai)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[85: September 20-21, 2017]] (via AutoSub, OpenAI Whisper)
 *[[106: Drunk Special Report]] (via AutoSub, OpenAI Whisper)
 *[[162: May 19, 2018]] (via OpenAI Whisper)
@@ -7915,7 +8057,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -7927,7 +8069,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[15: February 20-21, 2017]] (via otter.ai)
-*[[48: May 31, 2017]] (via AutoSub, otter.ai)
+*[[48: May 31, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub)
 
 |}
@@ -7994,7 +8136,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|19
+|20
 |-
 |'''Source Texts:'''
 |
@@ -8006,6 +8148,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[47: June 19-July 5, 2015]] (via OpenAI Whisper)
 *[[64: Aug 27-Sep 1, 2015]] (via OpenAI Whisper)
 *[[77: August 23, 2017]] (via OpenAI Whisper)
 *[[315: February 17-18, 2013]] (via OpenAI Whisper)
@@ -8048,7 +8191,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|7
+|9
 |-
 |'''Source Texts:'''
 |
@@ -8059,7 +8202,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[315: February 17-18, 2013]] (via AutoSub)
 *[[401: Formulaic Objections Part 3]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
@@ -8725,7 +8868,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|12
+|18
 |-
 |'''Source Texts:'''
 |
@@ -8736,8 +8879,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[33: April 22, 2017]] (via AutoSub, otter.ai)
-*[[43: May 17, 2017]] (via AutoSub, otter.ai)
+*[[33: April 22, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[43: May 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[314: February 14-15, 2013]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -8831,7 +8974,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|61
+|62
 |-
 |'''Source Texts:'''
 |
@@ -8843,7 +8986,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai)
+*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[78: October 12-15, 2015]] (via AutoSub, Wiki Page)
 *[[106: Drunk Special Report]] (via OpenAI Whisper)
 *[[138: March 13-15, 2018]] (via OpenAI Whisper)
@@ -8878,7 +9021,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -8893,6 +9036,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[66: September 6-17, 2015]] (via OpenAI Whisper)
 *[[547: April 8, 2021]] (via AutoSub)
 *[[604: October 5, 2021]] (via AutoSub)
+*[[781: Chatting With Will Sommer]] (via otter.ai)
 
 |}
 
@@ -9039,7 +9183,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -9051,6 +9195,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[31: April 17, 2017]] (via OpenAI Whisper)
 *[[71: August 4, 2017]] (via OpenAI Whisper)
 *[[212: Matrix Schemes and Billions In Liens]] (via AutoSub)
 *[[420: The Militia Tech Support Call-In Show]] (via AutoSub, OpenAI Whisper)
@@ -9386,7 +9531,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -9397,7 +9542,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[4: Research and Stand Up]] (via otter.ai)
+*[[4: Research and Stand Up]] (via otter.ai, OpenAI Whisper)
 *[[584: August 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper)
 *[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper)
@@ -9440,7 +9585,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|28
+|30
 |-
 |'''Source Texts:'''
 |
@@ -9453,7 +9598,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[46: June 18, 2015]] (via AutoSub, otter.ai)
+*[[46: June 18, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub, OpenAI Whisper)
 *[[132: Minisode]] (via AutoSub, OpenAI Whisper)
 *[[136: March 30-31, 2008]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -9793,7 +9938,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -9805,9 +9950,34 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[41: May 12, 2017]] (via otter.ai)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[317: February 19-20, 2013]] (via OpenAI Whisper)
 *[[446: The Super Alpha Male Championship]] (via OpenAI Whisper)
+
+|}
+
+==Small Business Association==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'the Small Business Association'
+
+|-
+|'''Sources:'''
+|
+
+*[[26: March 30 (Special Report)]] (via OpenAI Whisper)
+*[[41: May 12, 2017]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -9983,7 +10153,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -9994,6 +10164,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[16: February 24, 2017]] (via OpenAI Whisper)
 *[[266: December 14, 2012]] (via AutoSub)
 *[[397: February 7-8, 2020]] (via AutoSub)
 
@@ -10098,7 +10269,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -10109,7 +10280,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[50: Bohemian Grove...Ya Busted]] (via FoulEdgeKnight-edited, otter.ai)
+*[[50: Bohemian Grove...Ya Busted]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
 
 |}
@@ -10389,7 +10560,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|42
+|57
 |-
 |'''Source Texts:'''
 |
@@ -10401,10 +10572,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[22: March 14, 2017]] (via AutoSub, otter.ai)
-*[[23: March 16-17, 2017]] (via otter.ai)
-*[[28: How Not To Cover Alex Jones]] (via AutoSub, otter.ai)
-*[[48: May 31, 2017]] (via otter.ai)
+*[[22: March 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[23: March 16-17, 2017]] (via otter.ai, OpenAI Whisper)
+*[[28: How Not To Cover Alex Jones]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[48: May 31, 2017]] (via otter.ai, OpenAI Whisper)
 *[[87: Mark Richards Revisited]] (via AutoSub, OpenAI Whisper)
 *[[107: December 12, 2014]] (via OpenAI Whisper)
 *[[140: February 18, 2011]] (via OpenAI Whisper)
@@ -10747,7 +10918,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|65
+|73
 |-
 |'''Source Texts:'''
 |
@@ -10759,9 +10930,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[16: February 24, 2017]] (via OpenAI Whisper)
 *[[20: March 6 & Celebrity Cameos]] (via AutoSub)
-*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
-*[[52: July 14-21, 2015]] (via AutoSub, otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai, OpenAI Whisper)
+*[[52: July 14-21, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
 *[[71: August 4, 2017]] (via AutoSub)
 *[[89: December 31, 2015]] (via AutoSub)
@@ -10776,6 +10948,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[181: August 16, 2016]] (via OpenAI Whisper)
 *[[190: August 6, 2018]] (via AutoSub)
 *[[218: October 17, 2018]] (via OpenAI Whisper)
+*[[222: March 15-19, 2009]] (via OpenAI Whisper)
 *[[230D: Obama Deception, Part 4]] (via AutoSub, OpenAI Whisper)
 *[[243: April 1-2, 2009]] (via OpenAI Whisper)
 *[[335: March 15-22, 2013]] (via AutoSub)
@@ -10951,7 +11124,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
@@ -10962,6 +11135,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[22: March 14, 2017]] (via OpenAI Whisper)
+*[[23: March 16-17, 2017]] (via OpenAI Whisper)
 *[[89: December 31, 2015]] (via AutoSub)
 *[[230E: Obama Deception, Part 5]] (via Wiki Page)
 *[[231: March 24, 2009]] (via OpenAI Whisper)
@@ -11326,7 +11501,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -11337,7 +11512,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[14: February 17, 2017]] (via otter.ai)
+*[[14: February 17, 2017]] (via otter.ai, OpenAI Whisper)
 *[[257: January 25, 2019]] (via OpenAI Whisper)
 *[[462: July 26, 2020]] (via OpenAI Whisper)
 
@@ -11460,7 +11635,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|15
+|21
 |-
 |'''Source Texts:'''
 |
@@ -11474,8 +11649,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *David Knight (via Wiki Page)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, Wiki Page)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[199: August 29, 2018]] (via OpenAI Whisper)
 *[[348: September 24-25, 2019]] (via OpenAI Whisper)
 *[[355: April 18, 2013]] (via OpenAI Whisper)
@@ -11491,7 +11666,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -11503,7 +11678,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[143: March 25-31 Part 1]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -11612,16 +11787,41 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Soros Group==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Soros Group'
+
+|-
+|'''Sources:'''
+|
+
+*[[5: January 19, 2017]] (via OpenAI Whisper)
+*[[427: April 29-30, 2020]] (via OpenAI Whisper)
+
+|}
+
 ==Soros Soros==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -11633,6 +11833,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[1: January 2, 2017]] (via AutoSub)
+*[[33: April 22, 2017]] (via OpenAI Whisper)
 *[[118: January 10-11, 2018]] (via OpenAI Whisper)
 *[[203: March 2-4, 2009]] (via AutoSub)
 *[[348: September 24-25, 2019]] (via AutoSub)
@@ -11835,7 +12036,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|321
+|329
 |-
 |'''Source Texts:'''
 |
@@ -11848,9 +12049,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Bob Chapman (via Wiki Page)
-*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
-*[[26: March 30 (Special Report)]] (via AutoSub)
-*[[46: June 18, 2015]] (via AutoSub, otter.ai)
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[26: March 30 (Special Report)]] (via AutoSub, OpenAI Whisper)
+*[[46: June 18, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[57: August 12-16, 2015]] (via OpenAI Whisper)
 *[[64: Aug 27-Sep 1, 2015]] (via AutoSub, OpenAI Whisper)
 *[[83: November 10-12, 2015]] (via AutoSub, OpenAI Whisper)
@@ -11944,7 +12145,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|96
+|98
 |-
 |'''Source Texts:'''
 |
@@ -11957,7 +12158,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *Bob Chapman (via Wiki Page)
 *Nicolas Peter Johannes Janse de Rensburg aka Siener van Rensburg (via Wiki Page)
-*[[46: June 18, 2015]] (via otter.ai)
+*[[46: June 18, 2015]] (via otter.ai, OpenAI Whisper)
 *[[104: November 20, 2017]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[133: Operation Paul Revere]] (via OpenAI Whisper)
 *[[141: March 20-22, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -11997,7 +12198,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|18
+|19
 |-
 |'''Source Texts:'''
 |
@@ -12009,7 +12210,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[20: March 6 & Celebrity Cameos]] (via otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via otter.ai, OpenAI Whisper)
 *[[104: November 20, 2017]] (via AutoSub, OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
 *[[277: March 15, 2019]] (via OpenAI Whisper)
@@ -12030,7 +12231,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|147
+|158
 |-
 |'''Source Texts:'''
 |
@@ -12043,11 +12244,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[10: February 6, 2017]] (via otter.ai)
-*[[16: February 24, 2017]] (via AutoSub, otter.ai)
-*[[21: March 9, 2017]] (via otter.ai)
-*[[30: April 14, 2017]] (via AutoSub, otter.ai)
-*[[40: May 10, 2017]] (via AutoSub, otter.ai)
+*[[10: February 6, 2017]] (via otter.ai, OpenAI Whisper)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[21: March 9, 2017]] (via otter.ai, OpenAI Whisper)
+*[[30: April 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[40: May 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[49: July 6-13. 2015]] (via Wiki Page)
 *[[63: July 12, 2017]] (via AutoSub, OpenAI Whisper)
 *[[64: Aug 27-Sep 1, 2015]] (via AutoSub, OpenAI Whisper)
@@ -12118,7 +12319,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -12130,7 +12331,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[16: February 24, 2017]] (via otter.ai)
-*[[40: May 10, 2017]] (via otter.ai)
+*[[40: May 10, 2017]] (via otter.ai, OpenAI Whisper)
 *[[53: June 12, 2017]] (via AutoSub)
 *[[64: Aug 27-Sep 1, 2015]] (via OpenAI Whisper)
 *[[105: March 18, 2014]] (via AutoSub, OpenAI Whisper)
@@ -12182,7 +12383,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -12193,7 +12394,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[309: June 10-11, 2019]] (via OpenAI Whisper)
 *[[587: August 14, 2021]] (via OpenAI Whisper)
 
@@ -12233,7 +12434,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|125
+|128
 |-
 |'''Source Texts:'''
 |
@@ -12246,8 +12447,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[4: Research and Stand Up]] (via AutoSub, otter.ai)
-*[[47: June 19-July 5, 2015]] (via AutoSub, otter.ai, Wiki Page)
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[47: June 19-July 5, 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub, OpenAI Whisper)
 *[[65: September 2-4, 2015]] (via AutoSub, OpenAI Whisper)
 *[[73: August 12, 2017]] (via AutoSub, OpenAI Whisper)
@@ -12352,7 +12553,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -12364,9 +12565,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[23: March 16-17, 2017]] (via otter.ai)
+*[[23: March 16-17, 2017]] (via otter.ai, OpenAI Whisper)
 *[[24: March 23, 2017]] (via otter.ai)
-*[[45: May 25, 2017]] (via otter.ai)
+*[[45: May 25, 2017]] (via otter.ai, OpenAI Whisper)
 *[[53: June 12, 2017]] (via AutoSub, otter.ai)
 *[[480: September 9-10, 2020]] (via OpenAI Whisper)
 *[[491: October 12, 2020]] (via AutoSub, OpenAI Whisper)
@@ -12383,7 +12584,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|48
+|49
 |-
 |'''Source Texts:'''
 |
@@ -12395,7 +12596,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[4: Research and Stand Up]] (via otter.ai)
+*[[4: Research and Stand Up]] (via otter.ai, OpenAI Whisper)
 *[[54: Megyn Kelly Interview Pt. 1]] (via OpenAI Whisper)
 *[[372: November 20-21, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[427: April 29-30, 2020]] (via OpenAI Whisper)
@@ -12474,7 +12675,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|131
+|140
 |-
 |'''Source Texts:'''
 |
@@ -12487,12 +12688,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Sun Myung Moon (via Wiki Page)
-*[[22: March 14, 2017]] (via otter.ai)
+*[[22: March 14, 2017]] (via otter.ai, OpenAI Whisper)
 *[[29: April 11, 2017]] (via otter.ai)
-*[[30: April 14, 2017]] (via otter.ai)
-*[[36: June 29, 2015]] (via AutoSub, otter.ai)
-*[[43: May 17, 2017]] (via AutoSub, otter.ai)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
+*[[30: April 14, 2017]] (via otter.ai, OpenAI Whisper)
+*[[32: April 21, 2017]] (via OpenAI Whisper)
+*[[36: June 29, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[43: May 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[61: July 5, 2017]] (via AutoSub, OpenAI Whisper)
 *[[72: August 9, 2017]] (via AutoSub, OpenAI Whisper)
 *[[78: October 12-15, 2015]] (via AutoSub)
@@ -12589,7 +12791,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -12601,7 +12803,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[29: April 11, 2017]] (via otter.ai)
+*[[29: April 11, 2017]] (via otter.ai, OpenAI Whisper)
 *[[193: Big Skeletons and Pencil Ink]] (via OpenAI Whisper)
 *[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 
@@ -12675,7 +12877,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -12686,7 +12888,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[24: March 23, 2017]] (via otter.ai)
+*[[24: March 23, 2017]] (via otter.ai, OpenAI Whisper)
 *[[744: November 3, 2022]] (via AutoSub)
 
 |}
@@ -12700,7 +12902,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -12713,7 +12915,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[2: December 31, 1999 (Y2K)]] (via otter.ai)
+*[[2: December 31, 1999 (Y2K)]] (via otter.ai, OpenAI Whisper)
 *[[129: David Rothschild Interview]] (via AutoSub, OpenAI Whisper)
 *[[156: Gaseous Beings and Antiques]] (via OpenAI Whisper)
 *[[263: Jordan Takes The Wheel]] (via OpenAI Whisper)
@@ -12782,7 +12984,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -12793,7 +12995,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[53: June 12, 2017]] (via otter.ai)
+*[[53: June 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[757: December 13, 2022]] (via otter.ai)
 
 |}
@@ -13019,6 +13221,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Southern Broadway Law Center==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Southern Broadway Law Center'
+
+|-
+|'''Sources:'''
+|
+
+*[[46: June 18, 2015]] (via OpenAI Whisper)
+*[[335: March 15-22, 2013]] (via OpenAI Whisper)
+
+|}
+
 ==Southern California==
 {| class="fandom-table"
 |'''Status:'''
@@ -13229,7 +13456,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|78
+|80
 |-
 |'''Source Texts:'''
 |
@@ -13242,7 +13469,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[46: June 18, 2015]] (via otter.ai)
-*[[52: July 14-21, 2015]] (via AutoSub)
+*[[52: July 14-21, 2015]] (via AutoSub, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai)
 *[[73: August 12, 2017]] (via AutoSub, OpenAI Whisper)
 *[[81: September 6-7, 2017]] (via OpenAI Whisper)
@@ -13606,7 +13833,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|307
+|313
 |-
 |'''Source Texts:'''
 |
@@ -13621,9 +13848,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[10: February 6, 2017]] (via otter.ai)
-*[[13: February 14, 2017]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
+*[[13: February 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via otter.ai)
 *[[71: August 4, 2017]] (via AutoSub, OpenAI Whisper)
 *[[75: January 7, 2011]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -13714,17 +13941,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|16
+|17
 |-
 |'''Source Texts:'''
 |
 
 *'Soylent Green'
+*"Soylent Green's"
 
 |-
 |'''Sources:'''
 |
 
+*[[47: June 19-July 5, 2015]] (via OpenAI Whisper)
 *[[452: Jordan Takes The Wheel 4]] (via OpenAI Whisper)
 *[[485: September 23-24, 2020]] (via OpenAI Whisper)
 *[[486: September 27, 2020]] (via OpenAI Whisper)
@@ -13768,7 +13997,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|79
+|116
 |-
 |'''Source Texts:'''
 |
@@ -13782,11 +14011,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Zack from Space Command (via Wiki Page)
-*[[2: December 31, 1999 (Y2K)]] (via otter.ai)
+*[[2: December 31, 1999 (Y2K)]] (via otter.ai, OpenAI Whisper)
 *[[3: The Secret of 2017]] (via otter.ai)
-*[[5: January 19, 2017]] (via otter.ai)
+*[[5: January 19, 2017]] (via otter.ai, OpenAI Whisper)
 *[[9: Joe Rogan Appearance]] (via otter.ai)
-*[[42: March 11, 2014]] (via otter.ai, Wiki Page)
+*[[42: March 11, 2014]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[60: Mars Colonies]] (via OpenAI Whisper)
 *[[63: July 12, 2017]] (via OpenAI Whisper)
 *[[68: September 19-28, 2015]] (via otter.ai)
@@ -13821,7 +14050,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -13836,6 +14065,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[217: Space Liars and Dragon Moths]] (via OpenAI Whisper)
 *[[251: January 8, 2019]] (via OpenAI Whisper)
+*[[310: June 13-14, 2019]] (via OpenAI Whisper)
 *[[334: August 21-22, 2019]] (via OpenAI Whisper)
 *[[388: January 12-13, 2020]] (via OpenAI Whisper)
 *[[722: Space Capitalism Is Still Capitalism]] (via otter.ai)
@@ -13848,10 +14078,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, GPE, PERSON
+|FAC, GPE, LOC, PERSON
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
@@ -13862,7 +14092,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[40: May 10, 2017]] (via AutoSub)
+*[[40: May 10, 2017]] (via AutoSub, OpenAI Whisper)
 *[[475: August 24-26, 2020]] (via OpenAI Whisper)
 *[[716: April 25, 2014]] (via Welder)
 
@@ -13902,7 +14132,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, GPE
 |-
 |'''Total Count:'''
-|38
+|41
 |-
 |'''Source Texts:'''
 |
@@ -13913,7 +14143,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[48: May 31, 2017]] (via AutoSub, otter.ai)
+*[[48: May 31, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[76: October 7-11, 2015]] (via OpenAI Whisper)
 *[[199: August 29, 2018]] (via AutoSub, OpenAI Whisper)
 *[[226: November 7, 2018]] (via AutoSub, OpenAI Whisper)
@@ -14032,6 +14262,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Spaceballs==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG, PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Spaceballs'
+
+|-
+|'''Sources:'''
+|
+
+*[[21: March 9, 2017]] (via OpenAI Whisper)
+*[[74: October 4-6, 2015]] (via AutoSub, OpenAI Whisper)
+
+|}
+
 ==SpaceForce==
 {| class="fandom-table"
 |'''Status:'''
@@ -14066,7 +14321,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|10
 |-
 |'''Source Texts:'''
 |
@@ -14077,9 +14332,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[14: February 17, 2017]] (via AutoSub)
+*[[14: February 17, 2017]] (via AutoSub, OpenAI Whisper)
 *[[21: March 9, 2017]] (via AutoSub)
-*[[29: April 11, 2017]] (via AutoSub)
+*[[29: April 11, 2017]] (via AutoSub, OpenAI Whisper)
 *[[79: Meet Captain Mark Richards]] (via AutoSub)
 *[[125: Project Camelot's War In Heaven]] (via AutoSub)
 *[[207: Bus Station Photography and The Magic of Zoom]] (via AutoSub)
@@ -14097,18 +14352,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Spake Zarathustra'
+*'the Spake Zarathustra'
 
 |-
 |'''Sources:'''
 |
 
-*[[48: May 31, 2017]] (via otter.ai)
+*[[48: May 31, 2017]] (via otter.ai, OpenAI Whisper)
 *[[229: Mars Germans and Moon Leases]] (via OpenAI Whisper)
 
 |}
@@ -14148,7 +14404,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, ORG
 |-
 |'''Total Count:'''
-|7
+|9
 |-
 |'''Source Texts:'''
 |
@@ -14161,8 +14417,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
-*[[24: March 23, 2017]] (via AutoSub, otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[24: March 23, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[61: July 5, 2017]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -14252,7 +14508,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -14264,7 +14520,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[8: January 26-27, 2017]] (via AutoSub)
-*[[20: March 6 & Celebrity Cameos]] (via otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via otter.ai, OpenAI Whisper)
 *[[22: March 14, 2017]] (via otter.ai)
 *[[30: April 14, 2017]] (via otter.ai)
 *[[42: March 11, 2014]] (via otter.ai)
@@ -14291,7 +14547,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -14302,7 +14558,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[34: April 25, 2017]] (via otter.ai)
+*[[34: April 25, 2017]] (via otter.ai, OpenAI Whisper)
 *[[77: August 23, 2017]] (via AutoSub, OpenAI Whisper)
 *[[106: Drunk Special Report]] (via OpenAI Whisper)
 *[[243: April 1-2, 2009]] (via OpenAI Whisper)
@@ -14654,7 +14910,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|158
+|163
 |-
 |'''Source Texts:'''
 |
@@ -14669,11 +14925,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[10: February 6, 2017]] (via AutoSub)
 *[[14: February 17, 2017]] (via otter.ai)
-*[[21: March 9, 2017]] (via AutoSub, otter.ai)
+*[[21: March 9, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[23: March 16-17, 2017]] (via AutoSub)
 *[[25: Dennis Montgomery Investigation]] (via AutoSub)
 *[[29: April 11, 2017]] (via AutoSub)
-*[[34: April 25, 2017]] (via AutoSub)
+*[[34: April 25, 2017]] (via AutoSub, OpenAI Whisper)
 *[[53: June 12, 2017]] (via AutoSub)
 *[[67: Protocols of Zion]] (via AutoSub)
 *[[69: August 1, 2017]] (via AutoSub)
@@ -14733,6 +14989,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub)
 *[[749: December 1-2, 2003]] (via AutoSub)
 *[[776: February 11, 2023]] (via AutoSub, otter.ai)
+*[[781: Chatting With Will Sommer]] (via AutoSub)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub)
 
 |}
@@ -14796,7 +15053,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, ORG
 |-
 |'''Total Count:'''
-|7
+|11
 |-
 |'''Source Texts:'''
 |
@@ -14809,7 +15066,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *David Knight (via Wiki Page)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -15139,7 +15396,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|38
+|40
 |-
 |'''Source Texts:'''
 |
@@ -15151,7 +15408,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[7: January 23-24, 2017]] (via AutoSub, otter.ai)
-*[[37: May 1, 2017]] (via otter.ai)
+*[[37: May 1, 2017]] (via otter.ai, OpenAI Whisper)
 *[[151: April 16, 2018]] (via AutoSub, OpenAI Whisper)
 *[[187: Magic Cheesecloth and Secret Pleiadians]] (via AutoSub)
 *[[361: April 19, 2013]] (via AutoSub, OpenAI Whisper)
@@ -15175,7 +15432,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -15186,7 +15443,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
+*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[529: February 8, 2021]] (via OpenAI Whisper)
 
 |}
@@ -15250,7 +15507,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -15261,6 +15518,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[50: Bohemian Grove...Ya Busted]] (via OpenAI Whisper)
 *[[412: March 24-25, 2020]] (via OpenAI Whisper)
 *[[555: May 7, 2003]] (via OpenAI Whisper)
 *[[628: July 10, 2003]] (via OpenAI Whisper, Wiki Page)
@@ -15520,7 +15778,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|36
+|38
 |-
 |'''Source Texts:'''
 |
@@ -15534,11 +15792,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[38: 30 Hour Marathon Coverage]] (via OpenAI Whisper)
 *[[105: March 18, 2014]] (via AutoSub)
 *[[139: St. Patrick's Day Special Report]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[238: Coach Dave]] (via AutoSub, OpenAI Whisper)
 *[[287: April 15-18, 2019]] (via OpenAI Whisper, Wiki Page)
-*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
+*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[389: January 15-17, 2020]] (via OpenAI Whisper)
 *[[397: February 7-8, 2020]] (via AutoSub, OpenAI Whisper)
 *[[409: The Lionel Countdown]] (via OpenAI Whisper)
@@ -15557,7 +15816,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|21
+|23
 |-
 |'''Source Texts:'''
 |
@@ -15568,7 +15827,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai, OpenAI Whisper)
 *[[122 LIVE: March 1-2, 2012]] (via OpenAI Whisper)
 *[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper, Wiki Page)
 *[[238: Coach Dave]] (via OpenAI Whisper)
@@ -15588,7 +15847,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -15599,7 +15858,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[38: 30 Hour Marathon Coverage]] (via otter.ai)
+*[[38: 30 Hour Marathon Coverage]] (via otter.ai, OpenAI Whisper)
 *[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper)
 
 |}
@@ -16012,7 +16271,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -16023,7 +16282,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited)
+*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
 
 |}
@@ -16430,13 +16689,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|205
+|221
 |-
 |'''Source Texts:'''
 |
 
 *'State Department'
 *'The State Department'
+*"The State Department's"
 *"The state Department's"
 *'a State Department'
 *'the State\r\nDepartment'
@@ -16449,17 +16709,18 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Steve Pieczenik (via Wiki Page)
-*[[5: January 19, 2017]] (via otter.ai)
-*[[11: February 10, 2017]] (via otter.ai)
-*[[13: February 14, 2017]] (via AutoSub, otter.ai)
-*[[15: February 20-21, 2017]] (via otter.ai)
-*[[24: March 23, 2017]] (via otter.ai)
+*[[5: January 19, 2017]] (via otter.ai, OpenAI Whisper)
+*[[11: February 10, 2017]] (via otter.ai, OpenAI Whisper)
+*[[13: February 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[15: February 20-21, 2017]] (via otter.ai, OpenAI Whisper)
+*[[24: March 23, 2017]] (via otter.ai, OpenAI Whisper)
+*[[29: April 11, 2017]] (via OpenAI Whisper)
 *[[37: May 1, 2017]] (via otter.ai)
 *[[41: May 12, 2017]] (via otter.ai)
-*[[43: May 17, 2017]] (via otter.ai)
+*[[43: May 17, 2017]] (via otter.ai, OpenAI Whisper)
 *[[44: May 22, 2017]] (via otter.ai)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
-*[[52: July 14-21, 2015]] (via AutoSub, otter.ai)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[52: July 14-21, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[57: August 12-16, 2015]] (via OpenAI Whisper)
 *[[68: September 19-28, 2015]] (via otter.ai)
 *[[70: Sep 29- Oct 3, 2015]] (via OpenAI Whisper)
@@ -16467,7 +16728,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[88: The 2015 Investigation Ends]] (via OpenAI Whisper)
 *[[94: October 19, 2017]] (via OpenAI Whisper)
 *[[96: October 22-23, 2017]] (via OpenAI Whisper)
-*[[100: January 6-7, 2016]] (via otter.ai)
+*[[100: January 6-7, 2016]] (via otter.ai, OpenAI Whisper)
 *[[111: January 21-22, 2016]] (via OpenAI Whisper)
 *[[115: January 2, 2018]] (via OpenAI Whisper)
 *[[116: January 5, 2018]] (via OpenAI Whisper)
@@ -16975,7 +17236,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|19
+|20
 |-
 |'''Source Texts:'''
 |
@@ -16988,7 +17249,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[14: February 17, 2017]] (via AutoSub)
-*[[40: May 10, 2017]] (via AutoSub, otter.ai)
+*[[40: May 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[41: May 12, 2017]] (via otter.ai)
 *[[85: September 20-21, 2017]] (via AutoSub)
 *[[120: January 27, 2016]] (via AutoSub)
@@ -17125,7 +17386,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|155
+|158
 |-
 |'''Source Texts:'''
 |
@@ -17140,7 +17401,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[35: Custody Press Conference]] (via otter.ai)
+*[[35: Custody Press Conference]] (via otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via otter.ai)
 *[[79: Meet Captain Mark Richards]] (via OpenAI Whisper)
 *[[87: Mark Richards Revisited]] (via OpenAI Whisper)
@@ -17258,7 +17519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -17269,6 +17530,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[41: May 12, 2017]] (via OpenAI Whisper)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub, OpenAI Whisper)
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub, OpenAI Whisper)
 
@@ -17360,7 +17622,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|9
 |-
 |'''Source Texts:'''
 |
@@ -17372,7 +17634,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[1: January 2, 2017]] (via OpenAI Whisper)
-*[[16: February 24, 2017]] (via AutoSub)
+*[[10: February 6, 2017]] (via OpenAI Whisper)
+*[[16: February 24, 2017]] (via AutoSub, OpenAI Whisper)
+*[[53: June 12, 2017]] (via OpenAI Whisper)
 *[[96: October 22-23, 2017]] (via OpenAI Whisper)
 *[[473: August 20-21, 2020]] (via OpenAI Whisper)
 *[[705: The Knowledge Fight Battle Kitchen]] (via OpenAI Whisper)
@@ -17388,7 +17652,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|89
+|119
 |-
 |'''Source Texts:'''
 |
@@ -17400,19 +17664,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[11: February 10, 2017]] (via AutoSub, otter.ai)
-*[[16: February 24, 2017]] (via AutoSub, otter.ai)
-*[[22: March 14, 2017]] (via otter.ai)
-*[[28: How Not To Cover Alex Jones]] (via AutoSub, otter.ai)
+*[[11: February 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[16: February 24, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[22: March 14, 2017]] (via otter.ai, OpenAI Whisper)
+*[[28: How Not To Cover Alex Jones]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[31: April 17, 2017]] (via AutoSub, otter.ai)
-*[[33: April 22, 2017]] (via otter.ai)
-*[[35: Custody Press Conference]] (via otter.ai)
-*[[37: May 1, 2017]] (via otter.ai)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
-*[[40: May 10, 2017]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
-*[[44: May 22, 2017]] (via AutoSub, otter.ai)
-*[[51: June 6, 2017]] (via otter.ai)
+*[[33: April 22, 2017]] (via otter.ai, OpenAI Whisper)
+*[[35: Custody Press Conference]] (via otter.ai, OpenAI Whisper)
+*[[37: May 1, 2017]] (via otter.ai, OpenAI Whisper)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[40: May 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[44: May 22, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[51: June 6, 2017]] (via otter.ai, OpenAI Whisper)
 *[[58: June 23, 2017]] (via AutoSub, OpenAI Whisper)
 *[[69: August 1, 2017]] (via AutoSub)
 *[[73: August 12, 2017]] (via AutoSub, OpenAI Whisper)
@@ -17515,6 +17779,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Stephen Hammond==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Stephen Hammond'
+
+|-
+|'''Sources:'''
+|
+
+*[[179: July 10, 2018]] (via AutoSub, OpenAI Whisper)
+*[[401: Formulaic Objections Part 3]] (via OpenAI Whisper)
+
+|}
+
 ==Stephen Hawking==
 {| class="fandom-table"
 |'''Status:'''
@@ -17586,7 +17875,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|42
+|44
 |-
 |'''Source Texts:'''
 |
@@ -17598,8 +17887,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[22: March 14, 2017]] (via otter.ai)
-*[[31: April 17, 2017]] (via otter.ai)
+*[[22: March 14, 2017]] (via otter.ai, OpenAI Whisper)
+*[[31: April 17, 2017]] (via otter.ai, OpenAI Whisper)
 *[[99: November 1, 2017]] (via otter.ai)
 *[[102: Alex On Russian Media]] (via AutoSub)
 *[[113: February 21-23, 2014]] (via OpenAI Whisper)
@@ -17656,7 +17945,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|86
+|88
 |-
 |'''Source Texts:'''
 |
@@ -17669,7 +17958,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[46: June 18, 2015]] (via AutoSub, otter.ai)
+*[[46: June 18, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[117: January 8, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[173: February 6-10, 2009]] (via AutoSub, OpenAI Whisper)
 *[[175: Giants And Bonus Potatoes]] (via AutoSub)
@@ -17861,7 +18150,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -17872,7 +18161,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[52: July 14-21, 2015]] (via AutoSub, otter.ai)
+*[[52: July 14-21, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[127: February 8, 2018]] (via AutoSub, OpenAI Whisper)
 *[[300: May 21-22, 2019]] (via AutoSub, OpenAI Whisper)
 *[[573: July 1, 2021]] (via OpenAI Whisper)
@@ -18033,7 +18322,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|232
+|247
 |-
 |'''Source Texts:'''
 |
@@ -18046,13 +18335,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai)
-*[[15: February 20-21, 2017]] (via otter.ai)
-*[[24: March 23, 2017]] (via AutoSub, otter.ai)
-*[[29: April 11, 2017]] (via AutoSub, otter.ai)
-*[[33: April 22, 2017]] (via AutoSub, otter.ai)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
-*[[40: May 10, 2017]] (via otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
+*[[15: February 20-21, 2017]] (via otter.ai, OpenAI Whisper)
+*[[24: March 23, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[29: April 11, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[33: April 22, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[40: May 10, 2017]] (via otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[69: August 1, 2017]] (via AutoSub, OpenAI Whisper)
 *[[70: Sep 29- Oct 3, 2015]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
@@ -18215,7 +18504,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|16
 |-
 |'''Source Texts:'''
 |
@@ -18226,7 +18515,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[110: December 5, 2017]] (via AutoSub, OpenAI Whisper)
 *[[118: January 10-11, 2018]] (via AutoSub)
 *[[723: September 8, 2022]] (via AutoSub)
@@ -18355,7 +18644,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -18367,7 +18656,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[17: February 7, 2017]] (via AutoSub, otter.ai)
+*[[17: February 7, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub, OpenAI Whisper)
 *[[635: January 6-7, 2022]] (via AutoSub, OpenAI Whisper)
 *[[661: March 17, 2022]] (via AutoSub, OpenAI Whisper)
@@ -18487,7 +18776,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|17
+|20
 |-
 |'''Source Texts:'''
 |
@@ -18500,7 +18789,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[8: January 26-27, 2017]] (via AutoSub)
-*[[15: February 20-21, 2017]] (via otter.ai)
+*[[15: February 20-21, 2017]] (via otter.ai, OpenAI Whisper)
 *[[81: September 6-7, 2017]] (via AutoSub)
 *[[85: September 20-21, 2017]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[130A: Endgame, Part 1]] (via AutoSub, OpenAI Whisper)
@@ -18766,7 +19055,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|8
+|13
 |-
 |'''Source Texts:'''
 |
@@ -18777,7 +19066,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[44: May 22, 2017]] (via otter.ai)
+*[[10: February 6, 2017]] (via OpenAI Whisper)
+*[[38: 30 Hour Marathon Coverage]] (via OpenAI Whisper)
+*[[44: May 22, 2017]] (via otter.ai, OpenAI Whisper)
 *[[230A: Obama Deception, Part 1]] (via OpenAI Whisper)
 *[[245: December 24, 2018]] (via OpenAI Whisper)
 *[[412: March 24-25, 2020]] (via OpenAI Whisper)
@@ -18785,6 +19076,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[456: July 9-11, 2020]] (via OpenAI Whisper)
 *[[464: July 31-August 1, 2020]] (via OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
+
+|}
+
+==Steve Overman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Steve Overman'
+
+|-
+|'''Sources:'''
+|
+
+*[[41: May 12, 2017]] (via OpenAI Whisper)
+*[[491: October 12, 2020]] (via AutoSub)
 
 |}
 
@@ -18834,7 +19150,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|23
+|24
 |-
 |'''Source Texts:'''
 |
@@ -18853,6 +19169,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[155: January 7-9, 2009]] (via OpenAI Whisper)
 *[[343: April 3-8, 2013]] (via OpenAI Whisper)
 *[[344: April 9-10, 2013]] (via OpenAI Whisper)
+*[[378: Formulaic Objections Part 2]] (via OpenAI Whisper)
 *[[448: June 21-22, 2020]] (via OpenAI Whisper)
 *[[464: July 31-August 1, 2020]] (via OpenAI Whisper)
 *[[474: June 6, 2016]] (via OpenAI Whisper)
@@ -18873,7 +19190,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|47
+|52
 |-
 |'''Source Texts:'''
 |
@@ -18885,6 +19202,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[24: March 23, 2017]] (via OpenAI Whisper)
+*[[29: April 11, 2017]] (via OpenAI Whisper)
+*[[41: May 12, 2017]] (via OpenAI Whisper)
+*[[46: June 18, 2015]] (via OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via OpenAI Whisper)
 *[[92: October 13 & 16, 2017]] (via OpenAI Whisper)
 *[[107: December 12, 2014]] (via OpenAI Whisper)
@@ -19010,7 +19332,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|73
+|75
 |-
 |'''Source Texts:'''
 |
@@ -19022,6 +19344,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[41: May 12, 2017]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
 *[[111: January 21-22, 2016]] (via OpenAI Whisper)
 *[[124: March 23, 2008]] (via OpenAI Whisper)
@@ -19077,7 +19400,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|110
+|124
 |-
 |'''Source Texts:'''
 |
@@ -19089,6 +19412,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[24: March 23, 2017]] (via OpenAI Whisper)
+*[[29: April 11, 2017]] (via OpenAI Whisper)
+*[[40: May 10, 2017]] (via OpenAI Whisper)
+*[[52: July 14-21, 2015]] (via OpenAI Whisper)
 *[[69: August 1, 2017]] (via OpenAI Whisper)
 *[[80: October 16-26, 2015]] (via OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via OpenAI Whisper)
@@ -19461,7 +19788,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|159
+|169
 |-
 |'''Source Texts:'''
 |
@@ -19473,6 +19800,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[21: March 9, 2017]] (via OpenAI Whisper)
+*[[41: May 12, 2017]] (via OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via OpenAI Whisper)
 *[[77: August 23, 2017]] (via OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
@@ -19790,7 +20120,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|92
+|96
 |-
 |'''Source Texts:'''
 |
@@ -19802,6 +20132,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[24: March 23, 2017]] (via OpenAI Whisper)
+*[[46: June 18, 2015]] (via OpenAI Whisper)
 *[[77: August 23, 2017]] (via OpenAI Whisper)
 *[[82: Oct. 27-Nov. 9, 2015]] (via OpenAI Whisper)
 *[[89: December 31, 2015]] (via OpenAI Whisper)
@@ -19876,7 +20208,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|162
+|163
 |-
 |'''Source Texts:'''
 |
@@ -19919,7 +20251,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[748: November 16, 2022]] (via AutoSub, otter.ai, Wiki Page)
 *[[760: December 9-10, 2003]] (via Manually-created)
 *[[770: January 20, 2023]] (via otter.ai)
-*[[776: February 11, 2023]] (via otter.ai)
+*[[776: February 11, 2023]] (via otter.ai, Wiki Page)
 
 |}
 
@@ -20247,7 +20579,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|247
+|251
 |-
 |'''Source Texts:'''
 |
@@ -20269,7 +20601,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[275: December 23-31, 2012]] (via AutoSub, OpenAI Whisper)
 *[[306: June 4-5, 2019]] (via OpenAI Whisper)
 *[[309: June 10-11, 2019]] (via AutoSub, OpenAI Whisper)
-*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[350: September 29-30, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[351: Jordan Takes The Wheel 2]] (via AutoSub, OpenAI Whisper)
 *[[360: October 23, 2019]] (via AutoSub)
@@ -20294,7 +20626,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, Wiki Page)
 *[[757: December 13, 2022]] (via AutoSub, otter.ai)
 *[[770: January 20, 2023]] (via AutoSub, otter.ai, Wiki Page)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, Wiki Page)
 
 |}
 
@@ -20470,7 +20802,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|20
+|21
 |-
 |'''Source Texts:'''
 |
@@ -20481,7 +20813,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[80: October 16-26, 2015]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[223: A Progressive Space Diplomat]] (via OpenAI Whisper)
 *[[261: February 5-6, 2019]] (via AutoSub, OpenAI Whisper)
@@ -20621,7 +20953,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -20632,6 +20964,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[12: Jon Rappoport]] (via OpenAI Whisper)
 *[[108: November 30, 2017]] (via AutoSub)
 *[[153: More Mark Richards Fun]] (via OpenAI Whisper)
 *[[172: June 11, 2013]] (via OpenAI Whisper)
@@ -20700,7 +21033,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -20711,7 +21044,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[46: June 18, 2015]] (via otter.ai)
+*[[46: June 18, 2015]] (via otter.ai, OpenAI Whisper)
+*[[49: July 6-13. 2015]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
 
 |}
@@ -20725,7 +21059,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -20736,7 +21070,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[47: June 19-July 5, 2015]] (via AutoSub, otter.ai)
+*[[47: June 19-July 5, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[56: July 22-Aug 11, 2015]] (via AutoSub)
 
 |}
@@ -21229,7 +21563,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -21240,7 +21574,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[47: June 19-July 5, 2015]] (via otter.ai)
+*[[47: June 19-July 5, 2015]] (via otter.ai, OpenAI Whisper)
 *[[238: Coach Dave]] (via AutoSub, OpenAI Whisper)
 *[[445: June 12, 2020]] (via OpenAI Whisper)
 
@@ -21312,7 +21646,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -21323,6 +21657,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[10: February 6, 2017]] (via OpenAI Whisper)
 *[[126: February 2, 2018 (Special Report)]] (via OpenAI Whisper)
 *[[368: November 11-12, 2019]] (via AutoSub)
 *[[410: March 19-20, 2020]] (via AutoSub)
@@ -21388,7 +21723,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|67
+|70
 |-
 |'''Source Texts:'''
 |
@@ -21403,7 +21738,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[14: February 17, 2017]] (via otter.ai)
 *[[35: Custody Press Conference]] (via AutoSub, otter.ai)
 *[[38: 30 Hour Marathon Coverage]] (via otter.ai)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[58: June 23, 2017]] (via OpenAI Whisper)
 *[[63: July 12, 2017]] (via AutoSub, OpenAI Whisper)
 *[[73: August 12, 2017]] (via AutoSub, OpenAI Whisper)
@@ -21588,7 +21923,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|29
+|38
 |-
 |'''Source Texts:'''
 |
@@ -21599,7 +21934,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[384: January 3, 2020]] (via AutoSub, OpenAI Whisper)
 *[[386: January 8, 2020]] (via AutoSub)
 
@@ -21639,7 +21974,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -21650,7 +21985,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[13: February 14, 2017]] (via otter.ai)
 *[[48: May 31, 2017]] (via otter.ai)
 *[[400: One Out Of Five Seems High]] (via AutoSub)
@@ -21718,7 +22053,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -21729,6 +22064,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[32: April 21, 2017]] (via OpenAI Whisper)
 *[[230B: Obama Deception, Part 2]] (via AutoSub)
 *[[492: October 13, 2020]] (via AutoSub)
 
@@ -21866,7 +22202,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|64
+|65
 |-
 |'''Source Texts:'''
 |
@@ -21874,12 +22210,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Strom Thurmond'
 *"Strom Thurmond's"
 *'the Strom Thurmond'
+*'this Strom Thurmond'
 
 |-
 |'''Sources:'''
 |
 
-*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai)
+*[[20: March 6 & Celebrity Cameos]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[107: December 12, 2014]] (via OpenAI Whisper)
 *[[113: February 21-23, 2014]] (via AutoSub, OpenAI Whisper)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub)
@@ -21953,7 +22290,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|248
+|259
 |-
 |'''Source Texts:'''
 |
@@ -21966,7 +22303,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[222: March 15-19, 2009]] (via otter.ai)
+*[[222: March 15-19, 2009]] (via otter.ai, OpenAI Whisper)
 *[[251: January 8, 2019]] (via OpenAI Whisper)
 *[[252: April 7-8, 2009]] (via OpenAI Whisper)
 *[[255: September 25, 2011]] (via OpenAI Whisper)
@@ -22204,7 +22541,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -22215,7 +22552,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[12: Jon Rappoport]] (via otter.ai)
+*[[12: Jon Rappoport]] (via otter.ai, OpenAI Whisper)
 *[[724: August 7-11, 2003]] (via AutoSub, otter.ai)
 
 |}
@@ -22749,7 +23086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -22760,7 +23097,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[49: July 6-13. 2015]] (via otter.ai)
+*[[49: July 6-13. 2015]] (via otter.ai, OpenAI Whisper)
 *[[660: February 11, 2014]] (via OpenAI Whisper)
 
 |}
@@ -23094,7 +23431,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|316
+|360
 |-
 |'''Source Texts:'''
 |
@@ -23103,6 +23440,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'The Super Bowl'
 *'a Super Bowl'
 *'the Super Bowl'
+*"the Super Bowl's"
 *'this Super Bowl'
 
 |-
@@ -23110,18 +23448,18 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via OpenAI Whisper)
-*[[10: February 6, 2017]] (via AutoSub, otter.ai)
-*[[11: February 10, 2017]] (via AutoSub, otter.ai)
+*[[10: February 6, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[11: February 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[12: Jon Rappoport]] (via AutoSub)
-*[[14: February 17, 2017]] (via AutoSub, otter.ai)
-*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai, Wiki Page)
-*[[21: March 9, 2017]] (via otter.ai)
+*[[14: February 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[18: March 1, 2017/Super Bowl Bonus]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[21: March 9, 2017]] (via otter.ai, OpenAI Whisper)
 *[[26: March 30 (Special Report)]] (via AutoSub)
-*[[27: March 31, 2017]] (via otter.ai)
+*[[27: March 31, 2017]] (via otter.ai, OpenAI Whisper)
 *[[29: April 11, 2017]] (via AutoSub)
 *[[34: April 25, 2017]] (via AutoSub)
 *[[39: Jack Posobiec...Ya Busted]] (via AutoSub)
-*[[49: July 6-13. 2015]] (via AutoSub, otter.ai)
+*[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[58: June 23, 2017]] (via OpenAI Whisper)
 *[[80: October 16-26, 2015]] (via AutoSub)
 *[[87: Mark Richards Revisited]] (via AutoSub)
@@ -23143,7 +23481,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[213: October 2, 2018]] (via AutoSub)
 *[[230C: Obama Deception, Part 3]] (via AutoSub)
 *[[275: December 23-31, 2012]] (via AutoSub)
-*[[279: Formulaic Objections]] (via AutoSub, otter.ai)
+*[[279: Formulaic Objections]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[282: April 5, 2019]] (via AutoSub, OpenAI Whisper)
 *[[296: May 8, 2019]] (via AutoSub)
 *[[297: January 17-18, 2013]] (via AutoSub, OpenAI Whisper)
@@ -23557,7 +23895,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -23568,6 +23906,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[22: March 14, 2017]] (via OpenAI Whisper)
 *[[58: June 23, 2017]] (via OpenAI Whisper)
 *[[204: Sweary Kerry's Larry]] (via OpenAI Whisper)
 *[[585: August 8, 2021]] (via OpenAI Whisper)
@@ -23811,6 +24150,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Supermail Vitality==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Supermail Vitality'
+
+|-
+|'''Sources:'''
+|
+
+*[[15: February 20-21, 2017]] (via OpenAI Whisper)
+*[[42: March 11, 2014]] (via OpenAI Whisper)
+*[[459: July 17, 2020]] (via OpenAI Whisper)
+
+|}
+
 ==Supermale Vitality==
 {| class="fandom-table"
 |'''Status:'''
@@ -23820,7 +24185,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -23831,6 +24196,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[52: July 14-21, 2015]] (via OpenAI Whisper)
 *[[137: March 12, 2018]] (via OpenAI Whisper)
 *[[446: The Super Alpha Male Championship]] (via OpenAI Whisper)
 
@@ -24213,7 +24579,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|1086
+|1122
 |-
 |'''Source Texts:'''
 |
@@ -24237,28 +24603,28 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *630 (via AutoSub, OpenAI Whisper)
 *[[1: January 2, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai)
+*[[6: Inauguration Speech Recap]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[7: January 23-24, 2017]] (via AutoSub, otter.ai)
-*[[11: February 10, 2017]] (via AutoSub, otter.ai)
-*[[15: February 20-21, 2017]] (via AutoSub, otter.ai)
-*[[24: March 23, 2017]] (via AutoSub, otter.ai)
+*[[11: February 10, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[15: February 20-21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[24: March 23, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited)
 *[[35: Custody Press Conference]] (via otter.ai)
-*[[36: June 29, 2015]] (via AutoSub, otter.ai, Wiki Page)
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
+*[[36: June 29, 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[42: March 11, 2014]] (via AutoSub, otter.ai)
-*[[45: May 25, 2017]] (via AutoSub, otter.ai)
-*[[46: June 18, 2015]] (via otter.ai)
-*[[47: June 19-July 5, 2015]] (via otter.ai, Wiki Page)
-*[[53: June 12, 2017]] (via otter.ai)
+*[[45: May 25, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[46: June 18, 2015]] (via otter.ai, OpenAI Whisper)
+*[[47: June 19-July 5, 2015]] (via otter.ai, OpenAI Whisper, Wiki Page)
+*[[53: June 12, 2017]] (via otter.ai, OpenAI Whisper)
 *[[57: August 12-16, 2015]] (via AutoSub, OpenAI Whisper)
 *[[74: October 4-6, 2015]] (via AutoSub, OpenAI Whisper)
 *[[76: October 7-11, 2015]] (via AutoSub, OpenAI Whisper)
 *[[78: October 12-15, 2015]] (via AutoSub)
 *[[80: October 16-26, 2015]] (via OpenAI Whisper)
 *[[98: May 2-3, 2012]] (via AutoSub, OpenAI Whisper)
-*[[100: January 6-7, 2016]] (via AutoSub, otter.ai)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[112: December 15, 2017]] (via AutoSub, OpenAI Whisper)
 *[[119: August 16, 2012]] (via AutoSub)
 *[[130C: Endgame, Part 3]] (via AutoSub, OpenAI Whisper)
@@ -24290,7 +24656,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[213: October 2, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[214: Cruel Parallels]] (via AutoSub, OpenAI Whisper)
 *[[218: October 17, 2018]] (via OpenAI Whisper)
-*[[222: March 15-19, 2009]] (via AutoSub, FoulEdgeKnight-edited, otter.ai)
+*[[222: March 15-19, 2009]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[226: November 7, 2018]] (via AutoSub, OpenAI Whisper)
 *[[227: March 23, 2009]] (via AutoSub)
 *[[228: Old Alex Clips]] (via OpenAI Whisper)
@@ -24312,7 +24678,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[264: February 11-13, 2019]] (via AutoSub, OpenAI Whisper)
 *[[265: September 1, 2011]] (via AutoSub, OpenAI Whisper)
 *[[272: December 20, 2012]] (via AutoSub, OpenAI Whisper)
-*[[279: Formulaic Objections]] (via AutoSub)
+*[[279: Formulaic Objections]] (via AutoSub, OpenAI Whisper)
 *[[281: April 4, 2019]] (via OpenAI Whisper)
 *[[282: April 5, 2019]] (via AutoSub)
 *[[284: April 12, 2019]] (via AutoSub, OpenAI Whisper)
@@ -24332,7 +24698,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[370: November 14-15, 2019]] (via AutoSub, OpenAI Whisper)
 *[[375: November 29, 2019]] (via OpenAI Whisper)
 *[[376: December 3-5, 2019]] (via AutoSub, OpenAI Whisper)
-*[[378: Formulaic Objections Part 2]] (via AutoSub, otter.ai)
+*[[378: Formulaic Objections Part 2]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[379: December 13-16, 2019]] (via AutoSub, OpenAI Whisper)
 *[[380: December 19-20, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[386: January 8, 2020]] (via AutoSub)
@@ -24446,7 +24812,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -24460,6 +24826,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[15: February 20-21, 2017]] (via OpenAI Whisper)
 *[[24: March 23, 2017]] (via otter.ai)
 *[[176: June 28, 2018]] (via AutoSub)
 *[[484: September 18-19, 2020]] (via AutoSub, OpenAI Whisper)
@@ -24564,7 +24931,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
@@ -24575,6 +24942,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*[[21: March 9, 2017]] (via OpenAI Whisper)
 *[[77: August 23, 2017]] (via OpenAI Whisper)
 *[[127: February 8, 2018]] (via AutoSub, OpenAI Whisper)
 
@@ -24723,7 +25091,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|42
+|53
 |-
 |'''Source Texts:'''
 |
@@ -24736,11 +25104,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[28: How Not To Cover Alex Jones]] (via AutoSub, otter.ai, Wiki Page)
-*[[30: April 14, 2017]] (via AutoSub, otter.ai)
-*[[31: April 17, 2017]] (via AutoSub, otter.ai)
-*[[37: May 1, 2017]] (via AutoSub, otter.ai)
-*[[41: May 12, 2017]] (via AutoSub, otter.ai)
+*[[28: How Not To Cover Alex Jones]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[30: April 14, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[31: April 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[37: May 1, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[41: May 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[230A: Obama Deception, Part 1]] (via OpenAI Whisper)
 *[[230B: Obama Deception, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[230C: Obama Deception, Part 3]] (via AutoSub, OpenAI Whisper)
@@ -24917,7 +25285,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG
 |-
 |'''Total Count:'''
-|14
+|17
 |-
 |'''Source Texts:'''
 |
@@ -24928,8 +25296,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[32: April 21, 2017]] (via AutoSub, otter.ai)
-*[[34: April 25, 2017]] (via otter.ai)
+*[[32: April 21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[34: April 25, 2017]] (via otter.ai, OpenAI Whisper)
 *[[80: October 16-26, 2015]] (via OpenAI Whisper)
 *[[168: Alex Vs. Bill Ayers]] (via AutoSub)
 *[[289: January 10-13, 2013]] (via OpenAI Whisper)
@@ -25105,7 +25473,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PRODUCT
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -25121,7 +25489,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[23: March 16-17, 2017]] (via otter.ai)
 *[[25: Dennis Montgomery Investigation]] (via otter.ai)
 *[[38: 30 Hour Marathon Coverage]] (via otter.ai)
-*[[44: May 22, 2017]] (via otter.ai)
+*[[44: May 22, 2017]] (via otter.ai, OpenAI Whisper)
 *[[149: The Press Conference]] (via OpenAI Whisper)
 
 |}
@@ -25187,7 +25555,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|135
+|136
 |-
 |'''Source Texts:'''
 |
@@ -25199,7 +25567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
-*[[29: April 11, 2017]] (via otter.ai)
+*[[29: April 11, 2017]] (via otter.ai, OpenAI Whisper)
 *[[87: Mark Richards Revisited]] (via AutoSub, OpenAI Whisper)
 *[[114: Piers Morgan Interview]] (via OpenAI Whisper)
 *[[166: February 2-3, 2009]] (via AutoSub, OpenAI Whisper)
@@ -25484,7 +25852,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -25495,7 +25863,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[10: February 6, 2017]] (via otter.ai)
+*[[10: February 6, 2017]] (via otter.ai, OpenAI Whisper)
 *[[574: May 28-29, 2003]] (via OpenAI Whisper)
 
 |}
