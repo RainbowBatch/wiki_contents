@@ -349,7 +349,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -360,7 +360,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[28: How Not To Cover Alex Jones]] (via AutoSub)
+*[[28: How Not To Cover Alex Jones]] (via AutoSub, OpenAI Whisper)
 *[[167: February 4-5, 2009]] (via AutoSub)
 *[[177: Sweary Kerry and the Racist Alien]] (via AutoSub)
 *[[182: Pay-To-Play Satan Fears]] (via AutoSub, OpenAI Whisper)
@@ -378,7 +378,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -390,6 +390,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Joe Rogan (via Wiki Page)
+*[[30: April 14, 2017]] (via OpenAI Whisper)
 *[[61: July 5, 2017]] (via OpenAI Whisper)
 *[[109: December 4, 2017]] (via OpenAI Whisper)
 *[[246: April 5-6, 2009]] (via OpenAI Whisper)
@@ -459,7 +460,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -472,6 +473,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[14: February 17, 2017]] (via otter.ai)
 *[[15: February 20-21, 2017]] (via otter.ai)
+*[[19: March 3, 2017]] (via OpenAI Whisper)
 *[[34: April 25, 2017]] (via otter.ai)
 *[[287: April 15-18, 2019]] (via AutoSub)
 *[[368: November 11-12, 2019]] (via OpenAI Whisper)
@@ -495,7 +497,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|16
+|19
 |-
 |'''Source Texts:'''
 |
@@ -506,9 +508,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[11: February 10, 2017]] (via otter.ai)
-*[[24: March 23, 2017]] (via AutoSub, otter.ai)
-*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, Wiki Page)
+*[[11: February 10, 2017]] (via otter.ai, OpenAI Whisper)
+*[[24: March 23, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[100: January 6-7, 2016]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[128: March 3, 2015]] (via AutoSub, OpenAI Whisper)
 *[[209: Drunk Hotel Interview]] (via OpenAI Whisper)
 *[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai)
@@ -603,7 +605,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -614,7 +616,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[12: Jon Rappoport]] (via otter.ai)
+*[[12: Jon Rappoport]] (via otter.ai, OpenAI Whisper)
 *[[130E: Endgame, Part 5]] (via OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
 *[[202: September 4-6, 2018]] (via OpenAI Whisper)
@@ -664,18 +666,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Young Thug'
+*"Young Thug's"
 
 |-
 |'''Sources:'''
 |
 
-*[[2: December 31, 1999 (Y2K)]] (via AutoSub)
+*[[2: December 31, 1999 (Y2K)]] (via AutoSub, OpenAI Whisper)
 *[[513: December 18, 2020]] (via AutoSub)
 
 |}
@@ -715,7 +718,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|83
+|84
 |-
 |'''Source Texts:'''
 |
@@ -728,7 +731,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[13: February 14, 2017]] (via otter.ai)
+*[[13: February 14, 2017]] (via otter.ai, OpenAI Whisper)
 *[[72: August 9, 2017]] (via AutoSub)
 *[[115: January 2, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[117: January 8, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
