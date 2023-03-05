@@ -96,7 +96,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|17
+|19
 |-
 |'''Source Texts:'''
 |
@@ -114,6 +114,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[204: Sweary Kerry's Larry]] (via OpenAI Whisper)
 *[[465: August 3-4, 2020]] (via OpenAI Whisper)
 *[[673: Jordan Takes The Wheel 8]] (via OpenAI Whisper)
+*[[758: December 8, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -402,12 +403,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|54
+|78
 |-
 |'''Source Texts:'''
 |
 
 *'Zero Hedge'
+*"Zero Hedge's"
 
 |-
 |'''Sources:'''
@@ -418,7 +420,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[23: March 16-17, 2017]] (via otter.ai, OpenAI Whisper)
 *[[52: July 14-21, 2015]] (via otter.ai)
 *[[53: June 12, 2017]] (via otter.ai)
-*[[68: September 19-28, 2015]] (via otter.ai)
+*[[68: September 19-28, 2015]] (via otter.ai, OpenAI Whisper)
 *[[160: January 22-25, 2009]] (via Wiki Page)
 *[[162: May 19, 2018]] (via OpenAI Whisper)
 *[[217: Space Liars and Dragon Moths]] (via OpenAI Whisper)
@@ -434,13 +436,39 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[475: August 24-26, 2020]] (via OpenAI Whisper)
 *[[480: September 9-10, 2020]] (via AutoSub)
 *[[594: September 7, 2021]] (via AutoSub, OpenAI Whisper)
-*[[602: Sandy Hook Response]] (via otter.ai)
+*[[602: Sandy Hook Response]] (via otter.ai, OpenAI Whisper)
 *[[643: January 28, 2022]] (via AutoSub, OpenAI Whisper)
-*[[665: Formulaic Objections Part 6]] (via otter.ai)
-*[[685: Formulaic Objections Part 7]] (via otter.ai)
-*[[714: Trial Recap, Part 1]] (via Welder)
+*[[665: Formulaic Objections Part 6]] (via otter.ai, OpenAI Whisper)
+*[[685: Formulaic Objections Part 7]] (via otter.ai, OpenAI Whisper)
+*[[714: Trial Recap, Part 1]] (via Welder, OpenAI Whisper)
 *[[715: Trial Recap, Part 2]] (via otter.ai)
-*[[745: Formulaic Objections Part 10]] (via otter.ai)
+*[[745: Formulaic Objections Part 10]] (via otter.ai, OpenAI Whisper)
+
+|}
+
+==Zinedine Zidane==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Zinedine Zidane'
+
+|-
+|'''Sources:'''
+|
+
+*[[318: July 5, 2019]] (via OpenAI Whisper)
+*[[725: September 13-14, 2022]] (via OpenAI Whisper)
+*[[750: Formulaic Objections Part 11]] (via OpenAI Whisper)
 
 |}
 
