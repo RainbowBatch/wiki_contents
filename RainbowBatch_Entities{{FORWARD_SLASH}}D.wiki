@@ -159,7 +159,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|116
+|118
 |-
 |'''Source Texts:'''
 |
@@ -173,7 +173,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*781: Chatting With Will Sommer (via Wiki Page)
 *Paul Joseph Watson (via Wiki Page)
 *[[44: May 22, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[81: September 6-7, 2017]] (via AutoSub, OpenAI Whisper)
@@ -218,7 +217,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[676: April 29, 2022]] (via AutoSub)
 *[[717: August 17, 2022]] (via AutoSub, Welder, OpenAI Whisper)
 *[[726: September 15-16, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[781: Chatting With Will Sommer]] (via otter.ai)
+*[[781: Chatting With Will Sommer]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub)
 
 |}
@@ -438,7 +437,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, LAW, WORK_OF_ART
 |-
 |'''Total Count:'''
-|28
+|29
 |-
 |'''Source Texts:'''
 |
@@ -466,7 +465,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[552: May 6, 2003]] (via OpenAI Whisper)
 *[[628: July 10, 2003]] (via AutoSub, OpenAI Whisper)
 *[[765: Formulaic Objections Part 13]] (via otter.ai)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -532,6 +531,35 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[379: December 13-16, 2019]] (via AutoSub, OpenAI Whisper)
 *[[429: May 3-4, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[640: January 22, 2022]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Daily Wire==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|26
+|-
+|'''Source Texts:'''
+|
+
+*'Daily Wire'
+*"Daily Wire's"
+*'The Daily Wire'
+*'the Daily Wire'
+
+|-
+|'''Sources:'''
+|
+
+*[[541: March 17-18, 2021]] (via OpenAI Whisper)
+*[[770: January 20, 2023]] (via OpenAI Whisper)
+*[[775: Fireside Chatting]] (via OpenAI Whisper)
 
 |}
 
@@ -765,6 +793,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Dan Badadi==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Dan Badadi'
+*'the Dan Badadi'
+
+|-
+|'''Sources:'''
+|
+
+*[[742: Formulaic Objections Part 9]] (via OpenAI Whisper)
+*[[754: Formulaic Objections Part 12]] (via OpenAI Whisper)
+
+|}
+
 ==Dan Badandi==
 {| class="fandom-table"
 |'''Status:'''
@@ -774,7 +828,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|178
+|183
 |-
 |'''Source Texts:'''
 |
@@ -813,6 +867,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[742: Formulaic Objections Part 9]] (via OpenAI Whisper)
 *[[744: November 3, 2022]] (via OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via OpenAI Whisper)
+*[[754: Formulaic Objections Part 12]] (via OpenAI Whisper)
 
 |}
 
@@ -1040,7 +1095,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|58
+|59
 |-
 |'''Source Texts:'''
 |
@@ -1088,7 +1143,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[676: April 29, 2022]] (via AutoSub, OpenAI Whisper)
 *[[705: The Knowledge Fight Battle Kitchen]] (via OpenAI Whisper)
 *[[712: The Decompression Session]] (via OpenAI Whisper)
-*[[753: December 1, 2022]] (via AutoSub)
+*[[753: December 1, 2022]] (via AutoSub, OpenAI Whisper)
 *[[780: February 21, 2023]] (via OpenAI Whisper)
 *[[TWTWYTT Special]] (via OpenAI Whisper)
 
@@ -1180,7 +1235,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|86
+|88
 |-
 |'''Source Texts:'''
 |
@@ -1247,6 +1302,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[757: December 13, 2022]] (via otter.ai)
 *[[758: December 8, 2003]] (via otter.ai)
 *[[760: December 9-10, 2003]] (via otter.ai)
+*[[761: December 11, 2003]] (via OpenAI Whisper)
 *[[762: December 31, 2022]] (via otter.ai)
 *[[763: December 15, 2003]] (via otter.ai)
 *[[766: December 16, 2003]] (via AutoSub)
@@ -1463,7 +1519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -1476,6 +1532,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[355: April 18, 2013]] (via OpenAI Whisper)
 *[[496: October 22-23, 2020]] (via OpenAI Whisper)
+*[[754: Formulaic Objections Part 12]] (via OpenAI Whisper)
 
 |}
 
@@ -1539,7 +1596,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|31
+|37
 |-
 |'''Source Texts:'''
 |
@@ -1564,8 +1621,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[594: September 7, 2021]] (via AutoSub, OpenAI Whisper)
 *[[611: October 29, 2021]] (via AutoSub, OpenAI Whisper)
 *[[707: Dan's War]] (via AutoSub, OpenAI Whisper)
-*[[763: December 15, 2003]] (via AutoSub, otter.ai)
-*[[766: December 16, 2003]] (via AutoSub, otter.ai)
+*[[763: December 15, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -1984,7 +2041,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|26
+|27
 |-
 |'''Source Texts:'''
 |
@@ -2006,6 +2063,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[470: ShadowGate]] (via OpenAI Whisper)
 *[[506: November 22-24, 2020]] (via OpenAI Whisper)
 *[[597: September 14, 2021]] (via OpenAI Whisper)
+*[[768: Formulaic Objections Part 14]] (via OpenAI Whisper)
+
+|}
+
+==Daniel Estolan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Daniel Estolan'
+
+|-
+|'''Sources:'''
+|
+
+*[[230B: Obama Deception, Part 2]] (via OpenAI Whisper)
+*[[768: Formulaic Objections Part 14]] (via OpenAI Whisper)
 
 |}
 
@@ -2124,7 +2207,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -2138,6 +2221,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[173: February 6-10, 2009]] (via OpenAI Whisper)
 *[[686: Continental Negotiations]] (via OpenAI Whisper)
+*[[768: Formulaic Objections Part 14]] (via OpenAI Whisper)
 *[[TWTWYTT Special]] (via OpenAI Whisper)
 
 |}
@@ -2828,7 +2912,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -2841,6 +2925,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[614: The Purge of Gates]] (via AutoSub, OpenAI Whisper)
 *[[638: See You At The Cross-Rhodes]] (via OpenAI Whisper)
+*[[753: December 1, 2022]] (via OpenAI Whisper)
 
 |}
 
@@ -3174,7 +3259,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|60
+|61
 |-
 |'''Source Texts:'''
 |
@@ -3208,7 +3293,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper)
 *[[639: January 17, 2022]] (via OpenAI Whisper)
-*[[782: February 26, 2023]] (via otter.ai)
+*[[782: February 26, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3652,7 +3737,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|39
+|43
 |-
 |'''Source Texts:'''
 |
@@ -3678,8 +3763,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[604: October 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[618: November 15, 2021]] (via AutoSub)
 *[[687: May 24, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[753: December 1, 2022]] (via AutoSub, otter.ai)
-*[[782: February 26, 2023]] (via otter.ai)
+*[[753: December 1, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[782: February 26, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3761,7 +3846,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -3781,7 +3866,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[546: April 1-3, 2021]] (via OpenAI Whisper)
 *[[668: April 8, 2022]] (via AutoSub)
 *[[704: 9/11, Part 2]] (via OpenAI Whisper)
-*[[778: January 8, 2004]] (via otter.ai)
+*[[778: January 8, 2004]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3907,7 +3992,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|156
+|157
 |-
 |'''Source Texts:'''
 |
@@ -3955,7 +4040,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[709: 2 Dan's 2 War]] (via AutoSub, OpenAI Whisper)
 *[[713: Chatting With Becca Lewis]] (via AutoSub, OpenAI Whisper)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
-*[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai)
+*[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4179,7 +4264,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|73
+|74
 |-
 |'''Source Texts:'''
 |
@@ -4210,7 +4295,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[508: December 1-2, 2020]] (via AutoSub, OpenAI Whisper)
 *[[625: December 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[776: February 11, 2023]] (via AutoSub, otter.ai)
+*[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4639,7 +4724,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|436
+|446
 |-
 |'''Source Texts:'''
 |
@@ -4711,8 +4796,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[525: January 27, 2021]] (via AutoSub, OpenAI Whisper)
 *[[742: Formulaic Objections Part 9]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[752: Ye Took A Dip In The Pool]] (via OpenAI Whisper)
-*[[753: December 1, 2022]] (via AutoSub, otter.ai)
-*[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai)
+*[[753: December 1, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[757: December 13, 2022]] (via otter.ai)
 
 |}
@@ -5096,7 +5181,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|691
+|692
 |-
 |'''Source Texts:'''
 |
@@ -5196,7 +5281,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[748: November 16, 2022]] (via OpenAI Whisper)
 *[[756: December 5, 2003]] (via otter.ai)
-*[[775: Fireside Chatting]] (via otter.ai)
+*[[775: Fireside Chatting]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5347,7 +5432,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|182
+|187
 |-
 |'''Source Texts:'''
 |
@@ -5388,9 +5473,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[725: September 13-14, 2022]] (via otter.ai, OpenAI Whisper)
 *[[739: Formulaic Objections Part 8]] (via AutoSub, otter.ai, Welder, OpenAI Whisper)
 *[[750: Formulaic Objections Part 11]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
-*[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai)
-*[[762: December 31, 2022]] (via AutoSub, otter.ai)
-*[[765: Formulaic Objections Part 13]] (via AutoSub, otter.ai)
+*[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[762: December 31, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[765: Formulaic Objections Part 13]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5478,7 +5563,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|42
+|44
 |-
 |'''Source Texts:'''
 |
@@ -5490,7 +5575,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*779: January 9-12, 2004 (via Wiki Page)
 *[[655: July 18, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[659: July 21-23, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[667: July 25, 2003]] (via AutoSub, OpenAI Whisper)
@@ -5498,7 +5582,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[714: Trial Recap, Part 1]] (via AutoSub, otter.ai, Welder, OpenAI Whisper)
 *[[724: August 7-11, 2003]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[740: August 13, 2003]] (via otter.ai, OpenAI Whisper)
-*[[779: January 9-12, 2004]] (via otter.ai)
+*[[779: January 9-12, 2004]] (via otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -5536,7 +5620,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|1217
+|1220
 |-
 |'''Source Texts:'''
 |
@@ -5744,8 +5828,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[741: December 2, 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[742: Formulaic Objections Part 9]] (via otter.ai, OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai)
-*[[756: December 5, 2003]] (via AutoSub, otter.ai)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai)
+*[[756: December 5, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
@@ -6326,7 +6410,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|198
+|200
 |-
 |'''Source Texts:'''
 |
@@ -6396,7 +6480,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[587: August 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[605: June 17, 2003]] (via OpenAI Whisper)
 *[[633: December 30, 2021]] (via OpenAI Whisper)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai, Wiki Page)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -6736,7 +6820,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -6757,6 +6841,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[652: February 21-24, 2022]] (via OpenAI Whisper)
 *[[668: April 8, 2022]] (via OpenAI Whisper)
 *[[695: June 22, 2022]] (via OpenAI Whisper)
+*[[775: Fireside Chatting]] (via OpenAI Whisper)
 
 |}
 
@@ -7353,7 +7438,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, WORK_OF_ART
 |-
 |'''Total Count:'''
-|43
+|44
 |-
 |'''Source Texts:'''
 |
@@ -7391,7 +7476,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[639: January 17, 2022]] (via AutoSub, OpenAI Whisper)
 *[[646: February 6, 2022]] (via OpenAI Whisper)
 *[[702: July 11-12, 2022]] (via OpenAI Whisper)
-*[[769: December 17, 2003]] (via AutoSub, otter.ai)
+*[[769: December 17, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8236,7 +8321,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|637
+|642
 |-
 |'''Source Texts:'''
 |
@@ -8499,10 +8584,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[744: November 3, 2022]] (via AutoSub, otter.ai)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[748: November 16, 2022]] (via AutoSub, otter.ai)
-*[[766: December 16, 2003]] (via AutoSub, otter.ai)
-*[[767: January 12, 2023]] (via otter.ai)
-*[[778: January 8, 2004]] (via AutoSub, otter.ai)
-*[[779: January 9-12, 2004]] (via AutoSub, otter.ai)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[767: January 12, 2023]] (via otter.ai, OpenAI Whisper)
+*[[778: January 8, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[779: January 9-12, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Spiritual Correction]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -8652,7 +8737,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|403
+|405
 |-
 |'''Source Texts:'''
 |
@@ -8831,8 +8916,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[744: November 3, 2022]] (via AutoSub, otter.ai)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[751: November 20-21, 2022]] (via OpenAI Whisper)
-*[[757: December 13, 2022]] (via AutoSub, otter.ai)
-*[[767: January 12, 2023]] (via AutoSub, otter.ai)
+*[[757: December 13, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[770: January 20, 2023]] (via AutoSub, otter.ai)
 
 |}
@@ -9219,7 +9304,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG, PERSON
 |-
 |'''Total Count:'''
-|323
+|326
 |-
 |'''Source Texts:'''
 |
@@ -9253,8 +9338,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[589: August 18-20, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[726: September 15-16, 2022]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
-*[[772: December 18-19, 2003]] (via AutoSub, otter.ai, Wiki Page)
-*[[774: December 22, 2003]] (via AutoSub, otter.ai)
+*[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[774: December 22, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[The Halloween Story]] (via OpenAI Whisper)
 
@@ -9635,7 +9720,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|75
+|76
 |-
 |'''Source Texts:'''
 |
@@ -9675,7 +9760,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[644: February 2, 2022]] (via Wiki Page)
 *[[663: July 24, 2003]] (via OpenAI Whisper)
 *[[720: August 6, 2003]] (via AutoSub, otter.ai, Welder, OpenAI Whisper)
-*[[764: Jordan Takes The Wheel 9]] (via otter.ai)
+*[[764: Jordan Takes The Wheel 9]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -10382,7 +10467,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -10405,7 +10490,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[349: April 15-16, 2013]] (via OpenAI Whisper)
 *[[403: February 24, 2020]] (via AutoSub, OpenAI Whisper)
 *[[674: April 22, 2022]] (via AutoSub, OpenAI Whisper)
-*[[777: An X-Men Scenario Is Coming]] (via AutoSub)
+*[[777: An X-Men Scenario Is Coming]] (via AutoSub, OpenAI Whisper)
 *[[The Halloween Story]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -10546,6 +10631,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[497: Third Try's A Charm]] (via AutoSub)
 *[[676: April 29, 2022]] (via AutoSub)
 *[[740: August 13, 2003]] (via AutoSub)
+
+|}
+
+==Deposition==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Deposition'
+*'The Deposition'
+
+|-
+|'''Sources:'''
+|
+
+*[[739: Formulaic Objections Part 8]] (via OpenAI Whisper)
+*[[754: Formulaic Objections Part 12]] (via OpenAI Whisper)
 
 |}
 
@@ -10944,7 +11055,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -10962,7 +11073,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[447: Bill Cooper Covers OKC Part 2]] (via OpenAI Whisper)
 *[[634: July 11, 2003]] (via OpenAI Whisper)
 *[[662: March 22, 2022]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -11734,7 +11845,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|93
+|94
 |-
 |'''Source Texts:'''
 |
@@ -11781,7 +11892,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[709: 2 Dan's 2 War]] (via AutoSub, OpenAI Whisper)
 *[[715: Trial Recap, Part 2]] (via AutoSub, otter.ai, Welder, OpenAI Whisper, Wiki Page)
 *[[763: December 15, 2003]] (via otter.ai)
-*[[779: January 9-12, 2004]] (via AutoSub, otter.ai)
+*[[779: January 9-12, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -11951,7 +12062,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -11965,6 +12076,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[373: April 24, 2013]] (via OpenAI Whisper)
 *[[598: September 17, 2021]] (via OpenAI Whisper)
+*[[755: Ye Takes a Sip of (Mc)Guinness]] (via OpenAI Whisper)
 
 |}
 
@@ -13382,7 +13494,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|16
+|17
 |-
 |'''Source Texts:'''
 |
@@ -13404,6 +13516,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[715: Trial Recap, Part 2]] (via OpenAI Whisper)
 *[[733: October 6, 2022]] (via OpenAI Whisper)
 *[[739: Formulaic Objections Part 8]] (via OpenAI Whisper)
+*[[763: December 15, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -13416,7 +13529,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -13429,6 +13542,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[666: March 31, 2022]] (via OpenAI Whisper)
 *[[734: October 9, 2022]] (via OpenAI Whisper)
+*[[763: December 15, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -13466,7 +13580,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|18
+|19
 |-
 |'''Source Texts:'''
 |
@@ -13492,6 +13606,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[739: Formulaic Objections Part 8]] (via Welder)
 *[[760: December 9-10, 2003]] (via Manually-created)
 *[[761: December 11, 2003]] (via Manually-created)
+*[[770: January 20, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -14370,7 +14485,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|28
+|33
 |-
 |'''Source Texts:'''
 |
@@ -14394,9 +14509,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[739: Formulaic Objections Part 8]] (via otter.ai, Welder, OpenAI Whisper)
 *[[742: Formulaic Objections Part 9]] (via otter.ai)
 *[[745: Formulaic Objections Part 10]] (via otter.ai, OpenAI Whisper)
-*[[754: Formulaic Objections Part 12]] (via AutoSub)
-*[[765: Formulaic Objections Part 13]] (via otter.ai)
-*[[768: Formulaic Objections Part 14]] (via otter.ai)
+*[[754: Formulaic Objections Part 12]] (via AutoSub, OpenAI Whisper)
+*[[765: Formulaic Objections Part 13]] (via otter.ai, OpenAI Whisper)
+*[[768: Formulaic Objections Part 14]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -14522,7 +14637,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|27
+|28
 |-
 |'''Source Texts:'''
 |
@@ -14542,7 +14657,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[573: July 1, 2021]] (via AutoSub, OpenAI Whisper)
 *[[628: July 10, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[641: Formulaic Objections Part 4]] (via AutoSub, OpenAI Whisper)
-*[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
+*[[760: December 9-10, 2003]] (via Manually-created, otter.ai, OpenAI Whisper)
 *[[769: December 17, 2003]] (via AutoSub, otter.ai)
 
 |}
@@ -14581,7 +14696,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|23102
+|23199
 |-
 |'''Source Texts:'''
 |
@@ -14609,7 +14724,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub, OpenAI Whisper)
-*780: February 21, 2023 (via Wiki Page)
 *Alex Jones (via Wiki Page)
 *Ali Alexander (via Wiki Page)
 *Jakari Jackson (via Wiki Page)
@@ -15290,28 +15404,30 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[751: November 20-21, 2022]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
-*[[753: December 1, 2022]] (via AutoSub, otter.ai)
-*[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai)
-*[[756: December 5, 2003]] (via AutoSub, otter.ai)
-*[[757: December 13, 2022]] (via AutoSub, otter.ai)
-*[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai)
+*[[753: December 1, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[756: December 5, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[757: December 13, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[758: December 8, 2003]] (via OpenAI Whisper)
+*[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 *[[762: December 31, 2022]] (via AutoSub, otter.ai)
-*[[763: December 15, 2003]] (via otter.ai)
-*[[766: December 16, 2003]] (via AutoSub, otter.ai)
-*[[767: January 12, 2023]] (via AutoSub, otter.ai)
-*[[768: Formulaic Objections Part 14]] (via otter.ai)
-*[[770: January 20, 2023]] (via AutoSub, otter.ai)
-*[[771: Formulaic Objections Part 15]] (via otter.ai)
-*[[772: December 18-19, 2003]] (via otter.ai)
+*[[763: December 15, 2003]] (via otter.ai, OpenAI Whisper)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[768: Formulaic Objections Part 14]] (via otter.ai, OpenAI Whisper)
+*[[770: January 20, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[771: Formulaic Objections Part 15]] (via otter.ai, OpenAI Whisper)
+*[[772: December 18-19, 2003]] (via otter.ai, OpenAI Whisper)
 *[[773: February 2, 2023]] (via AutoSub, otter.ai)
-*[[774: December 22, 2003]] (via AutoSub, otter.ai)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai, Wiki Page)
-*[[776: February 11, 2023]] (via AutoSub, otter.ai, Wiki Page)
-*[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, Wiki Page)
-*[[779: January 9-12, 2004]] (via otter.ai)
-*[[780: February 21, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai)
-*[[782: February 26, 2023]] (via otter.ai)
+*[[774: December 22, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[778: January 8, 2004]] (via OpenAI Whisper)
+*[[779: January 9-12, 2004]] (via otter.ai, OpenAI Whisper)
+*[[780: February 21, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[782: February 26, 2023]] (via otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper)
@@ -15332,7 +15448,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|61
+|62
 |-
 |'''Source Texts:'''
 |
@@ -15366,7 +15482,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[605: June 17, 2003]] (via OpenAI Whisper)
 *[[637: January 13, 2022]] (via OpenAI Whisper)
 *[[723: September 8, 2022]] (via otter.ai)
-*[[776: February 11, 2023]] (via otter.ai)
+*[[776: February 11, 2023]] (via otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 
 |}
@@ -15380,7 +15496,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -15401,7 +15517,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[565: June 10, 2021]] (via OpenAI Whisper)
 *[[600: September 22, 2021]] (via AutoSub)
 *[[649: February 14, 2022]] (via AutoSub, OpenAI Whisper)
-*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -15815,7 +15931,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|37
+|39
 |-
 |'''Source Texts:'''
 |
@@ -15843,8 +15959,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[542: September 15, 2010]] (via AutoSub, OpenAI Whisper)
 *[[678: July 29-30, 2003]] (via AutoSub)
 *[[682: May 15, 2022]] (via AutoSub)
-*[[757: December 13, 2022]] (via AutoSub, otter.ai)
-*[[762: December 31, 2022]] (via AutoSub, otter.ai)
+*[[757: December 13, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[762: December 31, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -16312,7 +16428,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|29
+|30
 |-
 |'''Source Texts:'''
 |
@@ -16328,7 +16444,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[618: November 15, 2021]] (via AutoSub, Wiki Page)
 *[[744: November 3, 2022]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -16857,7 +16973,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -16870,6 +16986,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[460: Donk's Dojo]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via AutoSub, OpenAI Whisper)
+*[[781: Chatting With Will Sommer]] (via OpenAI Whisper)
 
 |}
 
@@ -17023,7 +17140,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|186
+|201
 |-
 |'''Source Texts:'''
 |
@@ -17079,9 +17196,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[699: July 4-5, 2022]] (via AutoSub, OpenAI Whisper)
 *[[725: September 13-14, 2022]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai)
-*[[762: December 31, 2022]] (via AutoSub, otter.ai)
-*[[774: December 22, 2003]] (via otter.ai)
-*[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, Wiki Page)
+*[[762: December 31, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[774: December 22, 2003]] (via otter.ai, OpenAI Whisper)
+*[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -17230,7 +17347,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|74
+|75
 |-
 |'''Source Texts:'''
 |
@@ -17266,6 +17383,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[687: May 24, 2022]] (via OpenAI Whisper)
 *[[723: September 8, 2022]] (via otter.ai, OpenAI Whisper)
 *[[727: Chatting with Sebastian Murdock]] (via otter.ai, OpenAI Whisper, Wiki Page)
-*[[782: February 26, 2023]] (via otter.ai)
+*[[782: February 26, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}

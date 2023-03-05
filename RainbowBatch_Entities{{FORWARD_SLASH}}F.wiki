@@ -1338,7 +1338,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|17
+|19
 |-
 |'''Source Texts:'''
 |
@@ -1355,7 +1355,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[680: July 31-August 1, 2003]] (via AutoSub, OpenAI Whisper)
 *[[704: 9/11, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[731: September 29-30, 2022]] (via otter.ai)
-*[[775: Fireside Chatting]] (via AutoSub, otter.ai)
+*[[753: December 1, 2022]] (via OpenAI Whisper)
+*[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -1789,7 +1790,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|573
+|581
 |-
 |'''Source Texts:'''
 |
@@ -1932,11 +1933,11 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[694: The Case of the Missing Propagandist]] (via AutoSub, OpenAI Whisper)
 *[[715: Trial Recap, Part 2]] (via Welder)
 *[[719: August 19, 2022]] (via AutoSub, Welder, OpenAI Whisper)
-*[[753: December 1, 2022]] (via AutoSub, otter.ai)
+*[[753: December 1, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[758: December 8, 2003]] (via otter.ai)
 *[[763: December 15, 2003]] (via otter.ai)
-*[[766: December 16, 2003]] (via AutoSub, otter.ai)
-*[[772: December 18-19, 2003]] (via AutoSub, otter.ai)
+*[[766: December 16, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[778: January 8, 2004]] (via AutoSub, otter.ai)
 
 |}
@@ -2361,6 +2362,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Feng Yulan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Feng Yulan'
+
+|-
+|'''Sources:'''
+|
+
+*[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
+*[[762: December 31, 2022]] (via OpenAI Whisper)
+
+|}
+
 ==Ferdinand Marcos==
 {| class="fandom-table"
 |'''Status:'''
@@ -2426,7 +2452,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -2441,7 +2467,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub)
 *[[370: November 14-15, 2019]] (via AutoSub)
 *[[683: May 16, 2022]] (via AutoSub, OpenAI Whisper)
-*[[754: Formulaic Objections Part 12]] (via otter.ai)
+*[[754: Formulaic Objections Part 12]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -2454,7 +2480,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|34
+|35
 |-
 |'''Source Texts:'''
 |
@@ -2480,7 +2506,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[693: August 4, 2003]] (via OpenAI Whisper)
 *[[704: 9/11, Part 2]] (via OpenAI Whisper)
 *[[729: September 24, 2022]] (via AutoSub, otter.ai)
-*[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai)
+*[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -2656,7 +2682,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|39
+|41
 |-
 |'''Source Texts:'''
 |
@@ -2691,8 +2717,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[677: May 4, 2022]] (via OpenAI Whisper)
 *[[685: Formulaic Objections Part 7]] (via otter.ai)
 *[[719: August 19, 2022]] (via AutoSub, OpenAI Whisper)
-*[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai)
-*[[775: Fireside Chatting]] (via otter.ai)
+*[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
+*[[775: Fireside Chatting]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -2705,12 +2731,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|16
+|18
 |-
 |'''Source Texts:'''
 |
 
 *'Final Fantasy 7'
+*'the Final Fantasy 7'
 
 |-
 |'''Sources:'''
@@ -2727,7 +2754,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[525: January 27, 2021]] (via AutoSub)
 *[[541: March 17-18, 2021]] (via AutoSub)
 *[[685: Formulaic Objections Part 7]] (via AutoSub)
-*[[761: December 11, 2003]] (via Manually-created)
+*[[761: December 11, 2003]] (via Manually-created, OpenAI Whisper)
 *[[775: Fireside Chatting]] (via AutoSub)
 
 |}
@@ -3156,7 +3183,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC, ORG
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -3173,8 +3200,37 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[769: December 17, 2003]] (via AutoSub, otter.ai)
 *[[770: January 20, 2023]] (via AutoSub, otter.ai)
 *[[771: Formulaic Objections Part 15]] (via otter.ai)
-*[[774: December 22, 2003]] (via AutoSub, otter.ai)
+*[[774: December 22, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
+
+|}
+
+==Fire Emblem Engage==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Fire Emblem Engage'
+*'the Fire Emblem Engage'
+
+|-
+|'''Sources:'''
+|
+
+*[[756: December 5, 2003]] (via OpenAI Whisper)
+*[[769: December 17, 2003]] (via OpenAI Whisper)
+*[[770: January 20, 2023]] (via OpenAI Whisper)
+*[[771: Formulaic Objections Part 15]] (via OpenAI Whisper)
+*[[774: December 22, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -3239,12 +3295,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Firefly Fun House'
+*'the Firefly Fun House'
 
 |-
 |'''Sources:'''
@@ -3252,6 +3309,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[417: April 5, 2020]] (via OpenAI Whisper)
 *[[733: October 6, 2022]] (via OpenAI Whisper)
+*[[770: January 20, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -4565,7 +4623,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|43
+|44
 |-
 |'''Source Texts:'''
 |
@@ -4593,7 +4651,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[322: July 16-17, 2019]] (via AutoSub, OpenAI Whisper)
 *[[327: July 31, 2019]] (via OpenAI Whisper)
 *[[380: December 19-20, 2019]] (via AutoSub, OpenAI Whisper)
-*[[756: December 5, 2003]] (via AutoSub, otter.ai)
+*[[756: December 5, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4796,7 +4854,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -4817,7 +4875,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[484: September 18-19, 2020]] (via AutoSub)
 *[[511: The 12/12 Rallies]] (via AutoSub, OpenAI Whisper)
 *[[522: January 14-17, 2021]] (via AutoSub)
+*[[774: December 22, 2003]] (via OpenAI Whisper)
 *[[782: February 26, 2023]] (via otter.ai)
+
+|}
+
+==Forrest Gumping==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Forrest Gumping'
+
+|-
+|'''Sources:'''
+|
+
+*[[698: For Squatch, There Are No Heroes]] (via OpenAI Whisper)
+*[[782: February 26, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -4856,7 +4940,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -4869,7 +4953,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[415: April 1, 2020]] (via AutoSub, OpenAI Whisper)
 *[[484: September 18-19, 2020]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
+*[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5263,7 +5347,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|88
+|89
 |-
 |'''Source Texts:'''
 |
@@ -5331,7 +5415,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[712: The Decompression Session]] (via otter.ai)
 *[[723: September 8, 2022]] (via AutoSub)
 *[[745: Formulaic Objections Part 10]] (via AutoSub)
-*[[760: December 9-10, 2003]] (via AutoSub)
+*[[760: December 9-10, 2003]] (via AutoSub, OpenAI Whisper)
 *[[The Halloween Story]] (via AutoSub)
 
 |}
@@ -5427,7 +5511,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |DATE, EVENT, ORG
 |-
 |'''Total Count:'''
-|22
+|26
 |-
 |'''Source Texts:'''
 |
@@ -5452,8 +5536,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[620: November 23, 2021]] (via OpenAI Whisper)
 *[[635: January 6-7, 2022]] (via OpenAI Whisper)
 *[[697: June 29, 2022]] (via AutoSub)
-*[[773: February 2, 2023]] (via otter.ai)
-*[[775: Fireside Chatting]] (via otter.ai)
+*[[773: February 2, 2023]] (via otter.ai, OpenAI Whisper)
+*[[775: Fireside Chatting]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5786,7 +5870,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|207
+|209
 |-
 |'''Source Texts:'''
 |
@@ -5822,9 +5906,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[561: Jordan Takes The Wheel 6]] (via AutoSub, OpenAI Whisper)
 *[[661: March 17, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[662: March 22, 2022]] (via AutoSub, OpenAI Whisper)
-*[[763: December 15, 2003]] (via AutoSub, otter.ai)
+*[[763: December 15, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[773: February 2, 2023]] (via AutoSub, otter.ai)
-*[[775: Fireside Chatting]] (via AutoSub)
+*[[775: Fireside Chatting]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6260,6 +6344,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[106: Drunk Special Report]] (via AutoSub, OpenAI Whisper)
 *[[680: July 31-August 1, 2003]] (via AutoSub, OpenAI Whisper)
 *[[733: October 6, 2022]] (via otter.ai, OpenAI Whisper, Wiki Page)
+
+|}
+
+==Frank Speech==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Frank Speech'
+
+|-
+|'''Sources:'''
+|
+
+*[[770: January 20, 2023]] (via OpenAI Whisper)
+*[[775: Fireside Chatting]] (via OpenAI Whisper)
 
 |}
 
@@ -7074,7 +7183,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -7095,6 +7204,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[745: Formulaic Objections Part 10]] (via otter.ai)
 *[[750: Formulaic Objections Part 11]] (via AutoSub, otter.ai)
 *[[754: Formulaic Objections Part 12]] (via AutoSub)
+*[[755: Ye Takes a Sip of (Mc)Guinness]] (via OpenAI Whisper)
 *[[778: January 8, 2004]] (via otter.ai)
 
 |}
@@ -7108,7 +7218,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|14
+|17
 |-
 |'''Source Texts:'''
 |
@@ -7133,6 +7243,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[691: June 6, 2022]] (via OpenAI Whisper)
 *[[739: Formulaic Objections Part 8]] (via OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via OpenAI Whisper)
+*[[765: Formulaic Objections Part 13]] (via OpenAI Whisper)
+*[[771: Formulaic Objections Part 15]] (via OpenAI Whisper)
 *[[775: Fireside Chatting]] (via Wiki Page)
 
 |}
