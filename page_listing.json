@@ -230,7 +230,7 @@
     "title": "45: May 25, 2017"
   },
   {
-    "oldid": 8755,
+    "oldid": 10455,
     "slug": "46{{COLON}}_June_18,_2015",
     "title": "46: June 18, 2015"
   },
@@ -500,7 +500,7 @@
     "title": "99: November 1, 2017"
   },
   {
-    "oldid": 8803,
+    "oldid": 10456,
     "slug": "100{{COLON}}_January_6-7,_2016",
     "title": "100: January 6-7, 2016"
   },
@@ -765,7 +765,7 @@
     "title": "148: June 1-3, 2009"
   },
   {
-    "oldid": 8847,
+    "oldid": 10457,
     "slug": "149{{COLON}}_The_Press_Conference",
     "title": "149: The Press Conference"
   },
@@ -895,7 +895,7 @@
     "title": "174: February 11, 2009"
   },
   {
-    "oldid": 8873,
+    "oldid": 10467,
     "slug": "175{{COLON}}_Giants_And_Bonus_Potatoes",
     "title": "175: Giants And Bonus Potatoes"
   },
@@ -1430,7 +1430,7 @@
     "title": "278: January 3, 2013"
   },
   {
-    "oldid": 8926,
+    "oldid": 10466,
     "slug": "279{{COLON}}_Formulaic_Objections",
     "title": "279: Formulaic Objections"
   },
@@ -1655,7 +1655,7 @@
     "title": "323: July 19, 2019"
   },
   {
-    "oldid": 8971,
+    "oldid": 10471,
     "slug": "324{{COLON}}_Bilderberg_Speeches",
     "title": "324: Bilderberg Speeches"
   },
@@ -1810,7 +1810,7 @@
     "title": "354: October 8-9, 2019"
   },
   {
-    "oldid": 9002,
+    "oldid": 10458,
     "slug": "355{{COLON}}_April_18,_2013",
     "title": "355: April 18, 2013"
   },
@@ -1925,7 +1925,7 @@
     "title": "377: December 6-10, 2019"
   },
   {
-    "oldid": 9025,
+    "oldid": 10470,
     "slug": "378{{COLON}}_Formulaic_Objections_Part_2",
     "title": "378: Formulaic Objections Part 2"
   },
@@ -4265,9 +4265,19 @@
     "title": "Bob Chapman"
   },
   {
+    "oldid": 10460,
+    "slug": "Bob_Woodward",
+    "title": "Bob Woodward"
+  },
+  {
     "oldid": 8321,
     "slug": "Boris_Johnson",
     "title": "Boris Johnson"
+  },
+  {
+    "oldid": 10461,
+    "slug": "Boris_Yeltsin",
+    "title": "Boris Yeltsin"
   },
   {
     "oldid": 2147,
@@ -4440,6 +4450,11 @@
     "title": "Count Dankula"
   },
   {
+    "oldid": 10462,
+    "slug": "Covid-19",
+    "title": "Covid-19"
+  },
+  {
     "oldid": 10397,
     "slug": "DJ_Danarchy",
     "title": "DJ Danarchy"
@@ -4510,6 +4525,11 @@
     "title": "David Eick"
   },
   {
+    "oldid": 10474,
+    "slug": "David_Hogg",
+    "title": "David Hogg"
+  },
+  {
     "oldid": 2262,
     "slug": "David_Iche",
     "title": "David Iche"
@@ -4543,6 +4563,11 @@
     "oldid": 8491,
     "slug": "Dick_Cheney",
     "title": "Dick Cheney"
+  },
+  {
+    "oldid": 10463,
+    "slug": "Donald_Rumsfeld",
+    "title": "Donald Rumsfeld"
   },
   {
     "oldid": 2643,
@@ -4845,6 +4870,11 @@
     "title": "Hitler"
   },
   {
+    "oldid": 10464,
+    "slug": "Hunter_Biden",
+    "title": "Hunter Biden"
+  },
+  {
     "oldid": 8169,
     "slug": "Ilhan_Omar",
     "title": "Ilhan Omar"
@@ -5040,6 +5070,11 @@
     "title": "Joel Skousen"
   },
   {
+    "oldid": 10473,
+    "slug": "John_Boehner",
+    "title": "John Boehner"
+  },
+  {
     "oldid": 8352,
     "slug": "John_Bolton",
     "title": "John Bolton"
@@ -5145,6 +5180,11 @@
     "title": "Kerry Cassidy"
   },
   {
+    "oldid": 10472,
+    "slug": "Kerry_Kassidy",
+    "title": "Kerry Kassidy"
+  },
+  {
     "oldid": 8603,
     "slug": "Kim_Jong_Un",
     "title": "Kim Jong Un"
@@ -5195,6 +5235,16 @@
     "title": "Lee Stranahan"
   },
   {
+    "oldid": 10469,
+    "slug": "Lenny_Posner",
+    "title": "Lenny Posner"
+  },
+  {
+    "oldid": 10465,
+    "slug": "Leo_Posner",
+    "title": "Leo Posner"
+  },
+  {
     "oldid": 8360,
     "slug": "Leo_Zagami",
     "title": "Leo Zagami"
@@ -5213,6 +5263,16 @@
     "oldid": 7986,
     "slug": "Lester_Holt",
     "title": "Lester Holt"
+  },
+  {
+    "oldid": 10459,
+    "slug": "Letitia_James",
+    "title": "Letitia James"
+  },
+  {
+    "oldid": 10468,
+    "slug": "Lindon_LaRouche",
+    "title": "Lindon LaRouche"
   },
   {
     "oldid": 5956,
@@ -5758,6 +5818,11 @@
     "oldid": 9426,
     "slug": "Repost{{COLON}}_Episode_25",
     "title": "Repost: Episode 25"
+  },
+  {
+    "oldid": 10475,
+    "slug": "Rex_Jones",
+    "title": "Rex Jones"
   },
   {
     "oldid": 10448,
