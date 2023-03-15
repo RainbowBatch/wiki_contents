@@ -5716,12 +5716,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
 
 *'Marty Robbins'
+*"Marty Robbins'"
 
 |-
 |'''Sources:'''
@@ -7567,13 +7568,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|90
+|93
 |-
 |'''Source Texts:'''
 |
 
 *'Maxine\r\n    Waters'
 *'Maxine Waters'
+*"Maxine Waters'"
 
 |-
 |'''Sources:'''
@@ -8624,52 +8626,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Megan Kelly==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|FAC, ORG, PERSON, WORK_OF_ART
-|-
-|'''Total Count:'''
-|87
-|-
-|'''Source Texts:'''
-|
-
-*'Megan Kelly'
-*"Megan Kelly's"
-*'the Megan Kelly'
-
-|-
-|'''Sources:'''
-|
-
-*[[3: The Secret of 2017]] (via otter.ai)
-*[[4: Research and Stand Up]] (via otter.ai, OpenAI Whisper)
-*[[9: Joe Rogan Appearance]] (via otter.ai)
-*[[28: How Not To Cover Alex Jones]] (via otter.ai, OpenAI Whisper)
-*[[32: April 21, 2017]] (via otter.ai)
-*[[48: May 31, 2017]] (via otter.ai)
-*[[51: June 6, 2017]] (via otter.ai, OpenAI Whisper)
-*[[53: June 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[54: Megyn Kelly Interview Pt. 1]] (via OpenAI Whisper)
-*[[55: Megyn Kelly Interview Pt. 2]] (via OpenAI Whisper)
-*[[58: June 23, 2017]] (via AutoSub)
-*[[392: January 24, 2020]] (via OpenAI Whisper)
-*[[590: August 24, 2021]] (via OpenAI Whisper)
-*[[641: Formulaic Objections Part 4]] (via OpenAI Whisper)
-*[[665: Formulaic Objections Part 6]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[714: Trial Recap, Part 1]] (via otter.ai, OpenAI Whisper)
-*[[715: Trial Recap, Part 2]] (via Welder, OpenAI Whisper)
-*[[725: September 13-14, 2022]] (via OpenAI Whisper)
-*[[745: Formulaic Objections Part 10]] (via otter.ai, OpenAI Whisper)
-*[[754: Formulaic Objections Part 12]] (via otter.ai)
-*[[762: December 31, 2022]] (via otter.ai)
-
-|}
-
 ==Meghan Markle==
 {| class="fandom-table"
 |'''Status:'''
@@ -8702,18 +8658,21 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON
+|FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|138
+|225
 |-
 |'''Source Texts:'''
 |
 
+*'Megan Kelly'
+*"Megan Kelly's"
 *'Meghan Kelly'
 *'Megyn\r\n    Kelly'
 *'Megyn Kelly'
 *"Megyn Kelly's"
+*'the Megan Kelly'
 *'the Megyn Kelly'
 
 |-
@@ -8723,11 +8682,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[3: The Secret of 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[4: Research and Stand Up]] (via otter.ai, OpenAI Whisper)
 *[[9: Joe Rogan Appearance]] (via otter.ai, OpenAI Whisper)
+*[[28: How Not To Cover Alex Jones]] (via otter.ai, OpenAI Whisper)
 *[[32: April 21, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[48: May 31, 2017]] (via otter.ai)
 *[[51: June 6, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[53: June 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[55: Megyn Kelly Interview Pt. 2]] (via AutoSub, OpenAI Whisper)
+*[[58: June 23, 2017]] (via AutoSub)
 *[[59: August 17-18, 2015]] (via AutoSub, OpenAI Whisper)
 *[[64: Aug 27-Sep 1, 2015]] (via OpenAI Whisper)
 *[[70: Sep 29- Oct 3, 2015]] (via AutoSub, OpenAI Whisper)
@@ -8746,12 +8708,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[222: March 15-19, 2009]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[279: Formulaic Objections]] (via otter.ai, OpenAI Whisper)
 *[[378: Formulaic Objections Part 2]] (via AutoSub)
+*[[392: January 24, 2020]] (via OpenAI Whisper)
+*[[590: August 24, 2021]] (via OpenAI Whisper)
 *[[641: Formulaic Objections Part 4]] (via OpenAI Whisper)
 *[[665: Formulaic Objections Part 6]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[714: Trial Recap, Part 1]] (via Welder, OpenAI Whisper)
-*[[715: Trial Recap, Part 2]] (via otter.ai)
+*[[714: Trial Recap, Part 1]] (via otter.ai, Welder, OpenAI Whisper)
+*[[715: Trial Recap, Part 2]] (via otter.ai, Welder, OpenAI Whisper)
+*[[725: September 13-14, 2022]] (via OpenAI Whisper)
 *[[732: Trial Press Conference]] (via otter.ai)
 *[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[754: Formulaic Objections Part 12]] (via otter.ai)
+*[[762: December 31, 2022]] (via otter.ai)
 *[[775: Fireside Chatting]] (via OpenAI Whisper)
 
 |}
@@ -8881,12 +8848,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|139
+|140
 |-
 |'''Source Texts:'''
 |
 
 *'Melinda Gates'
+*"Melinda Gates'"
 
 |-
 |'''Sources:'''
@@ -10915,7 +10883,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|17
+|24
 |-
 |'''Source Texts:'''
 |
@@ -10924,21 +10892,23 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *"Michael J Fox's"
 *'Michael J. Fox'
 *"Michael J. Fox's"
+*'Michael j.fox'
+*'a Michael j.fox'
 
 |-
 |'''Sources:'''
 |
 
-*[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
+*[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[61: July 5, 2017]] (via OpenAI Whisper)
 *[[73: August 12, 2017]] (via OpenAI Whisper)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via OpenAI Whisper)
-*[[171: Loosh and Let Live]] (via OpenAI Whisper)
+*[[171: Loosh and Let Live]] (via AutoSub, OpenAI Whisper)
 *[[186: February 17-18, 2009]] (via OpenAI Whisper)
-*[[516: December 31, 2020- January 1, 2021]] (via OpenAI Whisper)
-*[[673: Jordan Takes The Wheel 8]] (via OpenAI Whisper)
-*[[765: Formulaic Objections Part 13]] (via otter.ai)
-*[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
+*[[516: December 31, 2020- January 1, 2021]] (via AutoSub, OpenAI Whisper)
+*[[673: Jordan Takes The Wheel 8]] (via AutoSub, OpenAI Whisper)
+*[[765: Formulaic Objections Part 13]] (via AutoSub, otter.ai)
+*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -10977,36 +10947,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[505: November 18, 2020]] (via AutoSub, OpenAI Whisper)
 *[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
-
-|}
-
-==Michael jfox==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|7
-|-
-|'''Source Texts:'''
-|
-
-*'Michael j.fox'
-*'a Michael j.fox'
-
-|-
-|'''Sources:'''
-|
-
-*[[25: Dennis Montgomery Investigation]] (via AutoSub)
-*[[171: Loosh and Let Live]] (via AutoSub)
-*[[516: December 31, 2020- January 1, 2021]] (via AutoSub)
-*[[673: Jordan Takes The Wheel 8]] (via AutoSub)
-*[[765: Formulaic Objections Part 13]] (via AutoSub)
-*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
 
@@ -13695,13 +13635,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|871
+|887
 |-
 |'''Source Texts:'''
 |
 
 *'Mike\r\nAdams'
 *'Mike Adams'
+*"Mike Adams'"
 *"Mike Adams's"
 *'the Mike Adams'
 
@@ -13718,6 +13659,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[172: June 11, 2013]] (via OpenAI Whisper)
 *[[181: August 16, 2016]] (via AutoSub, OpenAI Whisper)
 *[[185: July 27, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[190: August 6, 2018]] (via OpenAI Whisper)
 *[[197: Jared Holt from the Sh!tpost Podcast]] (via OpenAI Whisper)
 *[[200: Feb. 25-March 1, 2009]] (via AutoSub, OpenAI Whisper)
 *[[202: September 4-6, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -13783,7 +13725,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[424: April 21-22, 2020]] (via AutoSub, OpenAI Whisper)
 *[[427: April 29-30, 2020]] (via OpenAI Whisper)
 *[[428: May 1, 2020]] (via OpenAI Whisper)
-*[[430: May 5-7, 2020]] (via AutoSub)
+*[[430: May 5-7, 2020]] (via AutoSub, OpenAI Whisper)
 *[[451: June 29-30, 2020]] (via AutoSub)
 *[[454: December 17, 2013]] (via OpenAI Whisper)
 *[[463: July 28-30, 2020]] (via OpenAI Whisper)
@@ -13796,6 +13738,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[522: January 14-17, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[523: January 18-19, 2021]] (via AutoSub, OpenAI Whisper)
 *[[524: Inauguration 2021]] (via AutoSub, OpenAI Whisper)
+*[[531: February 14, 2021]] (via OpenAI Whisper)
 *[[538: March 2, 2021]] (via AutoSub, OpenAI Whisper)
 *[[540: March 15-16, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[547: April 8, 2021]] (via AutoSub, OpenAI Whisper)
@@ -13807,17 +13750,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[583: August 1, 2021]] (via AutoSub, Wiki Page)
 *[[586: August 11-12, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[594: September 7, 2021]] (via AutoSub)
+*[[594: September 7, 2021]] (via AutoSub, OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[634: July 11, 2003]] (via AutoSub, OpenAI Whisper)
-*[[639: January 17, 2022]] (via AutoSub)
+*[[639: January 17, 2022]] (via AutoSub, OpenAI Whisper)
 *[[671: April 13, 2022]] (via AutoSub, OpenAI Whisper)
 *[[682: May 15, 2022]] (via AutoSub)
 *[[684: May 20, 2022]] (via AutoSub, OpenAI Whisper)
 *[[686: Continental Negotiations]] (via AutoSub, OpenAI Whisper)
 *[[687: May 24, 2022]] (via AutoSub, OpenAI Whisper)
 *[[690: May 27, 2022]] (via OpenAI Whisper)
-*[[700: July 6, 2022]] (via AutoSub)
+*[[700: July 6, 2022]] (via AutoSub, OpenAI Whisper)
 *[[715: Trial Recap, Part 2]] (via AutoSub, otter.ai, Welder, OpenAI Whisper, Wiki Page)
 *[[733: October 6, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
@@ -13849,41 +13792,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[268: December 17-18, 2012]] (via AutoSub)
 *[[519: January 10-11, 2021]] (via AutoSub)
-
-|}
-
-==Mike Adams'==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|16
-|-
-|'''Source Texts:'''
-|
-
-*"Mike Adams'"
-
-|-
-|'''Sources:'''
-|
-
-*[[190: August 6, 2018]] (via OpenAI Whisper)
-*[[213: October 2, 2018]] (via OpenAI Whisper)
-*[[251: January 8, 2019]] (via OpenAI Whisper)
-*[[297: January 17-18, 2013]] (via OpenAI Whisper)
-*[[379: December 13-16, 2019]] (via OpenAI Whisper)
-*[[389: January 15-17, 2020]] (via OpenAI Whisper)
-*[[392: January 24, 2020]] (via OpenAI Whisper)
-*[[430: May 5-7, 2020]] (via OpenAI Whisper)
-*[[531: February 14, 2021]] (via OpenAI Whisper)
-*[[594: September 7, 2021]] (via OpenAI Whisper)
-*[[639: January 17, 2022]] (via OpenAI Whisper)
-*[[700: July 6, 2022]] (via OpenAI Whisper)
 
 |}
 
