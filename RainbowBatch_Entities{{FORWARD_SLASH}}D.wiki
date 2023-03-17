@@ -5461,12 +5461,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|187
+|188
 |-
 |'''Source Texts:'''
 |
 
 *'David Jones'
+*"David Jones'"
 *"David Jones's"
 
 |-
@@ -11600,41 +11601,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|29
 |-
 |'''Source Texts:'''
 |
 
 *'Devin Nunes'
-
-|-
-|'''Sources:'''
-|
-
-*[[25: Dennis Montgomery Investigation]] (via AutoSub)
-*[[40: May 10, 2017]] (via OpenAI Whisper)
-*[[354: October 8-9, 2019]] (via Wiki Page)
-*[[368: November 11-12, 2019]] (via AutoSub)
-*[[551: April 20-21, 2021]] (via OpenAI Whisper)
-*[[709: 2 Dan's 2 War]] (via OpenAI Whisper)
-*[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
-
-|}
-
-==Devin Nunez==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|20
-|-
-|'''Source Texts:'''
-|
-
 *'Devin Nunez'
 
 |-
@@ -11643,11 +11615,14 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[24: March 23, 2017]] (via otter.ai, OpenAI Whisper)
 *[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
-*[[40: May 10, 2017]] (via otter.ai)
+*[[40: May 10, 2017]] (via otter.ai, OpenAI Whisper)
 *[[192: August 10, 2018]] (via OpenAI Whisper)
 *[[287: April 15-18, 2019]] (via OpenAI Whisper)
+*[[354: October 8-9, 2019]] (via Wiki Page)
+*[[368: November 11-12, 2019]] (via AutoSub)
 *[[403: February 24, 2020]] (via OpenAI Whisper)
-*[[709: 2 Dan's 2 War]] (via AutoSub)
+*[[551: April 20-21, 2021]] (via OpenAI Whisper)
+*[[709: 2 Dan's 2 War]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -11811,59 +11786,22 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Diane Feinstein==
-{| class="fandom-table"
-|'''Status:'''
-|Exists
-|-
-|'''Entity Type(s):'''
-|ORG, PERSON
-|-
-|'''Total Count:'''
-|31
-|-
-|'''Source Texts:'''
-|
-
-*'Diane Feinstein'
-*"Diane Feinstein's"
-
-|-
-|'''Sources:'''
-|
-
-*[[24: March 23, 2017]] (via OpenAI Whisper)
-*[[114: Piers Morgan Interview]] (via OpenAI Whisper)
-*[[133: Operation Paul Revere]] (via OpenAI Whisper)
-*[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper)
-*[[179: July 10, 2018]] (via OpenAI Whisper)
-*[[267: December 16, 2012]] (via OpenAI Whisper)
-*[[275: December 23-31, 2012]] (via Wiki Page)
-*[[276: January 1-2, 2013]] (via OpenAI Whisper)
-*[[278: January 3, 2013]] (via OpenAI Whisper)
-*[[283: January 4-6, 2013]] (via OpenAI Whisper, Wiki Page)
-*[[289: January 10-13, 2013]] (via OpenAI Whisper, Wiki Page)
-*[[301: January 24-28, 2013]] (via OpenAI Whisper, Wiki Page)
-*[[308: February 6-8, 2013]] (via OpenAI Whisper)
-*[[494: October 19, 2020]] (via OpenAI Whisper)
-*[[567: June 13, 2021]] (via OpenAI Whisper)
-
-|}
-
 ==Dianne Feinstein==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|43
+|74
 |-
 |'''Source Texts:'''
 |
 
+*'Diane Feinstein'
+*"Diane Feinstein's"
 *'Dianne Feinstein'
 *"Dianne Feinstein's"
 
@@ -11872,22 +11810,29 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *Ted Nugent (via Wiki Page)
-*[[24: March 23, 2017]] (via AutoSub, otter.ai)
+*[[24: March 23, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[77: August 23, 2017]] (via AutoSub, OpenAI Whisper)
+*[[114: Piers Morgan Interview]] (via OpenAI Whisper)
 *[[133: Operation Paul Revere]] (via AutoSub, OpenAI Whisper)
+*[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper)
 *[[145: April 2, 2018]] (via AutoSub, OpenAI Whisper)
-*[[179: July 10, 2018]] (via AutoSub)
-*[[275: December 23-31, 2012]] (via AutoSub, OpenAI Whisper)
+*[[179: July 10, 2018]] (via AutoSub, OpenAI Whisper)
+*[[267: December 16, 2012]] (via OpenAI Whisper)
+*[[275: December 23-31, 2012]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[276: January 1-2, 2013]] (via AutoSub, OpenAI Whisper)
-*[[283: January 4-6, 2013]] (via AutoSub)
+*[[278: January 3, 2013]] (via OpenAI Whisper)
+*[[283: January 4-6, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[288: January 7-9, 2013]] (via OpenAI Whisper)
-*[[289: January 10-13, 2013]] (via AutoSub)
-*[[301: January 24-28, 2013]] (via AutoSub, OpenAI Whisper)
+*[[289: January 10-13, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[301: January 24-28, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[308: February 6-8, 2013]] (via OpenAI Whisper)
 *[[331: March 13-14, 2013]] (via OpenAI Whisper)
 *[[335: March 15-22, 2013]] (via AutoSub, OpenAI Whisper)
 *[[355: April 18, 2013]] (via AutoSub)
 *[[410: March 19-20, 2020]] (via AutoSub)
 *[[441: June 3-4, 2020]] (via OpenAI Whisper)
+*[[494: October 19, 2020]] (via OpenAI Whisper)
+*[[567: June 13, 2021]] (via OpenAI Whisper)
 *[[623: July 2-3, 2003]] (via OpenAI Whisper)
 
 |}
@@ -15996,12 +15941,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|39
+|40
 |-
 |'''Source Texts:'''
 |
 
 *'Douglas Adams'
+*"Douglas Adams'"
 *'the Douglas Adams'
 
 |-
@@ -17089,12 +17035,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|35
+|36
 |-
 |'''Source Texts:'''
 |
 
 *'Dusty Rhodes'
+*"Dusty Rhodes'"
 *'this Dusty Rhodes'
 
 |-
