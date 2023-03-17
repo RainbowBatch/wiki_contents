@@ -4,31 +4,6 @@ This page is part of an attempt to make everything RainbowBatch knows available 
 
 Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if you have a correction or suggestion, which will be added upstream.
 
-==Vaccine Adverse Event Reporting==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'the Vaccine Adverse Event Reporting'
-
-|-
-|'''Sources:'''
-|
-
-*[[425: April 23-24, 2020]] (via OpenAI Whisper)
-*[[718: August 21-22, 2022]] (via OpenAI Whisper)
-
-|}
-
 ==Vaccine Adverse Event Reporting System==
 {| class="fandom-table"
 |'''Status:'''
@@ -38,19 +13,21 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
 
+*'the Vaccine Adverse Event Reporting'
 *'the Vaccine Adverse Event Reporting System'
 
 |-
 |'''Sources:'''
 |
 
+*[[425: April 23-24, 2020]] (via OpenAI Whisper)
 *[[593: September 2, 2021]] (via OpenAI Whisper)
-*[[718: August 21-22, 2022]] (via Welder)
+*[[718: August 21-22, 2022]] (via Welder, OpenAI Whisper)
 
 |}
 
@@ -92,7 +69,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -106,7 +83,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[61: July 5, 2017]] (via AutoSub, OpenAI Whisper)
 *[[166: February 2-3, 2009]] (via AutoSub, OpenAI Whisper)
 *[[298: January 20-23, 2013]] (via AutoSub, OpenAI Whisper)
-*[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -577,33 +554,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Verner Von Braun==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, PERSON
-|-
-|'''Total Count:'''
-|4
-|-
-|'''Source Texts:'''
-|
-
-*'Verner Von Braun'
-*'Verner von Braun'
-
-|-
-|'''Sources:'''
-|
-
-*[[62: August 19-26, 2015]] (via otter.ai)
-*[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai)
-*[[757: December 13, 2022]] (via otter.ai)
-
-|}
-
 ==Veronica Mars==
 {| class="fandom-table"
 |'''Status:'''
@@ -864,31 +814,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[465: August 3-4, 2020]] (via AutoSub)
 *[[714: Trial Recap, Part 1]] (via AutoSub)
-
-|}
-
-==Victor Orban==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Victor Orban'
-
-|-
-|'''Sources:'''
-|
-
-*[[179: July 10, 2018]] (via OpenAI Whisper)
-*[[713: Chatting With Becca Lewis]] (via OpenAI Whisper)
 
 |}
 
@@ -1173,22 +1098,25 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
 
+*'Victor Orban'
 *'Viktor Orban'
 
 |-
 |'''Sources:'''
 |
 
+*[[179: July 10, 2018]] (via OpenAI Whisper)
 *[[252: April 7-8, 2009]] (via OpenAI Whisper)
 *[[341: September 5, 2019]] (via AutoSub, OpenAI Whisper)
+*[[713: Chatting With Becca Lewis]] (via OpenAI Whisper)
 
 |}
 
