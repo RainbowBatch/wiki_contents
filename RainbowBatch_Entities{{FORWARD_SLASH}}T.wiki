@@ -1376,7 +1376,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|570
+|571
 |-
 |'''Source Texts:'''
 |
@@ -1461,7 +1461,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[741: December 2, 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[758: December 8, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -11245,44 +11245,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|19
+|21
 |-
 |'''Source Texts:'''
 |
 
 *'The Turbo Force'
 *'Turbo Force'
-
-|-
-|'''Sources:'''
-|
-
-*[[257: January 25, 2019]] (via AutoSub)
-*[[261: February 5-6, 2019]] (via AutoSub)
-*[[264: February 11-13, 2019]] (via AutoSub)
-*[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper)
-*[[380: December 19-20, 2019]] (via OpenAI Whisper)
-*[[477: September 3, 2020]] (via OpenAI Whisper)
-*[[609: October 20, 2021]] (via AutoSub)
-*[[624: November 30, 2021]] (via AutoSub)
-*[[743: October 29-30, 2022]] (via OpenAI Whisper)
-
-|}
-
-==TurboForce==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
 *'TurboForce'
 
 |-
@@ -11290,7 +11259,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[256: January 17-23, 2019]] (via Wiki Page)
-*[[380: December 19-20, 2019]] (via Wiki Page)
+*[[257: January 25, 2019]] (via AutoSub)
+*[[261: February 5-6, 2019]] (via AutoSub)
+*[[264: February 11-13, 2019]] (via AutoSub)
+*[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper)
+*[[380: December 19-20, 2019]] (via OpenAI Whisper, Wiki Page)
+*[[477: September 3, 2020]] (via OpenAI Whisper)
+*[[609: October 20, 2021]] (via AutoSub)
+*[[624: November 30, 2021]] (via AutoSub)
+*[[743: October 29-30, 2022]] (via OpenAI Whisper)
 
 |}
 
@@ -11869,7 +11846,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |WORK_OF_ART
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -11883,6 +11860,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[28: How Not To Cover Alex Jones]] (via OpenAI Whisper)
 *[[376: December 3-5, 2019]] (via OpenAI Whisper)
 *[[399: February 12-14, 2020]] (via OpenAI Whisper)
+*[[785: March 4, 2023]] (via OpenAI Whisper)
 
 |}
 
