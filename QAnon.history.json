@@ -1,16 +1,61 @@
 [
   {
-    "oldid": 10699,
-    "summary": "Redirected page to [[QAnon]]",
+    "oldid": 10734,
+    "summary": "Reverted edits by [[Special:Contributions/RainbowBatch|RainbowBatch]] ([[User talk:RainbowBatch|talk]]) to last revision by [[User:Woursler|Woursler]]",
     "time": {
-      "date": 1679529600000,
-      "day": 23,
+      "date": 1679788800000,
+      "day": 26,
+      "hour": 2,
+      "microsecond": 0,
+      "month": 3,
+      "second": 41,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 10733,
+    "summary": "RainbowBatch update",
+    "time": {
+      "date": 1679788800000,
+      "day": 26,
+      "hour": 1,
+      "microsecond": 0,
+      "month": 3,
+      "second": 58,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "RainbowBatch"
+  },
+  {
+    "oldid": 10626,
+    "summary": "Add some links.",
+    "time": {
+      "date": 1679356800000,
+      "day": 21,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 3,
+      "second": 39,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 10625,
+    "summary": "Created page with \"'''QAnon''' is a sprawling far-right conspiracy theory that emerged on social media in late 2017. The theory is based on the idea that there is a global cabal of elites who are involved in various nefarious activities, such as child trafficking and satanic rituals. It's sort of an extension of the earlier [[Pizzagate]] conspiracy.  QAnon is baseless and dangerous, promoting false information and encouraging distrust of mainstream media and institutions. The theory has be...\"",
+    "time": {
+      "date": 1679356800000,
+      "day": 21,
       "hour": 19,
       "microsecond": 0,
       "month": 3,
       "second": 34,
       "timezone": "UTC",
-      "weekday": 4
+      "weekday": 2
     },
     "username": "Woursler"
   }
