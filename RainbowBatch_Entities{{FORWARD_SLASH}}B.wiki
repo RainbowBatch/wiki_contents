@@ -1011,6 +1011,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Bank of International==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'The Bank of International'
+*'the Bank of International'
+
+|-
+|'''Sources:'''
+|
+
+*[[686: Continental Negotiations]] (via OpenAI Whisper)
+*[[785: March 4, 2023]] (via OpenAI Whisper)
+
+|}
+
 ==Bank of International Settlements==
 {| class="fandom-table"
 |'''Status:'''
@@ -1020,7 +1046,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -1034,7 +1060,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[129: David Rothschild Interview]] (via OpenAI Whisper)
 *[[686: Continental Negotiations]] (via OpenAI Whisper)
-*[[785: March 4, 2023]] (via otter.ai)
+*[[785: March 4, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -1215,7 +1241,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3277
+|3276
 |-
 |'''Source Texts:'''
 |
@@ -1834,48 +1860,23 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|19
 |-
 |'''Source Texts:'''
 |
 
 *'Barbara Loe Fisher'
-
-|-
-|'''Sources:'''
-|
-
-*Barbara Loe Fisher (via Wiki Page)
-*[[200: Feb. 25-March 1, 2009]] (via Wiki Page)
-*[[222: March 15-19, 2009]] (via FoulEdgeKnight-edited, otter.ai, Wiki Page)
-*[[288: January 7-9, 2013]] (via Wiki Page)
-
-|}
-
-==Barbara Lowe Fisher==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|5
-|-
-|'''Source Texts:'''
-|
-
 *'Barbara Lowe Fisher'
 
 |-
 |'''Sources:'''
 |
 
+*Barbara Loe Fisher (via Wiki Page)
 *[[82: Oct. 27-Nov. 9, 2015]] (via AutoSub, OpenAI Whisper)
-*[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
-*[[222: March 15-19, 2009]] (via OpenAI Whisper)
-*[[288: January 7-9, 2013]] (via OpenAI Whisper)
+*[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper, Wiki Page)
+*[[222: March 15-19, 2009]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper, Wiki Page)
+*[[288: January 7-9, 2013]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -4653,7 +4654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==Benazir Bhutto==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |ORG, PERSON
@@ -7107,12 +7108,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON
 |-
 |'''Total Count:'''
-|150
+|156
 |-
 |'''Source Texts:'''
 |
 
 *'Bill Ayers'
+*'Bill Ayres'
 *'a Bill Ayers'
 *'the Bill Ayers'
 
@@ -7145,32 +7147,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[613: June 24-25, 2003]] (via AutoSub, OpenAI Whisper)
 *[[694: The Case of the Missing Propagandist]] (via AutoSub, OpenAI Whisper)
 *[[709: 2 Dan's 2 War]] (via OpenAI Whisper)
-*[[778: January 8, 2004]] (via AutoSub, otter.ai, Wiki Page)
-
-|}
-
-==Bill Ayres==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|6
-|-
-|'''Source Texts:'''
-|
-
-*'Bill Ayres'
-
-|-
-|'''Sources:'''
-|
-
-*[[168: Alex Vs. Bill Ayers]] (via OpenAI Whisper)
-*[[778: January 8, 2004]] (via OpenAI Whisper)
+*[[778: January 8, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -7716,7 +7693,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1373
+|1375
 |-
 |'''Source Texts:'''
 |
@@ -7729,6 +7706,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'a Bill Gates'
 *'the Bill Gates'
 *"the Bill Gates's"
+*'the Bill Gateses'
 *'this Bill Gates'
 
 |-
@@ -7923,31 +7901,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
-
-|}
-
-==Bill Gateses==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|LAW, PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'the Bill Gateses'
-
-|-
-|'''Sources:'''
-|
-
-*[[425: April 23-24, 2020]] (via OpenAI Whisper)
-*[[516: December 31, 2020- January 1, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -12506,7 +12459,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==Bob Woodward==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |PERSON
@@ -13640,7 +13593,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==Boris Yeltsin==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |PERSON
@@ -14658,28 +14611,34 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON
+|ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|11
+|24
 |-
 |'''Source Texts:'''
 |
 
 *'Brain\r\n    Force'
 *'Brain Force'
+*'BrainForce'
+*'Brainforce'
 
 |-
 |'''Sources:'''
 |
 
 *[[47: June 19-July 5, 2015]] (via Wiki Page)
-*[[57: August 12-16, 2015]] (via Wiki Page)
+*[[57: August 12-16, 2015]] (via OpenAI Whisper, Wiki Page)
 *[[84: December 21, 2012]] (via OpenAI Whisper)
+*[[264: February 11-13, 2019]] (via OpenAI Whisper)
 *[[290: April 25-26, 2019]] (via OpenAI Whisper)
+*[[300: May 21-22, 2019]] (via OpenAI Whisper)
 *[[342: September 6-11, 2019]] (via OpenAI Whisper)
+*[[380: December 19-20, 2019]] (via OpenAI Whisper)
 *[[459: July 17, 2020]] (via OpenAI Whisper)
 *[[477: September 3, 2020]] (via OpenAI Whisper)
+*[[604: October 5, 2021]] (via OpenAI Whisper)
 *[[609: October 20, 2021]] (via OpenAI Whisper)
 
 |}
@@ -14737,36 +14696,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[567: June 13, 2021]] (via AutoSub)
 *[[666: March 31, 2022]] (via AutoSub)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub)
-
-|}
-
-==BrainForce==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, PRODUCT
-|-
-|'''Total Count:'''
-|13
-|-
-|'''Source Texts:'''
-|
-
-*'BrainForce'
-*'Brainforce'
-
-|-
-|'''Sources:'''
-|
-
-*[[57: August 12-16, 2015]] (via OpenAI Whisper, Wiki Page)
-*[[264: February 11-13, 2019]] (via OpenAI Whisper)
-*[[300: May 21-22, 2019]] (via OpenAI Whisper)
-*[[342: September 6-11, 2019]] (via OpenAI Whisper)
-*[[380: December 19-20, 2019]] (via OpenAI Whisper)
-*[[604: October 5, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -14934,7 +14863,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Brandon Straca==
+==Brandon Straka==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -14943,37 +14872,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|2
+|11
 |-
 |'''Source Texts:'''
 |
 
 *'Brandon Straca'
 *"Brandon Straca's"
-
-|-
-|'''Sources:'''
-|
-
-*[[503: Dan's Cara-Vanity Project Part 2]] (via OpenAI Whisper)
-*[[723: September 8, 2022]] (via OpenAI Whisper)
-
-|}
-
-==Brandon Straka==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|9
-|-
-|'''Source Texts:'''
-|
-
 *'Brandon Straka'
 *"Brandon Straka's"
 
@@ -14983,8 +14888,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[179: July 10, 2018]] (via OpenAI Whisper, Wiki Page)
 *[[403: February 24, 2020]] (via OpenAI Whisper)
+*[[503: Dan's Cara-Vanity Project Part 2]] (via OpenAI Whisper)
 *[[525: January 27, 2021]] (via OpenAI Whisper)
-*[[723: September 8, 2022]] (via otter.ai)
+*[[723: September 8, 2022]] (via otter.ai, OpenAI Whisper)
 *[[770: January 20, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
@@ -15289,7 +15195,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|31
+|32
 |-
 |'''Source Texts:'''
 |
@@ -15318,7 +15224,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[577: July 13, 2021]] (via OpenAI Whisper)
 *[[606: June 18-19, 2003]] (via OpenAI Whisper)
 *[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
-*[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -16193,32 +16099,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Brian Seltzer==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|4
-|-
-|'''Source Texts:'''
-|
-
-*'Brian Seltzer'
-
-|-
-|'''Sources:'''
-|
-
-*[[389: January 15-17, 2020]] (via AutoSub, OpenAI Whisper)
-*[[552: May 6, 2003]] (via OpenAI Whisper)
-*[[744: November 3, 2022]] (via OpenAI Whisper)
-
-|}
-
 ==Brian Sharp==
 {| class="fandom-table"
 |'''Status:'''
@@ -16269,31 +16149,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Brian Stalter==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Brian Stalter'
-
-|-
-|'''Sources:'''
-|
-
-*[[8: January 26-27, 2017]] (via OpenAI Whisper)
-*[[11: February 10, 2017]] (via OpenAI Whisper)
-
-|}
-
 ==Brian Stelter==
 {| class="fandom-table"
 |'''Status:'''
@@ -16303,14 +16158,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|263
+|277
 |-
 |'''Source Texts:'''
 |
 
 *'Brian\r\nStelter'
+*'Brian Seltzer'
+*'Brian Stalter'
 *'Brian Stelter'
 *"Brian Stelter's"
+*'Brian Stilter'
 *'a Brian Stelter'
 *'the Brian Stelter'
 
@@ -16319,6 +16177,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *[[8: January 26-27, 2017]] (via otter.ai, OpenAI Whisper, Wiki Page)
+*[[11: February 10, 2017]] (via OpenAI Whisper)
 *[[116: January 5, 2018]] (via OpenAI Whisper, Wiki Page)
 *[[117: January 8, 2018]] (via OpenAI Whisper, Wiki Page)
 *[[118: January 10-11, 2018]] (via Wiki Page)
@@ -16333,7 +16192,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[287: April 15-18, 2019]] (via OpenAI Whisper)
 *[[347: September 23, 2019]] (via OpenAI Whisper)
 *[[363: October 30, 2019]] (via OpenAI Whisper)
-*[[389: January 15-17, 2020]] (via OpenAI Whisper, Wiki Page)
+*[[389: January 15-17, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[391: January 22, 2020]] (via OpenAI Whisper)
 *[[394: January 31, 2020]] (via OpenAI Whisper, Wiki Page)
 *[[397: February 7-8, 2020]] (via OpenAI Whisper)
@@ -16359,6 +16218,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[527: February 4, 2021]] (via OpenAI Whisper)
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
 *[[550: April 16, 2021]] (via OpenAI Whisper, Wiki Page)
+*[[552: May 6, 2003]] (via OpenAI Whisper)
 *[[569: June 23, 2021]] (via OpenAI Whisper)
 *[[575: July 4, 2021]] (via OpenAI Whisper)
 *[[576: July 9, 2021]] (via OpenAI Whisper, Wiki Page)
@@ -16380,33 +16240,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[720: August 6, 2003]] (via otter.ai, Welder, OpenAI Whisper)
 *[[726: September 15-16, 2022]] (via otter.ai, OpenAI Whisper)
 *[[729: September 24, 2022]] (via otter.ai)
-*[[744: November 3, 2022]] (via otter.ai)
+*[[744: November 3, 2022]] (via otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper, Wiki Page)
-
-|}
-
-==Brian Stilter==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|8
-|-
-|'''Source Texts:'''
-|
-
-*'Brian Stilter'
-
-|-
-|'''Sources:'''
-|
-
-*[[8: January 26-27, 2017]] (via OpenAI Whisper)
-*[[579: May 30, 2003]] (via OpenAI Whisper)
 
 |}
 
@@ -18513,7 +18348,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|332
+|339
 |-
 |'''Source Texts:'''
 |
@@ -18521,6 +18356,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Buckley'
 *'Buckley Hamman'
 *'Buckley Hammon'
+*'Buckley Hammond'
 
 |-
 |'''Sources:'''
@@ -18540,6 +18376,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[56: July 22-Aug 11, 2015]] (via Wiki Page)
 *[[62: August 19-26, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[63: July 12, 2017]] (via AutoSub, OpenAI Whisper)
+*[[66: September 6-17, 2015]] (via AutoSub, OpenAI Whisper)
 *[[69: August 1, 2017]] (via AutoSub, OpenAI Whisper)
 *[[71: August 4, 2017]] (via AutoSub, OpenAI Whisper)
 *[[73: August 12, 2017]] (via AutoSub, OpenAI Whisper)
@@ -18597,33 +18434,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[742: Formulaic Objections Part 9]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[762: December 31, 2022]] (via otter.ai, OpenAI Whisper)
 *[[The Halloween Story]] (via AutoSub, OpenAI Whisper, Wiki Page)
-
-|}
-
-==Buckley Hammond==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|7
-|-
-|'''Source Texts:'''
-|
-
-*'Buckley Hammond'
-
-|-
-|'''Sources:'''
-|
-
-*[[66: September 6-17, 2015]] (via AutoSub, OpenAI Whisper)
-*[[84: December 21, 2012]] (via OpenAI Whisper)
-*[[199: August 29, 2018]] (via OpenAI Whisper)
-*[[236: December 4-5, 2018]] (via AutoSub, OpenAI Whisper)
 
 |}
 

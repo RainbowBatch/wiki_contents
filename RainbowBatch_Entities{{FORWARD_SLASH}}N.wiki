@@ -3706,7 +3706,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|69
+|70
 |-
 |'''Source Texts:'''
 |
@@ -3757,7 +3757,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[740: August 13, 2003]] (via otter.ai)
 *[[753: December 1, 2022]] (via OpenAI Whisper)
 *[[779: January 9-12, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4255,13 +4255,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|45
+|58
 |-
 |'''Source Texts:'''
 |
 
 *'Neil Hesleyn'
 *'Neil Heslin'
+*'Neil Hessel'
+*'Neil Hesselen'
+*'Neil Hezlin'
 
 |-
 |'''Sources:'''
@@ -4269,94 +4272,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *Texas Sandy Hook Lawsuit (Heslin v. Jones) (via Wiki Page)
 *[[341: September 5, 2019]] (via OpenAI Whisper)
-*[[602: Sandy Hook Response]] (via otter.ai)
+*[[602: Sandy Hook Response]] (via otter.ai, OpenAI Whisper)
 *[[641: Formulaic Objections Part 4]] (via OpenAI Whisper, Wiki Page)
 *[[665: Formulaic Objections Part 6]] (via otter.ai, OpenAI Whisper)
 *[[685: Formulaic Objections Part 7]] (via otter.ai)
-*[[711: August 2, 2022]] (via Wiki Page)
-*[[712: The Decompression Session]] (via otter.ai)
+*[[710: Elizabeth Williamson Returns]] (via OpenAI Whisper)
+*[[711: August 2, 2022]] (via OpenAI Whisper, Wiki Page)
+*[[712: The Decompression Session]] (via otter.ai, OpenAI Whisper)
 *[[714: Trial Recap, Part 1]] (via Welder, OpenAI Whisper)
 *[[728: Elizabeth Williamson Returns Once More]] (via otter.ai)
-*[[738: Taking a Powder With Chowder]] (via otter.ai, Welder)
+*[[738: Taking a Powder With Chowder]] (via otter.ai, Welder, OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via otter.ai, OpenAI Whisper)
 *[[751: November 20-21, 2022]] (via otter.ai, OpenAI Whisper)
 *[[767: January 12, 2023]] (via otter.ai)
-
-|}
-
-==Neil Hessel==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|3
-|-
-|'''Source Texts:'''
-|
-
-*'Neil Hessel'
-
-|-
-|'''Sources:'''
-|
-
-*[[712: The Decompression Session]] (via OpenAI Whisper)
-*[[738: Taking a Powder With Chowder]] (via OpenAI Whisper)
-
-|}
-
-==Neil Hesselen==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|8
-|-
-|'''Source Texts:'''
-|
-
-*'Neil Hesselen'
-
-|-
-|'''Sources:'''
-|
-
-*[[602: Sandy Hook Response]] (via OpenAI Whisper)
-*[[641: Formulaic Objections Part 4]] (via OpenAI Whisper)
-*[[711: August 2, 2022]] (via OpenAI Whisper)
-
-|}
-
-==Neil Hezlin==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Neil Hezlin'
-
-|-
-|'''Sources:'''
-|
-
-*[[710: Elizabeth Williamson Returns]] (via OpenAI Whisper)
-*[[711: August 2, 2022]] (via OpenAI Whisper)
 
 |}
 
@@ -4513,7 +4441,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|89
+|92
 |-
 |'''Source Texts:'''
 |
@@ -4556,7 +4484,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[748: November 16, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[750: Formulaic Objections Part 11]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5728,7 +5656,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1180
+|1181
 |-
 |'''Source Texts:'''
 |
@@ -6077,7 +6005,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[780: February 21, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[782: February 26, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub)
-*[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 
 |}
@@ -9829,6 +9757,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Nolan Ryan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Nolan Ryan'
+*"Nolan Ryan's"
+
+|-
+|'''Sources:'''
+|
+
+*[[565: June 10, 2021]] (via AutoSub)
+*[[785: March 4, 2023]] (via OpenAI Whisper)
+
+|}
+
 ==non american==
 {| class="fandom-table"
 |'''Status:'''
@@ -10269,38 +10223,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Norm Patis==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|14
-|-
-|'''Source Texts:'''
-|
-
-*'Norm Patis'
-
-|-
-|'''Sources:'''
-|
-
-*[[284: April 12, 2019]] (via OpenAI Whisper)
-*[[311: June 17-19, 2019]] (via OpenAI Whisper)
-*[[402: February 20, 2020]] (via OpenAI Whisper)
-*[[429: May 3-4, 2020]] (via OpenAI Whisper)
-*[[484: September 18-19, 2020]] (via OpenAI Whisper)
-*[[685: Formulaic Objections Part 7]] (via OpenAI Whisper)
-*[[723: September 8, 2022]] (via OpenAI Whisper)
-*[[733: October 6, 2022]] (via OpenAI Whisper)
-*[[735: October 12, 2022]] (via OpenAI Whisper)
-
-|}
-
 ==Norm Patterson==
 {| class="fandom-table"
 |'''Status:'''
@@ -10340,14 +10262,18 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|256
+|278
 |-
 |'''Source Texts:'''
 |
 
 *'Norm\r\n    Pattis'
+*'Norm Patis'
 *'Norm Pattice'
 *'Norm Pattis'
+*'Norm Pattison'
+*"Norm Pattison's"
+*'Norm Pettis'
 
 |-
 |'''Sources:'''
@@ -10368,7 +10294,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[360: October 23, 2019]] (via OpenAI Whisper, Wiki Page)
 *[[392: January 24, 2020]] (via OpenAI Whisper, Wiki Page)
 *[[399: February 12-14, 2020]] (via Wiki Page)
-*[[429: May 3-4, 2020]] (via Wiki Page)
+*[[402: February 20, 2020]] (via OpenAI Whisper)
+*[[429: May 3-4, 2020]] (via OpenAI Whisper, Wiki Page)
 *[[460: Donk's Dojo]] (via OpenAI Whisper)
 *[[484: September 18-19, 2020]] (via OpenAI Whisper, Wiki Page)
 *[[530: February 10-11, 2021]] (via OpenAI Whisper)
@@ -10383,15 +10310,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[637: January 13, 2022]] (via OpenAI Whisper, Wiki Page)
 *[[668: April 8, 2022]] (via Wiki Page)
 *[[685: Formulaic Objections Part 7]] (via otter.ai, OpenAI Whisper)
-*[[723: September 8, 2022]] (via otter.ai)
+*[[723: September 8, 2022]] (via otter.ai, OpenAI Whisper)
 *[[725: September 13-14, 2022]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[727: Chatting with Sebastian Murdock]] (via OpenAI Whisper)
 *[[729: September 24, 2022]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[732: Trial Press Conference]] (via OpenAI Whisper)
-*[[733: October 6, 2022]] (via otter.ai)
+*[[733: October 6, 2022]] (via otter.ai, OpenAI Whisper)
 *[[734: October 9, 2022]] (via otter.ai, OpenAI Whisper)
 *[[735: October 12, 2022]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
-*[[736: Reflections on a Verdict]] (via FoulEdgeKnight-edited, Wiki Page)
+*[[736: Reflections on a Verdict]] (via FoulEdgeKnight-edited, OpenAI Whisper, Wiki Page)
 *[[737: Reflections on a Verdict Part 2]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[739: Formulaic Objections Part 8]] (via otter.ai, Welder, OpenAI Whisper, Wiki Page)
 *[[741: December 2, 2015]] (via OpenAI Whisper)
@@ -10400,60 +10327,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[750: Formulaic Objections Part 11]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[761: December 11, 2003]] (via Manually-created)
 *[[765: Formulaic Objections Part 13]] (via otter.ai, OpenAI Whisper, Wiki Page)
-*[[Alex's Breaky Minisode]] (via OpenAI Whisper)
-
-|}
-
-==Norm Pattison==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|6
-|-
-|'''Source Texts:'''
-|
-
-*'Norm Pattison'
-*"Norm Pattison's"
-
-|-
-|'''Sources:'''
-|
-
-*630 (via OpenAI Whisper)
-*[[311: June 17-19, 2019]] (via OpenAI Whisper)
-*[[333: August 16, 2019]] (via OpenAI Whisper)
-*[[735: October 12, 2022]] (via OpenAI Whisper)
-
-|}
-
-==Norm Pettis==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Norm Pettis'
-
-|-
-|'''Sources:'''
-|
-
-*[[736: Reflections on a Verdict]] (via OpenAI Whisper)
 *[[775: Fireside Chatting]] (via OpenAI Whisper)
+*[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 
 |}
 
@@ -12846,31 +12721,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[335: March 15-22, 2013]] (via AutoSub)
 *[[352: April 17, 2013]] (via AutoSub)
 *[[407: March 5-10, 2020]] (via AutoSub)
-
-|}
-
-==Numark Richards==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Numark Richards'
-
-|-
-|'''Sources:'''
-|
-
-*[[187: Magic Cheesecloth and Secret Pleiadians]] (via AutoSub)
-*[[193: Big Skeletons and Pencil Ink]] (via AutoSub)
 
 |}
 

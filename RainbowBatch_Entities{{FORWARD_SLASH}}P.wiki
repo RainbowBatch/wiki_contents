@@ -1377,56 +1377,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Pat Robert==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Pat Robert'
-
-|-
-|'''Sources:'''
-|
-
-*[[263: Jordan Takes The Wheel]] (via AutoSub)
-*[[365: She Doesn't Do Politics]] (via AutoSub)
-
-|}
-
-==Pat Roberts==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Pat Roberts'
-
-|-
-|'''Sources:'''
-|
-
-*[[365: She Doesn't Do Politics]] (via AutoSub)
-*[[540: March 15-16, 2021]] (via AutoSub)
-
-|}
-
 ==Pat Robertson==
 {| class="fandom-table"
 |'''Status:'''
@@ -1436,11 +1386,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|100
+|104
 |-
 |'''Source Texts:'''
 |
 
+*'Pat Robert'
+*'Pat Roberts'
 *'Pat Robertson'
 *"Pat Robertson's"
 
@@ -1599,84 +1551,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Patrick Berg==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Patrick Berg'
-
-|-
-|'''Sources:'''
-|
-
-*[[470: ShadowGate]] (via AutoSub)
-*[[619: November 16, 2021]] (via OpenAI Whisper)
-
-|}
-
-==Patrick Bergey==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|17
-|-
-|'''Source Texts:'''
-|
-
-*'Patrick Bergey'
-*"Patrick Bergey's"
-
-|-
-|'''Sources:'''
-|
-
-*[[470: ShadowGate]] (via AutoSub, OpenAI Whisper)
-*[[471: August 14-16, 2020]] (via AutoSub, OpenAI Whisper)
-*[[472: August 17-19, 2020]] (via OpenAI Whisper)
-
-|}
-
-==Patrick Bergin==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|5
-|-
-|'''Source Texts:'''
-|
-
-*'Patrick Bergin'
-
-|-
-|'''Sources:'''
-|
-
-*[[470: ShadowGate]] (via AutoSub)
-*[[471: August 14-16, 2020]] (via AutoSub)
-*[[472: August 17-19, 2020]] (via AutoSub)
-
-|}
-
 ==Patrick Bergy==
 {| class="fandom-table"
 |'''Status:'''
@@ -1686,11 +1560,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|38
+|62
 |-
 |'''Source Texts:'''
 |
 
+*'Patrick Berg'
+*'Patrick Bergey'
+*"Patrick Bergey's"
+*'Patrick Bergin'
 *'Patrick Bergy'
 *"Patrick Bergy's"
 
@@ -1698,9 +1576,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[470: ShadowGate]] (via OpenAI Whisper, Wiki Page)
-*[[471: August 14-16, 2020]] (via OpenAI Whisper, Wiki Page)
-*[[472: August 17-19, 2020]] (via Wiki Page)
+*[[470: ShadowGate]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[471: August 14-16, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[472: August 17-19, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[619: November 16, 2021]] (via OpenAI Whisper)
 
 |}
 
@@ -4638,7 +4517,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|344
+|345
 |-
 |'''Source Texts:'''
 |
@@ -4740,7 +4619,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[747: November 11, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[761: December 11, 2003]] (via Manually-created, otter.ai, OpenAI Whisper)
 *[[763: December 15, 2003]] (via otter.ai, OpenAI Whisper)
-*[[785: March 4, 2023]] (via otter.ai)
+*[[785: March 4, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8276,7 +8155,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PRODUCT
 |-
 |'''Total Count:'''
-|36
+|37
 |-
 |'''Source Texts:'''
 |
@@ -8308,6 +8187,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[640: January 22, 2022]] (via AutoSub)
 *[[689: May 26, 2022]] (via AutoSub)
 *[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
+*[[785: March 4, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -12409,7 +12289,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|166
+|168
 |-
 |'''Source Texts:'''
 |
@@ -12418,6 +12298,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Project Veritas\r\n'
 *"Project Veritas'"
 *"Project Veritas's"
+*'Project Vertias'
 *'the Project Veritas'
 
 |-
@@ -12446,7 +12327,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[306: June 4-5, 2019]] (via AutoSub)
 *[[313: June 23-24, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[316: July 1, 2019]] (via OpenAI Whisper)
-*[[331: March 13-14, 2013]] (via AutoSub, OpenAI Whisper)
+*[[331: March 13-14, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[333: August 16, 2019]] (via AutoSub, OpenAI Whisper)
 *[[334: August 21-22, 2019]] (via OpenAI Whisper)
 *[[360: October 23, 2019]] (via AutoSub, OpenAI Whisper)
@@ -12480,31 +12361,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[637: January 13, 2022]] (via AutoSub, OpenAI Whisper)
 *[[640: January 22, 2022]] (via OpenAI Whisper)
 *[[644: February 2, 2022]] (via OpenAI Whisper)
-
-|}
-
-==Project Vertias==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Project Vertias'
-
-|-
-|'''Sources:'''
-|
-
-*[[331: March 13-14, 2013]] (via Wiki Page)
-*[[442: June 5, 2020]] (via Wiki Page)
 
 |}
 
