@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|57
+|61
 |-
 |'''Source Texts:'''
 |
@@ -58,6 +58,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[646: February 6, 2022]] (via OpenAI Whisper)
 *[[708: The Cuck-Destroyer Destroys The Stage]] (via OpenAI Whisper)
 *[[779: January 9-12, 2004]] (via OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -2971,7 +2972,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -2984,6 +2985,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[375: November 29, 2019]] (via AutoSub)
 *[[738: Taking a Powder With Chowder]] (via AutoSub, Welder, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via otter.ai)
 
 |}
 
@@ -3104,7 +3106,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|19
+|28
 |-
 |'''Source Texts:'''
 |
@@ -3127,6 +3129,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[604: October 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[648: February 11, 2022]] (via AutoSub)
 *[[695: June 22, 2022]] (via AutoSub)
+*[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3524,7 +3527,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|73
+|75
 |-
 |'''Source Texts:'''
 |
@@ -3572,6 +3575,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[760: December 9-10, 2003]] (via Manually-created, otter.ai)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai)
 *[[785: March 4, 2023]] (via AutoSub, otter.ai)
+*[[787: January 23, 2004]] (via AutoSub, otter.ai)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -4001,7 +4005,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|3
+|5
 |-
 |'''Source Texts:'''
 |
@@ -4015,6 +4019,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[335: March 15-22, 2013]] (via AutoSub, OpenAI Whisper)
 *[[591: June 11, 2003]] (via OpenAI Whisper)
+*[[787: January 23, 2004]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4621,7 +4626,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|1305
+|1306
 |-
 |'''Source Texts:'''
 |
@@ -4961,6 +4966,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[780: February 21, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[782: February 26, 2023]] (via otter.ai)
 *[[783: March 2, 2006 (Live)]] (via AutoSub, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
@@ -6539,7 +6545,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|19
+|21
 |-
 |'''Source Texts:'''
 |
@@ -6561,6 +6567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[660: February 11, 2014]] (via AutoSub, OpenAI Whisper)
 *[[678: July 29-30, 2003]] (via AutoSub, OpenAI Whisper)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub)
+*[[786: Too Biggs For His Britches]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8201,6 +8208,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==World Baseball Classic==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|9
+|-
+|'''Source Texts:'''
+|
+
+*'World Baseball Classic'
+*'the World Baseball Classic'
+
+|-
+|'''Sources:'''
+|
+
+*[[785: March 4, 2023]] (via otter.ai)
+*[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
 ==World Council==
 {| class="fandom-table"
 |'''Status:'''
@@ -8317,7 +8351,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|101
+|103
 |-
 |'''Source Texts:'''
 |
@@ -8364,6 +8398,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[751: November 20-21, 2022]] (via otter.ai, OpenAI Whisper)
 *[[781: Chatting With Will Sommer]] (via otter.ai)
 *[[784: August 9, 2013 (Live)]] (via OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -9285,7 +9320,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|356
+|358
 |-
 |'''Source Texts:'''
 |
@@ -9452,6 +9487,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[780: February 21, 2023]] (via AutoSub, OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub)
 *[[785: March 4, 2023]] (via AutoSub, OpenAI Whisper)
+*[[787: January 23, 2004]] (via AutoSub)
+*[[788: Mike Rothschild Returns]] (via AutoSub)
 *[[No One Is Mad At The Crew]] (via OpenAI Whisper)
 *[[The Halloween Story]] (via OpenAI Whisper)
 
@@ -9466,7 +9503,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|48
+|49
 |-
 |'''Source Texts:'''
 |
@@ -9489,7 +9526,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[92: October 13 & 16, 2017]] (via OpenAI Whisper)
 *[[111: January 21-22, 2016]] (via OpenAI Whisper)
 *[[150: Alex Jones Attempts A Face Turn]] (via OpenAI Whisper)
-*[[188: August 1, 2018]] (via OpenAI Whisper)
+*[[188: August 1, 2018]] (via OpenAI Whisper, Wiki Page)
 *[[198: July 22, 2011]] (via OpenAI Whisper)
 *[[203: March 2-4, 2009]] (via OpenAI Whisper)
 *[[230C: Obama Deception, Part 3]] (via OpenAI Whisper)
@@ -9543,7 +9580,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|37
+|40
 |-
 |'''Source Texts:'''
 |
@@ -9572,6 +9609,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[501: November 7-8, 2020]] (via OpenAI Whisper)
 *[[525: January 27, 2021]] (via AutoSub)
 *[[720: August 6, 2003]] (via otter.ai, Welder)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -9627,7 +9665,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|149
+|152
 |-
 |'''Source Texts:'''
 |
@@ -9704,6 +9742,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[780: February 21, 2023]] (via otter.ai)
 *[[784: August 9, 2013 (Live)]] (via OpenAI Whisper)
 *[[785: March 4, 2023]] (via otter.ai)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 
