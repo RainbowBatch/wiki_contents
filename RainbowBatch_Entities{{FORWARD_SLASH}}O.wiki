@@ -38,7 +38,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|165
+|168
 |-
 |'''Source Texts:'''
 |
@@ -97,6 +97,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[677: May 4, 2022]] (via AutoSub)
 *[[679: May 9, 2022]] (via AutoSub, OpenAI Whisper)
 *[[707: Dan's War]] (via AutoSub)
+*[[786: Too Biggs For His Britches]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -109,7 +110,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|42
+|46
 |-
 |'''Source Texts:'''
 |
@@ -141,6 +142,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[638: See You At The Cross-Rhodes]] (via OpenAI Whisper)
 *[[658: It's Pretty Easy Being Greene]] (via OpenAI Whisper)
 *[[721: September 2, 2022]] (via otter.ai, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -153,7 +155,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|73
+|77
 |-
 |'''Source Texts:'''
 |
@@ -181,6 +183,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[673: Jordan Takes The Wheel 8]] (via OpenAI Whisper)
 *[[737: Reflections on a Verdict Part 2]] (via FoulEdgeKnight-edited, otter.ai)
 *[[767: January 12, 2023]] (via otter.ai)
+*[[786: Too Biggs For His Britches]] (via otter.ai)
 
 |}
 
@@ -865,6 +868,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[217: Space Liars and Dragon Moths]] (via OpenAI Whisper)
 *[[419: Disease Denial and Vampire Affirmation]] (via OpenAI Whisper)
+
+|}
+
+==Odell Beckham==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Odell Beckham'
+
+|-
+|'''Sources:'''
+|
+
+*[[517: January 5-6, 2021]] (via AutoSub)
+*[[787: January 23, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -2878,7 +2906,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON
 |-
 |'''Total Count:'''
-|136
+|138
 |-
 |'''Source Texts:'''
 |
@@ -2929,6 +2957,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[704: 9/11, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub, OpenAI Whisper)
 *[[741: December 2, 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3341,7 +3370,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1516
+|1517
 |-
 |'''Source Texts:'''
 |
@@ -3628,6 +3657,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[768: Formulaic Objections Part 14]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[770: January 20, 2023]] (via otter.ai, OpenAI Whisper)
 *[[782: February 26, 2023]] (via otter.ai)
+*[[786: Too Biggs For His Britches]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 

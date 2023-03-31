@@ -1128,7 +1128,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|92
+|94
 |-
 |'''Source Texts:'''
 |
@@ -1213,6 +1213,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[782: February 26, 2023]] (via AutoSub, otter.ai)
 *[[784: August 9, 2013 (Live)]] (via OpenAI Whisper)
 *[[785: March 4, 2023]] (via AutoSub)
+*[[786: Too Biggs For His Britches]] (via AutoSub)
+*[[787: January 23, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -4813,7 +4815,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|695
+|697
 |-
 |'''Source Texts:'''
 |
@@ -4916,6 +4918,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[748: November 16, 2022]] (via OpenAI Whisper)
 *[[756: December 5, 2003]] (via otter.ai)
 *[[775: Fireside Chatting]] (via otter.ai, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5039,7 +5042,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|188
+|189
 |-
 |'''Source Texts:'''
 |
@@ -5056,6 +5059,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *Carol Hamman (via Wiki Page)
 *Connecticut Sandy Hook Lawsuit (Lafferty v. Jones) (via Wiki Page)
 *David Jones (via Wiki Page)
+*John Birch Society (via Wiki Page)
 *[[56: July 22-Aug 11, 2015]] (via OpenAI Whisper)
 *[[98: May 2-3, 2012]] (via Wiki Page)
 *[[101: January 11, 2016]] (via AutoSub, OpenAI Whisper)
@@ -7934,7 +7938,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|642
+|643
 |-
 |'''Source Texts:'''
 |
@@ -8201,6 +8205,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[767: January 12, 2023]] (via otter.ai, OpenAI Whisper)
 *[[778: January 8, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[779: January 9-12, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via AutoSub)
 *[[Spiritual Correction]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -8350,7 +8355,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|405
+|407
 |-
 |'''Source Texts:'''
 |
@@ -8532,6 +8537,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[757: December 13, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[770: January 20, 2023]] (via AutoSub, otter.ai)
+*[[786: Too Biggs For His Britches]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -11611,6 +11617,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Dickey Barrett==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Dickey Barrett'
+*"Dickey Barrett's"
+
+|-
+|'''Sources:'''
+|
+
+*[[755: Ye Takes a Sip of (Mc)Guinness]] (via otter.ai)
+*[[787: January 23, 2004]] (via otter.ai, OpenAI Whisper)
+
+|}
+
 ==Dickie Barrett==
 {| class="fandom-table"
 |'''Status:'''
@@ -11620,7 +11652,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -11635,6 +11667,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[373: April 24, 2013]] (via OpenAI Whisper)
 *[[598: September 17, 2021]] (via OpenAI Whisper)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via OpenAI Whisper)
+*[[787: January 23, 2004]] (via AutoSub)
 
 |}
 
@@ -11647,7 +11680,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -11661,6 +11694,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[373: April 24, 2013]] (via AutoSub)
 *[[598: September 17, 2021]] (via AutoSub)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub)
+*[[787: January 23, 2004]] (via otter.ai)
 
 |}
 
@@ -13411,10 +13445,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
-|17
+|27
 |-
 |'''Source Texts:'''
 |
@@ -13433,6 +13467,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[370: November 14-15, 2019]] (via AutoSub, OpenAI Whisper)
 *[[569: June 23, 2021]] (via AutoSub, OpenAI Whisper)
 *[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -13445,7 +13480,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -13456,6 +13491,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Mike Lindell (via Wiki Page)
 *[[508: December 1-2, 2020]] (via OpenAI Whisper)
 *[[584: August 5, 2021]] (via OpenAI Whisper)
 
@@ -14067,6 +14103,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Donald Sutherland==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Donald Sutherland'
+
+|-
+|'''Sources:'''
+|
+
+*[[80: October 16-26, 2015]] (via AutoSub, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via otter.ai, OpenAI Whisper)
+
+|}
+
 ==Donald Trump==
 {| class="fandom-table"
 |'''Status:'''
@@ -14076,7 +14137,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|23210
+|23257
 |-
 |'''Source Texts:'''
 |
@@ -14106,12 +14167,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *630 (via AutoSub, OpenAI Whisper)
 *Alex Jones (via Wiki Page)
 *Ali Alexander (via Wiki Page)
+*General Michael Flynn (via Wiki Page)
 *Jakari Jackson (via Wiki Page)
 *January 6th Insurrection (via Wiki Page)
+*Jim Bakker (via Wiki Page)
+*Judge Andrew Napolitano (via Wiki Page)
 *Laura Loomer (via Wiki Page)
 *Mika Brzezinski (via Wiki Page)
 *Mike Cernovich (via Wiki Page)
+*Mike Lindell (via Wiki Page)
 *Notable Legal Proceedings (via Wiki Page)
+*QAnon (via Wiki Page)
 *Roger Stone (via Wiki Page)
 *Satan (via Wiki Page)
 *Webster Tarpley (via Wiki Page)
@@ -14811,6 +14877,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[782: February 26, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub, OpenAI Whisper)
 *[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper)
@@ -16564,7 +16632,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|201
+|203
 |-
 |'''Source Texts:'''
 |
@@ -16623,6 +16691,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[762: December 31, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[774: December 22, 2003]] (via otter.ai, OpenAI Whisper)
 *[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 
 |}
 

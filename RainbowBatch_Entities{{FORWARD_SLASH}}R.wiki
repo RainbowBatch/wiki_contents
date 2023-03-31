@@ -1452,14 +1452,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|WORK_OF_ART
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
+*'Real World'
 *'The Real World'
 
 |-
@@ -1468,6 +1469,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[357: October 16, 2019]] (via AutoSub)
 *[[481: September 13, 2012]] (via AutoSub)
+*[[788: Mike Rothschild Returns]] (via AutoSub)
 
 |}
 
@@ -2473,10 +2475,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -2487,6 +2489,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Greg Reese (via Wiki Page)
 *[[748: November 16, 2022]] (via otter.ai, OpenAI Whisper)
 *[[753: December 1, 2022]] (via AutoSub)
 
@@ -4827,7 +4830,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -4846,6 +4849,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[388: January 12-13, 2020]] (via AutoSub)
 *[[586: August 11-12, 2021]] (via AutoSub)
 *[[718: August 21-22, 2022]] (via AutoSub)
+*[[787: January 23, 2004]] (via AutoSub)
 
 |}
 
@@ -5116,7 +5120,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|11
 |-
 |'''Source Texts:'''
 |
@@ -5136,6 +5140,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via OpenAI Whisper)
 *[[763: December 15, 2003]] (via OpenAI Whisper)
 *[[779: January 9-12, 2004]] (via OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via OpenAI Whisper)
 
 |}
 
@@ -5449,7 +5454,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|100
+|108
 |-
 |'''Source Texts:'''
 |
@@ -5486,6 +5491,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[742: Formulaic Objections Part 9]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[769: December 17, 2003]] (via AutoSub, otter.ai)
+*[[787: January 23, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -10789,7 +10795,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW
 |-
 |'''Total Count:'''
-|49
+|50
 |-
 |'''Source Texts:'''
 |
@@ -10817,6 +10823,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[696: June 24, 2022]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[697: June 29, 2022]] (via AutoSub, OpenAI Whisper)
 *[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
+*[[787: January 23, 2004]] (via otter.ai)
 
 |}
 
@@ -10943,7 +10950,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3474
+|3481
 |-
 |'''Source Texts:'''
 |
@@ -11303,6 +11310,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[779: January 9-12, 2004]] (via AutoSub, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
@@ -11518,7 +11526,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|54
+|56
 |-
 |'''Source Texts:'''
 |
@@ -11552,6 +11560,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[727: Chatting with Sebastian Murdock]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[734: October 9, 2022]] (via otter.ai)
 *[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai)
+
+|}
+
+==Rolling Stone article==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Rolling Stone article'
+
+|-
+|'''Sources:'''
+|
+
+*[[655: July 18, 2003]] (via AutoSub)
+*[[786: Too Biggs For His Britches]] (via OpenAI Whisper)
 
 |}
 
@@ -11674,7 +11708,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|16
+|17
 |-
 |'''Source Texts:'''
 |
@@ -11693,6 +11727,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[406: March 1-4, 2020]] (via AutoSub, OpenAI Whisper)
 *[[632: Christmas Message and More]] (via AutoSub, OpenAI Whisper)
 *[[764: Jordan Takes The Wheel 9]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via OpenAI Whisper)
 
 |}
 
@@ -12246,7 +12281,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -12257,6 +12292,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*QAnon (via Wiki Page)
 *[[508: December 1-2, 2020]] (via AutoSub, OpenAI Whisper)
 *[[748: November 16, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 
@@ -12844,7 +12880,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|362
+|408
 |-
 |'''Source Texts:'''
 |
@@ -12944,6 +12980,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[683: May 16, 2022]] (via OpenAI Whisper)
 *[[733: October 6, 2022]] (via otter.ai, OpenAI Whisper)
 *[[760: December 9-10, 2003]] (via AutoSub)
+*[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -13012,7 +13049,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|294
+|380
 |-
 |'''Source Texts:'''
 |
@@ -13113,6 +13150,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -13267,7 +13305,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -13290,6 +13328,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[659: July 21-23, 2003]] (via AutoSub)
 *[[690: May 27, 2022]] (via AutoSub)
 *[[723: September 8, 2022]] (via AutoSub, otter.ai)
+*[[788: Mike Rothschild Returns]] (via AutoSub)
 
 |}
 
@@ -13720,6 +13759,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Rufio Pan Man==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Rufio Pan Man'
+
+|-
+|'''Sources:'''
+|
+
+*[[786: Too Biggs For His Britches]] (via OpenAI Whisper)
+*[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
+
+|}
+
 ==Rufio Panman==
 {| class="fandom-table"
 |'''Status:'''
@@ -13744,6 +13808,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[525: January 27, 2021]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via Wiki Page)
+
+|}
+
+==Rufio Rufio==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Rufio Rufio'
+
+|-
+|'''Sources:'''
+|
+
+*[[786: Too Biggs For His Britches]] (via otter.ai)
+*[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub)
 
 |}
 
