@@ -593,7 +593,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|28
+|36
 |-
 |'''Source Texts:'''
 |
@@ -602,6 +602,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *'Tavistock Institute'
 *'The Tavistock Institute'
 *'the Tavistock Institute'
+*"the Tavistock Institute's"
 
 |-
 |'''Sources:'''
@@ -615,6 +616,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[413: March 27, 2020]] (via AutoSub, OpenAI Whisper)
 *[[543: March 23-24, 2021]] (via OpenAI Whisper)
 *[[675: April 25, 2022]] (via OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -1933,7 +1935,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|58
+|59
 |-
 |'''Source Texts:'''
 |
@@ -1965,6 +1967,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[670: July 28, 2003]] (via OpenAI Whisper)
 *[[748: November 16, 2022]] (via AutoSub, OpenAI Whisper)
 *[[761: December 11, 2003]] (via OpenAI Whisper)
+*[[789: January 26, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -3729,7 +3732,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3993
+|4003
 |-
 |'''Source Texts:'''
 |
@@ -4046,6 +4049,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[773: February 2, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub)
 *[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -6044,7 +6048,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -6062,6 +6066,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[632: Christmas Message and More]] (via OpenAI Whisper)
 *[[675: April 25, 2022]] (via AutoSub, OpenAI Whisper)
+*[[789: January 26, 2004]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8815,7 +8820,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -8833,6 +8838,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[656: March 5, 2022]] (via AutoSub)
 *[[743: October 29-30, 2022]] (via AutoSub)
 *[[751: November 20-21, 2022]] (via AutoSub)
+*[[790: March 27-28, 2023]] (via AutoSub)
 
 |}
 
@@ -10032,6 +10038,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Trump DeSantis==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Trump DeSantis'
+
+|-
+|'''Sources:'''
+|
+
+*[[747: November 11, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via otter.ai)
+
+|}
+
 ==Trump Foundation==
 {| class="fandom-table"
 |'''Status:'''
@@ -10923,7 +10954,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|645
+|659
 |-
 |'''Source Texts:'''
 |
@@ -11091,6 +11122,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[770: January 20, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[776: February 11, 2023]] (via otter.ai, OpenAI Whisper)
 *[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
