@@ -1242,7 +1242,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3278
+|3281
 |-
 |'''Source Texts:'''
 |
@@ -1716,6 +1716,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub)
 *[[788: Mike Rothschild Returns]] (via otter.ai)
+*[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
@@ -2261,7 +2262,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -2276,6 +2277,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[492: October 13, 2020]] (via OpenAI Whisper)
 *[[580: July 20-21, 2021]] (via OpenAI Whisper)
 *[[738: Taking a Powder With Chowder]] (via otter.ai, OpenAI Whisper)
+*[[789: January 26, 2004]] (via otter.ai)
 
 |}
 
@@ -3871,7 +3873,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PRODUCT
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -3884,6 +3886,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[318: July 5, 2019]] (via AutoSub)
 *[[360: October 23, 2019]] (via AutoSub)
+*[[790: March 27-28, 2023]] (via AutoSub)
 
 |}
 
@@ -4564,7 +4567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON
 |-
 |'''Total Count:'''
-|225
+|229
 |-
 |'''Source Texts:'''
 |
@@ -4625,6 +4628,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[776: February 11, 2023]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[781: Chatting With Will Sommer]] (via otter.ai, OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -5499,7 +5503,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|9
 |-
 |'''Source Texts:'''
 |
@@ -5517,6 +5521,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[522: January 14-17, 2021]] (via AutoSub)
 *[[580: July 20-21, 2021]] (via AutoSub)
 *[[738: Taking a Powder With Chowder]] (via AutoSub)
+*[[789: January 26, 2004]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6556,10 +6561,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|LOC, PERSON
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -6577,6 +6582,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[615: November 8, 2021?]] (via OpenAI Whisper)
 *[[768: Formulaic Objections Part 14]] (via AutoSub)
 *[[769: December 17, 2003]] (via otter.ai)
+*[[789: January 26, 2004]] (via otter.ai)
 
 |}
 
@@ -7114,7 +7120,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON
 |-
 |'''Total Count:'''
-|156
+|157
 |-
 |'''Source Texts:'''
 |
@@ -7154,6 +7160,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[694: The Case of the Missing Propagandist]] (via AutoSub, OpenAI Whisper)
 *[[709: 2 Dan's 2 War]] (via OpenAI Whisper)
 *[[778: January 8, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[789: January 26, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -7242,7 +7249,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON
 |-
 |'''Total Count:'''
-|676
+|679
 |-
 |'''Source Texts:'''
 |
@@ -7421,6 +7428,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[768: Formulaic Objections Part 14]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[778: January 8, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -10891,12 +10899,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|10
 |-
 |'''Source Texts:'''
 |
 
 *'Blair White'
+*"Blair White's"
 
 |-
 |'''Sources:'''
@@ -10905,6 +10914,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[106: Drunk Special Report]] (via OpenAI Whisper)
 *[[350: September 29-30, 2019]] (via OpenAI Whisper)
 *[[632: Christmas Message and More]] (via OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -10957,6 +10967,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[50: Bohemian Grove...Ya Busted]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[433: May 12-13, 2020]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Blaire White==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Blaire White'
+
+|-
+|'''Sources:'''
+|
+
+*790: March 27-28, 2023 (via Wiki Page)
+*[[350: September 29-30, 2019]] (via AutoSub)
+*[[790: March 27-28, 2023]] (via otter.ai)
 
 |}
 
@@ -12544,6 +12580,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Bobby McFerrin==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Bobby McFerrin'
+
+|-
+|'''Sources:'''
+|
+
+*[[671: April 13, 2022]] (via AutoSub, OpenAI Whisper)
+*[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
 ==Bobby Rush==
 {| class="fandom-table"
 |'''Status:'''
@@ -12663,7 +12724,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|262
+|264
 |-
 |'''Source Texts:'''
 |
@@ -12742,6 +12803,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[762: December 31, 2022]] (via OpenAI Whisper)
 *[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[774: December 22, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[789: January 26, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -15041,7 +15103,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|58
+|64
 |-
 |'''Source Texts:'''
 |
@@ -15064,6 +15126,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[770: January 20, 2023]] (via otter.ai, OpenAI Whisper)
 *[[771: Formulaic Objections Part 15]] (via OpenAI Whisper)
 *[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -17464,6 +17527,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Bronze Age==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bronze Age'
+*'the Bronze Age'
+
+|-
+|'''Sources:'''
+|
+
+*[[775: Fireside Chatting]] (via otter.ai)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
 ==Brooke Shields==
 {| class="fandom-table"
 |'''Status:'''
@@ -17562,6 +17651,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[342: September 6-11, 2019]] (via OpenAI Whisper)
 *[[555: May 7, 2003]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Brooklyn Bridge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Brooklyn Bridge'
+
+|-
+|'''Sources:'''
+|
+
+*[[738: Taking a Powder With Chowder]] (via AutoSub)
+*[[790: March 27-28, 2023]] (via AutoSub, otter.ai)
 
 |}
 
@@ -18698,7 +18812,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|10
+|13
 |-
 |'''Source Texts:'''
 |
@@ -18711,6 +18825,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[703: 9/11, Part 1]] (via AutoSub, OpenAI Whisper)
 *[[739: Formulaic Objections Part 8]] (via AutoSub, OpenAI Whisper)
+*[[789: January 26, 2004]] (via OpenAI Whisper)
 
 |}
 
