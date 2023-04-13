@@ -64,11 +64,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
 
+*'Da Vinci Code'
 *'The Da Vinci Code'
 *'the da Vinci Code'
 
@@ -78,6 +79,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[186: February 17-18, 2009]] (via OpenAI Whisper)
 *[[314: February 14-15, 2013]] (via OpenAI Whisper)
+*[[792: Chatting With Jeff Sharlet]] (via OpenAI Whisper)
 
 |}
 
@@ -2578,7 +2580,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|168
+|169
 |-
 |'''Source Texts:'''
 |
@@ -2742,6 +2744,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[648: February 11, 2022]] (via OpenAI Whisper)
 *[[662: March 22, 2022]] (via OpenAI Whisper)
 *[[710: Elizabeth Williamson Returns]] (via OpenAI Whisper)
+*[[792: Chatting With Jeff Sharlet]] (via OpenAI Whisper)
 
 |}
 
@@ -3176,6 +3179,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[580: July 20-21, 2021]] (via AutoSub, OpenAI Whisper)
 *[[639: January 17, 2022]] (via OpenAI Whisper)
 *[[782: February 26, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
+==Dartmouth College==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Dartmouth College'
+
+|-
+|'''Sources:'''
+|
+
+*[[4: Research and Stand Up]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[792: Chatting With Jeff Sharlet]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -6400,6 +6428,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==DaVinci Code==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW, WORK_OF_ART
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'DaVinci Code'
+*'The DaVinci Code'
+*'the Davinci Code'
+
+|-
+|'''Sources:'''
+|
+
+*[[314: February 14-15, 2013]] (via AutoSub)
+*[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai)
+
+|}
+
 ==Davis Group==
 {| class="fandom-table"
 |'''Status:'''
@@ -6659,7 +6714,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -6677,6 +6732,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[541: March 17-18, 2021]] (via OpenAI Whisper)
 *[[553: April 26-27, 2021]] (via OpenAI Whisper)
 *[[627: Reset Wars: Episode 2]] (via OpenAI Whisper)
+*[[792: Chatting With Jeff Sharlet]] (via OpenAI Whisper)
 
 |}
 
@@ -8363,7 +8419,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|407
+|410
 |-
 |'''Source Texts:'''
 |
@@ -8546,6 +8602,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[770: January 20, 2023]] (via AutoSub, otter.ai)
 *[[786: Too Biggs For His Britches]] (via otter.ai, OpenAI Whisper)
+*[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8925,13 +8982,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==Dennis Montgomery==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |NORP, ORG, PERSON
 |-
 |'''Total Count:'''
-|326
+|327
 |-
 |'''Source Texts:'''
 |
@@ -8945,6 +9002,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Dennis Montgomery (via Wiki Page)
 *[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper, Wiki Page)
 *[[26: March 30 (Special Report)]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[28: How Not To Cover Alex Jones]] (via otter.ai, OpenAI Whisper)
@@ -8969,6 +9027,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[774: December 22, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[The Halloween Story]] (via OpenAI Whisper)
+
+|}
+
+==Dennis Montgomery Investigation==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Dennis Montgomery Investigation'
+*'The Dennis Montgomery Investigation'
+
+|-
+|'''Sources:'''
+|
+
+*Dennis Montgomery (via Wiki Page)
+*[[370: November 14-15, 2019]] (via OpenAI Whisper)
 
 |}
 
@@ -9846,7 +9930,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|155
+|156
 |-
 |'''Source Texts:'''
 |
@@ -9861,6 +9945,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub, OpenAI Whisper)
+*Dennis Montgomery (via Wiki Page)
 *[[19: March 3, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[25: Dennis Montgomery Investigation]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[40: May 10, 2017]] (via otter.ai, OpenAI Whisper)
@@ -14147,7 +14232,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|23550
+|23624
 |-
 |'''Source Texts:'''
 |
@@ -14177,6 +14262,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *630 (via AutoSub, OpenAI Whisper)
 *Alex Jones (via Wiki Page)
 *Ali Alexander (via Wiki Page)
+*Dennis Montgomery (via Wiki Page)
 *General Michael Flynn (via Wiki Page)
 *Jakari Jackson (via Wiki Page)
 *January 6th Insurrection (via Wiki Page)
@@ -14892,6 +14978,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[791: March 30-31, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper)
