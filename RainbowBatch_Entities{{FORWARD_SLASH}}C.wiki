@@ -148,7 +148,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|1427
+|1438
 |-
 |'''Source Texts:'''
 |
@@ -465,6 +465,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[787: January 23, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[793: January 27-29, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[796: February 4, 2004]] (via otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
 
@@ -1872,7 +1874,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -1887,6 +1889,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[564: May 15-20, 2003]] (via OpenAI Whisper)
 *[[605: June 17, 2003]] (via OpenAI Whisper)
+*[[793: January 27-29, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -2033,7 +2036,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|18
+|19
 |-
 |'''Source Texts:'''
 |
@@ -2048,6 +2051,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[564: May 15-20, 2003]] (via AutoSub, OpenAI Whisper)
 *[[605: June 17, 2003]] (via AutoSub, Wiki Page)
+*[[793: January 27-29, 2004]] (via otter.ai)
 
 |}
 
@@ -3146,7 +3150,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|100
+|103
 |-
 |'''Source Texts:'''
 |
@@ -3201,6 +3205,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[621: Reset Wars: Episode 1]] (via AutoSub, OpenAI Whisper)
 *[[625: December 5, 2021]] (via OpenAI Whisper)
 *[[695: June 22, 2022]] (via OpenAI Whisper)
+*[[796: February 4, 2004]] (via AutoSub, otter.ai)
 
 |}
 
@@ -5403,7 +5408,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|12
 |-
 |'''Source Texts:'''
 |
@@ -5419,6 +5424,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[372: November 20-21, 2019]] (via AutoSub, OpenAI Whisper)
 *[[593: September 2, 2021]] (via Wiki Page)
 *[[711: August 2, 2022]] (via AutoSub, OpenAI Whisper)
+*[[793: January 27-29, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -6070,7 +6076,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|173
+|174
 |-
 |'''Source Texts:'''
 |
@@ -6111,6 +6117,53 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[687: May 24, 2022]] (via AutoSub, OpenAI Whisper)
 *[[707: Dan's War]] (via OpenAI Whisper)
 *[[727: Chatting with Sebastian Murdock]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
+==Charleston church shooting==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|FAC, GPE, LOC, PERSON
+|-
+|'''Total Count:'''
+|73
+|-
+|'''Source Texts:'''
+|
+
+*'Dylann\r\n    Roof'
+*'Dylann Roof'
+*"Dylann Roof's"
+
+|-
+|'''Sources:'''
+|
+
+*[[45: May 25, 2017]] (via otter.ai, OpenAI Whisper)
+*[[46: June 18, 2015]] (via otter.ai, OpenAI Whisper, Wiki Page)
+*[[47: June 19-July 5, 2015]] (via Wiki Page)
+*[[52: July 14-21, 2015]] (via Wiki Page)
+*[[80: October 16-26, 2015]] (via OpenAI Whisper)
+*[[87: Mark Richards Revisited]] (via OpenAI Whisper)
+*[[101: January 11, 2016]] (via OpenAI Whisper)
+*[[141: March 20-22, 2018]] (via Wiki Page)
+*[[174: February 11, 2009]] (via OpenAI Whisper)
+*[[222: March 15-19, 2009]] (via FoulEdgeKnight-edited, otter.ai)
+*[[253: January 15, 2019]] (via OpenAI Whisper)
+*[[277: March 15, 2019]] (via OpenAI Whisper)
+*[[350: September 29-30, 2019]] (via OpenAI Whisper)
+*[[485: September 23-24, 2020]] (via OpenAI Whisper)
+*[[620: November 23, 2021]] (via OpenAI Whisper)
+*[[665: Formulaic Objections Part 6]] (via otter.ai, OpenAI Whisper)
+*[[671: April 13, 2022]] (via OpenAI Whisper, Wiki Page)
+*[[683: May 16, 2022]] (via OpenAI Whisper)
+*[[687: May 24, 2022]] (via OpenAI Whisper)
+*[[723: September 8, 2022]] (via otter.ai, OpenAI Whisper)
+*[[727: Chatting with Sebastian Murdock]] (via otter.ai, OpenAI Whisper)
+*[[782: February 26, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -7667,6 +7720,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[83: November 10-12, 2015]] (via OpenAI Whisper)
 *[[355: April 18, 2013]] (via OpenAI Whisper)
 *[[772: December 18-19, 2003]] (via OpenAI Whisper)
+
+|}
+
+==Child Exploitation==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PRODUCT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Child Exploitation'
+
+|-
+|'''Sources:'''
+|
+
+*[[745: Formulaic Objections Part 10]] (via otter.ai)
+*[[794: January 30-February 2, 2004]] (via otter.ai)
 
 |}
 
@@ -9893,7 +9971,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|917
+|919
 |-
 |'''Source Texts:'''
 |
@@ -10111,6 +10189,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[785: March 4, 2023]] (via OpenAI Whisper)
 *[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[795: April 4-5, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -12206,6 +12285,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==City Councils==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'City Councils'
+*'the City Councils'
+
+|-
+|'''Sources:'''
+|
+
+*[[525: January 27, 2021]] (via OpenAI Whisper)
+*[[795: April 4-5, 2023]] (via otter.ai)
+
+|}
+
 ==City of Austin==
 {| class="fandom-table"
 |'''Status:'''
@@ -13787,6 +13892,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Cochise County==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|10
+|-
+|'''Source Texts:'''
+|
+
+*'Cochise County'
+
+|-
+|'''Sources:'''
+|
+
+*[[779: January 9-12, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[794: January 30-February 2, 2004]] (via otter.ai, OpenAI Whisper)
+
+|}
+
 ==Cockamamie==
 {| class="fandom-table"
 |'''Status:'''
@@ -13960,7 +14090,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|12
+|14
 |-
 |'''Source Texts:'''
 |
@@ -13979,6 +14109,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[656: March 5, 2022]] (via AutoSub, OpenAI Whisper)
 *[[671: April 13, 2022]] (via AutoSub)
 *[[710: Elizabeth Williamson Returns]] (via AutoSub)
+*[[793: January 27-29, 2004]] (via AutoSub, otter.ai)
 
 |}
 
@@ -14721,7 +14852,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|86
+|87
 |-
 |'''Source Texts:'''
 |
@@ -14735,6 +14866,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Pizzagate (via Wiki Page)
 *[[7: January 23-24, 2017]] (via AutoSub, otter.ai)
 *[[16: February 24, 2017]] (via otter.ai)
 *[[24: March 23, 2017]] (via AutoSub, otter.ai)
@@ -15130,7 +15262,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -15147,6 +15279,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[690: May 27, 2022]] (via Wiki Page)
 *[[702: July 11-12, 2022]] (via AutoSub)
 *[[721: September 2, 2022]] (via AutoSub)
+*[[794: January 30-February 2, 2004]] (via AutoSub)
 
 |}
 
@@ -15463,7 +15596,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|40
+|41
 |-
 |'''Source Texts:'''
 |
@@ -15510,6 +15643,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[578: A Little Side Track]] (via AutoSub)
 *[[624: November 30, 2021]] (via AutoSub)
 *[[661: March 17, 2022]] (via AutoSub)
+*[[796: February 4, 2004]] (via AutoSub)
 
 |}
 
@@ -15954,7 +16088,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|215
+|217
 |-
 |'''Source Texts:'''
 |
@@ -16030,6 +16164,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[757: December 13, 2022]] (via AutoSub, otter.ai)
 *[[770: January 20, 2023]] (via otter.ai, OpenAI Whisper)
 *[[778: January 8, 2004]] (via AutoSub, OpenAI Whisper)
+*[[796: February 4, 2004]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -16055,6 +16190,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[303: January 29-31, 2013]] (via AutoSub, OpenAI Whisper)
 *[[389: January 15-17, 2020]] (via AutoSub)
+
+|}
+
+==Confederate Royal==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PRODUCT
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Confederate Royal'
+
+|-
+|'''Sources:'''
+|
+
+*[[561: Jordan Takes The Wheel 6]] (via OpenAI Whisper)
+*[[796: February 4, 2004]] (via AutoSub)
 
 |}
 
@@ -16287,7 +16447,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG
 |-
 |'''Total Count:'''
-|93
+|94
 |-
 |'''Source Texts:'''
 |
@@ -16355,6 +16515,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub)
 *[[767: January 12, 2023]] (via AutoSub)
 *[[774: December 22, 2003]] (via AutoSub)
+*[[794: January 30-February 2, 2004]] (via AutoSub)
 
 |}
 
@@ -16448,7 +16609,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|24
+|26
 |-
 |'''Source Texts:'''
 |
@@ -16474,6 +16635,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[594: September 7, 2021]] (via AutoSub)
 *[[606: June 18-19, 2003]] (via AutoSub, Wiki Page)
 *[[634: July 11, 2003]] (via AutoSub)
+*[[794: January 30-February 2, 2004]] (via AutoSub, otter.ai)
 
 |}
 
@@ -16589,7 +16751,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|932
+|935
 |-
 |'''Source Texts:'''
 |
@@ -16734,6 +16896,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[767: January 12, 2023]] (via AutoSub, otter.ai)
 *[[771: Formulaic Objections Part 15]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[780: February 21, 2023]] (via AutoSub)
+*[[793: January 27-29, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -17302,7 +17465,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -17325,6 +17488,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[601: June 16, 2003]] (via AutoSub)
 *[[707: Dan's War]] (via OpenAI Whisper)
 *[[781: Chatting With Will Sommer]] (via OpenAI Whisper)
+*[[794: January 30-February 2, 2004]] (via AutoSub)
 
 |}
 
@@ -19335,6 +19499,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Council of Conservative Citizens==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'the Council of Conservative Citizens'
+
+|-
+|'''Sources:'''
+|
+
+*[[601: June 16, 2003]] (via OpenAI Whisper)
+*[[796: February 4, 2004]] (via OpenAI Whisper)
+
+|}
+
 ==Council of Nicaea==
 {| class="fandom-table"
 |'''Status:'''
@@ -21252,6 +21441,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[405: Root Races and Terminated Spiders]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[617: June 27, 2003]] (via AutoSub, OpenAI Whisper)
 *[[646: February 6, 2022]] (via Wiki Page)
+
+|}
+
+==Cul de sac==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Cul-de-sac'
+
+|-
+|'''Sources:'''
+|
+
+*[[644: February 2, 2022]] (via AutoSub)
+*[[796: February 4, 2004]] (via AutoSub, OpenAI Whisper)
 
 |}
 
