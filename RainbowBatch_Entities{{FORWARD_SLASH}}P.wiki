@@ -2030,7 +2030,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON
 |-
 |'''Total Count:'''
-|204
+|205
 |-
 |'''Source Texts:'''
 |
@@ -2093,6 +2093,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[779: January 9-12, 2004]] (via otter.ai, OpenAI Whisper)
 *[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[794: January 30-February 2, 2004]] (via otter.ai, OpenAI Whisper)
+*[[801: February 10, 2004]] (via otter.ai)
 
 |}
 
@@ -3037,16 +3038,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|1482
+|1501
 |-
 |'''Source Texts:'''
 |
 
 *'Joseph Watson'
 *"Joseph Watson's"
+*'PJW'
 *'Paul Joseph\r\n    Watson'
 *'Paul Joseph Watson'
 *'Paul Joseph Watson\r\n'
@@ -3056,6 +3058,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*799: February 9, 2004 (via Wiki Page)
 *Mark Dice (via Wiki Page)
 *Mike Cernovich (via Wiki Page)
 *Paul Joseph Watson (via Wiki Page)
@@ -3216,7 +3219,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[380: December 19-20, 2019]] (via AutoSub, OpenAI Whisper)
 *[[382: December 23-27, 2019]] (via AutoSub, OpenAI Whisper)
 *[[384: January 3, 2020]] (via OpenAI Whisper)
-*[[385: January 6, 2020]] (via AutoSub, OpenAI Whisper)
+*[[385: January 6, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[389: January 15-17, 2020]] (via AutoSub, OpenAI Whisper)
 *[[390: Grab Bag Minisode]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[391: January 22, 2020]] (via AutoSub, OpenAI Whisper)
@@ -3311,7 +3314,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[791: March 30-31, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[794: January 30-February 2, 2004]] (via otter.ai, OpenAI Whisper)
 *[[797: Belly-Floppin' Into The Pool]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[798: April 19, 2023]] (via otter.ai)
+*[[798: April 19, 2023]] (via otter.ai, Wiki Page)
+*[[799: February 9, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
@@ -3879,6 +3883,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[544: May 1, 2003]] (via OpenAI Whisper)
 *[[628: July 10, 2003]] (via OpenAI Whisper)
 *[[769: December 17, 2003]] (via otter.ai)
+
+|}
+
+==Paul Zwaan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Paul Zwaan'
+
+|-
+|'''Sources:'''
+|
+
+*[[765: Formulaic Objections Part 13]] (via otter.ai)
+*[[799: February 9, 2004]] (via otter.ai)
 
 |}
 
@@ -7503,6 +7532,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Pierce Morgan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Pierce Morgan'
+
+|-
+|'''Sources:'''
+|
+
+*[[77: August 23, 2017]] (via AutoSub)
+*[[800: April 24, 2023]] (via OpenAI Whisper)
+
+|}
+
 ==Pierre Corry==
 {| class="fandom-table"
 |'''Status:'''
@@ -7584,10 +7638,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|LAW, ORG, PERSON
+|LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|247
+|254
 |-
 |'''Source Texts:'''
 |
@@ -7649,6 +7703,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[770: January 20, 2023]] (via otter.ai, OpenAI Whisper)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[800: April 24, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -9179,7 +9234,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -9193,6 +9248,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[81: September 6-7, 2017]] (via OpenAI Whisper)
 *[[267: December 16, 2012]] (via AutoSub, OpenAI Whisper)
 *[[732: Trial Press Conference]] (via AutoSub)
+*[[799: February 9, 2004]] (via AutoSub)
 
 |}
 
@@ -9691,6 +9747,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Posey Wong==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Posey Wong'
+
+|-
+|'''Sources:'''
+|
+
+*[[799: February 9, 2004]] (via otter.ai)
+*[[801: February 10, 2004]] (via otter.ai)
+
+|}
+
 ==Posse Comitatus==
 {| class="fandom-table"
 |'''Status:'''
@@ -9700,7 +9781,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -9724,6 +9805,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[289: January 10-13, 2013]] (via OpenAI Whisper)
 *[[459: July 17, 2020]] (via OpenAI Whisper)
 *[[688: May 25, 2022]] (via AutoSub)
+*[[801: February 10, 2004]] (via otter.ai)
 
 |}
 
@@ -9929,6 +10011,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[609: October 20, 2021]] (via AutoSub, OpenAI Whisper)
 *[[639: January 17, 2022]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Potato Potato==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Potato Potato'
+
+|-
+|'''Sources:'''
+|
+
+*[[782: February 26, 2023]] (via otter.ai)
+*[[800: April 24, 2023]] (via otter.ai)
 
 |}
 
@@ -11313,7 +11420,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -11326,6 +11433,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[9: Joe Rogan Appearance]] (via AutoSub)
 *[[427: April 29-30, 2020]] (via AutoSub)
+*[[801: February 10, 2004]] (via AutoSub)
 
 |}
 
@@ -12404,7 +12512,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|169
+|172
 |-
 |'''Source Texts:'''
 |
@@ -12477,6 +12585,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[637: January 13, 2022]] (via AutoSub, OpenAI Whisper)
 *[[640: January 22, 2022]] (via OpenAI Whisper)
 *[[644: February 2, 2022]] (via OpenAI Whisper)
+*[[800: April 24, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -12849,7 +12958,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -12867,6 +12976,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[407: March 5-10, 2020]] (via AutoSub)
 *[[582: Chattin' With Jared]] (via AutoSub)
 *[[756: December 5, 2003]] (via otter.ai, OpenAI Whisper)
+*[[799: February 9, 2004]] (via OpenAI Whisper)
 
 |}
 
