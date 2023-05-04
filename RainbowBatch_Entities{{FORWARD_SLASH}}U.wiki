@@ -1368,10 +1368,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, ORG
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|177
+|181
 |-
 |'''Source Texts:'''
 |
@@ -1484,6 +1484,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[754: Formulaic Objections Part 12]] (via OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub, OpenAI Whisper)
 *[[798: April 19, 2023]] (via otter.ai)
+*[[799: February 9, 2004]] (via otter.ai, OpenAI Whisper)
+*[[800: April 24, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -1553,7 +1555,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|4027
+|4039
 |-
 |'''Source Texts:'''
 |
@@ -2231,6 +2233,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[796: February 4, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[797: Belly-Floppin' Into The Pool]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[799: February 9, 2004]] (via otter.ai, OpenAI Whisper)
+*[[800: April 24, 2023]] (via otter.ai, OpenAI Whisper)
+*[[801: February 10, 2004]] (via AutoSub, otter.ai)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
@@ -2387,7 +2392,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|135
+|136
 |-
 |'''Source Texts:'''
 |
@@ -2468,6 +2473,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[747: November 11, 2022]] (via otter.ai)
 *[[751: November 20-21, 2022]] (via otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[801: February 10, 2004]] (via otter.ai)
 
 |}
 
@@ -2768,7 +2774,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -2787,6 +2793,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[125: Project Camelot's War In Heaven]] (via AutoSub, OpenAI Whisper)
 *[[693: August 4, 2003]] (via OpenAI Whisper)
 *[[695: June 22, 2022]] (via AutoSub, OpenAI Whisper)
+*[[799: February 9, 2004]] (via OpenAI Whisper)
+
+|}
+
+==University of California, Los Angeles==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the University of California, Los Angeles'
+
+|-
+|'''Sources:'''
+|
+
+*[[89: December 31, 2015]] (via OpenAI Whisper)
+*[[799: February 9, 2004]] (via otter.ai)
 
 |}
 
