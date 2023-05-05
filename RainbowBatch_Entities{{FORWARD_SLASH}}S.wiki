@@ -2355,7 +2355,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|79
+|80
 |-
 |'''Source Texts:'''
 |
@@ -2410,6 +2410,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[742: Formulaic Objections Part 9]] (via otter.ai, OpenAI Whisper)
 *[[765: Formulaic Objections Part 13]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[793: January 27-29, 2004]] (via AutoSub)
+*[[804: May 3-4, 2023]] (via AutoSub)
 
 |}
 
@@ -3321,12 +3322,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|9
 |-
 |'''Source Texts:'''
 |
 
 *'Saul Goodman'
+*'a Saul Goodman'
 
 |-
 |'''Sources:'''
@@ -3334,6 +3336,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[549: April 13-14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[761: December 11, 2003]] (via Manually-created, otter.ai, OpenAI Whisper)
+*[[803: Mark Bankston, Tapestry King]] (via AutoSub, otter.ai)
+*[[804: May 3-4, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3747,7 +3751,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -3764,6 +3768,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[715: Trial Recap, Part 2]] (via otter.ai)
 *[[767: January 12, 2023]] (via AutoSub, otter.ai)
 *[[800: April 24, 2023]] (via otter.ai)
+*[[803: Mark Bankston, Tapestry King]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3802,7 +3807,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|62
+|64
 |-
 |'''Source Texts:'''
 |
@@ -3814,6 +3819,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*803: Mark Bankston, Tapestry King (via Wiki Page)
 *[[602: Sandy Hook Response]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[641: Formulaic Objections Part 4]] (via AutoSub, OpenAI Whisper)
 *[[685: Formulaic Objections Part 7]] (via AutoSub, otter.ai, OpenAI Whisper)
@@ -3826,6 +3832,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[737: Reflections on a Verdict Part 2]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[767: January 12, 2023]] (via AutoSub)
 *[[800: April 24, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[803: Mark Bankston, Tapestry King]] (via otter.ai)
 
 |}
 
@@ -5917,6 +5924,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[75: January 7, 2011]] (via AutoSub)
 *[[439: May 29-31, 2020]] (via AutoSub)
+
+|}
+
+==Secret Garden==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, PERSON, PRODUCT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Secret Garden'
+*'The Secret Garden'
+*'the Secret Garden'
+
+|-
+|'''Sources:'''
+|
+
+*[[520: January 12-13, 2021]] (via AutoSub)
+*[[803: Mark Bankston, Tapestry King]] (via AutoSub, otter.ai)
 
 |}
 
@@ -8942,6 +8976,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[309: June 10-11, 2019]] (via AutoSub, OpenAI Whisper)
 *[[316: July 1, 2019]] (via OpenAI Whisper)
+
+|}
+
+==Sian Norris==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|57
+|-
+|'''Source Texts:'''
+|
+
+*'Sian Norris'
+
+|-
+|'''Sources:'''
+|
+
+*802: Chatting with Sian Norris (via Wiki Page)
+*[[802: Chatting with Sian Norris]] (via otter.ai)
 
 |}
 
@@ -12271,6 +12330,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Soul Train==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Soul Train'
+
+|-
+|'''Sources:'''
+|
+
+*[[355: April 18, 2013]] (via AutoSub)
+*[[803: Mark Bankston, Tapestry King]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
 ==Soulquarians==
 {| class="fandom-table"
 |'''Status:'''
@@ -13684,12 +13768,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|16
+|18
 |-
 |'''Source Texts:'''
 |
 
 *'Southern District'
+*'Southern district'
 *'the Southern District'
 
 |-
@@ -13705,6 +13790,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[475: August 24-26, 2020]] (via OpenAI Whisper)
 *[[484: September 18-19, 2020]] (via OpenAI Whisper)
 *[[633: December 30, 2021]] (via OpenAI Whisper)
+*[[803: Mark Bankston, Tapestry King]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -15337,7 +15423,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|166
+|172
 |-
 |'''Source Texts:'''
 |
@@ -15418,6 +15504,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[781: Chatting With Will Sommer]] (via AutoSub)
 *[[793: January 27-29, 2004]] (via AutoSub, otter.ai)
+*[[802: Chatting with Sian Norris]] (via AutoSub)
+*[[804: May 3-4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub)
 
 |}
@@ -18313,6 +18401,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[533: February 17, 2021]] (via Wiki Page)
 *[[738: Taking a Powder With Chowder]] (via Welder)
 *[[770: January 20, 2023]] (via OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via otter.ai)
 
 |}
 
@@ -20656,7 +20745,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|317
+|385
 |-
 |'''Source Texts:'''
 |
@@ -20670,11 +20759,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*804: May 3-4, 2023 (via Wiki Page)
 *[[129: David Rothschild Interview]] (via OpenAI Whisper)
 *[[138: March 13-15, 2018]] (via AutoSub, OpenAI Whisper)
 *[[176: June 28, 2018]] (via OpenAI Whisper)
 *[[185: July 27, 2018]] (via AutoSub, OpenAI Whisper)
-*[[192: August 10, 2018]] (via AutoSub, OpenAI Whisper)
+*[[192: August 10, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[275: December 23-31, 2012]] (via AutoSub, OpenAI Whisper)
 *[[306: June 4-5, 2019]] (via OpenAI Whisper)
 *[[309: June 10-11, 2019]] (via AutoSub, OpenAI Whisper)
@@ -20705,6 +20795,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[770: January 20, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -20905,12 +20996,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|22
+|28
 |-
 |'''Source Texts:'''
 |
 
 *'Steven Seagal'
+*"Steven Seagal's"
 
 |-
 |'''Sources:'''
@@ -20925,6 +21017,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[692: Alex Jones' Punch Out]] (via AutoSub)
 *[[758: December 8, 2003]] (via AutoSub)
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[802: Chatting with Sian Norris]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -21296,7 +21389,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|196
+|197
 |-
 |'''Source Texts:'''
 |
@@ -21353,6 +21446,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[702: July 11-12, 2022]] (via AutoSub)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub)
 *[[786: Too Biggs For His Britches]] (via AutoSub, otter.ai)
+*[[804: May 3-4, 2023]] (via AutoSub)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 
 |}
@@ -21835,7 +21929,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|76
+|77
 |-
 |'''Source Texts:'''
 |
@@ -21876,6 +21970,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[575: July 4, 2021]] (via OpenAI Whisper)
 *[[740: August 13, 2003]] (via AutoSub, otter.ai)
 *[[799: February 9, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via otter.ai)
 
 |}
 
@@ -22412,7 +22507,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|268
+|269
 |-
 |'''Source Texts:'''
 |
@@ -22491,6 +22586,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[737: Reflections on a Verdict Part 2]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[752: Ye Took A Dip In The Pool]] (via OpenAI Whisper)
 *[[786: Too Biggs For His Britches]] (via OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 
 |}
@@ -24692,7 +24788,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|1171
+|1174
 |-
 |'''Source Texts:'''
 |
@@ -24917,6 +25013,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[783: March 2, 2006 (Live)]] (via AutoSub, OpenAI Whisper)
 *[[796: February 4, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai)
+*[[802: Chatting with Sian Norris]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -24993,7 +25090,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
@@ -25011,6 +25108,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[463: July 28-30, 2020]] (via OpenAI Whisper)
 *[[506: November 22-24, 2020]] (via OpenAI Whisper)
 *[[565: June 10, 2021]] (via AutoSub)
+*[[802: Chatting with Sian Norris]] (via AutoSub, otter.ai)
 
 |}
 
