@@ -494,7 +494,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|298
+|299
 |-
 |'''Source Texts:'''
 |
@@ -610,6 +610,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 *[[767: January 12, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -622,7 +623,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|24
+|26
 |-
 |'''Source Texts:'''
 |
@@ -639,6 +640,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[758: December 8, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[774: December 22, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3389,7 +3391,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|119
+|123
 |-
 |'''Source Texts:'''
 |
@@ -3447,6 +3449,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[693: August 4, 2003]] (via AutoSub)
 *[[722: Space Capitalism Is Still Capitalism]] (via otter.ai, OpenAI Whisper)
 *[[738: Taking a Powder With Chowder]] (via Welder)
+*[[804: May 3-4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3935,6 +3938,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Neale Hurston==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Neale Hurston'
+
+|-
+|'''Sources:'''
+|
+
+*[[685: Formulaic Objections Part 7]] (via otter.ai)
+*[[803: Mark Bankston, Tapestry King]] (via otter.ai)
+
+|}
+
 ==Neanderthal==
 {| class="fandom-table"
 |'''Status:'''
@@ -4099,7 +4127,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -4113,6 +4141,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[223: A Progressive Space Diplomat]] (via OpenAI Whisper)
 *[[301: January 24-28, 2013]] (via AutoSub, OpenAI Whisper)
 *[[633: December 30, 2021]] (via OpenAI Whisper)
+*[[803: Mark Bankston, Tapestry King]] (via OpenAI Whisper)
 
 |}
 
@@ -4313,31 +4342,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Neil Haslund==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|5
-|-
-|'''Source Texts:'''
-|
-
-*'Neil Haslund'
-
-|-
-|'''Sources:'''
-|
-
-*[[714: Trial Recap, Part 1]] (via otter.ai)
-*[[800: April 24, 2023]] (via otter.ai, OpenAI Whisper)
-
-|}
-
 ==Neil Heslin==
 {| class="fandom-table"
 |'''Status:'''
@@ -4347,11 +4351,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|62
+|67
 |-
 |'''Source Texts:'''
 |
 
+*'Neil Haslund'
 *'Neil Hesleyn'
 *'Neil Heslin'
 *'Neil Hessel'
@@ -4371,7 +4376,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[710: Elizabeth Williamson Returns]] (via OpenAI Whisper)
 *[[711: August 2, 2022]] (via OpenAI Whisper, Wiki Page)
 *[[712: The Decompression Session]] (via otter.ai, OpenAI Whisper)
-*[[714: Trial Recap, Part 1]] (via Welder, OpenAI Whisper)
+*[[714: Trial Recap, Part 1]] (via otter.ai, Welder, OpenAI Whisper)
 *[[728: Elizabeth Williamson Returns Once More]] (via otter.ai)
 *[[738: Taking a Powder With Chowder]] (via otter.ai, Welder, OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via otter.ai, OpenAI Whisper)
@@ -6988,7 +6993,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|1307
+|1313
 |-
 |'''Source Texts:'''
 |
@@ -7302,6 +7307,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[794: January 30-February 2, 2004]] (via otter.ai, OpenAI Whisper)
 *[[796: February 4, 2004]] (via AutoSub, otter.ai)
 *[[801: February 10, 2004]] (via otter.ai)
+*[[803: Mark Bankston, Tapestry King]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
@@ -10473,7 +10480,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|279
+|281
 |-
 |'''Source Texts:'''
 |
@@ -10540,6 +10547,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[761: December 11, 2003]] (via Manually-created)
 *[[765: Formulaic Objections Part 13]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[775: Fireside Chatting]] (via OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 
 |}
@@ -11074,6 +11082,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[556: May 6-7, 2021]] (via AutoSub, OpenAI Whisper)
 *[[594: September 7, 2021]] (via AutoSub, OpenAI Whisper)
 *[[723: September 8, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
+==North Bristol==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, LOC
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'North Bristol'
+
+|-
+|'''Sources:'''
+|
+
+*[[366: November 5-6, 2019]] (via AutoSub, OpenAI Whisper)
+*[[802: Chatting with Sian Norris]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -11996,7 +12029,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|52
+|58
 |-
 |'''Source Texts:'''
 |
@@ -12022,6 +12055,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[648: February 11, 2022]] (via AutoSub, OpenAI Whisper)
 *[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 *[[799: February 9, 2004]] (via otter.ai, OpenAI Whisper)
+*[[802: Chatting with Sian Norris]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -13032,7 +13066,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -13051,5 +13085,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[625: December 5, 2021]] (via OpenAI Whisper)
 *[[662: March 22, 2022]] (via OpenAI Whisper, Wiki Page)
 *[[774: December 22, 2003]] (via OpenAI Whisper)
+*[[802: Chatting with Sian Norris]] (via otter.ai)
 
 |}
