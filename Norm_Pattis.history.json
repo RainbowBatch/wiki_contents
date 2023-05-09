@@ -1,5 +1,35 @@
 [
   {
+    "oldid": 12986,
+    "summary": "Add a little more clarification to Norm's pages",
+    "time": {
+      "date": 1683331200000,
+      "day": 6,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 5,
+      "second": 45,
+      "timezone": "UTC",
+      "weekday": 6
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 12985,
+    "summary": "This needs further updates, but adds a little more about what Pattis has been up to during and after the trial.",
+    "time": {
+      "date": 1683331200000,
+      "day": 6,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 5,
+      "second": 10,
+      "timezone": "UTC",
+      "weekday": 6
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 12932,
     "summary": "RainbowBatch update",
     "time": {
