@@ -1185,7 +1185,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|106
+|108
 |-
 |'''Source Texts:'''
 |
@@ -1282,6 +1282,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[803: Mark Bankston, Tapestry King]] (via otter.ai)
 *[[804: May 3-4, 2023]] (via otter.ai)
 *[[805: February 16, 2004]] (via otter.ai)
+*[[806: Chatting with Erica Lafferty]] (via otter.ai)
+*[[807: February 17, 2004]] (via otter.ai)
 
 |}
 
@@ -1626,7 +1628,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|17
 |-
 |'''Source Texts:'''
 |
@@ -1645,6 +1647,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[346: April 11-14, 2013]] (via AutoSub, OpenAI Whisper)
 *[[633: December 30, 2021]] (via AutoSub, OpenAI Whisper)
 *[[749: December 1-2, 2003]] (via otter.ai, OpenAI Whisper)
+*[[809: May 18, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4046,7 +4049,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|74
+|75
 |-
 |'''Source Texts:'''
 |
@@ -4078,6 +4081,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[625: December 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[809: May 18, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -4935,7 +4939,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|703
+|710
 |-
 |'''Source Texts:'''
 |
@@ -5039,6 +5043,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[775: Fireside Chatting]] (via otter.ai, OpenAI Whisper)
 *[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[809: May 18, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -5320,7 +5325,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON
 |-
 |'''Total Count:'''
-|61
+|91
 |-
 |'''Source Texts:'''
 |
@@ -5344,6 +5349,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[789: January 26, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[794: January 30-February 2, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[800: April 24, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[810: February 18-23, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -7468,7 +7474,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, LOC, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|47
+|48
 |-
 |'''Source Texts:'''
 |
@@ -7521,6 +7527,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[795: April 4-5, 2023]] (via otter.ai)
 *[[803: Mark Bankston, Tapestry King]] (via AutoSub)
 *[[804: May 3-4, 2023]] (via otter.ai)
+*[[809: May 18, 2023]] (via otter.ai)
 
 |}
 
@@ -7576,6 +7583,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[572: June 28-30, 2021]] (via OpenAI Whisper)
 *[[643: January 28, 2022]] (via OpenAI Whisper)
+
+|}
+
+==Defamation League==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Defamation League'
+*'The Defamation League'
+*'the Defamation League'
+
+|-
+|'''Sources:'''
+|
+
+*[[130A: Endgame, Part 1]] (via OpenAI Whisper)
+*[[807: February 17, 2004]] (via otter.ai)
 
 |}
 
@@ -8146,7 +8180,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|657
+|660
 |-
 |'''Source Texts:'''
 |
@@ -8418,6 +8452,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[791: March 30-31, 2023]] (via otter.ai, OpenAI Whisper)
 *[[795: April 4-5, 2023]] (via OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[807: February 17, 2004]] (via AutoSub)
+*[[809: May 18, 2023]] (via AutoSub)
+*[[810: February 18-23, 2004]] (via OpenAI Whisper)
 *[[Spiritual Correction]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -8567,7 +8604,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|413
+|416
 |-
 |'''Source Texts:'''
 |
@@ -8754,6 +8791,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[792: Chatting With Jeff Sharlet]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via otter.ai)
 *[[800: April 24, 2023]] (via otter.ai)
+*[[808: May 15, 2023]] (via otter.ai)
+*[[809: May 18, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -8766,12 +8805,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|4
+|6
 |-
 |'''Source Texts:'''
 |
 
 *'Democratic Republic'
+*'a Democratic Republic'
 *'the Democratic Republic'
 
 |-
@@ -8782,6 +8822,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[436: May 22, 2020]] (via AutoSub)
 *[[448: June 21-22, 2020]] (via AutoSub)
 *[[798: April 19, 2023]] (via AutoSub)
+*[[809: May 18, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -9845,7 +9886,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|24
+|26
 |-
 |'''Source Texts:'''
 |
@@ -9872,6 +9913,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[603: October 3-4, 2021]] (via AutoSub)
 *[[625: December 5, 2021]] (via OpenAI Whisper)
 *[[656: March 5, 2022]] (via OpenAI Whisper)
+*[[809: May 18, 2023]] (via otter.ai, OpenAI Whisper)
 
 |}
 
@@ -10452,20 +10494,19 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|16
+|15
 |-
 |'''Source Texts:'''
 |
 
 *'Depeche Mode'
-*'Depeche Mode\r\n    -   '
 *"Depeche Mode's"
 
 |-
 |'''Sources:'''
 |
 
-*[[144: March 25-31, Part 2]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[144: March 25-31, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[264: February 11-13, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[370: November 14-15, 2019]] (via AutoSub)
 *[[415: April 1, 2020]] (via AutoSub, OpenAI Whisper)
@@ -11600,6 +11641,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Diane Sawyer==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW, PERSON, PRODUCT
+|-
+|'''Total Count:'''
+|62
+|-
+|'''Source Texts:'''
+|
+
+*'Diane Sawyer'
+*"Diane Sawyer's"
+*'the Diane Sawyer'
+
+|-
+|'''Sources:'''
+|
+
+*[[805: February 16, 2004]] (via otter.ai, OpenAI Whisper)
+*[[807: February 17, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+
+|}
+
 ==Dianne Feinstein==
 {| class="fandom-table"
 |'''Status:'''
@@ -12567,7 +12635,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON
 |-
 |'''Total Count:'''
-|236
+|239
 |-
 |'''Source Texts:'''
 |
@@ -12754,6 +12822,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[797: Belly-Floppin' Into The Pool]] (via AutoSub)
 *[[800: April 24, 2023]] (via AutoSub)
 *[[802: Chatting with Sian Norris]] (via AutoSub)
+*[[809: May 18, 2023]] (via AutoSub, OpenAI Whisper)
+*[[810: February 18-23, 2004]] (via AutoSub)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 
 |}
@@ -13241,7 +13311,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|34
+|36
 |-
 |'''Source Texts:'''
 |
@@ -13256,6 +13326,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[119: August 16, 2012]] (via AutoSub)
 *[[558: May 8-9, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[807: February 17, 2004]] (via AutoSub, otter.ai)
 
 |}
 
@@ -14396,7 +14467,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|23959
+|23980
 |-
 |'''Source Texts:'''
 |
@@ -15153,6 +15224,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[800: April 24, 2023]] (via otter.ai, OpenAI Whisper)
 *[[802: Chatting with Sian Norris]] (via otter.ai, OpenAI Whisper)
 *[[804: May 3-4, 2023]] (via otter.ai, OpenAI Whisper)
+*[[806: Chatting with Erica Lafferty]] (via otter.ai, OpenAI Whisper)
+*[[808: May 15, 2023]] (via otter.ai, OpenAI Whisper, Wiki Page)
+*[[810: February 18-23, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper)
@@ -15547,7 +15621,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|13
 |-
 |'''Source Texts:'''
 |
@@ -15566,6 +15640,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[683: May 16, 2022]] (via AutoSub, OpenAI Whisper)
 *[[692: Alex Jones' Punch Out]] (via OpenAI Whisper)
 *[[708: The Cuck-Destroyer Destroys The Stage]] (via OpenAI Whisper)
+*[[809: May 18, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -15855,6 +15930,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[77: August 23, 2017]] (via OpenAI Whisper)
 *[[112: December 15, 2017]] (via AutoSub, Wiki Page)
 *[[196: August 21, 2018]] (via AutoSub)
+
+|}
+
+==Downing Street==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, GPE
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Downing Street'
+
+|-
+|'''Sources:'''
+|
+
+*[[659: July 21-23, 2003]] (via OpenAI Whisper)
+*[[810: February 18-23, 2004]] (via otter.ai)
 
 |}
 
@@ -16910,7 +17010,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|221
+|226
 |-
 |'''Source Texts:'''
 |
@@ -16971,6 +17071,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 *[[796: February 4, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[808: May 15, 2023]] (via otter.ai, OpenAI Whisper)
+*[[809: May 18, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
