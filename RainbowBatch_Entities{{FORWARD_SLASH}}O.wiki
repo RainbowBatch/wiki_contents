@@ -149,13 +149,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 ==Oathkeepers==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |LOC, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|77
+|76
 |-
 |'''Source Texts:'''
 |
@@ -676,7 +676,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|29
+|30
 |-
 |'''Source Texts:'''
 |
@@ -699,6 +699,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[376: December 3-5, 2019]] (via AutoSub)
 *[[443: June 9, 2020]] (via OpenAI Whisper)
 *[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai)
+*[[827: July 9, 2023]] (via otter.ai)
 
 |}
 
@@ -843,7 +844,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -859,6 +860,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[14: February 17, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[242: December 18-19, 2018]] (via AutoSub)
 *[[734: October 9, 2022]] (via AutoSub, otter.ai)
+*[[821: Jon Ronson Returns]] (via AutoSub)
 
 |}
 
@@ -1108,7 +1110,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|484
+|509
 |-
 |'''Source Texts:'''
 |
@@ -1215,6 +1217,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[795: April 4-5, 2023]] (via AutoSub, otter.ai)
 *[[800: April 24, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[801: February 10, 2004]] (via otter.ai)
+*[[821: Jon Ronson Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -1227,7 +1230,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1238,6 +1241,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*821: Jon Ronson Returns (via Wiki Page)
 *[[208: March 6-8, 2009]] (via AutoSub)
 *[[355: April 18, 2013]] (via AutoSub)
 *[[801: February 10, 2004]] (via AutoSub)
@@ -1590,6 +1594,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[255: September 25, 2011]] (via AutoSub, OpenAI Whisper)
 *[[373: April 24, 2013]] (via OpenAI Whisper)
 *[[707: Dan's War]] (via OpenAI Whisper)
+
+|}
+
+==Omaha Steaks==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Omaha Steaks'
+
+|-
+|'''Sources:'''
+|
+
+*[[604: October 5, 2021]] (via OpenAI Whisper)
+*[[838: August 11, 2023]] (via AutoSub)
 
 |}
 
@@ -1982,7 +2011,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|50
+|55
 |-
 |'''Source Texts:'''
 |
@@ -2021,6 +2050,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[699: July 4-5, 2022]] (via OpenAI Whisper)
 *[[721: September 2, 2022]] (via OpenAI Whisper)
 *[[756: December 5, 2003]] (via OpenAI Whisper)
+*[[822: June 19, 2023]] (via OpenAI Whisper)
+*[[825: July 5, 2023]] (via OpenAI Whisper)
+*[[840: August 18, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -2095,7 +2127,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, ORG, PERSON
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -2111,6 +2143,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via otter.ai, OpenAI Whisper)
 *[[812: Jeff Sharlet Returns]] (via otter.ai)
+*[[827: July 9, 2023]] (via otter.ai)
+
+|}
+
+==Operation Underground Railroad==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Operation Underground Railroad'
+
+|-
+|'''Sources:'''
+|
+
+*[[827: July 9, 2023]] (via OpenAI Whisper)
+*[[833: Mike Rothschild In The Hot Seat]] (via OpenAI Whisper)
 
 |}
 
@@ -2855,7 +2913,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|38
+|39
 |-
 |'''Source Texts:'''
 |
@@ -2879,6 +2937,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[598: September 17, 2021]] (via AutoSub, OpenAI Whisper)
 *[[607: A Chat With Mike Rothschild]] (via AutoSub, OpenAI Whisper)
 *[[804: May 3-4, 2023]] (via otter.ai, OpenAI Whisper)
+*[[844: March 12-15, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -2969,7 +3028,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON
 |-
 |'''Total Count:'''
-|150
+|153
 |-
 |'''Source Texts:'''
 |
@@ -3023,6 +3082,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 *[[793: January 27-29, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[799: February 9, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[821: Jon Ronson Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3035,7 +3095,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|9
 |-
 |'''Source Texts:'''
 |
@@ -3050,6 +3110,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[356: October 11, 2019]] (via AutoSub, OpenAI Whisper)
 *[[389: January 15-17, 2020]] (via OpenAI Whisper)
 *[[776: February 11, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[834: August 2, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3076,6 +3137,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[557: May 11, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[647: February 8, 2022]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Osmosis Jones==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Osmosis Jones'
+
+|-
+|'''Sources:'''
+|
+
+*[[631: December 20, 2021]] (via OpenAI Whisper)
+*[[832: July 26, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -3302,6 +3388,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Overabundance==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Overabundance'
+
+|-
+|'''Sources:'''
+|
+
+*[[215: March 11-12, 2009]] (via AutoSub)
+*[[830: July 16, 2023]] (via AutoSub)
+
+|}
+
 ==Overton Window==
 {| class="fandom-table"
 |'''Status:'''
@@ -3363,7 +3474,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|107
+|153
 |-
 |'''Source Texts:'''
 |
@@ -3393,6 +3504,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[774: December 22, 2003]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[808: May 15, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[822: June 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3436,7 +3548,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1541
+|1561
 |-
 |'''Source Texts:'''
 |
@@ -3460,6 +3572,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub, OpenAI Whisper)
+*834: August 2, 2023 (via Wiki Page)
 *Bradley Reeves (via Wiki Page)
 *Celine (via Wiki Page)
 *David Knight (via Wiki Page)
@@ -3732,6 +3845,12 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[808: May 15, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[811: February 24, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[817: June 8, 2023]] (via otter.ai)
+*[[822: June 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[825: July 5, 2023]] (via OpenAI Whisper)
+*[[841: Like A Pearl Before A Swine]] (via AutoSub, OpenAI Whisper)
+*[[842: Amanda Moore Returns]] (via OpenAI Whisper)
+*[[846: September 3, 2023]] (via OpenAI Whisper)
+*[[848: The News Blitz]] (via AutoSub, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
@@ -3878,7 +3997,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|5
+|11
 |-
 |'''Source Texts:'''
 |
@@ -3895,6 +4014,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[365: She Doesn't Do Politics]] (via OpenAI Whisper)
 *[[481: September 13, 2012]] (via OpenAI Whisper)
 *[[596: Possibly Too Much Wacky]] (via AutoSub)
+*[[821: Jon Ronson Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -3980,5 +4100,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[318: July 5, 2019]] (via OpenAI Whisper)
 *[[365: She Doesn't Do Politics]] (via OpenAI Whisper)
 *[[715: Trial Recap, Part 2]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
+==Ozzy Osbourne==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'Ozzy Osbourne'
+*"Ozzy Osbourne's"
+
+|-
+|'''Sources:'''
+|
+
+*[[186: February 17-18, 2009]] (via OpenAI Whisper)
+*[[823: March 1, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}

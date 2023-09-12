@@ -88,7 +88,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -105,6 +105,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[526: January 28-31, 2021]] (via AutoSub)
 *[[533: February 17, 2021]] (via AutoSub, OpenAI Whisper)
 *[[692: Alex Jones' Punch Out]] (via AutoSub)
+*[[841: Like A Pearl Before A Swine]] (via AutoSub)
 
 |}
 
@@ -360,7 +361,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|22
+|24
 |-
 |'''Source Texts:'''
 |
@@ -389,6 +390,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[645: November 4, 2014]] (via OpenAI Whisper)
 *[[700: July 6, 2022]] (via OpenAI Whisper)
 *[[770: January 20, 2023]] (via AutoSub)
+*[[824: Tucker, The Man And His Twitter- Episode 3]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -665,7 +667,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|25
+|26
 |-
 |'''Source Texts:'''
 |
@@ -683,6 +685,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[772: December 18-19, 2003]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[791: March 30-31, 2023]] (via OpenAI Whisper)
 *[[793: January 27-29, 2004]] (via OpenAI Whisper)
+*[[843: August 24, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -773,7 +776,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC
 |-
 |'''Total Count:'''
-|53
+|55
 |-
 |'''Source Texts:'''
 |
@@ -828,6 +831,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[804: May 3-4, 2023]] (via AutoSub)
 *[[808: May 15, 2023]] (via AutoSub)
 *[[819: February 25-27, 2004]] (via AutoSub)
+*[[824: Tucker, The Man And His Twitter- Episode 3]] (via AutoSub)
+*[[827: July 9, 2023]] (via AutoSub)
 
 |}
 
@@ -837,10 +842,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, WORK_OF_ART
+|FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -853,6 +858,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[50: Bohemian Grove...Ya Busted]] (via AutoSub)
 *[[85: September 20-21, 2017]] (via AutoSub)
+*[[827: July 9, 2023]] (via AutoSub)
+*[[833: Mike Rothschild In The Hot Seat]] (via AutoSub)
 
 |}
 
@@ -945,7 +952,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -964,6 +971,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[651: February 18, 2022]] (via AutoSub)
 *[[652: February 21-24, 2022]] (via OpenAI Whisper)
 *[[733: October 6, 2022]] (via OpenAI Whisper)
+*[[836: The Crowder Announcement]] (via AutoSub)
 
 |}
 
@@ -1305,7 +1313,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|121
+|124
 |-
 |'''Source Texts:'''
 |
@@ -1376,6 +1384,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[666: March 31, 2022]] (via OpenAI Whisper)
 *[[743: October 29-30, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[752: Ye Took A Dip In The Pool]] (via otter.ai, OpenAI Whisper)
+*[[827: July 9, 2023]] (via AutoSub, otter.ai)
+*[[839: August 16, 2023]] (via AutoSub)
 
 |}
 
@@ -1427,7 +1437,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|185
+|188
 |-
 |'''Source Texts:'''
 |
@@ -1544,6 +1554,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[800: April 24, 2023]] (via otter.ai, OpenAI Whisper)
 *[[802: Chatting with Sian Norris]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[813: May 29, 2023]] (via otter.ai)
+*[[827: July 9, 2023]] (via AutoSub, OpenAI Whisper)
+*[[830: July 16, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -1613,7 +1625,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|4161
+|4240
 |-
 |'''Source Texts:'''
 |
@@ -2308,6 +2320,24 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[817: June 8, 2023]] (via AutoSub, otter.ai)
 *[[818: June 9, 2023]] (via otter.ai, OpenAI Whisper)
 *[[820: Tucker, The Man And His Twitter- Episode 2]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[821: Jon Ronson Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[822: June 19, 2023]] (via otter.ai, OpenAI Whisper)
+*[[823: March 1, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[824: Tucker, The Man And His Twitter- Episode 3]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[825: July 5, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[827: July 9, 2023]] (via AutoSub, otter.ai)
+*[[828: March 5, 2004]] (via AutoSub, OpenAI Whisper)
+*[[830: July 16, 2023]] (via OpenAI Whisper)
+*[[832: July 26, 2023]] (via OpenAI Whisper)
+*[[834: August 2, 2023]] (via AutoSub, OpenAI Whisper)
+*[[835: August 5, 2023]] (via AutoSub, OpenAI Whisper)
+*[[837: March 11, 2004]] (via AutoSub, OpenAI Whisper)
+*[[839: August 16, 2023]] (via AutoSub, OpenAI Whisper)
+*[[840: August 18, 2023]] (via AutoSub, OpenAI Whisper)
+*[[841: Like A Pearl Before A Swine]] (via AutoSub, OpenAI Whisper)
+*[[842: Amanda Moore Returns]] (via AutoSub)
+*[[847: Chatting with Sophie From Mars]] (via AutoSub, OpenAI Whisper)
+*[[848: The News Blitz]] (via AutoSub, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
@@ -2401,6 +2431,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==United States Government==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the United States Government'
+
+|-
+|'''Sources:'''
+|
+
+*[[754: Formulaic Objections Part 12]] (via otter.ai)
+*[[821: Jon Ronson Returns]] (via otter.ai)
+
+|}
+
 ==United States Marine Corps==
 {| class="fandom-table"
 |'''Status:'''
@@ -2464,7 +2519,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|136
+|143
 |-
 |'''Source Texts:'''
 |
@@ -2546,6 +2601,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[751: November 20-21, 2022]] (via otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[801: February 10, 2004]] (via otter.ai)
+*[[828: March 5, 2004]] (via AutoSub, OpenAI Whisper)
+*[[848: The News Blitz]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2653,6 +2710,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[105: March 18, 2014]] (via AutoSub)
 *[[628: July 10, 2003]] (via AutoSub)
+
+|}
+
+==Universal Studios==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Universal Studios'
+
+|-
+|'''Sources:'''
+|
+
+*[[212: Matrix Schemes and Billions In Liens]] (via OpenAI Whisper)
+*[[844: March 12-15, 2004]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2922,6 +3004,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[613: June 24-25, 2003]] (via AutoSub, OpenAI Whisper)
 *[[636: April 27, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[713: Chatting With Becca Lewis]] (via AutoSub)
+
+|}
+
+==University of Colorado==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'University of Colorado'
+*'the University of Colorado'
+
+|-
+|'''Sources:'''
+|
+
+*[[298: January 20-23, 2013]] (via AutoSub, OpenAI Whisper)
+*[[835: August 5, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3408,7 +3516,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|54
+|55
 |-
 |'''Source Texts:'''
 |
@@ -3445,6 +3553,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[779: January 9-12, 2004]] (via Wiki Page)
 *[[811: February 24, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[813: May 29, 2023]] (via otter.ai)
+*[[832: July 26, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -3773,7 +3882,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -3787,6 +3896,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[184: Godly Particles and Illiteracy]] (via AutoSub)
 *[[233: November 28, 2018]] (via AutoSub)
 *[[341: September 5, 2019]] (via AutoSub)
+*[[841: Like A Pearl Before A Swine]] (via AutoSub)
 
 |}
 
@@ -3851,7 +3961,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|11
+|14
 |-
 |'''Source Texts:'''
 |
@@ -3869,6 +3979,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[432: May 10-11, 2020]] (via OpenAI Whisper)
 *[[480: September 9-10, 2020]] (via AutoSub, OpenAI Whisper)
 *[[662: March 22, 2022]] (via OpenAI Whisper)
+*[[823: March 1, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -4480,6 +4591,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[736: Reflections on a Verdict]] (via FoulEdgeKnight-edited, otter.ai)
 *[[738: Taking a Powder With Chowder]] (via AutoSub, otter.ai, Welder, OpenAI Whisper)
 *[[807: February 17, 2004]] (via OpenAI Whisper)
+
+|}
+
+==US Surgeon General==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'US Surgeon General'
+*'the US Surgeon General'
+
+|-
+|'''Sources:'''
+|
+
+*[[415: April 1, 2020]] (via AutoSub)
+*[[831: Tucker, The Man And His Twitter- Episode 4]] (via AutoSub, OpenAI Whisper)
 
 |}
 
