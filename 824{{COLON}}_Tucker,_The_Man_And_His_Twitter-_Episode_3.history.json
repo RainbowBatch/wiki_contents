@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 13615,
+    "summary": "Remove and redirect a bunch of aliases.",
+    "time": {
+      "date": 1696896000000,
+      "day": 10,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 10,
+      "second": 19,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 13584,
     "summary": "RainbowBatch update",
     "time": {

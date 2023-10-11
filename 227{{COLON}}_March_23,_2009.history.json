@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 13603,
+    "summary": "Fix some typos and remove appearances by people who aren't notable enough to be identifiable.",
+    "time": {
+      "date": 1696896000000,
+      "day": 10,
+      "hour": 16,
+      "microsecond": 0,
+      "month": 10,
+      "second": 46,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 12121,
     "summary": "RainbowBatch update",
     "time": {
