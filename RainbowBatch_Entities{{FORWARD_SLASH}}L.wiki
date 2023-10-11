@@ -1630,7 +1630,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|27
+|39
 |-
 |'''Source Texts:'''
 |
@@ -1645,6 +1645,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[127: February 8, 2018]] (via AutoSub, OpenAI Whisper)
 *[[146: April 4, 2018]] (via OpenAI Whisper)
 *[[149: The Press Conference]] (via AutoSub, OpenAI Whisper)
+*[[852: Tucker, The Man And His Twitter- Episode 5]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -1815,7 +1816,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|106
+|107
 |-
 |'''Source Texts:'''
 |
@@ -1878,6 +1879,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[808: May 15, 2023]] (via otter.ai)
 *[[817: June 8, 2023]] (via otter.ai)
 *[[824: Tucker, The Man And His Twitter- Episode 3]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[854: September 29, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -1956,7 +1958,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|22
+|24
 |-
 |'''Source Texts:'''
 |
@@ -1974,6 +1976,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[671: April 13, 2022]] (via OpenAI Whisper)
 *[[738: Taking a Powder With Chowder]] (via AutoSub, otter.ai, Welder, OpenAI Whisper)
 *[[820: Tucker, The Man And His Twitter- Episode 2]] (via AutoSub)
+*[[851: Erica Lafferty Returns]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2294,7 +2297,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -2312,6 +2315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[751: November 20-21, 2022]] (via OpenAI Whisper)
 *[[767: January 12, 2023]] (via OpenAI Whisper)
 *[[792: Chatting With Jeff Sharlet]] (via OpenAI Whisper)
+*[[854: September 29, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -2585,7 +2589,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -2610,6 +2614,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[491: October 12, 2020]] (via AutoSub)
 *[[664: Formulaic Objections Part 5]] (via AutoSub)
 *[[704: 9/11, Part 2]] (via AutoSub)
+*[[851: Erica Lafferty Returns]] (via AutoSub)
 
 |}
 
@@ -7685,10 +7690,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, ORG, PERSON
+|FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|16
+|26
 |-
 |'''Source Texts:'''
 |
@@ -7711,6 +7716,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[720: August 6, 2003]] (via Welder, OpenAI Whisper)
 *[[761: December 11, 2003]] (via Manually-created, otter.ai, OpenAI Whisper)
 *[[827: July 9, 2023]] (via OpenAI Whisper)
+*[[855: Live At QED In Manchester]] (via OpenAI Whisper)
 
 |}
 
@@ -8362,7 +8368,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|168
+|169
 |-
 |'''Source Texts:'''
 |
@@ -8449,6 +8455,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[799: February 9, 2004]] (via OpenAI Whisper)
 *[[809: May 18, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[825: July 5, 2023]] (via otter.ai, OpenAI Whisper)
+*[[855: Live At QED In Manchester]] (via OpenAI Whisper)
 
 |}
 
@@ -9585,7 +9592,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|43
+|44
 |-
 |'''Source Texts:'''
 |
@@ -9609,6 +9616,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[782: February 26, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[805: February 16, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[815: June 6, 2023]] (via otter.ai, OpenAI Whisper)
+*[[856: Live In London (Night 1)]] (via OpenAI Whisper)
 
 |}
 
