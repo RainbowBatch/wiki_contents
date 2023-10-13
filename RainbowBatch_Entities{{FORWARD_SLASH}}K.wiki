@@ -1589,7 +1589,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|17
+|16
 |-
 |'''Source Texts:'''
 |
@@ -1601,7 +1601,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*InfoWars (via Wiki Page)
 *Kelly Jones (via Wiki Page)
 *PQPR (via Wiki Page)
 *[[39: Jack Posobiec...Ya Busted]] (via Wiki Page)
@@ -1907,6 +1906,58 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Kent Heckenlively==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Kent Heckenlively'
+
+|-
+|'''Sources:'''
+|
+
+*Kent Heckenlively (via Wiki Page)
+*[[747: November 11, 2022]] (via Wiki Page)
+*[[858: October 7, 2023]] (via Wiki Page)
+
+|}
+
+==Kent Hickenlively==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Kent Hickenlively'
+*"Kent Hickenlively's"
+
+|-
+|'''Sources:'''
+|
+
+*[[747: November 11, 2022]] (via OpenAI Whisper)
+*[[858: October 7, 2023]] (via OpenAI Whisper)
+
+|}
+
 ==Kent State==
 {| class="fandom-table"
 |'''Status:'''
@@ -2051,7 +2102,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|560
+|565
 |-
 |'''Source Texts:'''
 |
@@ -2176,9 +2227,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[777: An X-Men Scenario Is Coming]] (via AutoSub, otter.ai)
 *[[806: Chatting with Erica Lafferty]] (via otter.ai, OpenAI Whisper)
 *[[818: June 9, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[853: Chatting with The Squatch Guys]] (via OpenAI Whisper)
+*[[853: Chatting with The Squatch Guys]] (via AutoSub, OpenAI Whisper)
 *[[854: September 29, 2023]] (via OpenAI Whisper)
-*[[857: Live In London (Night 2)]] (via OpenAI Whisper)
+*[[857: Live In London (Night 2)]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -2978,10 +3029,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -2995,6 +3046,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[300: May 21-22, 2019]] (via AutoSub)
 *[[352: April 17, 2013]] (via AutoSub)
 *[[696: June 24, 2022]] (via AutoSub)
+*[[853: Chatting with The Squatch Guys]] (via AutoSub)
 
 |}
 
@@ -5076,7 +5128,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|368
+|371
 |-
 |'''Source Texts:'''
 |
@@ -5300,6 +5352,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[845: September 2, 2023]] (via OpenAI Whisper)
 *[[850: September 14, 2023]] (via OpenAI Whisper)
 *[[851: Erica Lafferty Returns]] (via OpenAI Whisper)
+*[[859: January 20, 2010]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
 
@@ -5369,7 +5422,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|426
+|428
 |-
 |'''Source Texts:'''
 |
@@ -5691,6 +5744,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[851: Erica Lafferty Returns]] (via OpenAI Whisper)
 *[[853: Chatting with The Squatch Guys]] (via OpenAI Whisper)
 *[[855: Live At QED In Manchester]] (via OpenAI Whisper)
+*[[858: October 7, 2023]] (via OpenAI Whisper)
+*[[859: January 20, 2010]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[No One Is Mad At The Crew]] (via OpenAI Whisper)
 
@@ -5920,7 +5975,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -5936,7 +5991,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[547: April 8, 2021]] (via OpenAI Whisper)
 *[[727: Chatting with Sebastian Murdock]] (via AutoSub)
 *[[824: Tucker, The Man And His Twitter- Episode 3]] (via OpenAI Whisper)
-*[[856: Live In London (Night 1)]] (via OpenAI Whisper)
+*[[856: Live In London (Night 1)]] (via AutoSub, OpenAI Whisper)
 
 |}
 
