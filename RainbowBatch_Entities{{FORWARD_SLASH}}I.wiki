@@ -882,7 +882,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|94
+|96
 |-
 |'''Source Texts:'''
 |
@@ -951,6 +951,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[721: September 2, 2022]] (via AutoSub, Welder, OpenAI Whisper)
 *[[726: September 15-16, 2022]] (via AutoSub)
 *[[794: January 30-February 2, 2004]] (via AutoSub)
+*[[854: September 29, 2023]] (via AutoSub)
 
 |}
 
@@ -1098,7 +1099,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -1116,6 +1117,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[380: December 19-20, 2019]] (via AutoSub)
 *[[721: September 2, 2022]] (via AutoSub)
 *[[782: February 26, 2023]] (via AutoSub)
+*[[854: September 29, 2023]] (via AutoSub)
 
 |}
 
@@ -1369,10 +1371,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
-|32
+|33
 |-
 |'''Source Texts:'''
 |
@@ -1413,6 +1415,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[811: February 24, 2004]] (via AutoSub)
 *[[816: Tucker, The Man And His Twitter- Episode 1]] (via otter.ai)
 *[[839: August 16, 2023]] (via AutoSub)
+*[[855: Live At QED In Manchester]] (via AutoSub)
 
 |}
 
@@ -2227,32 +2230,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
-==Infowars Health LLC==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'InfoWars Health LLC'
-*'Infowars Health LLC'
-
-|-
-|'''Sources:'''
-|
-
-*InfoWars (via Wiki Page)
-*[[742: Formulaic Objections Part 9]] (via OpenAI Whisper)
-
-|}
-
 ==Infowars HQ==
 {| class="fandom-table"
 |'''Status:'''
@@ -2342,7 +2319,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|42
+|41
 |-
 |'''Source Texts:'''
 |
@@ -2356,7 +2333,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub)
-*InfoWars (via Wiki Page)
 *[[279: Formulaic Objections]] (via otter.ai, OpenAI Whisper)
 *[[681: May 8, 2022]] (via AutoSub)
 *[[691: June 6, 2022]] (via AutoSub)
@@ -3892,7 +3868,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|53
+|55
 |-
 |'''Source Texts:'''
 |
@@ -3944,6 +3920,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[687: May 24, 2022]] (via AutoSub)
 *[[797: Belly-Floppin' Into The Pool]] (via AutoSub)
 *[[824: Tucker, The Man And His Twitter- Episode 3]] (via OpenAI Whisper)
+*[[858: October 7, 2023]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}

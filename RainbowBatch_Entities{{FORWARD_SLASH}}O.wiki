@@ -221,7 +221,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -244,6 +244,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[513: December 18, 2020]] (via AutoSub)
 *[[540: March 15-16, 2021]] (via AutoSub)
 *[[598: September 17, 2021]] (via AutoSub)
+*[[859: January 20, 2010]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -1113,7 +1114,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|509
+|510
 |-
 |'''Source Texts:'''
 |
@@ -1126,6 +1127,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*Oklahoma City bombing (via Wiki Page)
 *Ole Dammegård (via Wiki Page)
 *[[17: February 7, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[33: April 22, 2017]] (via otter.ai, OpenAI Whisper)
@@ -1230,24 +1232,63 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE
+|GPE, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|4
+|208
 |-
 |'''Source Texts:'''
 |
 
 *'Oklahoma City Bombing'
+*'Tim McVeigh'
+*"Tim McVeigh's"
+*'Timothy McVeigh'
+*"Timothy McVeigh's"
 
 |-
 |'''Sources:'''
 |
 
+*[[46: June 18, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[52: July 14-21, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub, OpenAI Whisper)
+*[[56: July 22-Aug 11, 2015]] (via OpenAI Whisper)
+*[[73: August 12, 2017]] (via AutoSub, OpenAI Whisper)
+*[[97: October 25, 2017]] (via OpenAI Whisper)
+*[[101: January 11, 2016]] (via OpenAI Whisper)
+*[[121: April 1-2, 2013]] (via OpenAI Whisper)
+*[[124: March 23, 2008]] (via AutoSub, OpenAI Whisper)
+*[[132: Minisode]] (via OpenAI Whisper)
+*[[136: March 30-31, 2008]] (via AutoSub, OpenAI Whisper)
+*[[168: Alex Vs. Bill Ayers]] (via OpenAI Whisper, Wiki Page)
+*[[198: July 22, 2011]] (via AutoSub, OpenAI Whisper)
+*[[200: Feb. 25-March 1, 2009]] (via AutoSub, OpenAI Whisper)
 *[[208: March 6-8, 2009]] (via AutoSub)
+*[[215: March 11-12, 2009]] (via OpenAI Whisper)
+*[[249: Predicting 9/11]] (via OpenAI Whisper)
+*[[274: Ask Alex Anything]] (via OpenAI Whisper)
+*[[276: January 1-2, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[277: March 15, 2019]] (via AutoSub, OpenAI Whisper)
+*[[297: January 17-18, 2013]] (via OpenAI Whisper)
+*[[308: February 6-8, 2013]] (via AutoSub, OpenAI Whisper)
+*[[310: June 13-14, 2019]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
+*[[320: February 21-22, 2013]] (via AutoSub, OpenAI Whisper)
+*[[334: August 21-22, 2019]] (via OpenAI Whisper)
 *[[355: April 18, 2013]] (via AutoSub)
+*[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub, OpenAI Whisper)
+*[[447: Bill Cooper Covers OKC Part 2]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[495: November 4-6, 2016]] (via OpenAI Whisper)
+*[[514: An X-Mas Report Rebuttal]] (via OpenAI Whisper)
+*[[574: May 28-29, 2003]] (via AutoSub, OpenAI Whisper)
+*[[612: October 31, 2021]] (via AutoSub, OpenAI Whisper)
+*[[614: The Purge of Gates]] (via OpenAI Whisper)
+*[[617: June 27, 2003]] (via AutoSub, OpenAI Whisper)
+*[[621: Reset Wars: Episode 1]] (via AutoSub, OpenAI Whisper)
+*[[794: January 30-February 2, 2004]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[801: February 10, 2004]] (via AutoSub)
-*[[821: Jon Ronson Returns]] (via Wiki Page)
+*[[813: May 29, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
+*[[821: Jon Ronson Returns]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -1718,7 +1759,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -1738,6 +1779,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[615: November 8, 2021?]] (via AutoSub)
 *[[672: April 18, 2022]] (via AutoSub)
 *[[751: November 20-21, 2022]] (via otter.ai)
+*[[854: September 29, 2023]] (via AutoSub)
 
 |}
 
@@ -2094,7 +2136,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|31
+|32
 |-
 |'''Source Texts:'''
 |
@@ -2119,6 +2161,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[760: December 9-10, 2003]] (via Manually-created, otter.ai, Wiki Page)
 *[[767: January 12, 2023]] (via otter.ai)
 *[[771: Formulaic Objections Part 15]] (via otter.ai, OpenAI Whisper)
+*[[859: January 20, 2010]] (via OpenAI Whisper)
 
 |}
 
