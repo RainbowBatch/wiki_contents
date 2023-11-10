@@ -459,7 +459,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|295
+|296
 |-
 |'''Source Texts:'''
 |
@@ -505,6 +505,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[809: May 18, 2023]] (via otter.ai, OpenAI Whisper)
 *[[813: May 29, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[817: June 8, 2023]] (via AutoSub, otter.ai)
+*[[861: October 18, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -1912,40 +1913,15 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|7
 |-
 |'''Source Texts:'''
 |
 
 *'Kent Heckenlively'
-
-|-
-|'''Sources:'''
-|
-
-*Kent Heckenlively (via Wiki Page)
-*[[747: November 11, 2022]] (via Wiki Page)
-*[[858: October 7, 2023]] (via Wiki Page)
-
-|}
-
-==Kent Hickenlively==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG, PERSON
-|-
-|'''Total Count:'''
-|4
-|-
-|'''Source Texts:'''
-|
-
 *'Kent Hickenlively'
 *"Kent Hickenlively's"
 
@@ -1953,8 +1929,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*[[747: November 11, 2022]] (via OpenAI Whisper)
-*[[858: October 7, 2023]] (via OpenAI Whisper)
+*Kent Heckenlively (via Wiki Page)
+*[[747: November 11, 2022]] (via OpenAI Whisper, Wiki Page)
+*[[858: October 7, 2023]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -2590,7 +2567,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|88
+|91
 |-
 |'''Source Texts:'''
 |
@@ -2623,6 +2600,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[781: Chatting With Will Sommer]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[795: April 4-5, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[832: July 26, 2023]] (via AutoSub, OpenAI Whisper)
+*[[860: October 13, 2023]] (via OpenAI Whisper)
+*[[861: October 18, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -4519,7 +4498,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|282
+|284
 |-
 |'''Source Texts:'''
 |
@@ -4625,6 +4604,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[845: September 2, 2023]] (via AutoSub, OpenAI Whisper)
 *[[848: The News Blitz]] (via OpenAI Whisper)
 *[[854: September 29, 2023]] (via OpenAI Whisper)
+*[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -5128,7 +5108,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|371
+|378
 |-
 |'''Source Texts:'''
 |
@@ -5353,6 +5333,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[850: September 14, 2023]] (via OpenAI Whisper)
 *[[851: Erica Lafferty Returns]] (via OpenAI Whisper)
 *[[859: January 20, 2010]] (via OpenAI Whisper)
+*[[860: October 13, 2023]] (via OpenAI Whisper)
+*[[861: October 18, 2023]] (via OpenAI Whisper)
+*[[863: Keepin' It Fake, With Vivek]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via OpenAI Whisper)
 
@@ -5422,7 +5405,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|428
+|431
 |-
 |'''Source Texts:'''
 |
@@ -5746,6 +5729,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[855: Live At QED In Manchester]] (via OpenAI Whisper)
 *[[858: October 7, 2023]] (via OpenAI Whisper)
 *[[859: January 20, 2010]] (via OpenAI Whisper)
+*[[860: October 13, 2023]] (via OpenAI Whisper)
+*[[861: October 18, 2023]] (via OpenAI Whisper)
+*[[863: Keepin' It Fake, With Vivek]] (via OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[No One Is Mad At The Crew]] (via OpenAI Whisper)
 
