@@ -1351,7 +1351,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3508
+|3515
 |-
 |'''Source Texts:'''
 |
@@ -1848,7 +1848,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[854: September 29, 2023]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[855: Live At QED In Manchester]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[858: October 7, 2023]] (via AutoSub, OpenAI Whisper)
-*[[859: January 20, 2010]] (via AutoSub, OpenAI Whisper)
+*[[859: January 20, 2010]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
@@ -5282,7 +5283,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|56
+|57
 |-
 |'''Source Texts:'''
 |
@@ -5314,6 +5315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[753: December 1, 2022]] (via otter.ai, OpenAI Whisper)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[858: October 7, 2023]] (via AutoSub, OpenAI Whisper)
+*[[860: October 13, 2023]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -5598,10 +5600,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|GPE, PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -5616,6 +5618,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[94: October 19, 2017]] (via OpenAI Whisper)
 *[[139: St. Patrick's Day Special Report]] (via OpenAI Whisper)
 *[[318: July 5, 2019]] (via OpenAI Whisper)
+*[[862: Bankruptcy Response]] (via AutoSub)
 
 |}
 
@@ -7824,7 +7827,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|519
+|520
 |-
 |'''Source Texts:'''
 |
@@ -7925,6 +7928,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[834: August 2, 2023]] (via OpenAI Whisper)
 *[[859: January 20, 2010]] (via AutoSub, OpenAI Whisper)
+*[[863: Keepin' It Fake, With Vivek]] (via OpenAI Whisper)
 
 |}
 
@@ -8095,7 +8099,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1458
+|1462
 |-
 |'''Source Texts:'''
 |
@@ -8319,6 +8323,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[848: The News Blitz]] (via OpenAI Whisper)
 *[[850: September 14, 2023]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[857: Live In London (Night 2)]] (via OpenAI Whisper)
+*[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8473,7 +8478,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, LAW, ORG, PERSON
 |-
 |'''Total Count:'''
-|321
+|324
 |-
 |'''Source Texts:'''
 |
@@ -8538,6 +8543,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[731: September 29-30, 2022]] (via AutoSub, otter.ai)
 *[[781: Chatting With Will Sommer]] (via otter.ai, OpenAI Whisper)
 *[[782: February 26, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
@@ -9252,6 +9258,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[733: October 6, 2022]] (via AutoSub)
 *[[770: January 20, 2023]] (via AutoSub)
 *[[814: June 1, 2023]] (via AutoSub)
+
+|}
+
+==Billions of==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Billions of'
+
+|-
+|'''Sources:'''
+|
+
+*[[399: February 12-14, 2020]] (via AutoSub)
+*[[862: Bankruptcy Response]] (via AutoSub)
 
 |}
 
@@ -10243,7 +10274,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, GPE, ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -10258,6 +10289,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[201: A New Messiah and The Plunger Toss]] (via OpenAI Whisper)
 *[[392: January 24, 2020]] (via AutoSub)
 *[[618: November 15, 2021]] (via AutoSub)
+*[[860: October 13, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -10633,7 +10665,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT, LAW, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|44
+|45
 |-
 |'''Source Texts:'''
 |
@@ -10673,6 +10705,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[620: November 23, 2021]] (via OpenAI Whisper)
 *[[734: October 9, 2022]] (via otter.ai)
 *[[767: January 12, 2023]] (via otter.ai)
+*[[860: October 13, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -10974,7 +11007,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -10989,6 +11022,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[816: Tucker, The Man And His Twitter- Episode 1]] (via otter.ai)
 *[[843: August 24, 2023]] (via AutoSub, OpenAI Whisper)
 *[[850: September 14, 2023]] (via AutoSub)
+*[[861: October 18, 2023]] (via AutoSub)
 
 |}
 
@@ -12045,6 +12079,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Bloodhound==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Bloodhound'
+
+|-
+|'''Sources:'''
+|
+
+*[[363: October 30, 2019]] (via AutoSub)
+*[[862: Bankruptcy Response]] (via AutoSub)
+
+|}
+
 ==Bloodlines==
 {| class="fandom-table"
 |'''Status:'''
@@ -12420,7 +12479,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -12435,6 +12494,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[485: September 23-24, 2020]] (via AutoSub)
 *[[728: Elizabeth Williamson Returns Once More]] (via otter.ai)
 *[[756: December 5, 2003]] (via AutoSub, otter.ai)
+*[[862: Bankruptcy Response]] (via AutoSub)
 
 |}
 
@@ -12522,7 +12582,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -12536,6 +12596,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[83: November 10-12, 2015]] (via AutoSub)
 *[[100: January 6-7, 2016]] (via AutoSub)
 *[[832: July 26, 2023]] (via AutoSub)
+*[[862: Bankruptcy Response]] (via AutoSub)
 
 |}
 
@@ -12561,6 +12622,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[468: August 11, 2020]] (via AutoSub)
 *[[530: February 10-11, 2021]] (via AutoSub)
+
+|}
+
+==Blue's Clues==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*"Blue's Clues"
+
+|-
+|'''Sources:'''
+|
+
+*[[573: July 1, 2021]] (via AutoSub)
+*[[862: Bankruptcy Response]] (via AutoSub)
 
 |}
 
@@ -12636,7 +12722,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|40
+|42
 |-
 |'''Source Texts:'''
 |
@@ -12658,6 +12744,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[735: October 12, 2022]] (via AutoSub, FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[742: Formulaic Objections Part 9]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[862: Bankruptcy Response]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -14715,6 +14802,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Boston Review==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Boston Review'
+*'the Boston Review'
+
+|-
+|'''Sources:'''
+|
+
+*[[186: February 17-18, 2009]] (via AutoSub)
+*[[862: Bankruptcy Response]] (via AutoSub, OpenAI Whisper)
+
+|}
+
 ==Boston Tea Party==
 {| class="fandom-table"
 |'''Status:'''
@@ -15973,7 +16086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|32
+|33
 |-
 |'''Source Texts:'''
 |
@@ -16003,6 +16116,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[606: June 18-19, 2003]] (via OpenAI Whisper)
 *[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
 *[[785: March 4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[863: Keepin' It Fake, With Vivek]] (via OpenAI Whisper)
 
 |}
 
@@ -17643,7 +17757,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|26
+|28
 |-
 |'''Source Texts:'''
 |
@@ -17677,6 +17791,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via otter.ai)
 *[[830: July 16, 2023]] (via OpenAI Whisper)
 *[[841: Like A Pearl Before A Swine]] (via AutoSub)
+*[[863: Keepin' It Fake, With Vivek]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -19659,7 +19774,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|38
+|40
 |-
 |'''Source Texts:'''
 |
@@ -19686,6 +19801,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[716: April 25, 2014]] (via AutoSub, Welder, OpenAI Whisper)
 *[[808: May 15, 2023]] (via OpenAI Whisper)
 *[[818: June 9, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
