@@ -1,5 +1,35 @@
 [
   {
+    "oldid": 14070,
+    "summary": "Reverted edits by [[Special:Contributions/Evfmaz|Evfmaz]] ([[User talk:Evfmaz|talk]]) to last revision by [[User:RainbowBatch|RainbowBatch]]",
+    "time": {
+      "date": 1702944000000,
+      "day": 19,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 12,
+      "second": 44,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14069,
+    "summary": "",
+    "time": {
+      "date": 1702425600000,
+      "day": 13,
+      "hour": 17,
+      "microsecond": 0,
+      "month": 12,
+      "second": 47,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Evfmaz"
+  },
+  {
     "oldid": 13539,
     "summary": "RainbowBatch update",
     "time": {
