@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|6
+|12
 |-
 |'''Source Texts:'''
 |
@@ -26,6 +26,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[163: January 27-29, 2009]] (via AutoSub)
 *[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper)
+*[[871: November 14, 2023]] (via AutoSub, OpenAI Whisper)
 *[[The Halloween Story]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -502,6 +503,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Yom Kippur War==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Yom Kippur War'
+*'the Yom Kippur War'
+
+|-
+|'''Sources:'''
+|
+
+*[[356: October 11, 2019]] (via OpenAI Whisper)
+*[[874: November 30, 2023]] (via AutoSub, OpenAI Whisper)
+
+|}
+
 ==York Times==
 {| class="fandom-table"
 |'''Status:'''
@@ -548,7 +575,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|20
+|21
 |-
 |'''Source Texts:'''
 |
@@ -568,6 +595,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[355: April 18, 2013]] (via OpenAI Whisper)
 *[[357: October 16, 2019]] (via OpenAI Whisper, Wiki Page)
 *[[808: May 15, 2023]] (via OpenAI Whisper)
+*[[871: November 14, 2023]] (via AutoSub)
 
 |}
 
@@ -708,10 +736,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -725,6 +753,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[2: December 31, 1999 (Y2K)]] (via AutoSub, OpenAI Whisper)
 *[[513: December 18, 2020]] (via AutoSub)
+*[[876: December 8, 2023]] (via AutoSub)
 
 |}
 
@@ -1081,12 +1110,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|18
+|21
 |-
 |'''Source Texts:'''
 |
 
 *'Yuval Noah'
+*'Yuval Noah Harari'
 
 |-
 |'''Sources:'''
@@ -1098,5 +1128,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[809: May 18, 2023]] (via otter.ai)
 *[[841: Like A Pearl Before A Swine]] (via AutoSub)
 *[[858: October 7, 2023]] (via AutoSub, OpenAI Whisper)
+*[[872: November 26, 2023]] (via OpenAI Whisper)
+*[[875: The Most Important Man In The World]] (via AutoSub, OpenAI Whisper)
 
 |}
