@@ -1383,7 +1383,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|69
+|70
 |-
 |'''Source Texts:'''
 |
@@ -1423,6 +1423,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[753: December 1, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[804: May 3-4, 2023]] (via AutoSub, OpenAI Whisper)
 *[[805: February 16, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[874: November 30, 2023]] (via AutoSub)
 
 |}
 
@@ -1488,7 +1489,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|49
+|58
 |-
 |'''Source Texts:'''
 |
@@ -1508,6 +1509,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[391: January 22, 2020]] (via AutoSub, OpenAI Whisper)
 *[[462: July 26, 2020]] (via AutoSub)
 *[[577: July 13, 2021]] (via AutoSub, OpenAI Whisper)
+*[[875: The Most Important Man In The World]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 
 |}
@@ -1587,6 +1589,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[683: May 16, 2022]] (via AutoSub, OpenAI Whisper)
 *[[813: May 29, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[814: June 1, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
+==Oliver Twist==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Oliver Twist'
+
+|-
+|'''Sources:'''
+|
+
+*[[417: April 5, 2020]] (via OpenAI Whisper)
+*[[872: November 26, 2023]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1720,6 +1747,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[431: Smash-N-Grab Spy Jobs]] (via AutoSub, OpenAI Whisper)
 *[[607: A Chat With Mike Rothschild]] (via OpenAI Whisper)
+
+|}
+
+==Omnibudsman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Omnibudsman'
+
+|-
+|'''Sources:'''
+|
+
+*[[216: November 11, 2010]] (via Wiki Page)
+*[[874: November 30, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -2058,7 +2110,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|55
+|57
 |-
 |'''Source Texts:'''
 |
@@ -2100,6 +2152,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[822: June 19, 2023]] (via OpenAI Whisper)
 *[[825: July 5, 2023]] (via OpenAI Whisper)
 *[[840: August 18, 2023]] (via OpenAI Whisper)
+*[[875: The Most Important Man In The World]] (via OpenAI Whisper)
 
 |}
 
@@ -2389,7 +2442,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|13
+|16
 |-
 |'''Source Texts:'''
 |
@@ -2406,6 +2459,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[397: February 7-8, 2020]] (via AutoSub, OpenAI Whisper)
 *[[615: November 8, 2021?]] (via AutoSub, OpenAI Whisper)
 *[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper)
+*[[875: The Most Important Man In The World]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3001,12 +3055,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
 
 *'Orthodox Christian'
+*'an Orthodox Christian'
 *'the Orthodox Christian'
 
 |-
@@ -3015,6 +3070,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[58: June 23, 2017]] (via OpenAI Whisper)
 *[[68: September 19-28, 2015]] (via AutoSub)
+*[[870: November 9, 2023]] (via OpenAI Whisper)
 
 |}
 
@@ -3027,11 +3083,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|10
 |-
 |'''Source Texts:'''
 |
 
+*'Orthodox Church'
+*'The Orthodox Church'
 *'the Orthodox Church'
 
 |-
@@ -3041,6 +3099,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[193: Big Skeletons and Pencil Ink]] (via AutoSub, OpenAI Whisper)
 *[[413: March 27, 2020]] (via OpenAI Whisper)
 *[[780: February 21, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[871: November 14, 2023]] (via AutoSub, OpenAI Whisper)
+*[[877: A Philosophy For Curiosity]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3079,7 +3139,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, PERSON
 |-
 |'''Total Count:'''
-|161
+|168
 |-
 |'''Source Texts:'''
 |
@@ -3097,6 +3157,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*867: Stern Vs. Jones (via Wiki Page)
 *Ron Paul (via Wiki Page)
 *[[2: December 31, 1999 (Y2K)]] (via Wiki Page)
 *[[4: Research and Stand Up]] (via OpenAI Whisper)
@@ -3135,6 +3196,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[799: February 9, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[821: Jon Ronson Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[867: Stern Vs. Jones]] (via AutoSub, OpenAI Whisper)
+*[[875: The Most Important Man In The World]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3527,7 +3589,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|172
+|175
 |-
 |'''Source Texts:'''
 |
@@ -3558,8 +3620,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[774: December 22, 2003]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[808: May 15, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[822: June 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
-*[[861: October 18, 2023]] (via AutoSub, OpenAI Whisper)
+*[[861: October 18, 2023]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[862: Bankruptcy Response]] (via AutoSub)
+*[[877: A Philosophy For Curiosity]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3603,7 +3666,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1576
+|1589
 |-
 |'''Source Texts:'''
 |
@@ -3627,6 +3690,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub, OpenAI Whisper)
+*863: Keepin' It Fake, With Vivek (via Wiki Page)
+*864: October 25, 2023 (via Wiki Page)
+*876: December 8, 2023 (via Wiki Page)
 *Bradley Reeves (via Wiki Page)
 *Celine (via Wiki Page)
 *David Knight (via Wiki Page)
@@ -3911,6 +3977,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[863: Keepin' It Fake, With Vivek]] (via AutoSub, OpenAI Whisper)
 *[[864: October 25, 2023]] (via OpenAI Whisper)
 *[[869: November 8, 2023]] (via AutoSub, OpenAI Whisper)
+*[[872: November 26, 2023]] (via AutoSub, OpenAI Whisper)
+*[[876: December 8, 2023]] (via AutoSub, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
