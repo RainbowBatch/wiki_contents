@@ -1,5 +1,95 @@
 [
   {
+    "oldid": 14381,
+    "summary": "Reverted edits by [[Special:Contributions/184.59.125.255|184.59.125.255]] ([[User talk:184.59.125.255|talk]]) to last revision by [[User:Woursler|Woursler]]",
+    "time": {
+      "date": 1704240000000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 1,
+      "second": 5,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14380,
+    "summary": "Just removing opinion statements.",
+    "time": {
+      "date": 1704240000000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 1,
+      "second": 3,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "184.59.125.255"
+  },
+  {
+    "oldid": 14379,
+    "summary": "Clarify potentially opinionated statements.",
+    "time": {
+      "date": 1704240000000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 1,
+      "second": 4,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14378,
+    "summary": "Reverted edits by [[Special:Contributions/184.59.125.255|184.59.125.255]] ([[User talk:184.59.125.255|talk]]) to last revision by [[User:RainbowBatch|RainbowBatch]]",
+    "time": {
+      "date": 1704240000000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 1,
+      "second": 31,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14377,
+    "summary": "Just removing opinion statements.",
+    "time": {
+      "date": 1704240000000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 1,
+      "second": 24,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "184.59.125.255"
+  },
+  {
+    "oldid": 14376,
+    "summary": "Just some trivial nonsense.",
+    "time": {
+      "date": 1704240000000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 1,
+      "second": 21,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "184.59.125.255"
+  },
+  {
     "oldid": 14145,
     "summary": "RainbowBatch update",
     "time": {
