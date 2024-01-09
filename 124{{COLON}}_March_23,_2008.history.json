@@ -1,5 +1,50 @@
 [
   {
+    "oldid": 14668,
+    "summary": "",
+    "time": {
+      "date": 1704672000000,
+      "day": 8,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 1,
+      "second": 42,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14667,
+    "summary": "Undo accidental rollback.",
+    "time": {
+      "date": 1704672000000,
+      "day": 8,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 1,
+      "second": 51,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14666,
+    "summary": "Reverted edits by [[Special:Contributions/Woursler|Woursler]] ([[User talk:Woursler|talk]]) to last revision by [[User:RainbowBatch|RainbowBatch]]",
+    "time": {
+      "date": 1704672000000,
+      "day": 8,
+      "hour": 20,
+      "microsecond": 0,
+      "month": 1,
+      "second": 3,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 14391,
     "summary": "Typo fixes and clarifications.",
     "time": {
