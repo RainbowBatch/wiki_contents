@@ -1,5 +1,155 @@
 [
   {
+    "oldid": 14980,
+    "summary": "Add draft of Cantina lyrics, such as they are.",
+    "time": {
+      "date": 1704931200000,
+      "day": 11,
+      "hour": 0,
+      "microsecond": 0,
+      "month": 1,
+      "second": 9,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14979,
+    "summary": "First draft of You Belong to the City Lyrics",
+    "time": {
+      "date": 1704931200000,
+      "day": 11,
+      "hour": 0,
+      "microsecond": 0,
+      "month": 1,
+      "second": 31,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14978,
+    "summary": "Fix up the lyrics for the England intro.",
+    "time": {
+      "date": 1704931200000,
+      "day": 11,
+      "hour": 0,
+      "microsecond": 0,
+      "month": 1,
+      "second": 1,
+      "timezone": "UTC",
+      "weekday": 4
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14976,
+    "summary": "Update Scottish intro.",
+    "time": {
+      "date": 1704844800000,
+      "day": 10,
+      "hour": 17,
+      "microsecond": 0,
+      "month": 1,
+      "second": 36,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14975,
+    "summary": "Add youtube's automatic captions for the Scotland and England intros. They need a lot of clean up, but it's a start...",
+    "time": {
+      "date": 1704844800000,
+      "day": 10,
+      "hour": 2,
+      "microsecond": 0,
+      "month": 1,
+      "second": 56,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14974,
+    "summary": "First draft of 666 lyrics.",
+    "time": {
+      "date": 1704844800000,
+      "day": 10,
+      "hour": 2,
+      "microsecond": 0,
+      "month": 1,
+      "second": 40,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14973,
+    "summary": "Add details for the Norm Pattis edit.",
+    "time": {
+      "date": 1704758400000,
+      "day": 9,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 1,
+      "second": 50,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14972,
+    "summary": "Add lyrics for the norm pattis edit.",
+    "time": {
+      "date": 1704758400000,
+      "day": 9,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 1,
+      "second": 19,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14971,
+    "summary": "Add lyrics for one alternate version.",
+    "time": {
+      "date": 1704758400000,
+      "day": 9,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 1,
+      "second": 21,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 14964,
+    "summary": "RainbowBatch update",
+    "time": {
+      "date": 1704758400000,
+      "day": 9,
+      "hour": 2,
+      "microsecond": 0,
+      "month": 1,
+      "second": 40,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "RainbowBatch"
+  },
+  {
     "oldid": 14671,
     "summary": "Format lyrics.",
     "time": {
