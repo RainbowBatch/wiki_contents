@@ -695,10 +695,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, ORG
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -714,6 +714,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[767: January 12, 2023]] (via AutoSub)
 *[[790: March 27-28, 2023]] (via AutoSub)
 *[[879: December 20, 2023]] (via AutoSub)
+*[[893: January 25, 2024]] (via AutoSub)
 
 |}
 
@@ -836,7 +837,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC
 |-
 |'''Total Count:'''
-|58
+|59
 |-
 |'''Source Texts:'''
 |
@@ -896,6 +897,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[851: Erica Lafferty Returns]] (via AutoSub)
 *[[863: Keepin' It Fake, With Vivek]] (via AutoSub)
 *[[880: March 31, 2004]] (via AutoSub)
+*[[895: January 30, 2024]] (via AutoSub)
 
 |}
 
@@ -908,12 +910,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|5
+|7
 |-
 |'''Source Texts:'''
 |
 
 *'Underground Railroad'
+*'the Underground Railroad'
 
 |-
 |'''Sources:'''
@@ -924,6 +927,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[827: July 9, 2023]] (via AutoSub)
 *[[833: Mike Rothschild In The Hot Seat]] (via AutoSub)
 *[[865: Chatting with Anna Merlan]] (via AutoSub)
+*[[895: January 30, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -1636,7 +1640,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1650,6 +1654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[340: All About Steve]] (via OpenAI Whisper)
 *[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub)
+*[[893: January 25, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1693,7 +1698,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|4535
+|4574
 |-
 |'''Source Texts:'''
 |
@@ -2446,6 +2451,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[890: January 16, 2024]] (via AutoSub, OpenAI Whisper)
 *[[891: April 2-5, 2004]] (via AutoSub, OpenAI Whisper)
 *[[892: January 19, 2024]] (via AutoSub, OpenAI Whisper)
+*[[893: January 25, 2024]] (via AutoSub, OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via AutoSub, OpenAI Whisper)
+*[[895: January 30, 2024]] (via AutoSub, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
@@ -2654,7 +2662,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|152
+|153
 |-
 |'''Source Texts:'''
 |
@@ -2741,6 +2749,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[863: Keepin' It Fake, With Vivek]] (via AutoSub, OpenAI Whisper)
 *[[870: November 9, 2023]] (via AutoSub, OpenAI Whisper)
 *[[872: November 26, 2023]] (via AutoSub, OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via OpenAI Whisper)
 
 |}
 
