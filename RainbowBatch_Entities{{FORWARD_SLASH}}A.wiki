@@ -805,7 +805,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -821,6 +821,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[441: June 3-4, 2020]] (via AutoSub)
 *[[512: December 16-17, 2020]] (via AutoSub)
 *[[526: January 28-31, 2021]] (via AutoSub)
+*[[893: January 25, 2024]] (via AutoSub)
 
 |}
 
@@ -1492,7 +1493,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|16
 |-
 |'''Source Texts:'''
 |
@@ -1511,6 +1512,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[531: February 14, 2021]] (via AutoSub, OpenAI Whisper)
 *[[558: May 8-9, 2003]] (via OpenAI Whisper)
 *[[577: July 13, 2021]] (via OpenAI Whisper)
+*[[895: January 30, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1749,7 +1751,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1763,6 +1765,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[112: December 15, 2017]] (via OpenAI Whisper)
 *[[199: August 29, 2018]] (via AutoSub)
 *[[566: May 21, 2003]] (via AutoSub)
+*[[895: January 30, 2024]] (via AutoSub)
 
 |}
 
@@ -1775,7 +1778,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -1800,6 +1803,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[570: June 24, 2021]] (via AutoSub)
 *[[661: March 17, 2022]] (via AutoSub)
 *[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub)
+*[[893: January 25, 2024]] (via AutoSub)
 
 |}
 
@@ -1901,9 +1905,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*885: January 3, 2024 (via Wiki Page)
 *[[163: January 27-29, 2009]] (via OpenAI Whisper)
 *[[283: January 4-6, 2013]] (via OpenAI Whisper)
+*[[885: January 3, 2024]] (via Wiki Page)
 
 |}
 
@@ -2311,7 +2315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|312
+|314
 |-
 |'''Source Texts:'''
 |
@@ -2414,6 +2418,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[886: More Like Jimmy Bore, Part 2]] (via OpenAI Whisper)
 *[[889: The Debate Of The Century, Part 2]] (via OpenAI Whisper)
 *[[890: January 16, 2024]] (via AutoSub, OpenAI Whisper)
+*[[895: January 30, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3720,7 +3725,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*885: January 3, 2024 (via Wiki Page)
 *[[68: September 19-28, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[109: December 4, 2017]] (via AutoSub, OpenAI Whisper)
 *[[114: Piers Morgan Interview]] (via OpenAI Whisper)
@@ -3733,7 +3737,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[717: August 17, 2022]] (via AutoSub, OpenAI Whisper)
 *[[791: March 30-31, 2023]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[825: July 5, 2023]] (via otter.ai, OpenAI Whisper)
-*[[885: January 3, 2024]] (via OpenAI Whisper)
+*[[885: January 3, 2024]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -5795,7 +5799,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|28
+|30
 |-
 |'''Source Texts:'''
 |
@@ -5822,6 +5826,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[714: Trial Recap, Part 1]] (via AutoSub, otter.ai, Welder, OpenAI Whisper)
 *[[830: July 16, 2023]] (via AutoSub, OpenAI Whisper)
 *[[883: More Like Jimmy Bore]] (via AutoSub, OpenAI Whisper)
+*[[893: January 25, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6912,7 +6917,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|119681
+|119958
 |-
 |'''Source Texts:'''
 |
@@ -6955,12 +6960,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |
 
 *630 (via AutoSub, OpenAI Whisper)
-*885: January 3, 2024 (via Wiki Page)
-*886: More Like Jimmy Bore, Part 2 (via Wiki Page)
-*888: The Debate Of The Century, Part 1 (via Wiki Page)
-*890: January 16, 2024 (via Wiki Page)
-*891: April 2-5, 2004 (via Wiki Page)
-*892: January 19, 2024 (via Wiki Page)
+*894: Chatting With Brian Stelter (via Wiki Page)
+*895: January 30, 2024 (via Wiki Page)
 *2016 US presidential election (via Wiki Page)
 *"Mandatory Service Bill" (via Wiki Page)
 *Agenda 21 (via Wiki Page)
@@ -7978,14 +7979,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[882: April 1, 2004]] (via AutoSub, OpenAI Whisper)
 *[[883: More Like Jimmy Bore]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[884: August 8, 2012]] (via AutoSub, OpenAI Whisper)
-*[[885: January 3, 2024]] (via AutoSub, OpenAI Whisper)
-*[[886: More Like Jimmy Bore, Part 2]] (via AutoSub, OpenAI Whisper)
+*[[885: January 3, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[886: More Like Jimmy Bore, Part 2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[887: Jon Ronson Returns]] (via AutoSub, OpenAI Whisper)
-*[[888: The Debate Of The Century, Part 1]] (via AutoSub, OpenAI Whisper)
+*[[888: The Debate Of The Century, Part 1]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[889: The Debate Of The Century, Part 2]] (via AutoSub, OpenAI Whisper)
-*[[890: January 16, 2024]] (via AutoSub, OpenAI Whisper)
-*[[891: April 2-5, 2004]] (via AutoSub, OpenAI Whisper)
-*[[892: January 19, 2024]] (via AutoSub, OpenAI Whisper)
+*[[890: January 16, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[891: April 2-5, 2004]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[892: January 19, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[893: January 25, 2024]] (via AutoSub, OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via AutoSub, OpenAI Whisper)
+*[[895: January 30, 2024]] (via AutoSub, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
@@ -11629,7 +11633,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|12
 |-
 |'''Source Texts:'''
 |
@@ -11646,6 +11650,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[812: Jeff Sharlet Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[855: Live At QED In Manchester]] (via AutoSub)
 *[[863: Keepin' It Fake, With Vivek]] (via AutoSub)
+*[[893: January 25, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -16989,7 +16994,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|41
+|45
 |-
 |'''Source Texts:'''
 |
@@ -17009,6 +17014,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[491: October 12, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[512: December 16-17, 2020]] (via Wiki Page)
 *[[590: August 24, 2021]] (via AutoSub, OpenAI Whisper)
+*[[893: January 25, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -18143,7 +18149,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|22
+|24
 |-
 |'''Source Texts:'''
 |
@@ -18161,6 +18167,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[775: Fireside Chatting]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[857: Live In London (Night 2)]] (via AutoSub, OpenAI Whisper)
 *[[863: Keepin' It Fake, With Vivek]] (via OpenAI Whisper)
+*[[895: January 30, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -18288,6 +18295,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[489: October 2-4, 2020]] (via AutoSub, OpenAI Whisper)
 *[[733: October 6, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[865: Chatting with Anna Merlan]] (via OpenAI Whisper)
+
+|}
+
+==Andrew Weissman==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Andrew Weissman'
+
+|-
+|'''Sources:'''
+|
+
+*[[458: July 14, 2020]] (via OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -19375,7 +19407,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|30
+|32
 |-
 |'''Source Texts:'''
 |
@@ -19394,6 +19426,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[824: Tucker, The Man And His Twitter- Episode 3]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[827: July 9, 2023]] (via AutoSub, OpenAI Whisper)
 *[[865: Chatting with Anna Merlan]] (via AutoSub, OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -19756,6 +19789,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[384: January 3, 2020]] (via AutoSub)
 *[[387: May 13, 2014]] (via AutoSub)
 *[[552: May 6, 2003]] (via AutoSub)
+
+|}
+
+==Antagonism==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Antagonism'
+
+|-
+|'''Sources:'''
+|
+
+*[[256: January 17-23, 2019]] (via OpenAI Whisper)
+*[[895: January 30, 2024]] (via AutoSub)
 
 |}
 
@@ -20271,12 +20329,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
 
 *'Anthony Scaramucci'
+*"Anthony Scaramucci's"
 
 |-
 |'''Sources:'''
@@ -20287,6 +20346,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[358: October 18, 2019]] (via OpenAI Whisper)
 *[[360: October 23, 2019]] (via OpenAI Whisper)
 *[[399: February 12-14, 2020]] (via OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via OpenAI Whisper)
 
 |}
 
@@ -20858,6 +20918,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[404: Mr. Jones Goes To CPAC]] (via AutoSub, OpenAI Whisper)
 *[[539: March 10, 2021]] (via AutoSub, OpenAI Whisper)
 *[[807: February 17, 2004]] (via OpenAI Whisper)
+
+|}
+
+==anti democrat==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'anti-Democrat'
+*'anti-democrat'
+
+|-
+|'''Sources:'''
+|
+
+*[[481: September 13, 2012]] (via OpenAI Whisper)
+*[[894: Chatting With Brian Stelter]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -24549,6 +24635,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[647: February 8, 2022]] (via OpenAI Whisper)
 *[[653: February 25, 2022]] (via OpenAI Whisper)
 *[[748: November 16, 2022]] (via otter.ai)
+
+|}
+
+==Article four==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LAW
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Article four'
+*'article four'
+
+|-
+|'''Sources:'''
+|
+
+*[[699: July 4-5, 2022]] (via OpenAI Whisper)
+*[[893: January 25, 2024]] (via OpenAI Whisper)
 
 |}
 
