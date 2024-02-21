@@ -1,5 +1,95 @@
 [
   {
+    "oldid": 15787,
+    "summary": "Rollback vandalism.",
+    "time": {
+      "date": 1708387200000,
+      "day": 20,
+      "hour": 6,
+      "microsecond": 0,
+      "month": 2,
+      "second": 2,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 15786,
+    "summary": "",
+    "time": {
+      "date": 1708300800000,
+      "day": 19,
+      "hour": 14,
+      "microsecond": 0,
+      "month": 2,
+      "second": 32,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "72.195.255.218"
+  },
+  {
+    "oldid": 15785,
+    "summary": "",
+    "time": {
+      "date": 1708300800000,
+      "day": 19,
+      "hour": 14,
+      "microsecond": 0,
+      "month": 2,
+      "second": 8,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "72.195.255.218"
+  },
+  {
+    "oldid": 15782,
+    "summary": "Reverted edits by [[Special:Contributions/72.195.255.218|72.195.255.218]] ([[User talk:72.195.255.218|talk]]) to last revision by [[User:RainbowBatch|RainbowBatch]]",
+    "time": {
+      "date": 1707782400000,
+      "day": 13,
+      "hour": 0,
+      "microsecond": 0,
+      "month": 2,
+      "second": 16,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 15781,
+    "summary": "Enhanced objective and factual description of the show and removed extraneous outdated conjecture",
+    "time": {
+      "date": 1707696000000,
+      "day": 12,
+      "hour": 14,
+      "microsecond": 0,
+      "month": 2,
+      "second": 20,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "72.195.255.218"
+  },
+  {
+    "oldid": 15742,
+    "summary": "RainbowBatch update",
+    "time": {
+      "date": 1707004800000,
+      "day": 4,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 2,
+      "second": 14,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "RainbowBatch"
+  },
+  {
     "oldid": 15634,
     "summary": "RainbowBatch update",
     "time": {
