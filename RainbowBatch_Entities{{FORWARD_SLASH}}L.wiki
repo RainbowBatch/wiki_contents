@@ -1821,6 +1821,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Last Airbender==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'The Last Airbender'
+
+|-
+|'''Sources:'''
+|
+
+*[[583: August 1, 2021]] (via AutoSub, OpenAI Whisper)
+*[[902: February 21, 2024]] (via AutoSub, OpenAI Whisper)
+
+|}
+
 ==Last Dance==
 {| class="fandom-table"
 |'''Status:'''
@@ -4841,7 +4866,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|20
+|22
 |-
 |'''Source Texts:'''
 |
@@ -4859,6 +4884,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[508: December 1-2, 2020]] (via OpenAI Whisper)
 *[[569: June 23, 2021]] (via OpenAI Whisper)
 *[[901: February 18, 2024]] (via OpenAI Whisper)
+*[[902: February 21, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -8757,16 +8783,17 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE
+|GPE, ORG
 |-
 |'''Total Count:'''
-|172
+|173
 |-
 |'''Source Texts:'''
 |
 
 *'Los Angeles'
 *'Los Angeles-'
+*'the Los Angeles'
 
 |-
 |'''Sources:'''
@@ -8850,6 +8877,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[855: Live At QED In Manchester]] (via OpenAI Whisper)
 *[[892: January 19, 2024]] (via AutoSub)
 *[[895: January 30, 2024]] (via AutoSub, OpenAI Whisper)
+*[[903: April 7, 2004]] (via OpenAI Whisper)
 
 |}
 
@@ -8914,7 +8942,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -8929,6 +8957,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[59: August 17-18, 2015]] (via OpenAI Whisper)
 *[[68: September 19-28, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[168: Alex Vs. Bill Ayers]] (via OpenAI Whisper)
+*[[903: April 7, 2004]] (via AutoSub)
 
 |}
 
