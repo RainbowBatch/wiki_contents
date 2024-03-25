@@ -1,5 +1,35 @@
 [
   {
+    "oldid": 16073,
+    "summary": "Automated rollback. Certainty: 93.37%. Was this a mistake? [[w:c:soap:Project:Cynthia|Click here]].)",
+    "time": {
+      "date": 1710720000000,
+      "day": 18,
+      "hour": 7,
+      "microsecond": 0,
+      "month": 3,
+      "second": 54,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "SOAP Bot"
+  },
+  {
+    "oldid": 16072,
+    "summary": "Blanked the page",
+    "time": {
+      "date": 1710720000000,
+      "day": 18,
+      "hour": 7,
+      "microsecond": 0,
+      "month": 3,
+      "second": 52,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "207.246.76.17"
+  },
+  {
     "oldid": 15788,
     "summary": "Typo fixes.",
     "time": {
