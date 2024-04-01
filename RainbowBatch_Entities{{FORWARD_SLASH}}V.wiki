@@ -964,7 +964,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -977,6 +977,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[524: Inauguration 2021]] (via OpenAI Whisper)
 *[[897: February 7, 2024]] (via OpenAI Whisper)
+*[[912: March 22, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -986,10 +987,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|GPE, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1002,6 +1003,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[814: June 1, 2023]] (via otter.ai, OpenAI Whisper)
 *[[840: August 18, 2023]] (via OpenAI Whisper)
+*[[912: March 22, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -1741,7 +1743,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -1759,6 +1761,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[473: August 20-21, 2020]] (via OpenAI Whisper)
 *[[522: January 14-17, 2021]] (via AutoSub, OpenAI Whisper)
 *[[678: July 29-30, 2003]] (via OpenAI Whisper)
+*[[910: March 18, 2024]] (via AutoSub)
 
 |}
 
@@ -2212,7 +2215,6 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*895: January 30, 2024 (via Wiki Page)
 *[[781: Chatting With Will Sommer]] (via OpenAI Whisper)
 *[[797: Belly-Floppin' Into The Pool]] (via otter.ai, OpenAI Whisper)
 *[[840: August 18, 2023]] (via OpenAI Whisper)
@@ -2220,6 +2222,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[863: Keepin' It Fake, With Vivek]] (via OpenAI Whisper, Wiki Page)
 *[[877: A Philosophy For Curiosity]] (via Wiki Page)
 *[[894: Chatting With Brian Stelter]] (via OpenAI Whisper)
+*[[895: January 30, 2024]] (via Wiki Page)
 
 |}
 
@@ -2283,7 +2286,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|3638
+|3703
 |-
 |'''Source Texts:'''
 |
@@ -2299,11 +2302,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
-*897: February 7, 2024 (via Wiki Page)
-*898: Tucker, The Man And His Twitter- Episode 6 (via Wiki Page)
-*899: February 9, 2024 (via Wiki Page)
-*900: February 16, 2024 (via Wiki Page)
-*901: February 18, 2024 (via Wiki Page)
+*910: March 18, 2024 (via Wiki Page)
 *Aleksandr Dugin (via Wiki Page)
 *Alexander Nekrassov (via Wiki Page)
 *Vladimir Putin (via Wiki Page)
@@ -2573,16 +2572,20 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[886: More Like Jimmy Bore, Part 2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[890: January 16, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[893: January 25, 2024]] (via OpenAI Whisper)
-*[[897: February 7, 2024]] (via AutoSub, OpenAI Whisper)
-*[[898: Tucker, The Man And His Twitter- Episode 6]] (via AutoSub, OpenAI Whisper)
-*[[899: February 9, 2024]] (via AutoSub, OpenAI Whisper)
-*[[900: February 16, 2024]] (via AutoSub, OpenAI Whisper)
-*[[901: February 18, 2024]] (via AutoSub, OpenAI Whisper)
+*[[897: February 7, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[898: Tucker, The Man And His Twitter- Episode 6]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[899: February 9, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[900: February 16, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[901: February 18, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[902: February 21, 2024]] (via AutoSub, OpenAI Whisper)
 *[[903: April 7, 2004]] (via AutoSub)
 *[[904: February 23, 2024]] (via AutoSub, OpenAI Whisper)
 *[[905: February 26, 2024]] (via AutoSub)
-*[[908: The Secret Mission]] (via AutoSub, OpenAI Whisper)
+*[[908: The Secret Mission]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[909: March 13, 2024]] (via OpenAI Whisper)
+*[[910: March 18, 2024]] (via AutoSub, OpenAI Whisper)
+*[[912: March 22, 2024]] (via AutoSub, OpenAI Whisper)
+*[[913: March 26, 2024]] (via OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 
