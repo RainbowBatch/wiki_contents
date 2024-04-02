@@ -416,7 +416,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -429,6 +429,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[502: Dan's Cara-Vanity Project Part 1]] (via AutoSub)
 *[[608: Jordan Takes The Wheel 7]] (via AutoSub)
+*[[909: March 13, 2024]] (via AutoSub)
 
 |}
 
@@ -1027,7 +1028,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|12
+|18
 |-
 |'''Source Texts:'''
 |
@@ -1042,6 +1043,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[839: August 16, 2023]] (via OpenAI Whisper)
 *[[900: February 16, 2024]] (via AutoSub, OpenAI Whisper)
 *[[901: February 18, 2024]] (via OpenAI Whisper)
+*[[909: March 13, 2024]] (via OpenAI Whisper)
+*[[910: March 18, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -1054,7 +1057,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -1067,6 +1070,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[900: February 16, 2024]] (via AutoSub)
 *[[901: February 18, 2024]] (via AutoSub)
+*[[909: March 13, 2024]] (via AutoSub)
 
 |}
 
@@ -1079,7 +1083,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -1092,6 +1096,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[369: November 13, 2019]] (via AutoSub)
 *[[790: March 27-28, 2023]] (via AutoSub)
+*[[910: March 18, 2024]] (via AutoSub)
 
 |}
 
@@ -1183,12 +1188,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|23
 |-
 |'''Source Texts:'''
 |
 
 *'Fareed Zakaria'
+*"Fareed Zakaria's"
 
 |-
 |'''Sources:'''
@@ -1196,6 +1202,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[649: February 14, 2022]] (via OpenAI Whisper, Wiki Page)
 *[[827: July 9, 2023]] (via AutoSub, otter.ai, Wiki Page)
+*[[910: March 18, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6845,7 +6852,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -6858,6 +6865,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[230A: Obama Deception, Part 1]] (via OpenAI Whisper)
 *[[881: Chatting with Brandi Collins-Dexter]] (via OpenAI Whisper)
+*[[913: March 26, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6867,15 +6875,16 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|FAC, PERSON
 |-
 |'''Total Count:'''
-|2
+|8
 |-
 |'''Source Texts:'''
 |
 
 *'Francis Scott Key'
+*'the Francis Scott Key'
 
 |-
 |'''Sources:'''
@@ -6883,6 +6892,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[200: Feb. 25-March 1, 2009]] (via OpenAI Whisper)
 *[[881: Chatting with Brandi Collins-Dexter]] (via AutoSub)
+*[[913: March 26, 2024]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Francis Scott Key Bridge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'the Francis Scott Key Bridge'
+
+|-
+|'''Sources:'''
+|
+
+*913: March 26, 2024 (via Wiki Page)
+*[[913: March 26, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -7001,12 +7036,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
 
 *'Frank Church'
+*'The Frank Church'
 *'the Frank Church'
 
 |-
@@ -7018,7 +7054,33 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[841: Like A Pearl Before A Swine]] (via OpenAI Whisper)
 *[[861: October 18, 2023]] (via AutoSub, OpenAI Whisper)
 *[[907: March 6, 2024]] (via OpenAI Whisper)
+*[[913: March 26, 2024]] (via AutoSub)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Frank Church Committee==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'the Frank Church Committee'
+
+|-
+|'''Sources:'''
+|
+
+*[[861: October 18, 2023]] (via OpenAI Whisper)
+*[[913: March 26, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -7057,7 +7119,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|34
+|38
 |-
 |'''Source Texts:'''
 |
@@ -7081,6 +7143,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[832: July 26, 2023]] (via AutoSub, OpenAI Whisper)
 *[[886: More Like Jimmy Bore, Part 2]] (via OpenAI Whisper)
 *[[899: February 9, 2024]] (via AutoSub, OpenAI Whisper)
+*[[909: March 13, 2024]] (via AutoSub)
+*[[912: March 22, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8733,7 +8797,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|49
+|50
 |-
 |'''Source Texts:'''
 |
@@ -8767,6 +8831,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[594: September 7, 2021]] (via AutoSub)
 *[[648: February 11, 2022]] (via AutoSub)
 *[[814: June 1, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[912: March 22, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -9320,7 +9385,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
@@ -9335,6 +9400,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[315: February 17-18, 2013]] (via AutoSub, OpenAI Whisper)
 *[[671: April 13, 2022]] (via AutoSub, OpenAI Whisper)
 *[[900: February 16, 2024]] (via AutoSub, OpenAI Whisper)
+*[[909: March 13, 2024]] (via OpenAI Whisper)
 
 |}
 
