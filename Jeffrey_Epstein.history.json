@@ -1,5 +1,50 @@
 [
   {
+    "oldid": 16339,
+    "summary": "",
+    "time": {
+      "date": 1714694400000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 5,
+      "second": 5,
+      "timezone": "UTC",
+      "weekday": 5
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 16338,
+    "summary": "Clarify a few things. Since fudgie only transcribes the tAJS, it's not quite right to make this statement about infowars generally.",
+    "time": {
+      "date": 1714694400000,
+      "day": 3,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 5,
+      "second": 50,
+      "timezone": "UTC",
+      "weekday": 5
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 16337,
+    "summary": "Add a section describing how Alex actually covered Epstein, since claiming that Alex was right about Epstein is such a persistent (false) narrative.",
+    "time": {
+      "date": 1714694400000,
+      "day": 3,
+      "hour": 19,
+      "microsecond": 0,
+      "month": 5,
+      "second": 13,
+      "timezone": "UTC",
+      "weekday": 5
+    },
+    "username": "Woursler"
+  },
+  {
     "oldid": 15842,
     "summary": "RainbowBatch update",
     "time": {
