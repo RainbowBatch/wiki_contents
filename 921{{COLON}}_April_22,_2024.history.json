@@ -1,5 +1,65 @@
 [
   {
+    "oldid": 16355,
+    "summary": "",
+    "time": {
+      "date": 1715558400000,
+      "day": 13,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 5,
+      "second": 5,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 16354,
+    "summary": "Reverted edits by [[Special:Contributions/Woursler|Woursler]] ([[User talk:Woursler|talk]]) to last revision by [[User:Lytle74|Lytle74]]",
+    "time": {
+      "date": 1715558400000,
+      "day": 13,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 5,
+      "second": 10,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 16353,
+    "summary": "Revert edit to the text provided through libsyn, but ensure that we maintain the information.",
+    "time": {
+      "date": 1715558400000,
+      "day": 13,
+      "hour": 18,
+      "microsecond": 0,
+      "month": 5,
+      "second": 59,
+      "timezone": "UTC",
+      "weekday": 1
+    },
+    "username": "Woursler"
+  },
+  {
+    "oldid": 16352,
+    "summary": "",
+    "time": {
+      "date": 1715472000000,
+      "day": 12,
+      "hour": 20,
+      "microsecond": 0,
+      "month": 5,
+      "second": 20,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "Lytle74"
+  },
+  {
     "oldid": 16343,
     "summary": "RainbowBatch update",
     "time": {
