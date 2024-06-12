@@ -390,7 +390,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC
 |-
 |'''Total Count:'''
-|154
+|158
 |-
 |'''Source Texts:'''
 |
@@ -472,6 +472,9 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[850: September 14, 2023]] (via OpenAI Whisper)
 *[[851: Erica Lafferty Returns]] (via OpenAI Whisper)
 *[[913: March 26, 2024]] (via AutoSub, OpenAI Whisper)
+*[[926: March 4, 2011]] (via AutoSub)
+*[[927: May 14, 2015]] (via AutoSub, OpenAI Whisper)
+*[[928: August 12, 2009]] (via AutoSub)
 
 |}
 
@@ -1523,12 +1526,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Economic Council'
+*'The Economic Council'
 
 |-
 |'''Sources:'''
@@ -1536,6 +1540,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[130B: Endgame, Part 2]] (via OpenAI Whisper)
 *[[811: February 24, 2004]] (via otter.ai)
+*[[Doing Dune: Dune (1984)]] (via AutoSub)
 
 |}
 
@@ -1822,7 +1827,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|339
+|345
 |-
 |'''Source Texts:'''
 |
@@ -1881,6 +1886,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[833: Mike Rothschild In The Hot Seat]] (via AutoSub, OpenAI Whisper)
 *[[889: The Debate Of The Century, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[910: March 18, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -2215,6 +2221,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[5: January 19, 2017]] (via otter.ai, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+
+|}
+
+==Edmund Burke==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|5
+|-
+|'''Source Texts:'''
+|
+
+*'Edmund Burke'
+
+|-
+|'''Sources:'''
+|
+
+*[[309: June 10-11, 2019]] (via AutoSub, OpenAI Whisper)
+*[[929: May 28, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -2873,7 +2904,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|119
+|120
 |-
 |'''Source Texts:'''
 |
@@ -2951,6 +2982,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[848: The News Blitz]] (via AutoSub, OpenAI Whisper)
 *[[860: October 13, 2023]] (via AutoSub)
 *[[901: February 18, 2024]] (via AutoSub, OpenAI Whisper)
+*[[927: May 14, 2015]] (via AutoSub)
 
 |}
 
@@ -3589,7 +3621,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -3604,6 +3636,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[637: January 13, 2022]] (via OpenAI Whisper)
 *[[723: September 8, 2022]] (via otter.ai, OpenAI Whisper)
 *[[827: July 9, 2023]] (via AutoSub, otter.ai)
+*[[925: May 8, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -4674,12 +4707,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, LOC, PERSON
 |-
 |'''Total Count:'''
-|9
+|11
 |-
 |'''Source Texts:'''
 |
 
 *'Empire Strikes Back'
+*'The Empire Strikes Back'
 *'the Empire Strikes Back'
 
 |-
@@ -4693,6 +4727,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[315: February 17-18, 2013]] (via AutoSub, OpenAI Whisper)
 *[[362: There Is No Mermaid]] (via AutoSub)
 *[[614: The Purge of Gates]] (via OpenAI Whisper)
+*[[Doing Dune: Part 1]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -5262,7 +5297,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -5275,6 +5310,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[343: April 3-8, 2013]] (via OpenAI Whisper)
 *[[575: July 4, 2021]] (via OpenAI Whisper)
+*[[926: March 4, 2011]] (via OpenAI Whisper)
 
 |}
 
@@ -5541,7 +5577,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -5556,6 +5592,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[290: April 25-26, 2019]] (via AutoSub, OpenAI Whisper)
 *[[462: July 26, 2020]] (via AutoSub, OpenAI Whisper)
 *[[743: October 29-30, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -5795,7 +5832,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|42
+|43
 |-
 |'''Source Texts:'''
 |
@@ -5820,7 +5857,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[385: January 6, 2020]] (via AutoSub, OpenAI Whisper)
 *[[415: April 1, 2020]] (via OpenAI Whisper)
 *[[495: November 4-6, 2016]] (via OpenAI Whisper)
-*[[923: May 1, 2024]] (via OpenAI Whisper)
+*[[923: May 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6455,7 +6492,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|30
+|32
 |-
 |'''Source Texts:'''
 |
@@ -6475,6 +6512,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[469: August 12-13, 2020]] (via OpenAI Whisper)
 *[[639: January 17, 2022]] (via AutoSub)
 *[[766: December 16, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[928: August 12, 2009]] (via AutoSub, OpenAI Whisper)
 *[[TWTWYTT Special]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -7370,7 +7408,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -7384,6 +7422,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[30: April 14, 2017]] (via AutoSub)
 *[[696: June 24, 2022]] (via AutoSub)
 *[[829: Chatting with Talia Lavin]] (via AutoSub)
+*[[Doing Dune: Part 2]] (via AutoSub)
 
 |}
 
@@ -7396,7 +7435,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|110
+|111
 |-
 |'''Source Texts:'''
 |
@@ -7498,6 +7537,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[890: January 16, 2024]] (via OpenAI Whisper)
 *[[918: April 12, 2024]] (via AutoSub, OpenAI Whisper)
 *[[924: May 3, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
 *[[No One Is Mad At The Crew]] (via OpenAI Whisper)
 
 |}
@@ -7936,7 +7976,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -7953,6 +7993,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[545: March 30-31, 2021]] (via AutoSub)
 *[[679: May 9, 2022]] (via OpenAI Whisper)
 *[[772: December 18-19, 2003]] (via otter.ai)
+*[[929: May 28, 2024]] (via OpenAI Whisper)
 
 |}
 
