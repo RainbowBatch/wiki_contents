@@ -285,12 +285,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
 
 *'Jack Daniels'
+*'the Jack Daniels'
 
 |-
 |'''Sources:'''
@@ -305,6 +306,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[614: The Purge of Gates]] (via AutoSub, OpenAI Whisper)
 *[[793: January 27-29, 2004]] (via otter.ai, OpenAI Whisper)
 *[[896: February 2, 2024]] (via OpenAI Whisper)
+*[[931: February 2, 2014]] (via AutoSub)
 
 |}
 
@@ -698,7 +700,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|178
+|179
 |-
 |'''Source Texts:'''
 |
@@ -800,6 +802,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[912: March 22, 2024]] (via OpenAI Whisper, Wiki Page)
 *[[914: March 27, 2024]] (via OpenAI Whisper)
 *[[918: April 12, 2024]] (via OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -1610,7 +1613,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|152
+|154
 |-
 |'''Source Texts:'''
 |
@@ -1675,6 +1678,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[772: December 18-19, 2003]] (via AutoSub)
 *[[784: August 9, 2013 (Live)]] (via AutoSub)
 *[[786: Too Biggs For His Britches]] (via otter.ai)
+*[[931: February 2, 2014]] (via OpenAI Whisper)
 
 |}
 
@@ -2993,7 +2997,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|341
+|342
 |-
 |'''Source Texts:'''
 |
@@ -3082,7 +3086,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[863: Keepin' It Fake, With Vivek]] (via AutoSub, OpenAI Whisper)
 *[[869: November 8, 2023]] (via OpenAI Whisper)
 *[[917: April 10, 2024]] (via AutoSub, OpenAI Whisper)
-*[[923: May 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[923: May 1, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -3992,7 +3996,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|375
+|378
 |-
 |'''Source Texts:'''
 |
@@ -4205,7 +4209,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[924: May 3, 2024]] (via AutoSub, OpenAI Whisper)
 *[[925: May 8, 2024]] (via AutoSub, OpenAI Whisper)
 *[[929: May 28, 2024]] (via AutoSub, OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 
 |}
@@ -11306,7 +11311,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, GPE, ORG
 |-
 |'''Total Count:'''
-|526
+|527
 |-
 |'''Source Texts:'''
 |
@@ -11433,6 +11438,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[896: February 2, 2024]] (via AutoSub, OpenAI Whisper)
 *[[903: April 7, 2004]] (via AutoSub)
 *[[906: January 9, 2008]] (via AutoSub, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -11534,7 +11540,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|152
+|153
 |-
 |'''Source Texts:'''
 |
@@ -11576,6 +11582,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[480: September 9-10, 2020]] (via OpenAI Whisper)
 *[[482: September 15, 2020]] (via OpenAI Whisper)
 *[[628: July 10, 2003]] (via AutoSub, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -11699,7 +11706,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|52
+|53
 |-
 |'''Source Texts:'''
 |
@@ -11731,7 +11738,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[739: Formulaic Objections Part 8]] (via OpenAI Whisper)
 *[[748: November 16, 2022]] (via OpenAI Whisper)
 *[[911: March 19, 2024]] (via OpenAI Whisper)
-*[[916: The Total Eclipse]] (via OpenAI Whisper)
+*[[916: The Total Eclipse]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -12948,7 +12955,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|12
+|18
 |-
 |'''Source Texts:'''
 |
@@ -12965,7 +12972,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[355: April 18, 2013]] (via OpenAI Whisper)
 *[[392: January 24, 2020]] (via OpenAI Whisper)
 *[[839: August 16, 2023]] (via OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -14294,7 +14302,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -14307,6 +14315,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[513: December 18, 2020]] (via Wiki Page)
 *[[893: January 25, 2024]] (via AutoSub)
+*[[930: May 30-June 1, 2024]] (via AutoSub)
 
 |}
 
@@ -16837,7 +16846,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -16850,6 +16859,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[885: January 3, 2024]] (via OpenAI Whisper)
 *[[929: May 28, 2024]] (via AutoSub, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -18430,7 +18440,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|51
+|54
 |-
 |'''Source Texts:'''
 |
@@ -18456,6 +18466,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[626: December 9, 2021]] (via OpenAI Whisper)
 *[[741: December 2, 2015]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[931: February 2, 2014]] (via OpenAI Whisper)
 
 |}
 
