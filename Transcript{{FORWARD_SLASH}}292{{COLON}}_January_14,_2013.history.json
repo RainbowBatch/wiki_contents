@@ -1,31 +1,16 @@
 [
   {
-    "oldid": 9731,
-    "summary": "RainbowBatch update",
+    "oldid": 1813,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1678060800000,
-      "day": 6,
-      "hour": 0,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 1,
       "microsecond": 0,
-      "month": 3,
+      "month": 2,
       "second": 7,
       "timezone": "UTC",
       "weekday": 1
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 8114,
-    "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1676592000000,
-      "day": 17,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 2,
-      "second": 4,
-      "timezone": "UTC",
-      "weekday": 5
     },
     "username": "RainbowBatch"
   }

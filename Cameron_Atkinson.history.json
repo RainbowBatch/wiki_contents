@@ -1,92 +1,17 @@
 [
   {
-    "oldid": 7945,
-    "summary": "RainbowBatch update",
+    "oldid": 1042,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1676592000000,
-      "day": 17,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 2,
-      "second": 41,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 4833,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1670371200000,
-      "day": 7,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 12,
-      "second": 55,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2362,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1661212800000,
+      "date": 1740268800000,
       "day": 23,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 8,
-      "second": 9,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 378,
-    "summary": "",
-    "time": {
-      "date": 1658275200000,
-      "day": 20,
-      "hour": 3,
-      "microsecond": 0,
-      "month": 7,
-      "second": 5,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 360,
-    "summary": "Adding categories",
-    "time": {
-      "date": 1657929600000,
-      "day": 16,
       "hour": 23,
       "microsecond": 0,
-      "month": 7,
-      "second": 8,
+      "month": 2,
+      "second": 1,
       "timezone": "UTC",
-      "weekday": 6
+      "weekday": 7
     },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 242,
-    "summary": "Initial draft",
-    "time": {
-      "date": 1657238400000,
-      "day": 8,
-      "hour": 7,
-      "microsecond": 0,
-      "month": 7,
-      "second": 3,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "Woursler"
+    "username": "RainbowBatch"
   }
 ]

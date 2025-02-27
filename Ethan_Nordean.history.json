@@ -1,47 +1,17 @@
 [
   {
-    "oldid": 13745,
-    "summary": "RainbowBatch update",
+    "oldid": 1128,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1696982400000,
-      "day": 11,
-      "hour": 15,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
-      "month": 10,
-      "second": 36,
+      "month": 2,
+      "second": 22,
       "timezone": "UTC",
-      "weekday": 3
+      "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13645,
-    "summary": "",
-    "time": {
-      "date": 1696896000000,
-      "day": 10,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 10,
-      "second": 28,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 13644,
-    "summary": "Created page with \"{{Stub}} '''Ethan Nordean''', also known as '''Rufio Panman''', is a convicted felon and a leader of the Proud Boys. He's currently serving an 18 year federal prison sentence for his role in organizing the [[January 6th Insurrection]].\"",
-    "time": {
-      "date": 1696896000000,
-      "day": 10,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 10,
-      "second": 7,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
   }
 ]

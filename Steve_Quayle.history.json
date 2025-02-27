@@ -1,122 +1,17 @@
 [
   {
-    "oldid": 13601,
-    "summary": "Reverted edits by [[Special:Contributions/70.172.98.154|70.172.98.154]] ([[User talk:70.172.98.154|talk]]) to last revision by [[User:RainbowBatch|RainbowBatch]]",
+    "oldid": 1480,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1695168000000,
-      "day": 20,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 9,
-      "second": 32,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 13600,
-    "summary": "First line",
-    "time": {
-      "date": 1695168000000,
-      "day": 20,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 9,
-      "second": 59,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "70.172.98.154"
-  },
-  {
-    "oldid": 8048,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1676592000000,
-      "day": 17,
-      "hour": 19,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 0,
       "microsecond": 0,
       "month": 2,
-      "second": 34,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 6468,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1674777600000,
-      "day": 27,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 1,
-      "second": 32,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 6028,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1673827200000,
-      "day": 16,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 1,
-      "second": 44,
+      "second": 53,
       "timezone": "UTC",
       "weekday": 1
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 4953,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1670371200000,
-      "day": 7,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 12,
-      "second": 16,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2504,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1661299200000,
-      "day": 24,
-      "hour": 5,
-      "microsecond": 0,
-      "month": 8,
-      "second": 19,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2287,
-    "summary": "Turn guest description into a stub page.",
-    "time": {
-      "date": 1660348800000,
-      "day": 13,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 8,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "Woursler"
   }
 ]

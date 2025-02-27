@@ -1,92 +1,17 @@
 [
   {
-    "oldid": 16386,
-    "summary": "RainbowBatch update",
+    "oldid": 1233,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1715731200000,
-      "day": 15,
-      "hour": 15,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
-      "month": 5,
-      "second": 39,
+      "month": 2,
+      "second": 53,
       "timezone": "UTC",
-      "weekday": 3
+      "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 14174,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1704153600000,
-      "day": 2,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 1,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13950,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1699574400000,
-      "day": 10,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 11,
-      "second": 13,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13760,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1696982400000,
-      "day": 11,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 10,
-      "second": 6,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13621,
-    "summary": "",
-    "time": {
-      "date": 1696896000000,
-      "day": 10,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 10,
-      "second": 30,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 13620,
-    "summary": "Created page with \"'''John F. Kennedy Jr.''', son of American President [[John F. Kennedy\u200f\u200e]], was a lawyer and journalist who died in a 1999 plane crash.  For reasons beyond the scope of this page, various adherents of [[QAnon]] ludicrously believe that JFK Jr. is still alive and secretly waiting to ascend to the presidency or some other position of importance. See [[Juan O Savin]] for more details.\"",
-    "time": {
-      "date": 1696896000000,
-      "day": 10,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 10,
-      "second": 8,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
   }
 ]

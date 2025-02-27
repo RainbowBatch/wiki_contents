@@ -1,107 +1,17 @@
 [
   {
-    "oldid": 16098,
-    "summary": "Reverted edits by [[Special:Contributions/207.246.76.17|207.246.76.17]] ([[User talk:207.246.76.17|talk]]) to last revision by [[User:RainbowBatch|RainbowBatch]]",
+    "oldid": 1284,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1710720000000,
-      "day": 18,
-      "hour": 8,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
-      "month": 3,
-      "second": 31,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "LucyKuranSKYDOME"
-  },
-  {
-    "oldid": 16084,
-    "summary": "Blanked the page",
-    "time": {
-      "date": 1710720000000,
-      "day": 18,
-      "hour": 7,
-      "microsecond": 0,
-      "month": 3,
-      "second": 40,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "207.246.76.17"
-  },
-  {
-    "oldid": 10890,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 3,
-      "second": 40,
+      "month": 2,
+      "second": 23,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 5956,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1673654400000,
-      "day": 14,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 1,
-      "second": 10,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 5353,
-    "summary": "",
-    "time": {
-      "date": 1671494400000,
-      "day": 20,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 12,
-      "second": 17,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 5352,
-    "summary": "Add some details.",
-    "time": {
-      "date": 1671494400000,
-      "day": 20,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 12,
-      "second": 55,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 5310,
-    "summary": "Created page with \"Lionel is the subject of Episode #247, a classic entry in the Wacky Wednesday category.   Lionel is a QAnon enthusiast and general curmudgeon, who regularly brings his own brand of classic \"social commentary\" to Alex's 4th hour. Segments typically begin with his bumper music, a very Latin-inspired dance beat with his name as the only lyric.   \"Lionel, Lionel, Lionel, Lionel\" will then launch into a \"hot take\" that ranges from G.W. Bush to handbags on the subway.  He's 50...\"",
-    "time": {
-      "date": 1671408000000,
-      "day": 19,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 12,
-      "second": 46,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "Lytle74"
   }
 ]

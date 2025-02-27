@@ -1,32 +1,17 @@
 [
   {
-    "oldid": 2335,
-    "summary": "RainbowBatch update",
+    "oldid": 1385,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1661040000000,
-      "day": 21,
-      "hour": 20,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
-      "month": 8,
-      "second": 53,
+      "month": 2,
+      "second": 36,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2291,
-    "summary": "Add redirect for putin.",
-    "time": {
-      "date": 1660348800000,
-      "day": 13,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 8,
-      "second": 51,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "Woursler"
   }
 ]

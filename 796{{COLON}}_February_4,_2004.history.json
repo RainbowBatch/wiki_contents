@@ -1,61 +1,16 @@
 [
   {
-    "oldid": 15507,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1706313600000,
-      "day": 27,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 1,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 12546,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1682812800000,
-      "day": 30,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 4,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 11364,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1681948800000,
-      "day": 20,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 4,
-      "second": 44,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 11281,
+    "oldid": 812,
     "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1681516800000,
-      "day": 15,
-      "hour": 21,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 22,
       "microsecond": 0,
-      "month": 4,
-      "second": 8,
+      "month": 2,
+      "second": 39,
       "timezone": "UTC",
-      "weekday": 6
+      "weekday": 7
     },
     "username": "RainbowBatch"
   }

@@ -1,47 +1,17 @@
 [
   {
-    "oldid": 11286,
-    "summary": "RainbowBatch update",
+    "oldid": 950,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1681603200000,
-      "day": 16,
-      "hour": 3,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 22,
       "microsecond": 0,
-      "month": 4,
-      "second": 4,
+      "month": 2,
+      "second": 40,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 11204,
-    "summary": "Remove stub, this would be fine at its current length given the external ref.",
-    "time": {
-      "date": 1680652800000,
-      "day": 5,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 30,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 11203,
-    "summary": "Created page with \"{{ExternalRedirect}}{{Stub}}  In July 2011, a neo-Nazi carried out a car-bombing and mass-shooting in Norway, together killing 77 people and injuring hundreds. [[Knowledge Fight]] covered the disgraceful way [[InfoWars]] reported on the attack in episode [[198: July 22, 2011]].\"",
-    "time": {
-      "date": 1680652800000,
-      "day": 5,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 48,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
   }
 ]

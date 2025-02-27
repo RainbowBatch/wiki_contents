@@ -1,62 +1,17 @@
 [
   {
-    "oldid": 16514,
-    "summary": "RainbowBatch update",
+    "oldid": 955,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1717632000000,
-      "day": 6,
-      "hour": 2,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 22,
       "microsecond": 0,
-      "month": 6,
-      "second": 51,
+      "month": 2,
+      "second": 30,
       "timezone": "UTC",
-      "weekday": 4
+      "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 16342,
-    "summary": "",
-    "time": {
-      "date": 1714953600000,
-      "day": 6,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 5,
-      "second": 51,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 16341,
-    "summary": "",
-    "time": {
-      "date": 1714867200000,
-      "day": 5,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 5,
-      "second": 43,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 16340,
-    "summary": "Add a short stub about this rhetorical device / in joke.",
-    "time": {
-      "date": 1714867200000,
-      "day": 5,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 5,
-      "second": 46,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "Woursler"
   }
 ]

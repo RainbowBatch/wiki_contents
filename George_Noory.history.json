@@ -1,92 +1,17 @@
 [
   {
-    "oldid": 15831,
-    "summary": "RainbowBatch update",
+    "oldid": 1149,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1708646400000,
+      "date": 1740268800000,
       "day": 23,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 2,
-      "second": 50,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 14577,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1704412800000,
-      "day": 5,
       "hour": 23,
       "microsecond": 0,
-      "month": 1,
-      "second": 19,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 14156,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1704153600000,
-      "day": 2,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 1,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 14008,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1699747200000,
-      "day": 12,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 11,
-      "second": 46,
+      "month": 2,
+      "second": 52,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13748,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1696982400000,
-      "day": 11,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 10,
-      "second": 6,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13624,
-    "summary": "Created page with \"{{Stub}}  '''George Noory''' was the host of [[Coast to Coast AM]], the topic of several [[:Category:Wacky Wednesday|Wacky Wednesday]] episodes.\"",
-    "time": {
-      "date": 1696896000000,
-      "day": 10,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 10,
-      "second": 51,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
   }
 ]

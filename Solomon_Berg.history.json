@@ -1,122 +1,17 @@
 [
   {
-    "oldid": 13606,
-    "summary": "Add references to 853, which should be uploaded shortly... broken links for now.",
+    "oldid": 1471,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1696896000000,
-      "day": 10,
-      "hour": 16,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 0,
       "microsecond": 0,
-      "month": 10,
-      "second": 59,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 11090,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1679875200000,
-      "day": 27,
-      "hour": 6,
-      "microsecond": 0,
-      "month": 3,
-      "second": 37,
+      "month": 2,
+      "second": 23,
       "timezone": "UTC",
       "weekday": 1
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 10629,
-    "summary": "Add some additional context.",
-    "time": {
-      "date": 1679356800000,
-      "day": 21,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 3,
-      "second": 41,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 4948,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1670371200000,
-      "day": 7,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 12,
-      "second": 26,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 4638,
-    "summary": "The article linked the wrong episode.",
-    "time": {
-      "date": 1669334400000,
-      "day": 25,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 11,
-      "second": 35,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "185.230.126.5"
-  },
-  {
-    "oldid": 3662,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1662681600000,
-      "day": 9,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 9,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 3639,
-    "summary": "Adding categories",
-    "time": {
-      "date": 1662508800000,
-      "day": 7,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 9,
-      "second": 23,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 3638,
-    "summary": "Stub page.",
-    "time": {
-      "date": 1662508800000,
-      "day": 7,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 9,
-      "second": 12,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
   }
 ]

@@ -1,62 +1,17 @@
 [
   {
-    "oldid": 10850,
-    "summary": "RainbowBatch update",
+    "oldid": 1196,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 3,
-      "second": 0,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 7971,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1676592000000,
-      "day": 17,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 2,
-      "second": 1,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 7774,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1675987200000,
-      "day": 10,
-      "hour": 17,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
       "month": 2,
       "second": 42,
       "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2691,
-    "summary": "Created page with \"{{ExternalRedirect}}\"",
-    "time": {
-      "date": 1661644800000,
-      "day": 28,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 8,
-      "second": 47,
-      "timezone": "UTC",
       "weekday": 7
     },
-    "username": "Woursler"
+    "username": "RainbowBatch"
   }
 ]

@@ -1,47 +1,17 @@
 [
   {
-    "oldid": 395,
-    "summary": "Redirected page to [[704: 9/11, Part 2]]",
+    "oldid": 719,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 23,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 22,
       "microsecond": 0,
-      "month": 7,
-      "second": 39,
+      "month": 2,
+      "second": 8,
       "timezone": "UTC",
-      "weekday": 4
+      "weekday": 7
     },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 387,
-    "summary": "Testing DISPLAYTITLE to make article title conform to true episode title",
-    "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 8,
-      "microsecond": 0,
-      "month": 7,
-      "second": 7,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 386,
-    "summary": "Created page with \"{{Episode|title=9/11, Part 2|episodeNumber=704|airDate=July 19, 2022|episodeType=Special Edition|previousEpisode=[[703: 9-11, Part 1]]}}{{Stub}}  Today, Dan and Jordan wrap up their look at Alex's activities from September 11, 2001 by looking at his evening broadcast. Does Alex still think the EU was probably behind 9/11? Can Alex be any more disrespectful than he was that morning? Does Alex get into a fight with a special celebrity guest?\"",
-    "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 8,
-      "microsecond": 0,
-      "month": 7,
-      "second": 59,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "CaptainMossad"
+    "username": "RainbowBatch"
   }
 ]

@@ -1,62 +1,17 @@
 [
   {
-    "oldid": 12916,
-    "summary": "RainbowBatch update",
+    "oldid": 1050,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1683331200000,
-      "day": 6,
-      "hour": 0,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
-      "month": 5,
-      "second": 8,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 12749,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1683072000000,
-      "day": 3,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 5,
-      "second": 5,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 11291,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1681603200000,
-      "day": 16,
-      "hour": 3,
-      "microsecond": 0,
-      "month": 4,
-      "second": 54,
+      "month": 2,
+      "second": 21,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 11206,
-    "summary": "Created page with \"{{ExternalRedirect}}  In June 2015, a white supremacist carried out a racially motivated shooting attack on a historic black church, killing 9 members of a Bible study.\"",
-    "time": {
-      "date": 1680652800000,
-      "day": 5,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 24,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
   }
 ]

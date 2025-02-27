@@ -1,47 +1,17 @@
 [
   {
-    "oldid": 10971,
-    "summary": "RainbowBatch update",
+    "oldid": 1511,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 20,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 0,
       "microsecond": 0,
-      "month": 3,
-      "second": 11,
+      "month": 2,
+      "second": 4,
       "timezone": "UTC",
-      "weekday": 7
+      "weekday": 1
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 4799,
-    "summary": "Remove profanity. Not that I disagree, but we can do better.",
-    "time": {
-      "date": 1670025600000,
-      "day": 3,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 12,
-      "second": 46,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 4795,
-    "summary": "Created page with \"Tim Poole alt right talk show host and bald piece of shit.\"",
-    "time": {
-      "date": 1670025600000,
-      "day": 3,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 12,
-      "second": 44,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "173.27.98.199"
   }
 ]

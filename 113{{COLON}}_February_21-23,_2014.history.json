@@ -1,106 +1,16 @@
 [
   {
-    "oldid": 12864,
-    "summary": "RainbowBatch update",
+    "oldid": 116,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1683331200000,
-      "day": 6,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 5,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 12032,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1682812800000,
-      "day": 30,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 4,
-      "second": 29,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 8816,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1677974400000,
-      "day": 5,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 57,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 6789,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1675468800000,
-      "day": 4,
-      "hour": 5,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 20,
       "microsecond": 0,
       "month": 2,
-      "second": 4,
+      "second": 11,
       "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2749,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1661817600000,
-      "day": 30,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 8,
-      "second": 36,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 1506,
-    "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1660176000000,
-      "day": 11,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 8,
-      "second": 2,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 819,
-    "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1660089600000,
-      "day": 10,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 8,
-      "second": 2,
-      "timezone": "UTC",
-      "weekday": 3
+      "weekday": 7
     },
     "username": "RainbowBatch"
   }

@@ -1,32 +1,17 @@
 [
   {
-    "oldid": 10957,
-    "summary": "RainbowBatch update",
+    "oldid": 1463,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 20,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 0,
       "microsecond": 0,
-      "month": 3,
-      "second": 51,
+      "month": 2,
+      "second": 3,
       "timezone": "UTC",
-      "weekday": 7
+      "weekday": 1
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 3522,
-    "summary": "Created page with \"{{ExternalRedirect}}\"",
-    "time": {
-      "date": 1661904000000,
-      "day": 31,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 8,
-      "second": 31,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
   }
 ]
