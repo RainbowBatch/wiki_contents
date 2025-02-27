@@ -3613,7 +3613,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|46
+|48
 |-
 |'''Source Texts:'''
 |
@@ -3632,6 +3632,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[384: January 3, 2020]] (via AutoSub, OpenAI Whisper)
 *[[428: May 1, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[656: March 5, 2022]] (via AutoSub)
+*[[932: June 2-6, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -5995,7 +5996,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE
 |-
 |'''Total Count:'''
-|92
+|93
 |-
 |'''Source Texts:'''
 |
@@ -6076,7 +6077,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[892: January 19, 2024]] (via AutoSub)
 *[[896: February 2, 2024]] (via OpenAI Whisper)
 *[[929: May 28, 2024]] (via OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6460,7 +6461,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -6476,6 +6477,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[45: May 25, 2017]] (via AutoSub, otter.ai)
 *[[136: March 30-31, 2008]] (via OpenAI Whisper)
 *[[637: January 13, 2022]] (via AutoSub)
+*[[930: May 30-June 1, 2024]] (via AutoSub)
 
 |}
 
@@ -6651,7 +6653,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -6664,6 +6666,32 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 *[[354: October 8-9, 2019]] (via AutoSub, OpenAI Whisper)
 *[[400: One Out Of Five Seems High]] (via AutoSub)
+*[[931: February 2, 2014]] (via AutoSub)
+
+|}
+
+==Fractional Reserve==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Fractional Reserve'
+
+|-
+|'''Sources:'''
+|
+
+*[[676: April 29, 2022]] (via AutoSub)
+*[[932: June 2-6, 2024]] (via AutoSub)
 
 |}
 
@@ -7341,12 +7369,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|21
+|24
 |-
 |'''Source Texts:'''
 |
 
 *'Frank Sinatra'
+*'a Frank Sinatra'
 
 |-
 |'''Sources:'''
@@ -7356,7 +7385,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[680: July 31-August 1, 2003]] (via AutoSub, OpenAI Whisper)
 *[[733: October 6, 2022]] (via otter.ai, OpenAI Whisper, Wiki Page)
 *[[791: March 30-31, 2023]] (via otter.ai)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8556,7 +8585,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, WORK_OF_ART
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -8573,6 +8602,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[30: April 14, 2017]] (via OpenAI Whisper)
 *[[38: 30 Hour Marathon Coverage]] (via otter.ai, OpenAI Whisper)
 *[[470: ShadowGate]] (via OpenAI Whisper)
+*[[931: February 2, 2014]] (via OpenAI Whisper)
 
 |}
 
