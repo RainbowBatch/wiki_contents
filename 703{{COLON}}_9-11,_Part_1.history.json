@@ -1,62 +1,17 @@
 [
   {
-    "oldid": 393,
-    "summary": "Redirected page to [[703: 9/11, Part 1]]",
+    "oldid": 717,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 23,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 22,
       "microsecond": 0,
-      "month": 7,
-      "second": 16,
+      "month": 2,
+      "second": 48,
       "timezone": "UTC",
-      "weekday": 4
+      "weekday": 7
     },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 388,
-    "summary": "",
-    "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 8,
-      "microsecond": 0,
-      "month": 7,
-      "second": 40,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 385,
-    "summary": "",
-    "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 7,
-      "microsecond": 0,
-      "month": 7,
-      "second": 30,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "CaptainMossad"
-  },
-  {
-    "oldid": 384,
-    "summary": "Created page with \"{{Episode|title=9/11, Part 1|episodeNumber=703|airDate=July 17, 2022|episodeType=Special Edition|previousEpisode=[[702: July 11-12, 2022]]|nextEpisode=[[704: 9-11, Part 2]]}}{{Stub}}  Today Dan and Jordan celebrate\"",
-    "time": {
-      "date": 1658361600000,
-      "day": 21,
-      "hour": 7,
-      "microsecond": 0,
-      "month": 7,
-      "second": 7,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "CaptainMossad"
+    "username": "RainbowBatch"
   }
 ]

@@ -1,91 +1,16 @@
 [
   {
-    "oldid": 8772,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1677974400000,
-      "day": 5,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 36,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 7380,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1675468800000,
-      "day": 4,
-      "hour": 7,
-      "microsecond": 0,
-      "month": 2,
-      "second": 40,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 3345,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1661817600000,
-      "day": 30,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 8,
-      "second": 31,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2216,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1660262400000,
-      "day": 12,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 8,
-      "second": 54,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 1392,
-    "summary": "Formatting",
-    "time": {
-      "date": 1660089600000,
-      "day": 10,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 8,
-      "second": 1,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 764,
+    "oldid": 66,
     "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1660089600000,
-      "day": 10,
-      "hour": 15,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 20,
       "microsecond": 0,
-      "month": 8,
-      "second": 42,
+      "month": 2,
+      "second": 51,
       "timezone": "UTC",
-      "weekday": 3
+      "weekday": 7
     },
     "username": "RainbowBatch"
   }

@@ -1,107 +1,17 @@
 [
   {
-    "oldid": 10960,
-    "summary": "RainbowBatch update",
+    "oldid": 1474,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 3,
-      "second": 21,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 8708,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1677974400000,
-      "day": 5,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 3,
-      "second": 15,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 8410,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1676937600000,
-      "day": 21,
-      "hour": 21,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 0,
       "microsecond": 0,
       "month": 2,
-      "second": 31,
+      "second": 53,
       "timezone": "UTC",
-      "weekday": 2
+      "weekday": 1
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 5708,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1672876800000,
-      "day": 5,
-      "hour": 4,
-      "microsecond": 0,
-      "month": 1,
-      "second": 15,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 5294,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1671148800000,
-      "day": 16,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 12,
-      "second": 10,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 4949,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1670371200000,
-      "day": 7,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 12,
-      "second": 36,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2683,
-    "summary": "Created page with \"{{ExternalRedirect}}\"",
-    "time": {
-      "date": 1661644800000,
-      "day": 28,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 8,
-      "second": 22,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "Woursler"
   }
 ]

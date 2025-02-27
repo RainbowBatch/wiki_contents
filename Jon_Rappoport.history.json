@@ -1,107 +1,17 @@
 [
   {
-    "oldid": 15847,
-    "summary": "RainbowBatch update",
+    "oldid": 1242,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1708646400000,
+      "date": 1740268800000,
       "day": 23,
-      "hour": 21,
+      "hour": 23,
       "microsecond": 0,
       "month": 2,
-      "second": 30,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13864,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1697760000000,
-      "day": 20,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 10,
-      "second": 45,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 13378,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1694476800000,
-      "day": 12,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 9,
-      "second": 38,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 11033,
-    "summary": "Remove boilerplate.",
-    "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 19,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 11009,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 28,
+      "second": 23,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 10871,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1679788800000,
-      "day": 26,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 3,
-      "second": 30,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 10617,
-    "summary": "Stub!",
-    "time": {
-      "date": 1679356800000,
-      "day": 21,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 3,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
   }
 ]

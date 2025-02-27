@@ -1,136 +1,31 @@
 [
   {
-    "oldid": 16504,
-    "summary": "RainbowBatch update",
+    "oldid": 2502,
+    "summary": "Remove duplicated appearance.",
     "time": {
-      "date": 1717632000000,
-      "day": 6,
-      "hour": 2,
+      "date": 1740355200000,
+      "day": 24,
+      "hour": 17,
       "microsecond": 0,
-      "month": 6,
-      "second": 11,
-      "timezone": "UTC",
-      "weekday": 4
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 16457,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1716595200000,
-      "day": 25,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 5,
-      "second": 7,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 16359,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1715731200000,
-      "day": 15,
-      "hour": 15,
-      "microsecond": 0,
-      "month": 5,
-      "second": 9,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 16355,
-    "summary": "",
-    "time": {
-      "date": 1715558400000,
-      "day": 13,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 5,
-      "second": 5,
+      "month": 2,
+      "second": 6,
       "timezone": "UTC",
       "weekday": 1
     },
-    "username": "Woursler"
+    "username": "CelestAI"
   },
   {
-    "oldid": 16354,
-    "summary": "Reverted edits by [[Special:Contributions/Woursler|Woursler]] ([[User talk:Woursler|talk]]) to last revision by [[User:Lytle74|Lytle74]]",
-    "time": {
-      "date": 1715558400000,
-      "day": 13,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 5,
-      "second": 10,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 16353,
-    "summary": "Revert edit to the text provided through libsyn, but ensure that we maintain the information.",
-    "time": {
-      "date": 1715558400000,
-      "day": 13,
-      "hour": 18,
-      "microsecond": 0,
-      "month": 5,
-      "second": 59,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 16352,
-    "summary": "",
-    "time": {
-      "date": 1715472000000,
-      "day": 12,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 5,
-      "second": 20,
-      "timezone": "UTC",
-      "weekday": 7
-    },
-    "username": "Lytle74"
-  },
-  {
-    "oldid": 16343,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1715299200000,
-      "day": 10,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 5,
-      "second": 11,
-      "timezone": "UTC",
-      "weekday": 5
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 16278,
+    "oldid": 937,
     "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1714089600000,
-      "day": 26,
-      "hour": 16,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 22,
       "microsecond": 0,
-      "month": 4,
-      "second": 33,
+      "month": 2,
+      "second": 30,
       "timezone": "UTC",
-      "weekday": 5
+      "weekday": 7
     },
     "username": "RainbowBatch"
   }

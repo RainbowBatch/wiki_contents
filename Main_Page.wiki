@@ -1,1 +1,33 @@
-#REDIRECT [[Knowledge Fight Wiki]]
+<strong>Welcome to the {{SITENAME}}!</strong>
+
+Knowledge Fight is a podcast dedicated to cataloging [[Alex Jones]], [[InfoWars]], and other associated right-wing purveyors of misinformation and bigotry<ref>https://knowledgefight.com/</ref>. It is a clip show hosted by [[Dan Friesen]] and [[Jordan Holmes]]. This is an unofficial fan-run wiki for the [[Knowledge Fight]] podcast and associated cast of weirdos. We try to provide both a searchable repository of information about the show and its content, and a way to dig deeper into some of the claims and events related to the show but not directly covered.
+
+== Where to Start? ==
+If you're here for the first time, check out the [[List of Knowledge Fight episodes|Episode Listing]]! We'd also recommend trying out the search function -- you can look up pages for each episode by number or title.
+
+If you're interested in finding episodes that discuss a particular person or topic, try using the "What Links Here" feature. You can use this even on pages that don't exist yet.
+
+== Sources and Thanks ==
+The seed content of this wiki (while reformatted and edited) came from a variety of sources reproduced with permission.
+
+# The Unofficial Knowledge Fight Tracker Google doc created by anonymous wonk Rexford Tugwell (note that Rexford Tugwell has not contributed to the wiki directly)
+# The Official Knowledge Fight Wiki and associated pages<ref>https://knowledgefight.com/wiki-front-page</ref>
+# Contributions from viewers like you!
+
+In addition, data was scraped from the following publicly available sources or processed using the following tools:
+
+# Libsyn listings of all Knowledge Fight episodes and their metadata<ref>https://knowledgefight.libsyn.com/</ref>
+# spaCy's EntityRecognizer model<ref>https://towardsdatascience.com/named-entity-recognition-ner-using-spacy-nlp-part-4-28da2ece57c6</ref>
+# [https://www.getwelder.com/ Welder] and [https://otter.ai/home otter.ai]'s transcription tools<ref>https://app.getwelder.com/transcriptions</ref>
+
+== Get Involved! ==
+This wiki is a collaborative community website about Knowledge Fight that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click the "ADD NEW PAGE" or "EDIT" button at the top of any page to get started!
+
+*[[Project:Wiki rules|Rules of this wiki]]
+
+== MediaWiki Getting started ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ MediaWiki release mailing list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]

@@ -1,47 +1,17 @@
 [
   {
-    "oldid": 15713,
-    "summary": "RainbowBatch update",
+    "oldid": 1270,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1706486400000,
-      "day": 29,
-      "hour": 18,
+      "date": 1740268800000,
+      "day": 23,
+      "hour": 23,
       "microsecond": 0,
-      "month": 1,
-      "second": 9,
-      "timezone": "UTC",
-      "weekday": 1
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 15648,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1706400000000,
-      "day": 28,
-      "hour": 6,
-      "microsecond": 0,
-      "month": 1,
-      "second": 53,
+      "month": 2,
+      "second": 3,
       "timezone": "UTC",
       "weekday": 7
     },
     "username": "RainbowBatch"
-  },
-  {
-    "oldid": 15065,
-    "summary": "make a stub about Klayman",
-    "time": {
-      "date": 1705968000000,
-      "day": 23,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 1,
-      "second": 2,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "Woursler"
   }
 ]

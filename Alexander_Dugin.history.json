@@ -1,32 +1,17 @@
 [
   {
-    "oldid": 3497,
-    "summary": "Fix nowiki...",
+    "oldid": 972,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1661904000000,
-      "day": 31,
+      "date": 1740268800000,
+      "day": 23,
       "hour": 22,
       "microsecond": 0,
-      "month": 8,
-      "second": 16,
+      "month": 2,
+      "second": 20,
       "timezone": "UTC",
-      "weekday": 3
+      "weekday": 7
     },
-    "username": "Woursler"
-  },
-  {
-    "oldid": 3496,
-    "summary": "Alternative spelling redirect.",
-    "time": {
-      "date": 1661904000000,
-      "day": 31,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 8,
-      "second": 55,
-      "timezone": "UTC",
-      "weekday": 3
-    },
-    "username": "Woursler"
+    "username": "RainbowBatch"
   }
 ]

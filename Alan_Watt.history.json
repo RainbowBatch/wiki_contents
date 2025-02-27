@@ -1,77 +1,17 @@
 [
   {
-    "oldid": 2427,
-    "summary": "RainbowBatch update",
+    "oldid": 965,
+    "summary": "RainbowBatch generated stub.",
     "time": {
-      "date": 1661212800000,
-      "day": 23,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 8,
-      "second": 19,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 2353,
-    "summary": "RainbowBatch update",
-    "time": {
-      "date": 1661212800000,
-      "day": 23,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 8,
-      "second": 39,
-      "timezone": "UTC",
-      "weekday": 2
-    },
-    "username": "RainbowBatch"
-  },
-  {
-    "oldid": 542,
-    "summary": "Adding past tense as it appears Alan Watt passed away last year.",
-    "time": {
-      "date": 1658534400000,
+      "date": 1740268800000,
       "day": 23,
       "hour": 22,
       "microsecond": 0,
-      "month": 7,
-      "second": 20,
+      "month": 2,
+      "second": 10,
       "timezone": "UTC",
-      "weekday": 6
+      "weekday": 7
     },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 533,
-    "summary": "Adding categories",
-    "time": {
-      "date": 1658534400000,
-      "day": 23,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 7,
-      "second": 58,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "Tesseractor"
-  },
-  {
-    "oldid": 520,
-    "summary": "Migrate official wiki content.",
-    "time": {
-      "date": 1658534400000,
-      "day": 23,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 7,
-      "second": 2,
-      "timezone": "UTC",
-      "weekday": 6
-    },
-    "username": "Woursler"
+    "username": "RainbowBatch"
   }
 ]
