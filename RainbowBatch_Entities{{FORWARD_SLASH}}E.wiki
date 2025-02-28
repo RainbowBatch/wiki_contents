@@ -848,7 +848,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|31
+|33
 |-
 |'''Source Texts:'''
 |
@@ -875,6 +875,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[821: Jon Ronson Returns]] (via AutoSub)
 *[[838: August 11, 2023]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via AutoSub, OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub)
+*[[931: February 2, 2014]] (via OpenAI Whisper)
 
 |}
 
@@ -1062,7 +1064,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP, ORG
 |-
 |'''Total Count:'''
-|34
+|35
 |-
 |'''Source Texts:'''
 |
@@ -1086,6 +1088,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[653: February 25, 2022]] (via AutoSub)
 *[[679: May 9, 2022]] (via AutoSub, OpenAI Whisper)
 *[[760: December 9-10, 2003]] (via AutoSub, Manually-created, otter.ai)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -1827,7 +1830,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LOC, ORG, PERSON
 |-
 |'''Total Count:'''
-|345
+|348
 |-
 |'''Source Texts:'''
 |
@@ -1840,6 +1843,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*930: May 30-June 1, 2024 (via Wiki Page)
 *[[9: Joe Rogan Appearance]] (via AutoSub, otter.ai, OpenAI Whisper, Wiki Page)
 *[[10: February 6, 2017]] (via otter.ai, OpenAI Whisper)
 *[[13: February 14, 2017]] (via otter.ai)
@@ -1886,7 +1890,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[833: Mike Rothschild In The Hot Seat]] (via AutoSub, OpenAI Whisper)
 *[[889: The Debate Of The Century, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[910: March 18, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -4845,6 +4849,31 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 
 |}
 
+==Energy System==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Energy System'
+
+|-
+|'''Sources:'''
+|
+
+*[[854: September 29, 2023]] (via AutoSub)
+*[[932: June 2-6, 2024]] (via AutoSub)
+
+|}
+
 ==English Defence League==
 {| class="fandom-table"
 |'''Status:'''
@@ -4989,10 +5018,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON, WORK_OF_ART
+|PERSON
 |-
 |'''Total Count:'''
-|24
+|23
 |-
 |'''Source Texts:'''
 |
@@ -5577,7 +5606,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|13
+|15
 |-
 |'''Source Texts:'''
 |
@@ -5592,7 +5621,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[290: April 25-26, 2019]] (via AutoSub, OpenAI Whisper)
 *[[462: July 26, 2020]] (via AutoSub, OpenAI Whisper)
 *[[743: October 29-30, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6065,7 +6094,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|38
+|40
 |-
 |'''Source Texts:'''
 |
@@ -6091,7 +6120,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[383: December 31, 2019]] (via AutoSub)
 *[[406: March 1-4, 2020]] (via OpenAI Whisper)
 *[[495: November 4-6, 2016]] (via AutoSub)
-*[[923: May 1, 2024]] (via OpenAI Whisper)
+*[[923: May 1, 2024]] (via OpenAI Whisper, Wiki Page)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -7190,7 +7220,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |NORP
 |-
 |'''Total Count:'''
-|52
+|53
 |-
 |'''Source Texts:'''
 |
@@ -7240,6 +7270,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[829: Chatting with Talia Lavin]] (via AutoSub)
 *[[888: The Debate Of The Century, Part 1]] (via AutoSub)
 *[[890: January 16, 2024]] (via AutoSub)
+*[[930: May 30-June 1, 2024]] (via AutoSub)
 
 |}
 

@@ -1166,7 +1166,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|44
+|45
 |-
 |'''Source Texts:'''
 |
@@ -1196,6 +1196,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[684: May 20, 2022]] (via AutoSub)
 *[[884: August 8, 2012]] (via OpenAI Whisper)
 *[[888: The Debate Of The Century, Part 1]] (via AutoSub)
+*[[932: June 2-6, 2024]] (via AutoSub)
 
 |}
 
@@ -1461,7 +1462,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3614
+|3621
 |-
 |'''Source Texts:'''
 |
@@ -1480,6 +1481,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*928: August 12, 2009 (via Wiki Page)
 *"Mandatory Service Bill" (via Wiki Page)
 *Jerome Corsi (via Wiki Page)
 *Larry Nichols (via Wiki Page)
@@ -1978,12 +1980,13 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[907: March 6, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[911: March 19, 2024]] (via AutoSub, OpenAI Whisper)
 *[[917: April 10, 2024]] (via AutoSub, OpenAI Whisper)
-*[[918: April 12, 2024]] (via AutoSub, OpenAI Whisper)
-*[[920: February 4, 2008]] (via OpenAI Whisper)
+*[[918: April 12, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[920: February 4, 2008]] (via OpenAI Whisper, Wiki Page)
 *[[921: April 22, 2024]] (via OpenAI Whisper)
 *[[924: May 3, 2024]] (via OpenAI Whisper)
 *[[928: August 12, 2009]] (via AutoSub, OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[931: February 2, 2014]] (via OpenAI Whisper)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
@@ -2323,10 +2326,10 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, ORG
+|GPE, ORG, PRODUCT
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -2341,6 +2344,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[263: Jordan Takes The Wheel]] (via AutoSub)
 *[[273: March 5-6, 2019]] (via AutoSub)
 *[[275: December 23-31, 2012]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub)
 
 |}
 
@@ -3679,7 +3683,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|9
+|11
 |-
 |'''Source Texts:'''
 |
@@ -3696,6 +3700,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[167: February 4-5, 2009]] (via AutoSub, OpenAI Whisper)
 *[[559: Noam Man's Land]] (via AutoSub, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -6685,7 +6690,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
@@ -6703,7 +6708,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[677: May 4, 2022]] (via AutoSub)
 *[[678: July 29-30, 2003]] (via AutoSub)
 *[[761: December 11, 2003]] (via Manually-created, otter.ai)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -7547,7 +7552,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|620
+|626
 |-
 |'''Source Texts:'''
 |
@@ -7673,7 +7678,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[910: March 18, 2024]] (via OpenAI Whisper)
 *[[920: February 4, 2008]] (via OpenAI Whisper)
 *[[922: April 26, 2024]] (via AutoSub, OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8296,7 +8301,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |LAW, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|552
+|554
 |-
 |'''Source Texts:'''
 |
@@ -8401,8 +8406,8 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[875: The Most Important Man In The World]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[897: February 7, 2024]] (via OpenAI Whisper)
 *[[908: The Secret Mission]] (via AutoSub, OpenAI Whisper)
-*[[919: April 15, 2024]] (via AutoSub, OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[919: April 15, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -11390,7 +11395,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|30
+|32
 |-
 |'''Source Texts:'''
 |
@@ -11416,6 +11421,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[782: February 26, 2023]] (via AutoSub, OpenAI Whisper)
 *[[797: Belly-Floppin' Into The Pool]] (via otter.ai, OpenAI Whisper)
 *[[804: May 3-4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -13132,7 +13138,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -13149,6 +13155,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[576: July 9, 2021]] (via AutoSub)
 *[[596: Possibly Too Much Wacky]] (via AutoSub)
 *[[797: Belly-Floppin' Into The Pool]] (via AutoSub)
+*[[930: May 30-June 1, 2024]] (via AutoSub)
 
 |}
 
@@ -13634,7 +13641,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|324
+|325
 |-
 |'''Source Texts:'''
 |
@@ -13647,6 +13654,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |'''Sources:'''
 |
 
+*926: March 4, 2011 (via Wiki Page)
 *Bob Chapman (via Wiki Page)
 *Gerald Celente (via Wiki Page)
 *Ted Anderson (via Wiki Page)
@@ -16391,7 +16399,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|24
+|25
 |-
 |'''Source Texts:'''
 |
@@ -16417,6 +16425,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[477: September 3, 2020]] (via OpenAI Whisper)
 *[[604: October 5, 2021]] (via OpenAI Whisper)
 *[[609: October 20, 2021]] (via OpenAI Whisper)
+*[[932: June 2-6, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -17402,7 +17411,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -17418,7 +17427,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub, OpenAI Whisper)
 *[[627: Reset Wars: Episode 2]] (via AutoSub, OpenAI Whisper)
 *[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -21022,7 +21031,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -21037,6 +21046,7 @@ Please do not edit this page directly. Contact [[User:Woursler | Woursler]] if y
 *[[267: December 16, 2012]] (via AutoSub)
 *[[319: July 7-8, 2019]] (via OpenAI Whisper)
 *[[888: The Debate Of The Century, Part 1]] (via AutoSub)
+*[[931: February 2, 2014]] (via AutoSub)
 
 |}
 
