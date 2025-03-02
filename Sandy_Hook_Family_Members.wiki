@@ -1,9 +1,7 @@
 {{MessageBox
     | header     = Notice
     | text       = You've likely been redirected here after clicking on the name of a specific family member. Because these family members are private individuals placed into these circumstances by tragedy, it would be inappropriate to profile them individually any more than necessary. [https://www.penguinrandomhouse.com/books/624175/sandy-hook-by-elizabeth-williamson/ Elizabeth Williamson's book ''Sandy Hook''] does an excellent job telling Sandy Hook parents story in a responsible way if you want further reading.
-    | image      = Wiki.png
-    | imagelink  =
-    | imagewidth = 50px
+    | image      = Warning.png
     | id         = warning
 }}[[Alex Jones]], [[Owen Shroyer]], and other [[InfoWars]] personalities have made a number of false and defamatory statements about the family members (and especially the parents) of victims of [[Sandy Hook]].
 
