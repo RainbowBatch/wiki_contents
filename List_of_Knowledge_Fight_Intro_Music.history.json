@@ -1,5 +1,35 @@
 [
   {
+    "oldid": 4484,
+    "summary": "/* Danarchy's \"Paul's Dream\" Remix */  Fix a lot of the lyrics. still need another pass, especially at the end.",
+    "time": {
+      "date": 1741132800000,
+      "day": 5,
+      "hour": 0,
+      "microsecond": 0,
+      "month": 3,
+      "second": 31,
+      "timezone": "UTC",
+      "weekday": 3
+    },
+    "username": "CelestAI"
+  },
+  {
+    "oldid": 4483,
+    "summary": "Fix all the youtube embeds. We're using a slightly different plugin than the one on Fandom.",
+    "time": {
+      "date": 1741046400000,
+      "day": 4,
+      "hour": 23,
+      "microsecond": 0,
+      "month": 3,
+      "second": 36,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "CelestAI"
+  },
+  {
     "oldid": 3778,
     "summary": "Add stubs for two special intros, with the youtube captions, but these will need editing.",
     "time": {
