@@ -13,7 +13,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|62
+|63
 |-
 |'''Source Texts:'''
 |
@@ -60,6 +60,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[779: January 9-12, 2004]] (via OpenAI Whisper)
 *[[788: Mike Rothschild Returns]] (via otter.ai, OpenAI Whisper)
 *[[837: March 11, 2004]] (via OpenAI Whisper)
+*[[940: July 1, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -172,10 +173,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|EVENT
+|EVENT, ORG
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -195,6 +196,33 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[699: July 4-5, 2022]] (via AutoSub)
 *[[748: November 16, 2022]] (via AutoSub)
 *[[761: December 11, 2003]] (via AutoSub)
+*[[963: September 11, 2024]] (via AutoSub)
+
+|}
+
+==Wagner Group==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Wagner Group'
+*'the Wagner Group'
+
+|-
+|'''Sources:'''
+|
+
+*[[854: September 29, 2023]] (via OpenAI Whisper)
+*[[933: June 7-11, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -279,6 +307,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Walid Shoebat==
+{| class="fandom-table"
+|'''Status:'''
+|Exists
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Walid Shoebat'
+
+|-
+|'''Sources:'''
+|
+
+*Walid Shoebat (via Wiki Page)
+*[[303: January 29-31, 2013]] (via Wiki Page)
+
+|}
+
 ==Walk Among Us==
 {| class="fandom-table"
 |'''Status:'''
@@ -288,7 +341,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|4
 |-
 |'''Source Texts:'''
 |
@@ -301,6 +354,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[325: Feb. 27-Mar. 10, 2013]] (via AutoSub)
 *[[818: June 9, 2023]] (via AutoSub)
+*[[959: August 27, 2024]] (via AutoSub)
+*[[999: January 16, 2025]] (via AutoSub)
 
 |}
 
@@ -409,6 +464,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Walking Tall==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Walking Tall'
+
+|-
+|'''Sources:'''
+|
+
+*[[971: October 2-3, 2024]] (via OpenAI Whisper)
+*[[Doing Dune: Part 1]] (via OpenAI Whisper)
+
+|}
+
 ==Wall Street Journal==
 {| class="fandom-table"
 |'''Status:'''
@@ -418,7 +498,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|215
+|230
 |-
 |'''Source Texts:'''
 |
@@ -506,6 +586,12 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[912: March 22, 2024]] (via AutoSub, OpenAI Whisper)
 *[[914: March 27, 2024]] (via AutoSub, OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[938: June 25-26, 2024]] (via AutoSub, OpenAI Whisper)
+*[[940: July 1, 2024]] (via AutoSub)
+*[[964: Reset Wars, Chapters 1 & 2]] (via OpenAI Whisper)
+*[[1002: January 21, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1008: Formulaic Objections Part 18]] (via AutoSub, ElevenLabs Scribe)
+*[[1010: January 27, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -543,7 +629,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -560,6 +646,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[161: May 14, 2018]] (via AutoSub)
 *[[392: January 24, 2020]] (via AutoSub)
 *[[675: April 25, 2022]] (via AutoSub)
+*[[1013: January 30, 2025]] (via AutoSub)
 
 |}
 
@@ -704,6 +791,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Walter Mondale==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Walter Mondale'
+
+|-
+|'''Sources:'''
+|
+
+*[[136: March 30-31, 2008]] (via AutoSub, OpenAI Whisper)
+*[[976: October 18-21, 2024]] (via AutoSub, OpenAI Whisper)
+
+|}
+
 ==Walter Reed==
 {| class="fandom-table"
 |'''Status:'''
@@ -818,7 +930,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -834,6 +946,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[425: April 23-24, 2020]] (via OpenAI Whisper)
 *[[508: December 1-2, 2020]] (via OpenAI Whisper)
 *[[920: February 4, 2008]] (via OpenAI Whisper)
+*[[979: Election Eve]] (via ElevenLabs Scribe)
 
 |}
 
@@ -958,7 +1071,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -978,6 +1091,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[675: April 25, 2022]] (via AutoSub, OpenAI Whisper)
 *[[732: Trial Press Conference]] (via AutoSub)
 *[[921: April 22, 2024]] (via OpenAI Whisper)
+*[[990: Tucker, The Man And His Omissions]] (via AutoSub)
 
 |}
 
@@ -1041,7 +1155,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT, LAW
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -1055,6 +1169,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[158: January 21, 2009]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[868: March 22, 2004]] (via AutoSub)
+*[[1001: January 20, 2025 Continued]] (via ElevenLabs Scribe)
 
 |}
 
@@ -1114,6 +1229,33 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[856: Live In London (Night 1)]] (via OpenAI Whisper)
 *[[861: October 18, 2023]] (via AutoSub, OpenAI Whisper)
 *[[912: March 22, 2024]] (via AutoSub)
+
+|}
+
+==Warner Von Braun==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*"Warner Von Braun's"
+*'Warner von Braun'
+
+|-
+|'''Sources:'''
+|
+
+*[[270: The Rogan Return]] (via OpenAI Whisper)
+*[[1002: January 21, 2025]] (via AutoSub)
+*[[1010: January 27, 2025]] (via AutoSub)
 
 |}
 
@@ -1299,7 +1441,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|989
+|1033
 |-
 |'''Source Texts:'''
 |
@@ -1635,6 +1777,25 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[926: March 4, 2011]] (via AutoSub, OpenAI Whisper)
 *[[929: May 28, 2024]] (via AutoSub, OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[935: June 17, 2024]] (via AutoSub, OpenAI Whisper)
+*[[937: June 20, 2024]] (via AutoSub, OpenAI Whisper)
+*[[939: June 27, 2024]] (via AutoSub, OpenAI Whisper)
+*[[940: July 1, 2024]] (via OpenAI Whisper)
+*[[941: July 3, 2024]] (via OpenAI Whisper)
+*[[950: August 1, 2024]] (via AutoSub)
+*[[958: More Like Jimmy Bore, Revisited]] (via OpenAI Whisper)
+*[[961: September 4, 2024]] (via AutoSub, OpenAI Whisper)
+*[[964: Reset Wars, Chapters 1 & 2]] (via AutoSub)
+*[[967: Tucker, The Man And His Live Show]] (via OpenAI Whisper)
+*[[971: October 2-3, 2024]] (via AutoSub)
+*[[986: December 3, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[993: December 27, 2024]] (via AutoSub)
+*[[1000: January 20, 2025]] (via ElevenLabs Scribe)
+*[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe)
+*[[1003: January 22, 2025]] (via ElevenLabs Scribe)
+*[[1004: January 23, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1006: January 24, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via OpenAI Whisper)
 
 |}
@@ -1677,7 +1838,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|176
+|179
 |-
 |'''Source Texts:'''
 |
@@ -1783,6 +1944,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[882: April 1, 2004]] (via AutoSub)
 *[[889: The Debate Of The Century, Part 2]] (via OpenAI Whisper)
 *[[926: March 4, 2011]] (via OpenAI Whisper)
+*[[1000: January 20, 2025]] (via ElevenLabs Scribe)
+*[[1002: January 21, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -1910,7 +2073,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|4
+|10
 |-
 |'''Source Texts:'''
 |
@@ -1926,6 +2089,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[607: A Chat With Mike Rothschild]] (via AutoSub)
 *[[642: January 24, 2022]] (via AutoSub)
 *[[842: Amanda Moore Returns]] (via AutoSub)
+*[[1008: Formulaic Objections Part 18]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -1963,7 +2127,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|504
+|531
 |-
 |'''Source Texts:'''
 |
@@ -2166,6 +2330,17 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[929: May 28, 2024]] (via OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
 *[[932: June 2-6, 2024]] (via OpenAI Whisper)
+*[[934: June 14, 2024]] (via AutoSub, OpenAI Whisper)
+*[[954: Not The Debate Of The Century]] (via OpenAI Whisper)
+*[[964: Reset Wars, Chapters 1 & 2]] (via AutoSub, OpenAI Whisper)
+*[[965: September 15, 2024]] (via AutoSub, OpenAI Whisper)
+*[[967: Tucker, The Man And His Live Show]] (via AutoSub, OpenAI Whisper)
+*[[971: October 2-3, 2024]] (via AutoSub, OpenAI Whisper)
+*[[977: October 25-28, 2024]] (via AutoSub)
+*[[993: December 27, 2024]] (via ElevenLabs Scribe)
+*[[996: January 5, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1004: January 23, 2025]] (via ElevenLabs Scribe)
+*[[1008: Formulaic Objections Part 18]] (via AutoSub, ElevenLabs Scribe)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -2319,7 +2494,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -2342,6 +2517,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[515: December 28-29, 2020]] (via OpenAI Whisper)
 *[[525: January 27, 2021]] (via OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via OpenAI Whisper)
+*[[1003: January 22, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -2428,15 +2604,16 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|FAC, PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
 
 *'Water Tower'
+*'the Water Tower'
 
 |-
 |'''Sources:'''
@@ -2444,6 +2621,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[238: Coach Dave]] (via AutoSub)
 *[[284: April 12, 2019]] (via AutoSub)
+*[[946: July 19-21, 2024]] (via AutoSub)
 
 |}
 
@@ -3553,7 +3731,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|32
+|33
 |-
 |'''Source Texts:'''
 |
@@ -3579,6 +3757,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[886: More Like Jimmy Bore, Part 2]] (via OpenAI Whisper)
 *[[923: May 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[992: December 24, 2024]] (via AutoSub)
 
 |}
 
@@ -3591,7 +3770,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|22
+|24
 |-
 |'''Source Texts:'''
 |
@@ -3612,6 +3791,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[573: July 1, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[652: February 21-24, 2022]] (via AutoSub)
 *[[664: Formulaic Objections Part 5]] (via AutoSub)
+*[[1005: Formulaic Objections Part 17]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -3729,7 +3909,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|31
+|69
 |-
 |'''Source Texts:'''
 |
@@ -3740,6 +3920,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *'Werner von Braun'
 *'Wernher Von Braun'
 *'Wernher von Braun'
+*"Wernher von Braun's"
 
 |-
 |'''Sources:'''
@@ -3753,6 +3934,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[686: Continental Negotiations]] (via AutoSub, OpenAI Whisper)
 *[[722: Space Capitalism Is Still Capitalism]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[757: December 13, 2022]] (via AutoSub, otter.ai)
+*[[993: December 27, 2024]] (via ElevenLabs Scribe)
+*[[1002: January 21, 2025]] (via ElevenLabs Scribe)
+*[[1010: January 27, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -4009,7 +4194,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LOC
 |-
 |'''Total Count:'''
-|82
+|87
 |-
 |'''Source Texts:'''
 |
@@ -4063,6 +4248,9 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[850: September 14, 2023]] (via OpenAI Whisper)
 *[[875: The Most Important Man In The World]] (via AutoSub)
 *[[916: The Total Eclipse]] (via AutoSub, OpenAI Whisper)
+*[[937: June 20, 2024]] (via AutoSub, OpenAI Whisper)
+*[[971: October 2-3, 2024]] (via AutoSub)
+*[[975: October 17, 2024]] (via AutoSub, OpenAI Whisper)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -4178,7 +4366,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|3
+|6
 |-
 |'''Source Texts:'''
 |
@@ -4191,6 +4379,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[441: June 3-4, 2020]] (via AutoSub, OpenAI Whisper)
 *[[460: Donk's Dojo]] (via OpenAI Whisper)
+*[[965: September 15, 2024]] (via AutoSub, OpenAI Whisper)
+*[[967: Tucker, The Man And His Live Show]] (via AutoSub)
 
 |}
 
@@ -4367,7 +4557,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|13
+|15
 |-
 |'''Source Texts:'''
 |
@@ -4388,6 +4578,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[539: March 10, 2021]] (via AutoSub, OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub, OpenAI Whisper)
 *[[669: Chatting With Amanda Moore]] (via AutoSub)
+*[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -4529,7 +4720,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -4548,6 +4739,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[652: February 21-24, 2022]] (via AutoSub, OpenAI Whisper)
 *[[679: May 9, 2022]] (via AutoSub, OpenAI Whisper)
 *[[813: May 29, 2023]] (via otter.ai, OpenAI Whisper)
+*[[934: June 14, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -4560,7 +4752,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LOC
 |-
 |'''Total Count:'''
-|9
+|10
 |-
 |'''Source Texts:'''
 |
@@ -4579,6 +4771,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[854: September 29, 2023]] (via AutoSub, OpenAI Whisper)
 *[[909: March 13, 2024]] (via AutoSub)
 *[[918: April 12, 2024]] (via AutoSub)
+*[[1011: January 28, 2025]] (via AutoSub)
 
 |}
 
@@ -4866,7 +5059,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -4887,6 +5080,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[761: December 11, 2003]] (via AutoSub)
 *[[779: January 9-12, 2004]] (via AutoSub)
 *[[801: February 10, 2004]] (via AutoSub)
+*[[1013: January 30, 2025]] (via AutoSub)
 
 |}
 
@@ -4924,7 +5118,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -4937,6 +5131,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via AutoSub)
 *[[851: Erica Lafferty Returns]] (via AutoSub)
+*[[943: July 9, 2024]] (via AutoSub)
 
 |}
 
@@ -5239,7 +5434,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, ORG
 |-
 |'''Total Count:'''
-|1474
+|1550
 |-
 |'''Source Texts:'''
 |
@@ -5625,6 +5820,33 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[929: May 28, 2024]] (via AutoSub)
 *[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[932: June 2-6, 2024]] (via AutoSub, OpenAI Whisper)
+*[[933: June 7-11, 2024]] (via AutoSub)
+*[[935: June 17, 2024]] (via AutoSub)
+*[[939: June 27, 2024]] (via AutoSub)
+*[[942: July 7, 2024]] (via AutoSub, OpenAI Whisper)
+*[[943: July 9, 2024]] (via AutoSub)
+*[[945: July 15, 2024]] (via AutoSub, OpenAI Whisper, Wiki Page)
+*[[949: July 26, 2024]] (via AutoSub)
+*[[952: August 7, 2024]] (via AutoSub)
+*[[957: August 21, 2024]] (via OpenAI Whisper)
+*[[959: August 27, 2024]] (via AutoSub, OpenAI Whisper)
+*[[961: September 4, 2024]] (via OpenAI Whisper)
+*[[965: September 15, 2024]] (via AutoSub, OpenAI Whisper)
+*[[967: Tucker, The Man And His Live Show]] (via AutoSub)
+*[[970: September 30-October 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[974: October 15-16, 2024]] (via OpenAI Whisper)
+*[[977: October 25-28, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[988: December 10, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[989: December 13, 2024]] (via ElevenLabs Scribe)
+*[[990: Tucker, The Man And His Omissions]] (via AutoSub, ElevenLabs Scribe)
+*[[992: December 24, 2024]] (via ElevenLabs Scribe)
+*[[1002: January 21, 2025]] (via ElevenLabs Scribe)
+*[[1003: January 22, 2025]] (via ElevenLabs Scribe)
+*[[1006: January 24, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1008: Formulaic Objections Part 18]] (via AutoSub, ElevenLabs Scribe)
+*[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1014: January 31, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[Alex's Breaky Minisode]] (via AutoSub)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
@@ -5690,12 +5912,13 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
 
 *'White House Press'
+*'a White House Press'
 *'the White House Press'
 *'these White House Press'
 
@@ -5708,6 +5931,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[424: April 21-22, 2020]] (via AutoSub)
 *[[661: March 17, 2022]] (via AutoSub)
 *[[709: 2 Dan's 2 War]] (via AutoSub)
+*[[1008: Formulaic Objections Part 18]] (via AutoSub)
 
 |}
 
@@ -6238,16 +6462,42 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Wichita State==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Wichita State'
+*"Wichita State's"
+
+|-
+|'''Sources:'''
+|
+
+*[[831: Tucker, The Man And His Twitter- Episode 4]] (via AutoSub, OpenAI Whisper)
+*[[985: December 2, 2024]] (via AutoSub)
+
+|}
+
 ==Wicked Witch==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON, WORK_OF_ART
+|FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|9
+|11
 |-
 |'''Source Texts:'''
 |
@@ -6264,6 +6514,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[484: September 18-19, 2020]] (via OpenAI Whisper)
 *[[604: October 5, 2021]] (via AutoSub)
 *[[746: The Infowars All-Star Midterm Coverage Spectacular]] (via otter.ai)
+*[[954: Not The Debate Of The Century]] (via OpenAI Whisper)
+*[[978: Tucker, The Man And His Demon]] (via ElevenLabs Scribe)
 
 |}
 
@@ -6410,7 +6662,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LOC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|19
+|21
 |-
 |'''Source Texts:'''
 |
@@ -6431,6 +6683,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[774: December 22, 2003]] (via AutoSub, OpenAI Whisper)
 *[[784: August 9, 2013 (Live)]] (via AutoSub)
 *[[832: July 26, 2023]] (via AutoSub)
+*[[950: August 1, 2024]] (via OpenAI Whisper)
+*[[1000: January 20, 2025]] (via AutoSub)
 
 |}
 
@@ -6520,7 +6774,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|25
+|26
 |-
 |'''Source Texts:'''
 |
@@ -6550,6 +6804,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[725: September 13-14, 2022]] (via OpenAI Whisper)
 *[[737: Reflections on a Verdict Part 2]] (via FoulEdgeKnight-edited, OpenAI Whisper)
 *[[919: April 15, 2024]] (via OpenAI Whisper)
+*[[993: December 27, 2024]] (via ElevenLabs Scribe)
 
 |}
 
@@ -6842,7 +7097,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|73
+|74
 |-
 |'''Source Texts:'''
 |
@@ -6854,6 +7109,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*List of Knowledge Fight Intro Music (via Wiki Page)
 *[[14: February 17, 2017]] (via otter.ai, OpenAI Whisper)
 *[[36: June 29, 2015]] (via AutoSub)
 *[[49: July 6-13. 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
@@ -6929,7 +7185,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -6944,6 +7200,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *630 (via AutoSub, OpenAI Whisper)
 *[[625: December 5, 2021]] (via AutoSub, OpenAI Whisper)
 *[[697: June 29, 2022]] (via AutoSub, OpenAI Whisper)
+*[[1003: January 22, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -7155,7 +7412,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|14
+|16
 |-
 |'''Source Texts:'''
 |
@@ -7169,6 +7426,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[259: January 27-29, 2019]] (via OpenAI Whisper)
 *[[369: November 13, 2019]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[397: February 7-8, 2020]] (via AutoSub, OpenAI Whisper)
+*[[972: October 4-8, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -7215,7 +7473,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|24
+|25
 |-
 |'''Source Texts:'''
 |
@@ -7240,6 +7498,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[822: June 19, 2023]] (via otter.ai, OpenAI Whisper)
 *[[866: November 1, 2023]] (via AutoSub, OpenAI Whisper)
 *[[897: February 7, 2024]] (via AutoSub, OpenAI Whisper)
+*[[959: August 27, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -7278,7 +7537,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -7291,6 +7550,32 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[709: 2 Dan's 2 War]] (via OpenAI Whisper)
 *[[860: October 13, 2023]] (via OpenAI Whisper)
+*[[996: January 5, 2025]] (via ElevenLabs Scribe)
+
+|}
+
+==William Hammond==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'William Hammond'
+
+|-
+|'''Sources:'''
+|
+
+*[[753: December 1, 2022]] (via OpenAI Whisper)
+*[[996: January 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -7341,6 +7626,56 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[125: Project Camelot's War In Heaven]] (via AutoSub)
 *[[837: March 11, 2004]] (via OpenAI Whisper)
+
+|}
+
+==William Jennings==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'William Jennings'
+
+|-
+|'''Sources:'''
+|
+
+*[[439: May 29-31, 2020]] (via AutoSub)
+*[[1000: January 20, 2025]] (via ElevenLabs Scribe)
+
+|}
+
+==William Jennings Bryan==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'William Jennings Bryan'
+
+|-
+|'''Sources:'''
+|
+
+*[[230A: Obama Deception, Part 1]] (via OpenAI Whisper)
+*[[1000: January 20, 2025]] (via AutoSub)
 
 |}
 
@@ -7456,6 +7791,81 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==William McKinley==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'William McKinley'
+
+|-
+|'''Sources:'''
+|
+
+*[[310: June 13-14, 2019]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
+*[[1000: January 20, 2025]] (via ElevenLabs Scribe)
+
+|}
+
+==William Oldenburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'William Oldenburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[918: April 12, 2024]] (via AutoSub)
+*[[943: July 9, 2024]] (via AutoSub)
+
+|}
+
+==William Randolph==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'William Randolph'
+
+|-
+|'''Sources:'''
+|
+
+*[[346: April 11-14, 2013]] (via AutoSub)
+*[[950: August 1, 2024]] (via OpenAI Whisper)
+
+|}
+
 ==William Randolph Hearst==
 {| class="fandom-table"
 |'''Status:'''
@@ -7465,12 +7875,13 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|17
+|22
 |-
 |'''Source Texts:'''
 |
 
 *'William Randolph Hearst'
+*"William Randolph Hearst's"
 
 |-
 |'''Sources:'''
@@ -7484,6 +7895,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[346: April 11-14, 2013]] (via OpenAI Whisper)
 *[[396: February 6, 2020]] (via AutoSub, OpenAI Whisper)
 *[[603: October 3-4, 2021]] (via AutoSub, OpenAI Whisper)
+*[[950: August 1, 2024]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -7774,6 +8186,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Williamsburg==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Williamsburg'
+
+|-
+|'''Sources:'''
+|
+
+*[[825: July 5, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[935: June 17, 2024]] (via AutoSub)
+
+|}
+
 ==Williamson==
 {| class="fandom-table"
 |'''Status:'''
@@ -7974,7 +8411,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -7987,6 +8424,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[571: May 22-27, 2003]] (via OpenAI Whisper)
 *[[739: Formulaic Objections Part 8]] (via Welder)
+*[[964: Reset Wars, Chapters 1 & 2]] (via AutoSub)
 
 |}
 
@@ -7999,7 +8437,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|41
+|44
 |-
 |'''Source Texts:'''
 |
@@ -8032,6 +8470,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[769: December 17, 2003]] (via OpenAI Whisper)
 *[[774: December 22, 2003]] (via OpenAI Whisper)
 *[[796: February 4, 2004]] (via OpenAI Whisper)
+*[[964: Reset Wars, Chapters 1 & 2]] (via OpenAI Whisper)
 
 |}
 
@@ -8074,7 +8513,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |WORK_OF_ART
 |-
 |'''Total Count:'''
-|33
+|35
 |-
 |'''Source Texts:'''
 |
@@ -8102,6 +8541,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[732: Trial Press Conference]] (via otter.ai, OpenAI Whisper)
 *[[771: Formulaic Objections Part 15]] (via OpenAI Whisper)
 *[[794: January 30-February 2, 2004]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[980: November 6, 2024]] (via AutoSub, ElevenLabs Scribe)
 *[[Doing Dune: Dune (1984)]] (via OpenAI Whisper)
 
 |}
@@ -8187,6 +8627,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Winner Takes==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Winner Takes'
+
+|-
+|'''Sources:'''
+|
+
+*[[889: The Debate Of The Century, Part 2]] (via AutoSub)
+*[[936: Turning Point USA Speech]] (via AutoSub)
+
+|}
+
 ==Winning Side==
 {| class="fandom-table"
 |'''Status:'''
@@ -8212,6 +8677,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Winona Ryder==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Winona Ryder'
+
+|-
+|'''Sources:'''
+|
+
+*[[693: August 4, 2003]] (via AutoSub)
+*[[1010: January 27, 2025]] (via ElevenLabs Scribe)
+
+|}
+
 ==Winston Churchill==
 {| class="fandom-table"
 |'''Status:'''
@@ -8221,7 +8711,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|51
+|52
 |-
 |'''Source Texts:'''
 |
@@ -8250,6 +8740,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[886: More Like Jimmy Bore, Part 2]] (via OpenAI Whisper)
 *[[899: February 9, 2024]] (via OpenAI Whisper)
 *[[924: May 3, 2024]] (via AutoSub, OpenAI Whisper)
+*[[960: August 31, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -8304,6 +8795,56 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Winter Soldier==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|GPE, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Winter Soldier'
+
+|-
+|'''Sources:'''
+|
+
+*[[786: Too Biggs For His Britches]] (via OpenAI Whisper)
+*[[1001: January 20, 2025 Continued]] (via AutoSub)
+
+|}
+
+==Winter Soldiers==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Winter Soldiers'
+
+|-
+|'''Sources:'''
+|
+
+*[[529: February 8, 2021]] (via AutoSub)
+*[[951: August 2, 2024]] (via AutoSub)
+
+|}
+
 ==Wired Magazine==
 {| class="fandom-table"
 |'''Status:'''
@@ -8347,7 +8888,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|17
+|18
 |-
 |'''Source Texts:'''
 |
@@ -8374,6 +8915,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[631: December 20, 2021]] (via AutoSub)
 *[[677: May 4, 2022]] (via AutoSub)
 *[[699: July 4-5, 2022]] (via AutoSub)
+*[[1004: January 23, 2025]] (via AutoSub)
 
 |}
 
@@ -8449,12 +8991,13 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|20
+|23
 |-
 |'''Source Texts:'''
 |
 
 *'The Wizard of Oz'
+*'The Wizard of Oz-'
 *'Wizard of Oz'
 *'the Wizard of Oz'
 
@@ -8476,6 +9019,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[797: Belly-Floppin' Into The Pool]] (via AutoSub)
 *[[862: Bankruptcy Response]] (via OpenAI Whisper)
 *[[906: January 9, 2008]] (via OpenAI Whisper)
+*[[978: Tucker, The Man And His Demon]] (via ElevenLabs Scribe)
+*[[1004: January 23, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -8488,7 +9033,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|129
+|132
 |-
 |'''Source Texts:'''
 |
@@ -8535,6 +9080,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[855: Live At QED In Manchester]] (via OpenAI Whisper)
 *[[869: November 8, 2023]] (via AutoSub, OpenAI Whisper)
 *[[910: March 18, 2024]] (via AutoSub, OpenAI Whisper)
+*[[940: July 1, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -8547,7 +9093,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|254
+|256
 |-
 |'''Source Texts:'''
 |
@@ -8615,6 +9161,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[877: A Philosophy For Curiosity]] (via OpenAI Whisper, Wiki Page)
 *[[883: More Like Jimmy Bore]] (via OpenAI Whisper)
 *[[931: February 2, 2014]] (via OpenAI Whisper)
+*[[943: July 9, 2024]] (via OpenAI Whisper)
+*[[948: July 24, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -8765,7 +9313,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|19
+|20
 |-
 |'''Source Texts:'''
 |
@@ -8786,6 +9334,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[627: Reset Wars: Episode 2]] (via AutoSub, OpenAI Whisper)
 *[[661: March 17, 2022]] (via AutoSub, OpenAI Whisper)
 *[[804: May 3-4, 2023]] (via otter.ai, OpenAI Whisper)
+*[[985: December 2, 2024]] (via ElevenLabs Scribe)
 
 |}
 
@@ -8855,7 +9404,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|89
+|95
 |-
 |'''Source Texts:'''
 |
@@ -8886,6 +9435,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[663: July 24, 2003]] (via AutoSub, OpenAI Whisper)
 *[[741: December 2, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[898: Tucker, The Man And His Twitter- Episode 6]] (via AutoSub, OpenAI Whisper)
+*[[990: Tucker, The Man And His Omissions]] (via AutoSub, ElevenLabs Scribe)
+*[[993: December 27, 2024]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -8954,7 +9505,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|48
+|49
 |-
 |'''Source Texts:'''
 |
@@ -8970,6 +9521,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[121: April 1-2, 2013]] (via OpenAI Whisper)
 *[[782: February 26, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[920: February 4, 2008]] (via OpenAI Whisper)
+*[[1010: January 27, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -9137,7 +9689,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|54
+|56
 |-
 |'''Source Texts:'''
 |
@@ -9183,6 +9735,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[834: August 2, 2023]] (via OpenAI Whisper)
 *[[837: March 11, 2004]] (via OpenAI Whisper)
 *[[909: March 13, 2024]] (via OpenAI Whisper)
+*[[942: July 7, 2024]] (via OpenAI Whisper)
+*[[960: August 31, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -9305,7 +9859,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -9320,6 +9874,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[637: January 13, 2022]] (via OpenAI Whisper)
 *[[825: July 5, 2023]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via OpenAI Whisper)
+*[[994: December 31, 2024]] (via ElevenLabs Scribe)
 
 |}
 
@@ -9332,7 +9887,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|133
+|138
 |-
 |'''Source Texts:'''
 |
@@ -9392,6 +9947,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[916: The Total Eclipse]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via OpenAI Whisper, Wiki Page)
 *[[924: May 3, 2024]] (via OpenAI Whisper)
+*[[940: July 1, 2024]] (via OpenAI Whisper)
+*[[964: Reset Wars, Chapters 1 & 2]] (via OpenAI Whisper)
+*[[987: December 4, 2024]] (via ElevenLabs Scribe)
+*[[1014: January 31, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -9523,7 +10082,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|31
+|34
 |-
 |'''Source Texts:'''
 |
@@ -9556,6 +10115,9 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[677: May 4, 2022]] (via AutoSub, OpenAI Whisper)
 *[[684: May 20, 2022]] (via AutoSub, OpenAI Whisper)
 *[[689: May 26, 2022]] (via OpenAI Whisper)
+*[[961: September 4, 2024]] (via OpenAI Whisper)
+*[[994: December 31, 2024]] (via AutoSub)
+*[[996: January 5, 2025]] (via AutoSub)
 
 |}
 
@@ -9594,7 +10156,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|249
+|279
 |-
 |'''Source Texts:'''
 |
@@ -9672,6 +10234,13 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[901: February 18, 2024]] (via AutoSub, OpenAI Whisper)
 *[[916: The Total Eclipse]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via AutoSub, OpenAI Whisper)
+*[[952: August 7, 2024]] (via AutoSub, OpenAI Whisper)
+*[[961: September 4, 2024]] (via AutoSub)
+*[[969: September 27, 2024]] (via OpenAI Whisper)
+*[[992: December 24, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[994: December 31, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[996: January 5, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1002: January 21, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -9814,7 +10383,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -9834,6 +10403,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[330: Magic Coins And Sheep Nations]] (via AutoSub)
 *[[659: July 21-23, 2003]] (via AutoSub)
 *[[662: March 22, 2022]] (via AutoSub)
+*[[957: August 21, 2024]] (via AutoSub)
 
 |}
 
@@ -9924,7 +10494,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|43
+|51
 |-
 |'''Source Texts:'''
 |
@@ -9958,6 +10528,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[743: October 29-30, 2022]] (via AutoSub, otter.ai)
 *[[889: The Debate Of The Century, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[910: March 18, 2024]] (via AutoSub, OpenAI Whisper)
+*[[975: October 17, 2024]] (via AutoSub, OpenAI Whisper)
+*[[977: October 25-28, 2024]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -9999,7 +10571,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT, ORG
 |-
 |'''Total Count:'''
-|184
+|190
 |-
 |'''Source Texts:'''
 |
@@ -10054,6 +10626,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[908: The Secret Mission]] (via OpenAI Whisper)
 *[[923: May 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
+*[[934: June 14, 2024]] (via AutoSub, OpenAI Whisper)
+*[[967: Tucker, The Man And His Live Show]] (via AutoSub)
 
 |}
 
@@ -10148,7 +10722,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|36
+|37
 |-
 |'''Source Texts:'''
 |
@@ -10184,6 +10758,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[720: August 6, 2003]] (via AutoSub)
 *[[825: July 5, 2023]] (via AutoSub)
 *[[932: June 2-6, 2024]] (via AutoSub)
+*[[996: January 5, 2025]] (via AutoSub)
 
 |}
 
@@ -10229,11 +10804,12 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|58
+|60
 |-
 |'''Source Texts:'''
 |
 
+*'The World War 3'
 *'This World War 3'
 *'World War 3'
 *'the World War 3'
@@ -10278,6 +10854,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[848: The News Blitz]] (via OpenAI Whisper)
 *[[929: May 28, 2024]] (via OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via AutoSub)
+*[[947: The Answer To 2084]] (via AutoSub)
+*[[965: September 15, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -10316,7 +10894,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|69
+|73
 |-
 |'''Source Texts:'''
 |
@@ -10360,6 +10938,9 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[892: January 19, 2024]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via AutoSub, OpenAI Whisper)
 *[[932: June 2-6, 2024]] (via OpenAI Whisper)
+*[[973: October 10-14, 2024]] (via AutoSub)
+*[[990: Tucker, The Man And His Omissions]] (via AutoSub)
+*[[997: January 8, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -10388,7 +10969,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
-==World War I, World War II==
+==World War I World War II==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -10402,6 +10983,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Source Texts:'''
 |
 
+*'World War I World War II'
+
+|-
+|'''Sources:'''
+|
+
+*[[921: April 22, 2024]] (via AutoSub)
+*[[976: October 18-21, 2024]] (via AutoSub)
+
+|}
+
+==World War I, World War II==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|EVENT
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
 *'World War I, World War II'
 
 |-
@@ -10410,6 +11016,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[310: June 13-14, 2019]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via OpenAI Whisper)
+*[[976: October 18-21, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -10422,7 +11029,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|463
+|507
 |-
 |'''Source Texts:'''
 |
@@ -10621,6 +11228,26 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[929: May 28, 2024]] (via AutoSub)
 *[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[932: June 2-6, 2024]] (via AutoSub, OpenAI Whisper)
+*[[943: July 9, 2024]] (via AutoSub)
+*[[947: The Answer To 2084]] (via AutoSub)
+*[[956: August 18, 2024]] (via AutoSub, OpenAI Whisper)
+*[[971: October 2-3, 2024]] (via AutoSub, OpenAI Whisper)
+*[[972: October 4-8, 2024]] (via AutoSub, OpenAI Whisper)
+*[[973: October 10-14, 2024]] (via OpenAI Whisper)
+*[[977: October 25-28, 2024]] (via AutoSub)
+*[[982: November 15, 2024]] (via AutoSub)
+*[[986: December 3, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[988: December 10, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[989: December 13, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[993: December 27, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[995: January 4, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[999: January 16, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe)
+*[[1007: January 25, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1010: January 27, 2025]] (via ElevenLabs Scribe)
+*[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1012: January 29, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1014: January 31, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[No One Is Mad At The Crew]] (via OpenAI Whisper)
 *[[The Halloween Story]] (via OpenAI Whisper)
 
@@ -10635,14 +11262,16 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|106
+|156
 |-
 |'''Source Texts:'''
 |
 
+*'The World War III'
 *'World War III'
 *'a World War III'
 *'the World War III'
+*'this World War III'
 
 |-
 |'''Sources:'''
@@ -10693,6 +11322,23 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[929: May 28, 2024]] (via AutoSub, OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
 *[[932: June 2-6, 2024]] (via OpenAI Whisper)
+*[[938: June 25-26, 2024]] (via AutoSub)
+*[[943: July 9, 2024]] (via AutoSub, OpenAI Whisper)
+*[[944: July 13-14, 2024]] (via AutoSub)
+*[[947: The Answer To 2084]] (via AutoSub, OpenAI Whisper)
+*[[949: July 26, 2024]] (via AutoSub, OpenAI Whisper)
+*[[961: September 4, 2024]] (via OpenAI Whisper)
+*[[963: September 11, 2024]] (via AutoSub)
+*[[965: September 15, 2024]] (via AutoSub)
+*[[969: September 27, 2024]] (via OpenAI Whisper)
+*[[975: October 17, 2024]] (via AutoSub, OpenAI Whisper)
+*[[979: Election Eve]] (via AutoSub, ElevenLabs Scribe)
+*[[985: December 2, 2024]] (via ElevenLabs Scribe)
+*[[987: December 4, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[988: December 10, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[995: January 4, 2025]] (via AutoSub)
+*[[998: January 11, 2025]] (via ElevenLabs Scribe)
+*[[1010: January 27, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -10775,7 +11421,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT
 |-
 |'''Total Count:'''
-|55
+|59
 |-
 |'''Source Texts:'''
 |
@@ -10813,6 +11459,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[919: April 15, 2024]] (via OpenAI Whisper)
 *[[921: April 22, 2024]] (via OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via OpenAI Whisper)
+*[[944: July 13-14, 2024]] (via OpenAI Whisper)
+*[[945: July 15, 2024]] (via OpenAI Whisper)
 
 |}
 
@@ -11129,6 +11777,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[101: January 11, 2016]] (via AutoSub)
 *[[222: March 15-19, 2009]] (via FoulEdgeKnight-edited, OpenAI Whisper)
 *[[752: Ye Took A Dip In The Pool]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Wrecking Ball==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|FAC, WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Wrecking Ball'
+
+|-
+|'''Sources:'''
+|
+
+*[[548: May 5, 2003]] (via AutoSub)
+*[[1007: January 25, 2025]] (via AutoSub)
 
 |}
 
@@ -11522,6 +12195,32 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[317: February 19-20, 2013]] (via AutoSub, OpenAI Whisper)
 *[[790: March 27-28, 2023]] (via AutoSub)
+
+|}
+
+==Wyatt Family==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Wyatt Family'
+*'the Wyatt Family'
+
+|-
+|'''Sources:'''
+|
+
+*[[733: October 6, 2022]] (via AutoSub, otter.ai)
+*[[935: June 17, 2024]] (via AutoSub)
 
 |}
 
