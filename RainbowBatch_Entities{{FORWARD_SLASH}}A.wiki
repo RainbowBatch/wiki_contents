@@ -2361,10 +2361,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, PERSON
+|GPE, ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -2377,6 +2377,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[205: September 13, 2018]] (via OpenAI Whisper)
 *[[692: Alex Jones' Punch Out]] (via AutoSub)
+*[[1014: January 31, 2025]] (via AutoSub)
 
 |}
 
@@ -7489,7 +7490,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|131232
+|131337
 |-
 |'''Source Texts:'''
 |
@@ -8685,6 +8686,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe, Wiki Page)
 *[[1012: January 29, 2025]] (via AutoSub, ElevenLabs Scribe, Wiki Page)
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1014: January 31, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[Doing Dune: Dune (1984)]] (via AutoSub, OpenAI Whisper)
 *[[Doing Dune: Part 1]] (via AutoSub, OpenAI Whisper)
@@ -10091,6 +10093,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[745: Formulaic Objections Part 10]] (via AutoSub)
 *[[888: The Debate Of The Century, Part 1]] (via AutoSub)
 *[[1011: January 28, 2025]] (via AutoSub)
+
+|}
+
+==Alex Rance==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Alex Rance'
+
+|-
+|'''Sources:'''
+|
+
+*[[943: July 9, 2024]] (via AutoSub)
+*[[1014: January 31, 2025]] (via AutoSub)
 
 |}
 
@@ -20311,7 +20338,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|42
+|44
 |-
 |'''Source Texts:'''
 |
@@ -20338,6 +20365,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[643: January 28, 2022]] (via AutoSub, OpenAI Whisper)
 *[[705: The Knowledge Fight Battle Kitchen]] (via AutoSub, OpenAI Whisper)
 *[[798: April 19, 2023]] (via AutoSub, otter.ai)
+*[[1014: January 31, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -27415,7 +27443,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|241
+|243
 |-
 |'''Source Texts:'''
 |
@@ -27523,6 +27551,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[972: October 4-8, 2024]] (via OpenAI Whisper)
 *[[988: December 10, 2024]] (via ElevenLabs Scribe)
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1014: January 31, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 
 |}
