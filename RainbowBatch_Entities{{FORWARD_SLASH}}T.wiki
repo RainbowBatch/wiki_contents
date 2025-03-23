@@ -4295,7 +4295,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|4253
+|4254
 |-
 |'''Source Texts:'''
 |
@@ -4669,6 +4669,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1012: January 29, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1014: January 31, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1017: February 4, 2025]] (via ElevenLabs Scribe)
 *[[Alex's Breaky Minisode]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -5854,7 +5855,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -5867,6 +5868,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[343: April 3-8, 2013]] (via AutoSub, OpenAI Whisper)
 *[[632: Christmas Message and More]] (via AutoSub)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -8720,7 +8722,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|400
+|399
 |-
 |'''Source Texts:'''
 |
@@ -9925,20 +9927,22 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
 
+*'Trading\r\nPlaces'
 *'Trading Places'
 
 |-
 |'''Sources:'''
 |
 
+*Aaron Russo (via Wiki Page)
 *[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited)
 *[[880: March 31, 2004]] (via AutoSub, OpenAI Whisper)
 
@@ -11658,7 +11662,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|76
+|77
 |-
 |'''Source Texts:'''
 |
@@ -11734,6 +11738,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1010: January 27, 2025]] (via AutoSub)
 *[[1014: January 31, 2025]] (via ElevenLabs Scribe)
 *[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1017: February 4, 2025]] (via ElevenLabs Scribe)
 *[[1018: February 5, 2025]] (via AutoSub)
 
 |}
@@ -12951,7 +12956,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, GPE, LOC, ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1171
+|1172
 |-
 |'''Source Texts:'''
 |
@@ -13212,7 +13217,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[996: January 5, 2025]] (via ElevenLabs Scribe)
 *[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe)
 *[[1007: January 25, 2025]] (via AutoSub, ElevenLabs Scribe)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[Alex's Breaky Minisode]] (via OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 
@@ -13224,20 +13229,22 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
 
+*'Tucker Carlson Network'
 *'the Tucker Carlson Network'
 
 |-
 |'''Sources:'''
 |
 
+*Tucker Carlson (via Wiki Page)
 *[[908: The Secret Mission]] (via AutoSub)
 *[[971: October 2-3, 2024]] (via AutoSub, OpenAI Whisper)
 

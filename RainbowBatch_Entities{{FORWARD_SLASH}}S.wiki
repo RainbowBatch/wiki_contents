@@ -1479,7 +1479,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -1498,7 +1498,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[230E: Obama Deception, Part 5]] (via OpenAI Whisper)
 *[[409: The Lionel Countdown]] (via OpenAI Whisper)
 *[[425: April 23-24, 2020]] (via OpenAI Whisper)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -4075,19 +4075,20 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
 
 *'Saxby Chambliss'
+*"Saxby Chambliss's"
 
 |-
 |'''Sources:'''
 |
 
 *[[352: April 17, 2013]] (via OpenAI Whisper)
-*[[373: April 24, 2013]] (via OpenAI Whisper)
+*[[373: April 24, 2013]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -5385,13 +5386,13 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 ==Scott Adams==
 {| class="fandom-table"
 |'''Status:'''
-|No known links
+|Exists
 |-
 |'''Entity Type(s):'''
 |GPE, PERSON
 |-
 |'''Total Count:'''
-|39
+|40
 |-
 |'''Source Texts:'''
 |
@@ -5404,6 +5405,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*Scott Adams (via Wiki Page)
 *[[103: January 17, 2016]] (via OpenAI Whisper)
 *[[138: March 13-15, 2018]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[270: The Rogan Return]] (via AutoSub, OpenAI Whisper)
@@ -8771,7 +8773,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|135
+|140
 |-
 |'''Source Texts:'''
 |
@@ -8825,7 +8827,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[859: January 20, 2010]] (via AutoSub)
 *[[961: September 4, 2024]] (via OpenAI Whisper)
 *[[995: January 4, 2025]] (via AutoSub, ElevenLabs Scribe)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -11376,7 +11378,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|35
+|34
 |-
 |'''Source Texts:'''
 |
@@ -11389,6 +11391,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*Jim Marrs (via Wiki Page)
 *Robert F. Kennedy (via Wiki Page)
 *[[46: June 18, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[62: August 19-26, 2015]] (via OpenAI Whisper)
@@ -12927,7 +12930,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|110
+|120
 |-
 |'''Source Texts:'''
 |
@@ -12991,7 +12994,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1009: January 26, 2025]] (via AutoSub)
 *[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1016: February 3, 2025]] (via AutoSub)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -19843,7 +19846,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|283
+|288
 |-
 |'''Source Texts:'''
 |
@@ -19976,6 +19979,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1010: January 27, 2025]] (via ElevenLabs Scribe)
 *[[1011: January 28, 2025]] (via ElevenLabs Scribe)
 *[[1016: February 3, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1017: February 4, 2025]] (via ElevenLabs Scribe)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -21049,7 +21054,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|7
+|10
 |-
 |'''Source Texts:'''
 |
@@ -21063,7 +21068,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[41: May 12, 2017]] (via OpenAI Whisper)
 *[[157: WWE's Kane (Ft. Marty DeRosa)]] (via AutoSub, OpenAI Whisper)
 *[[178: Rowdy Roddy Piper w/ Marty DeRosa]] (via AutoSub, OpenAI Whisper)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -21513,7 +21518,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|3
 |-
 |'''Source Texts:'''
 |
@@ -21525,7 +21530,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *Tommy Robinson (via Wiki Page)
-*[[137: March 12, 2018]] (via Wiki Page)
 *[[143: March 25-31 Part 1]] (via Wiki Page)
 
 |}
@@ -24524,15 +24528,16 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, ORG
+|FAC, ORG, PERSON
 |-
 |'''Total Count:'''
-|33
+|34
 |-
 |'''Source Texts:'''
 |
 
 *'Stockholm Syndrome'
+*'Stockholm Syndrome-'
 *'the Stockholm Syndrome'
 
 |-
@@ -24558,6 +24563,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[726: September 15-16, 2022]] (via otter.ai)
 *[[780: February 21, 2023]] (via AutoSub)
 *[[969: September 27, 2024]] (via AutoSub)
+*[[1017: February 4, 2025]] (via ElevenLabs Scribe)
 *[[The Halloween Story]] (via AutoSub)
 
 |}
@@ -24640,7 +24646,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|37
+|38
 |-
 |'''Source Texts:'''
 |
@@ -24666,6 +24672,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[779: January 9-12, 2004]] (via OpenAI Whisper)
 *[[790: March 27-28, 2023]] (via OpenAI Whisper)
 *[[954: Not The Debate Of The Century]] (via OpenAI Whisper)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -26634,10 +26641,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |Exists
 |-
 |'''Entity Type(s):'''
-|PERSON
+|ORG, PERSON
 |-
 |'''Total Count:'''
-|12
+|14
 |-
 |'''Source Texts:'''
 |
@@ -26652,7 +26659,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *Sun Myung Moon (via Wiki Page)
 *[[149: The Press Conference]] (via AutoSub, Wiki Page)
 *[[194: February 22-24, 2009]] (via AutoSub)
-*[[258: April 12-13, 2009]] (via AutoSub)
+*[[258: April 12-13, 2009]] (via AutoSub, Wiki Page)
 *[[275: December 23-31, 2012]] (via AutoSub, Wiki Page)
 *[[361: April 19, 2013]] (via AutoSub)
 *[[1011: January 28, 2025]] (via ElevenLabs Scribe)
@@ -28273,7 +28280,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|1563
+|1566
 |-
 |'''Source Texts:'''
 |
@@ -28560,7 +28567,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1010: January 27, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1012: January 29, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -28684,6 +28691,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[506: November 22-24, 2020]] (via OpenAI Whisper)
 *[[565: June 10, 2021]] (via AutoSub)
 *[[802: Chatting with Sian Norris]] (via AutoSub, otter.ai)
+
+|}
+
+==Supreme Leader==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Supreme Leader'
+
+|-
+|'''Sources:'''
+|
+
+*[[144: March 25-31, Part 2]] (via OpenAI Whisper)
+*[[1017: February 4, 2025]] (via ElevenLabs Scribe)
 
 |}
 

@@ -1520,7 +1520,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3701
+|3702
 |-
 |'''Source Texts:'''
 |
@@ -2070,7 +2070,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1012: January 29, 2025]] (via AutoSub)
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
@@ -4835,7 +4835,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -4851,6 +4851,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[314: February 14-15, 2013]] (via OpenAI Whisper)
 *[[398: February 9-10, 2020]] (via Wiki Page)
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via OpenAI Whisper)
+*[[1017: February 4, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -5865,7 +5866,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|63
+|64
 |-
 |'''Source Texts:'''
 |
@@ -5901,7 +5902,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[864: October 25, 2023]] (via AutoSub)
 *[[949: July 26, 2024]] (via AutoSub, OpenAI Whisper)
 *[[970: September 30-October 1, 2024]] (via AutoSub, OpenAI Whisper)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -7479,7 +7480,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|19
+|20
 |-
 |'''Source Texts:'''
 |
@@ -7487,6 +7488,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *'Biden Administration'
 *'The Biden Administration'
 *'the Biden Administration'
+*"the Biden Administration's"
 
 |-
 |'''Sources:'''
@@ -7509,6 +7511,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1006: January 24, 2025]] (via AutoSub)
 *[[1009: January 26, 2025]] (via AutoSub)
 *[[1013: January 30, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -9092,7 +9095,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1690
+|1709
 |-
 |'''Source Texts:'''
 |
@@ -9362,7 +9365,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1007: January 25, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1009: January 26, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -11345,7 +11348,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
@@ -11356,6 +11359,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*Scott Adams (via Wiki Page)
 *[[350: September 29-30, 2019]] (via OpenAI Whisper)
 *[[881: Chatting with Brandi Collins-Dexter]] (via Wiki Page)
 *[[911: March 19, 2024]] (via AutoSub)
@@ -20142,6 +20146,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Brittney Griner==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Brittney Griner'
+
+|-
+|'''Sources:'''
+|
+
+*[[524: Inauguration 2021]] (via AutoSub)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
+
+|}
+
 ==Broad City==
 {| class="fandom-table"
 |'''Status:'''
@@ -21131,7 +21160,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -21143,7 +21172,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *[[899: February 9, 2024]] (via AutoSub)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -21503,7 +21532,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, ORG, PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|350
+|352
 |-
 |'''Source Texts:'''
 |

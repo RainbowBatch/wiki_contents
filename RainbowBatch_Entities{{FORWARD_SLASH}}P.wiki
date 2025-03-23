@@ -399,7 +399,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|198
+|200
 |-
 |'''Source Texts:'''
 |
@@ -464,7 +464,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[966: September 19, 2024]] (via AutoSub, OpenAI Whisper)
 *[[977: October 25-28, 2024]] (via AutoSub)
 *[[979: Election Eve]] (via AutoSub, ElevenLabs Scribe)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -3371,7 +3371,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|20
+|23
 |-
 |'''Source Texts:'''
 |
@@ -3389,31 +3389,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[585: August 8, 2021]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[675: April 25, 2022]] (via OpenAI Whisper)
 *[[1002: January 21, 2025]] (via AutoSub, ElevenLabs Scribe)
-
-|}
-
-==Paul Erlich==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Paul Erlich'
-
-|-
-|'''Sources:'''
-|
-
-*[[585: August 8, 2021]] (via Wiki Page)
-*[[1002: January 21, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -10818,7 +10793,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP
 |-
 |'''Total Count:'''
-|35
+|37
 |-
 |'''Source Texts:'''
 |
@@ -10841,7 +10816,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[935: June 17, 2024]] (via AutoSub, OpenAI Whisper)
 *[[948: July 24, 2024]] (via OpenAI Whisper)
 *[[972: October 4-8, 2024]] (via AutoSub, OpenAI Whisper)
-*[[1018: February 5, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -12226,7 +12201,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -12240,7 +12215,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[829: Chatting with Talia Lavin]] (via OpenAI Whisper)
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -15411,7 +15386,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -15426,6 +15401,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[113: February 21-23, 2014]] (via OpenAI Whisper)
 *[[383: December 31, 2019]] (via OpenAI Whisper)
 *[[866: November 1, 2023]] (via AutoSub, OpenAI Whisper)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -16016,7 +15992,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|98
+|96
 |-
 |'''Source Texts:'''
 |
@@ -16037,7 +16013,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *Joe Biggs (via Wiki Page)
 *Proud Boys (via Wiki Page)
 *[[30: April 14, 2017]] (via Wiki Page)
-*[[138: March 13-15, 2018]] (via OpenAI Whisper, Wiki Page)
+*[[138: March 13-15, 2018]] (via OpenAI Whisper)
 *[[152: April 18, 2018]] (via OpenAI Whisper)
 *[[221: October 24, 2018]] (via OpenAI Whisper)
 *[[239: December 12-13, 2018]] (via OpenAI Whisper, Wiki Page)
@@ -17088,7 +17064,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP
 |-
 |'''Total Count:'''
-|12
+|16
 |-
 |'''Source Texts:'''
 |
@@ -17106,7 +17082,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[342: September 6-11, 2019]] (via AutoSub, OpenAI Whisper)
 *[[955: August 13, 2024]] (via OpenAI Whisper)
 *[[977: October 25-28, 2024]] (via AutoSub, ElevenLabs Scribe)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -17146,7 +17122,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|102
+|105
 |-
 |'''Source Texts:'''
 |
@@ -17189,7 +17165,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[876: December 8, 2023]] (via OpenAI Whisper)
 *[[878: March 29, 2004]] (via AutoSub, OpenAI Whisper)
 *[[977: October 25-28, 2024]] (via AutoSub, ElevenLabs Scribe)
-*[[1017: February 4, 2025]] (via AutoSub)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[The Halloween Story]] (via AutoSub, OpenAI Whisper)
 
 |}
