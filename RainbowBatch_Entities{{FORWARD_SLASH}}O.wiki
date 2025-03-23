@@ -447,22 +447,23 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
-==Obama Phone==
+==Obama Phone Lady==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON
+|ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
 
-*'Obama Phone'
-*'an Obama Phone'
+*'Obama Phone Lady'
+*'Obama-Phone Lady'
+*'the Obama Phone Lady'
 
 |-
 |'''Sources:'''
@@ -1229,7 +1230,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|520
+|521
 |-
 |'''Source Texts:'''
 |
@@ -1343,7 +1344,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[936: Turning Point USA Speech]] (via AutoSub)
 *[[972: October 4-8, 2024]] (via AutoSub, OpenAI Whisper)
-*[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 
 |}
 
@@ -3441,7 +3442,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|25
+|26
 |-
 |'''Source Texts:'''
 |
@@ -3463,7 +3464,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[897: February 7, 2024]] (via OpenAI Whisper)
 *[[978: Tucker, The Man And His Demon]] (via AutoSub, ElevenLabs Scribe)
 *[[993: December 27, 2024]] (via ElevenLabs Scribe)
-*[[1015: February 2, 2025]] (via ElevenLabs Scribe)
+*[[1015: February 2, 2025]] (via ElevenLabs Scribe, OpenAI Whisper)
 
 |}
 
@@ -3502,7 +3503,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LOC, PERSON
 |-
 |'''Total Count:'''
-|181
+|182
 |-
 |'''Source Texts:'''
 |
@@ -3513,6 +3514,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *'Osama bin Laden'
 *'Osama bin Laden\r\n'
 *"Osama bin Laden's"
+*'Osama bin-Laden'
 *'Sama Bin Laden'
 *'the Osama bin Laden'
 
@@ -3520,6 +3522,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*Bill Cooper (via Wiki Page)
 *List of Knowledge Fight Intro Music (via Wiki Page)
 *Ron Paul (via Wiki Page)
 *[[2: December 31, 1999 (Y2K)]] (via Wiki Page)

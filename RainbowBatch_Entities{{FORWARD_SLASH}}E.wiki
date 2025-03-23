@@ -1192,7 +1192,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LOC, ORG
 |-
 |'''Total Count:'''
-|11
+|13
 |-
 |'''Source Texts:'''
 |
@@ -1211,6 +1211,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[488: The First Debate Spectacular]] (via AutoSub, OpenAI Whisper)
 *[[643: January 28, 2022]] (via AutoSub)
 *[[980: November 6, 2024]] (via AutoSub, ElevenLabs Scribe)
+*[[1016: February 3, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -2835,7 +2836,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|57
+|66
 |-
 |'''Source Texts:'''
 |
@@ -2863,6 +2864,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[954: Not The Debate Of The Century]] (via OpenAI Whisper)
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe, Wiki Page)
 *[[1013: January 30, 2025]] (via AutoSub)
+*[[1016: February 3, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 
 |}
 
@@ -4722,7 +4724,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|10
+|11
 |-
 |'''Source Texts:'''
 |
@@ -4736,6 +4738,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[39: Jack Posobiec...Ya Busted]] (via otter.ai, OpenAI Whisper)
 *[[66: September 6-17, 2015]] (via OpenAI Whisper)
+*[[233: November 28, 2018]] (via Wiki Page)
 *[[342: September 6-11, 2019]] (via OpenAI Whisper)
 *[[526: January 28-31, 2021]] (via OpenAI Whisper, Wiki Page)
 *[[644: February 2, 2022]] (via OpenAI Whisper)
@@ -6013,6 +6016,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[38: 30 Hour Marathon Coverage]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[449: June 23-24, 2020]] (via AutoSub)
 *[[477: September 3, 2020]] (via OpenAI Whisper)
+
+|}
+
+==Eric Harris==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Eric Harris'
+
+|-
+|'''Sources:'''
+|
+
+*[[329: August 4-5, 2019]] (via AutoSub, OpenAI Whisper)
+*[[1015: February 2, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -7971,7 +7999,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|118
+|120
 |-
 |'''Source Texts:'''
 |
@@ -8079,6 +8107,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[958: More Like Jimmy Bore, Revisited]] (via AutoSub)
 *[[970: September 30-October 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[998: January 11, 2025]] (via ElevenLabs Scribe)
+*[[1016: February 3, 2025]] (via ElevenLabs Scribe, OpenAI Whisper)
 *[[No One Is Mad At The Crew]] (via OpenAI Whisper)
 
 |}
@@ -8181,7 +8210,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -8194,6 +8223,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[399: February 12-14, 2020]] (via AutoSub)
 *[[1015: February 2, 2025]] (via AutoSub)
+*[[1018: February 5, 2025]] (via ElevenLabs Scribe)
 
 |}
 
@@ -8565,10 +8595,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, WORK_OF_ART
+|ORG, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|6
+|8
 |-
 |'''Source Texts:'''
 |
@@ -8581,6 +8611,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[292: January 14, 2013]] (via OpenAI Whisper)
 *[[975: October 17, 2024]] (via AutoSub, OpenAI Whisper)
+*[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
