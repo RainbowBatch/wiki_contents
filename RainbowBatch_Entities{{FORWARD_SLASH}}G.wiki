@@ -1522,7 +1522,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|11
+|12
 |-
 |'''Source Texts:'''
 |
@@ -1538,6 +1538,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[860: October 13, 2023]] (via AutoSub, OpenAI Whisper)
 *[[861: October 18, 2023]] (via OpenAI Whisper)
 *[[919: April 15, 2024]] (via AutoSub, OpenAI Whisper)
+*[[1018: February 5, 2025]] (via AutoSub)
 
 |}
 
@@ -1895,7 +1896,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|311
+|312
 |-
 |'''Source Texts:'''
 |
@@ -1939,7 +1940,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[257: January 25, 2019]] (via AutoSub, OpenAI Whisper)
 *[[346: April 11-14, 2013]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[399: February 12-14, 2020]] (via AutoSub, OpenAI Whisper)
-*[[404: Mr. Jones Goes To CPAC]] (via AutoSub, OpenAI Whisper)
+*[[404: Mr. Jones Goes To CPAC]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[432: May 10-11, 2020]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[433: May 12-13, 2020]] (via OpenAI Whisper)
 *[[438: May 26-28, 2020]] (via AutoSub, OpenAI Whisper)
@@ -4130,6 +4131,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1010: January 27, 2025]] (via ElevenLabs Scribe)
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[InfoWars Roulette 2|InfoWars Roulette #2]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
@@ -5575,6 +5577,32 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Ghostface Killah==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, PERSON
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Ghostface Killah'
+*'the Ghostface Killah'
+
+|-
+|'''Sources:'''
+|
+
+*[[264: February 11-13, 2019]] (via AutoSub, OpenAI Whisper)
+*[[1016: February 3, 2025]] (via ElevenLabs Scribe)
+
+|}
+
 ==Ghostwriter==
 {| class="fandom-table"
 |'''Status:'''
@@ -6944,7 +6972,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|308
+|306
 |-
 |'''Source Texts:'''
 |
@@ -7491,7 +7519,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
-==Gofundme.com==
+==GoFundMe.com==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -9059,7 +9087,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|26
+|27
 |-
 |'''Source Texts:'''
 |
@@ -9091,6 +9119,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[869: November 8, 2023]] (via AutoSub)
 *[[976: October 18-21, 2024]] (via AutoSub)
 *[[993: December 27, 2024]] (via AutoSub)
+*[[1018: February 5, 2025]] (via AutoSub)
 
 |}
 
@@ -9324,12 +9353,13 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, GPE, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|57
+|59
 |-
 |'''Source Texts:'''
 |
 
 *'Great Awakening'
+*'The\r\nGreat Awakening'
 *'The Great Awakening'
 *'the Great Awakening'
 
@@ -9338,6 +9368,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *Kent Heckenlively (via Wiki Page)
+*QAnon (via Wiki Page)
 *[[365: She Doesn't Do Politics]] (via AutoSub)
 *[[379: December 13-16, 2019]] (via AutoSub)
 *[[418: April 8, 2020]] (via AutoSub)
@@ -9564,10 +9595,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|EVENT, ORG
+|EVENT, ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|122
+|129
 |-
 |'''Source Texts:'''
 |
@@ -9614,6 +9645,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[808: May 15, 2023]] (via AutoSub, otter.ai)
 *[[909: March 13, 2024]] (via AutoSub, OpenAI Whisper)
 *[[929: May 28, 2024]] (via AutoSub, OpenAI Whisper)
+*[[1016: February 3, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
+*[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -11762,7 +11795,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, LOC
 |-
 |'''Total Count:'''
-|68
+|69
 |-
 |'''Source Texts:'''
 |
@@ -11773,6 +11806,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*QAnon (via Wiki Page)
 *[[25: Dennis Montgomery Investigation]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[53: June 12, 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
