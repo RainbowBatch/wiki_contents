@@ -1,5 +1,50 @@
 [
   {
+    "oldid": 5978,
+    "summary": "Added an Appearance",
+    "time": {
+      "date": 1744070400000,
+      "day": 8,
+      "hour": 21,
+      "microsecond": 0,
+      "month": 4,
+      "second": 53,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "SB"
+  },
+  {
+    "oldid": 5977,
+    "summary": "Added Episode Type",
+    "time": {
+      "date": 1744070400000,
+      "day": 8,
+      "hour": 20,
+      "microsecond": 0,
+      "month": 4,
+      "second": 5,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "SB"
+  },
+  {
+    "oldid": 5960,
+    "summary": "RainbowBatch update",
+    "time": {
+      "date": 1744070400000,
+      "day": 8,
+      "hour": 5,
+      "microsecond": 0,
+      "month": 4,
+      "second": 14,
+      "timezone": "UTC",
+      "weekday": 2
+    },
+    "username": "RainbowBatch"
+  },
+  {
     "oldid": 5764,
     "summary": "RainbowBatch generated stub.",
     "time": {
