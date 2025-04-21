@@ -907,7 +907,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|18
+|20
 |-
 |'''Source Texts:'''
 |
@@ -927,6 +927,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[704: 9/11, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[730: August 12, 2003]] (via otter.ai, OpenAI Whisper)
 *[[875: The Most Important Man In The World]] (via AutoSub, OpenAI Whisper)
+*[[1025: Tucker, The Man And His Prophet]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -1197,7 +1198,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|45
+|46
 |-
 |'''Source Texts:'''
 |
@@ -1228,6 +1229,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[884: August 8, 2012]] (via OpenAI Whisper)
 *[[888: The Debate Of The Century, Part 1]] (via AutoSub)
 *[[932: June 2-6, 2024]] (via AutoSub)
+*[[1023: February 28, 2025]] (via AutoSub)
 
 |}
 
@@ -1495,7 +1497,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3738
+|3740
 |-
 |'''Source Texts:'''
 |
@@ -2047,7 +2049,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1013: January 30, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1019: February 6, 2025]] (via AutoSub, ElevenLabs Scribe)
-*[[1021: February 9-10, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1021: February 9-10, 2025]] (via AutoSub, ElevenLabs Scribe, Wiki Page)
+*[[1023: February 28, 2025]] (via AutoSub)
 *[[InfoWars Roulette 1|InfoWars Roulette #1]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub, OpenAI Whisper)
 
@@ -5035,11 +5038,12 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|14
+|15
 |-
 |'''Source Texts:'''
 |
 
+*'Ben & Jesuit'
 *'The Ben & Jesuit'
 *'the Ben & Jesuit'
 
@@ -5048,6 +5052,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *[[909: March 13, 2024]] (via AutoSub)
+*[[1024: March 11, 2025]] (via AutoSub)
 *[[Doing Dune: Dune (1984)]] (via AutoSub)
 *[[Doing Dune: Part 1]] (via AutoSub)
 *[[Doing Dune: Part 2]] (via AutoSub)
@@ -5970,7 +5975,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|26
+|27
 |-
 |'''Source Texts:'''
 |
@@ -5989,6 +5994,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[917: April 10, 2024]] (via AutoSub, OpenAI Whisper)
 *[[918: April 12, 2024]] (via AutoSub, OpenAI Whisper)
 *[[961: September 4, 2024]] (via AutoSub, OpenAI Whisper)
+*[[1024: March 11, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -8788,7 +8794,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|567
+|574
 |-
 |'''Source Texts:'''
 |
@@ -8902,6 +8908,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[989: December 13, 2024]] (via AutoSub, ElevenLabs Scribe)
 *[[997: January 8, 2025]] (via AutoSub)
 *[[1003: January 22, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1024: March 11, 2025]] (via AutoSub, OpenAI Whisper)
+*[[1025: Tucker, The Man And His Prophet]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -9098,7 +9106,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW, ORG, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|1730
+|1732
 |-
 |'''Source Texts:'''
 |
@@ -9371,6 +9379,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1017: February 4, 2025]] (via AutoSub, ElevenLabs Scribe, Wiki Page)
 *[[1019: February 6, 2025]] (via AutoSub, ElevenLabs Scribe)
 *[[1022: February 27, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1024: March 11, 2025]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -10898,7 +10907,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -10923,6 +10932,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[809: May 18, 2023]] (via otter.ai, OpenAI Whisper)
 *[[957: August 21, 2024]] (via OpenAI Whisper)
 *[[985: December 2, 2024]] (via ElevenLabs Scribe)
+*[[1024: March 11, 2025]] (via AutoSub)
 
 |}
 
@@ -11085,31 +11095,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[265: September 1, 2011]] (via AutoSub, OpenAI Whisper)
 *[[695: June 22, 2022]] (via OpenAI Whisper)
-
-|}
-
-==Bitcoin Jesus==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|3
-|-
-|'''Source Texts:'''
-|
-
-*'Bitcoin Jesus'
-
-|-
-|'''Sources:'''
-|
-
-*1020: February 7, 2025 (via Wiki Page)
-*[[1020: February 7, 2025]] (via AutoSub, ElevenLabs Scribe)
 
 |}
 
@@ -18349,7 +18334,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|16
+|17
 |-
 |'''Source Texts:'''
 |
@@ -18368,6 +18353,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[930: May 30-June 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[1022: February 27, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1024: March 11, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -19359,7 +19345,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|29
+|30
 |-
 |'''Source Texts:'''
 |
@@ -19398,6 +19384,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[911: March 19, 2024]] (via OpenAI Whisper)
 *[[954: Not The Debate Of The Century]] (via OpenAI Whisper)
 *[[959: August 27, 2024]] (via OpenAI Whisper)
+*[[1024: March 11, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -21134,6 +21121,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
+==Bruno Mars==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|LOC, PRODUCT
+|-
+|'''Total Count:'''
+|4
+|-
+|'''Source Texts:'''
+|
+
+*'Bruno Mars'
+
+|-
+|'''Sources:'''
+|
+
+*[[931: February 2, 2014]] (via AutoSub, OpenAI Whisper)
+*[[1023: February 28, 2025]] (via AutoSub)
+
+|}
+
 ==Brute Force==
 {| class="fandom-table"
 |'''Status:'''
@@ -21143,7 +21155,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -21158,6 +21170,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[755: Ye Takes a Sip of (Mc)Guinness]] (via AutoSub)
 *[[762: December 31, 2022]] (via AutoSub)
 *[[895: January 30, 2024]] (via AutoSub)
+*[[1024: March 11, 2025]] (via AutoSub)
 
 |}
 
@@ -21342,6 +21355,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[885: January 3, 2024]] (via AutoSub)
 *[[929: May 28, 2024]] (via AutoSub)
 *[[TWTWYTT Special]] (via AutoSub)
+
+|}
+
+==Bubba the Love Sponge==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*"Bubba the Love Sponge's"
+
+|-
+|'''Sources:'''
+|
+
+*[[454: December 17, 2013]] (via OpenAI Whisper)
+*[[1026: Tucker, The Man And His Utopia]] (via OpenAI Whisper)
 
 |}
 
@@ -21873,7 +21911,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, WORK_OF_ART
 |-
 |'''Total Count:'''
-|7
+|8
 |-
 |'''Source Texts:'''
 |
@@ -21888,6 +21926,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[668: April 8, 2022]] (via AutoSub)
 *[[749: December 1-2, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[955: August 13, 2024]] (via AutoSub)
+*[[1025: Tucker, The Man And His Prophet]] (via AutoSub)
 
 |}
 
