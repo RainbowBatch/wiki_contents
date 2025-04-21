@@ -2145,7 +2145,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON, PRODUCT
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -2160,6 +2160,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[527: February 4, 2021]] (via AutoSub)
 *[[548: May 5, 2003]] (via OpenAI Whisper)
 *[[549: April 13-14, 2021]] (via OpenAI Whisper)
+*[[1026: Tucker, The Man And His Utopia]] (via AutoSub)
 
 |}
 
@@ -10048,7 +10049,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|327
+|329
 |-
 |'''Source Texts:'''
 |
@@ -10097,6 +10098,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[878: March 29, 2004]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[985: December 2, 2024]] (via ElevenLabs Scribe)
 *[[998: January 11, 2025]] (via AutoSub, ElevenLabs Scribe, Wiki Page)
+*[[1024: March 11, 2025]] (via OpenAI Whisper, Wiki Page)
 
 |}
 
@@ -15013,7 +15015,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, LOC
 |-
 |'''Total Count:'''
-|507
+|509
 |-
 |'''Source Texts:'''
 |
@@ -15204,6 +15206,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[977: October 25-28, 2024]] (via AutoSub)
 *[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe)
 *[[1014: January 31, 2025]] (via ElevenLabs Scribe)
+*[[1025: Tucker, The Man And His Prophet]] (via OpenAI Whisper)
 *[[The Halloween Story]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -18099,7 +18102,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|132
+|134
 |-
 |'''Source Texts:'''
 |
@@ -18149,6 +18152,59 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[924: May 3, 2024]] (via AutoSub, OpenAI Whisper)
 *[[937: June 20, 2024]] (via AutoSub, OpenAI Whisper)
 *[[997: January 8, 2025]] (via ElevenLabs Scribe)
+*[[1026: Tucker, The Man And His Utopia]] (via AutoSub, OpenAI Whisper)
+
+|}
+
+==Minnesota Public Radio==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Minnesota\r\n    Public Radio'
+*'Minnesota Public Radio'
+*'the Minnesota\r\nPublic Radio'
+
+|-
+|'''Sources:'''
+|
+
+*Garrison Keillor (via Wiki Page)
+*[[1026: Tucker, The Man And His Utopia]] (via AutoSub)
+
+|}
+
+==Minnesotans==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|NORP
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Minnesotans'
+
+|-
+|'''Sources:'''
+|
+
+*[[522: January 14-17, 2021]] (via OpenAI Whisper)
+*[[1026: Tucker, The Man And His Utopia]] (via OpenAI Whisper)
 
 |}
 
@@ -19469,6 +19525,31 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[468: August 11, 2020]] (via OpenAI Whisper)
 *[[820: Tucker, The Man And His Twitter- Episode 2]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[958: More Like Jimmy Bore, Revisited]] (via AutoSub)
+
+|}
+
+==Monkey Bone==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|PERSON
+|-
+|'''Total Count:'''
+|8
+|-
+|'''Source Texts:'''
+|
+
+*'Monkey Bone'
+
+|-
+|'''Sources:'''
+|
+
+*[[252: April 7-8, 2009]] (via OpenAI Whisper)
+*[[1024: March 11, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -21758,6 +21839,32 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[447: Bill Cooper Covers OKC Part 2]] (via OpenAI Whisper)
 *[[897: February 7, 2024]] (via OpenAI Whisper)
+
+|}
+
+==Mystery of Life==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'Mystery of Life'
+*'The Mystery of Life'
+
+|-
+|'''Sources:'''
+|
+
+*[[54: Megyn Kelly Interview Pt. 1]] (via AutoSub)
+*[[1024: March 11, 2025]] (via AutoSub)
 
 |}
 
