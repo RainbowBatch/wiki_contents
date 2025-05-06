@@ -1305,7 +1305,7 @@
     "title": "253: January 15, 2019"
   },
   {
-    "oldid": 269,
+    "oldid": 6344,
     "slug": "254{{COLON}}_April_9-10,_2009",
     "title": "254: April 9-10, 2009"
   },
@@ -5175,17 +5175,17 @@
     "title": "1026: Tucker, The Man And His Utopia"
   },
   {
-    "oldid": 6261,
+    "oldid": 6288,
     "slug": "1027{{COLON}}_Mystery_Babylon_1",
     "title": "1027: Mystery Babylon 1"
   },
   {
-    "oldid": 6262,
+    "oldid": 6289,
     "slug": "1028{{COLON}}_Mystery_Babylon_2",
     "title": "1028: Mystery Babylon 2"
   },
   {
-    "oldid": null,
+    "oldid": 6391,
     "slug": "1029{{COLON}}_April_21,_2024",
     "title": "1029: April 21, 2024"
   },
@@ -5235,6 +5235,11 @@
     "title": "Aaron Russo"
   },
   {
+    "oldid": 6357,
+    "slug": "Adam_Curry",
+    "title": "Adam Curry"
+  },
+  {
     "oldid": 957,
     "slug": "Adam_Lanza",
     "title": "Adam Lanza"
@@ -5248,6 +5253,11 @@
     "oldid": 5992,
     "slug": "Adan_Salazar",
     "title": "Adan Salazar"
+  },
+  {
+    "oldid": 6353,
+    "slug": "Adrian_Dittmann",
+    "title": "Adrian Dittmann"
   },
   {
     "oldid": 960,
@@ -5285,6 +5295,11 @@
     "title": "Aldous Huxley"
   },
   {
+    "oldid": 6401,
+    "slug": "Aleister_Crowley",
+    "title": "Aleister Crowley"
+  },
+  {
     "oldid": 967,
     "slug": "Aleksander_Dugin",
     "title": "Aleksander Dugin"
@@ -5303,6 +5318,21 @@
     "oldid": 970,
     "slug": "Alex_Jones_Show",
     "title": "Alex Jones Show"
+  },
+  {
+    "oldid": 6376,
+    "slug": "Alex_Rosen",
+    "title": "Alex Rosen"
+  },
+  {
+    "oldid": 6386,
+    "slug": "Alex_Soros",
+    "title": "Alex Soros"
+  },
+  {
+    "oldid": 6324,
+    "slug": "Alex_Stein",
+    "title": "Alex Stein"
   },
   {
     "oldid": 5993,
@@ -5335,7 +5365,7 @@
     "title": "Alfie Oaks"
   },
   {
-    "oldid": 4672,
+    "oldid": 6370,
     "slug": "Ali_Alexander",
     "title": "Ali Alexander"
   },
@@ -5365,6 +5395,11 @@
     "title": "Andino Reynal"
   },
   {
+    "oldid": 6326,
+    "slug": "Andrew_Breitbart",
+    "title": "Andrew Breitbart"
+  },
+  {
     "oldid": 5081,
     "slug": "Andrew_Cuomo",
     "title": "Andrew Cuomo"
@@ -5385,6 +5420,11 @@
     "title": "Andrew Napolitano"
   },
   {
+    "oldid": 6321,
+    "slug": "Andrew_Tate",
+    "title": "Andrew Tate"
+  },
+  {
     "oldid": 4679,
     "slug": "Andrew_Wakefield",
     "title": "Andrew Wakefield"
@@ -5400,6 +5440,11 @@
     "title": "Ann Coulter"
   },
   {
+    "oldid": 6402,
+    "slug": "Anne_Frank",
+    "title": "Anne Frank"
+  },
+  {
     "oldid": 4682,
     "slug": "Anthony_Cuomo",
     "title": "Anthony Cuomo"
@@ -5408,6 +5453,11 @@
     "oldid": 5769,
     "slug": "Anthony_Fauci",
     "title": "Anthony Fauci"
+  },
+  {
+    "oldid": 6333,
+    "slug": "Anti-Communist",
+    "title": "Anti-Communist"
   },
   {
     "oldid": 6164,
@@ -5445,9 +5495,19 @@
     "title": "Arthur Pawlowski"
   },
   {
+    "oldid": 6403,
+    "slug": "Ashley_Babbitt",
+    "title": "Ashley Babbitt"
+  },
+  {
     "oldid": 4688,
     "slug": "Ashli_Babbitt",
     "title": "Ashli Babbitt"
+  },
+  {
+    "oldid": 6334,
+    "slug": "AstraZeneca",
+    "title": "AstraZeneca"
   },
   {
     "oldid": 4689,
@@ -5530,6 +5590,16 @@
     "title": "Bibi Netanyahu"
   },
   {
+    "oldid": 6339,
+    "slug": "Big_Jim_Tucker",
+    "title": "Big Jim Tucker"
+  },
+  {
+    "oldid": 6337,
+    "slug": "Bilderberg_Group",
+    "title": "Bilderberg Group"
+  },
+  {
     "oldid": 4701,
     "slug": "Bill_Ayers",
     "title": "Bill Ayers"
@@ -5555,9 +5625,19 @@
     "title": "Bill Gates"
   },
   {
+    "oldid": 6404,
+    "slug": "Bill_Hicks",
+    "title": "Bill Hicks"
+  },
+  {
     "oldid": 6000,
     "slug": "Bill_Maher",
     "title": "Bill Maher"
+  },
+  {
+    "oldid": 6312,
+    "slug": "Bill_O'Reilly",
+    "title": "Bill O'Reilly"
   },
   {
     "oldid": 4706,
@@ -5580,7 +5660,7 @@
     "title": "Bobby Kennedy"
   },
   {
-    "oldid": 1026,
+    "oldid": 6405,
     "slug": "Bobby_Kennedy_Jr",
     "title": "Bobby Kennedy Jr"
   },
@@ -5635,6 +5715,16 @@
     "title": "Brittany Paz"
   },
   {
+    "oldid": 6406,
+    "slug": "Brittney_Paz",
+    "title": "Brittney Paz"
+  },
+  {
+    "oldid": 6407,
+    "slug": "Bubba_Wallace",
+    "title": "Bubba Wallace"
+  },
+  {
     "oldid": 1037,
     "slug": "Buckley",
     "title": "Buckley"
@@ -5675,6 +5765,11 @@
     "title": "Carol Hamman"
   },
   {
+    "oldid": 6377,
+    "slug": "Carpe_Donktum",
+    "title": "Carpe Donktum"
+  },
+  {
     "oldid": 4720,
     "slug": "Carroll_Quigley",
     "title": "Carroll Quigley"
@@ -5703,6 +5798,11 @@
     "oldid": 5783,
     "slug": "Charleston_church_shooting",
     "title": "Charleston church shooting"
+  },
+  {
+    "oldid": 6457,
+    "slug": "Charlie_Kirk",
+    "title": "Charlie Kirk"
   },
   {
     "oldid": 6004,
@@ -5745,6 +5845,11 @@
     "title": "Christopher Dorner"
   },
   {
+    "oldid": 6400,
+    "slug": "Chuck_Norris",
+    "title": "Chuck Norris"
+  },
+  {
     "oldid": 6171,
     "slug": "Chuck_Schumer",
     "title": "Chuck Schumer"
@@ -5780,7 +5885,7 @@
     "title": "Connecticut Sandy Hook Lawsuit (Lafferty v. Jones)"
   },
   {
-    "oldid": 4547,
+    "oldid": 6490,
     "slug": "Council_on_Foreign_Relations",
     "title": "Council on Foreign Relations"
   },
@@ -5820,6 +5925,11 @@
     "title": "Dan Friesen"
   },
   {
+    "oldid": 6408,
+    "slug": "Dan_Lyman",
+    "title": "Dan Lyman"
+  },
+  {
     "oldid": 4733,
     "slug": "Daria_Karpova",
     "title": "Daria Karpova"
@@ -5833,6 +5943,16 @@
     "oldid": 1075,
     "slug": "Darrell_Hamomoto",
     "title": "Darrell Hamomoto"
+  },
+  {
+    "oldid": 6433,
+    "slug": "Darren_Beattie",
+    "title": "Darren Beattie"
+  },
+  {
+    "oldid": 6434,
+    "slug": "Darren_McBreen",
+    "title": "Darren McBreen"
   },
   {
     "oldid": 1076,
@@ -5900,6 +6020,16 @@
     "title": "DeAnna Lorraine"
   },
   {
+    "oldid": 6311,
+    "slug": "Deep_State",
+    "title": "Deep State"
+  },
+  {
+    "oldid": 6346,
+    "slug": "Del_Bigtree",
+    "title": "Del Bigtree"
+  },
+  {
     "oldid": 4744,
     "slug": "Dennis_Montgomery",
     "title": "Dennis Montgomery"
@@ -5930,6 +6060,11 @@
     "title": "Dick Cheney"
   },
   {
+    "oldid": 6322,
+    "slug": "Dinesh_D'Souza",
+    "title": "Dinesh D'Souza"
+  },
+  {
     "oldid": 5710,
     "slug": "Doing_Dune{{COLON}}_Dune_(1984)",
     "title": "Doing Dune: Dune (1984)"
@@ -5950,9 +6085,14 @@
     "title": "Donald Rumsfeld"
   },
   {
-    "oldid": 1099,
+    "oldid": 6487,
     "slug": "Donald_Trump",
     "title": "Donald Trump"
+  },
+  {
+    "oldid": 6351,
+    "slug": "Donald_Trump_Jr",
+    "title": "Donald Trump Jr"
   },
   {
     "oldid": 1100,
@@ -5995,6 +6135,16 @@
     "title": "Dr Grupe"
   },
   {
+    "oldid": 6435,
+    "slug": "Dr_Joel_Wallach",
+    "title": "Dr Joel Wallach"
+  },
+  {
+    "oldid": 6412,
+    "slug": "Dr_Rima_Laibow",
+    "title": "Dr Rima Laibow"
+  },
+  {
     "oldid": 4557,
     "slug": "Dr_Samuel_Mudd",
     "title": "Dr Samuel Mudd"
@@ -6010,7 +6160,12 @@
     "title": "Dr. Group"
   },
   {
-    "oldid": 4750,
+    "oldid": 6388,
+    "slug": "Dr._Joel_D._Wallach",
+    "title": "Dr. Joel D. Wallach"
+  },
+  {
+    "oldid": 6454,
     "slug": "Dreamy_Creamy_Summer",
     "title": "Dreamy Creamy Summer"
   },
@@ -6040,6 +6195,11 @@
     "title": "E Michael Jones"
   },
   {
+    "oldid": 6296,
+    "slug": "Eddie_Bravo",
+    "title": "Eddie Bravo"
+  },
+  {
     "oldid": 4753,
     "slug": "Edward_Group",
     "title": "Edward Group"
@@ -6060,7 +6220,7 @@
     "title": "Elizabeth Williamson"
   },
   {
-    "oldid": 1121,
+    "oldid": 6489,
     "slug": "Elon_Musk",
     "title": "Elon Musk"
   },
@@ -6100,6 +6260,11 @@
     "title": "Ethan Nordean"
   },
   {
+    "oldid": 6413,
+    "slug": "Ezra_Levant",
+    "title": "Ezra Levant"
+  },
+  {
     "oldid": 1129,
     "slug": "Fentanyl_the_Chinese_dragon",
     "title": "Fentanyl the Chinese dragon"
@@ -6115,14 +6280,29 @@
     "title": "Free Speech Systems Bankruptcy Case"
   },
   {
-    "oldid": 1132,
+    "oldid": 6450,
     "slug": "Free_Speech_Systems_LLC",
     "title": "Free Speech Systems LLC"
+  },
+  {
+    "oldid": 6414,
+    "slug": "G_Edward_Griffin",
+    "title": "G Edward Griffin"
+  },
+  {
+    "oldid": 6372,
+    "slug": "G_Gordon_Liddy",
+    "title": "G Gordon Liddy"
   },
   {
     "oldid": 4760,
     "slug": "Gabrielle_Giffords",
     "title": "Gabrielle Giffords"
+  },
+  {
+    "oldid": 6415,
+    "slug": "Garrett_Foster",
+    "title": "Garrett Foster"
   },
   {
     "oldid": 6175,
@@ -6133,6 +6313,11 @@
     "oldid": 5479,
     "slug": "Gary_Allen",
     "title": "Gary Allen"
+  },
+  {
+    "oldid": 6362,
+    "slug": "Gateway_Pundit",
+    "title": "Gateway Pundit"
   },
   {
     "oldid": 6176,
@@ -6153,6 +6338,11 @@
     "oldid": 1138,
     "slug": "Gen._Flynn",
     "title": "Gen. Flynn"
+  },
+  {
+    "oldid": 6416,
+    "slug": "General_Albert_Stubblebine",
+    "title": "General Albert Stubblebine"
   },
   {
     "oldid": 1139,
@@ -6180,7 +6370,7 @@
     "title": "General Stubblebine"
   },
   {
-    "oldid": 5800,
+    "oldid": 6451,
     "slug": "Genesis_Communications_Network",
     "title": "Genesis Communications Network"
   },
@@ -6198,6 +6388,11 @@
     "oldid": 1147,
     "slug": "George_HW_Bush",
     "title": "George HW Bush"
+  },
+  {
+    "oldid": 6341,
+    "slug": "George_Humphrey",
+    "title": "George Humphrey"
   },
   {
     "oldid": 1148,
@@ -6225,6 +6420,11 @@
     "title": "George Washington"
   },
   {
+    "oldid": 6458,
+    "slug": "George_Zimmerman",
+    "title": "George Zimmerman"
+  },
+  {
     "oldid": 5126,
     "slug": "Georgia_Guidestones",
     "title": "Georgia Guidestones"
@@ -6248,6 +6448,11 @@
     "oldid": 5806,
     "slug": "Glenn_Beck",
     "title": "Glenn Beck"
+  },
+  {
+    "oldid": 6298,
+    "slug": "Glenn_Greenwald",
+    "title": "Glenn Greenwald"
   },
   {
     "oldid": 5807,
@@ -6345,6 +6550,11 @@
     "title": "Howard Dean"
   },
   {
+    "oldid": 6303,
+    "slug": "Howard_Stern",
+    "title": "Howard Stern"
+  },
+  {
     "oldid": 5813,
     "slug": "Hunter_Biden",
     "title": "Hunter Biden"
@@ -6370,7 +6580,7 @@
     "title": "InfoW et. al. Bankruptcy Case"
   },
   {
-    "oldid": 2772,
+    "oldid": 6452,
     "slug": "InfoWars",
     "title": "InfoWars"
   },
@@ -6440,6 +6650,11 @@
     "title": "Jakari Jackson"
   },
   {
+    "oldid": 6436,
+    "slug": "Jake_Ducey",
+    "title": "Jake Ducey"
+  },
+  {
     "oldid": 4800,
     "slug": "Jamal_Khashoggi",
     "title": "Jamal Khashoggi"
@@ -6450,6 +6665,16 @@
     "title": "James Comey"
   },
   {
+    "oldid": 6329,
+    "slug": "James_David_Manning",
+    "title": "James David Manning"
+  },
+  {
+    "oldid": 6385,
+    "slug": "James_Fetzer",
+    "title": "James Fetzer"
+  },
+  {
     "oldid": 5818,
     "slug": "James_O'Keefe",
     "title": "James O'Keefe"
@@ -6458,6 +6683,11 @@
     "oldid": 6018,
     "slug": "Jamie_Raskin",
     "title": "Jamie Raskin"
+  },
+  {
+    "oldid": 6374,
+    "slug": "Jamie_White",
+    "title": "Jamie White"
   },
   {
     "oldid": 1200,
@@ -6478,6 +6708,16 @@
     "oldid": 5821,
     "slug": "Jared_Kushner",
     "title": "Jared Kushner"
+  },
+  {
+    "oldid": 6437,
+    "slug": "Jason_Bermis",
+    "title": "Jason Bermis"
+  },
+  {
+    "oldid": 6438,
+    "slug": "Jay_Dyer",
+    "title": "Jay Dyer"
   },
   {
     "oldid": 5822,
@@ -6538,6 +6778,11 @@
     "oldid": 5483,
     "slug": "Jim_Marrs",
     "title": "Jim Marrs"
+  },
+  {
+    "oldid": 6420,
+    "slug": "Jimmy_Dore",
+    "title": "Jimmy Dore"
   },
   {
     "oldid": 6186,
@@ -6610,7 +6855,17 @@
     "title": "Joel Skousen"
   },
   {
-    "oldid": 6022,
+    "oldid": 6389,
+    "slug": "Joel_Wallach",
+    "title": "Joel Wallach"
+  },
+  {
+    "oldid": 6421,
+    "slug": "John_Birch",
+    "title": "John Birch"
+  },
+  {
+    "oldid": 6387,
     "slug": "John_Birch_Society",
     "title": "John Birch Society"
   },
@@ -6645,6 +6900,11 @@
     "title": "John Kerry"
   },
   {
+    "oldid": 6380,
+    "slug": "John_McAfee",
+    "title": "John McAfee"
+  },
+  {
     "oldid": 4824,
     "slug": "John_McCain",
     "title": "John McCain"
@@ -6668,6 +6928,16 @@
     "oldid": 1239,
     "slug": "John_Rappaport",
     "title": "John Rappaport"
+  },
+  {
+    "oldid": 6422,
+    "slug": "John_Roberts",
+    "title": "John Roberts"
+  },
+  {
+    "oldid": 6423,
+    "slug": "Johns_Hopkins",
+    "title": "Johns Hopkins"
   },
   {
     "oldid": 1240,
@@ -6698,6 +6968,11 @@
     "oldid": 1245,
     "slug": "Joy_Behar",
     "title": "Joy Behar"
+  },
+  {
+    "oldid": 6424,
+    "slug": "Joycelyn_Elders",
+    "title": "Joycelyn Elders"
   },
   {
     "oldid": 4829,
@@ -6738,6 +7013,11 @@
     "oldid": 5831,
     "slug": "Julian_Assange",
     "title": "Julian Assange"
+  },
+  {
+    "oldid": 6425,
+    "slug": "Jussie_Smollett",
+    "title": "Jussie Smollett"
   },
   {
     "oldid": 6190,
@@ -6790,6 +7070,11 @@
     "title": "Kerry Kassidy"
   },
   {
+    "oldid": 6367,
+    "slug": "Kevin_Booth",
+    "title": "Kevin Booth"
+  },
+  {
     "oldid": 6192,
     "slug": "Kim_Jong_Un",
     "title": "Kim Jong Un"
@@ -6798,6 +7083,11 @@
     "oldid": 6277,
     "slug": "Kirk_Elliott,_PhD",
     "title": "Kirk Elliott, PhD"
+  },
+  {
+    "oldid": 6439,
+    "slug": "Kit_Daniels",
+    "title": "Kit Daniels"
   },
   {
     "oldid": 6193,
@@ -6810,6 +7100,16 @@
     "title": "Knowledge Fight"
   },
   {
+    "oldid": 6347,
+    "slug": "Kurt_Nimmo",
+    "title": "Kurt Nimmo"
+  },
+  {
+    "oldid": 6331,
+    "slug": "Kyle_Rittenhouse",
+    "title": "Kyle Rittenhouse"
+  },
+  {
     "oldid": 1268,
     "slug": "Kyrsten_Sinema",
     "title": "Kyrsten Sinema"
@@ -6818,6 +7118,11 @@
     "oldid": 4841,
     "slug": "Lana_Del_Rey",
     "title": "Lana Del Rey"
+  },
+  {
+    "oldid": 6427,
+    "slug": "Larry_Fink",
+    "title": "Larry Fink"
   },
   {
     "oldid": 6027,
@@ -6830,6 +7135,11 @@
     "title": "Larry Nichols"
   },
   {
+    "oldid": 6301,
+    "slug": "Larry_Pratt",
+    "title": "Larry Pratt"
+  },
+  {
     "oldid": 6195,
     "slug": "Larry_Sinclair",
     "title": "Larry Sinclair"
@@ -6838,6 +7148,11 @@
     "oldid": 5837,
     "slug": "Laura_Loomer",
     "title": "Laura Loomer"
+  },
+  {
+    "oldid": 6318,
+    "slug": "Lauren_Southern",
+    "title": "Lauren Southern"
   },
   {
     "oldid": 5838,
@@ -6890,17 +7205,22 @@
     "title": "Lindon LaRouche"
   },
   {
+    "oldid": 6428,
+    "slug": "Lindsey_Williams",
+    "title": "Lindsey Williams"
+  },
+  {
     "oldid": 1284,
     "slug": "Lionel",
     "title": "Lionel"
   },
   {
-    "oldid": 4586,
+    "oldid": 6459,
     "slug": "List_of_Knowledge_Fight_Intro_Music",
     "title": "List of Knowledge Fight Intro Music"
   },
   {
-    "oldid": 6263,
+    "oldid": 6460,
     "slug": "List_of_Knowledge_Fight_episodes",
     "title": "List of Knowledge Fight episodes"
   },
@@ -6960,9 +7280,14 @@
     "title": "Madeleine Albright"
   },
   {
-    "oldid": 2493,
+    "oldid": 6294,
     "slug": "Main_Page",
     "title": "Main Page"
+  },
+  {
+    "oldid": 6395,
+    "slug": "Mancow",
+    "title": "Mancow"
   },
   {
     "oldid": 1298,
@@ -6978,6 +7303,11 @@
     "oldid": 5489,
     "slug": "Maram_Susli",
     "title": "Maram Susli"
+  },
+  {
+    "oldid": 6440,
+    "slug": "Marc_Randazza",
+    "title": "Marc Randazza"
   },
   {
     "oldid": 6030,
@@ -7090,6 +7420,11 @@
     "title": "Maryanne Williamson"
   },
   {
+    "oldid": 6297,
+    "slug": "Matt_Bracken",
+    "title": "Matt Bracken"
+  },
+  {
     "oldid": 4871,
     "slug": "Matt_Drudge",
     "title": "Matt Drudge"
@@ -7155,7 +7490,7 @@
     "title": "Michelle Obama"
   },
   {
-    "oldid": 4883,
+    "oldid": 6449,
     "slug": "Midas_Resources",
     "title": "Midas Resources"
   },
@@ -7235,7 +7570,7 @@
     "title": "Mitt Romney"
   },
   {
-    "oldid": 4894,
+    "oldid": 6447,
     "slug": "Money_Bomb",
     "title": "Money Bomb"
   },
@@ -7330,6 +7665,11 @@
     "title": "Osama Bin Laden"
   },
   {
+    "oldid": 6441,
+    "slug": "Owen_Benjamin",
+    "title": "Owen Benjamin"
+  },
+  {
     "oldid": 6207,
     "slug": "Owen_Shroyer",
     "title": "Owen Shroyer"
@@ -7408,6 +7748,11 @@
     "oldid": 1381,
     "slug": "Pozner_Texas_Sandy_Hook_Lawsuit_(Pozner_v._Jones)",
     "title": "Pozner Texas Sandy Hook Lawsuit (Pozner v. Jones)"
+  },
+  {
+    "oldid": 6453,
+    "slug": "Prison_Planet",
+    "title": "Prison Planet"
   },
   {
     "oldid": 1382,
@@ -7675,12 +8020,12 @@
     "title": "Repost: Episode 25"
   },
   {
-    "oldid": 5520,
+    "oldid": 6494,
     "slug": "Reset_Wars",
     "title": "Reset Wars"
   },
   {
-    "oldid": 1435,
+    "oldid": 6491,
     "slug": "Rex_Jones",
     "title": "Rex Jones"
   },
@@ -7775,7 +8120,7 @@
     "title": "Roger Stone"
   },
   {
-    "oldid": 2774,
+    "oldid": 6431,
     "slug": "Ron_DeSantis",
     "title": "Ron DeSantis"
   },
@@ -7800,6 +8145,11 @@
     "title": "Ronald Reagan"
   },
   {
+    "oldid": 6338,
+    "slug": "Roseanne_Barr",
+    "title": "Roseanne Barr"
+  },
+  {
     "oldid": 6051,
     "slug": "Rudy_Giuliani",
     "title": "Rudy Giuliani"
@@ -7813,6 +8163,11 @@
     "oldid": 5905,
     "slug": "Rush_Limbaugh",
     "title": "Rush Limbaugh"
+  },
+  {
+    "oldid": 6332,
+    "slug": "Russell_Brand",
+    "title": "Russell Brand"
   },
   {
     "oldid": 2701,
@@ -7855,6 +8210,11 @@
     "title": "Satan"
   },
   {
+    "oldid": 6304,
+    "slug": "Savannah_Hernandez",
+    "title": "Savannah Hernandez"
+  },
+  {
     "oldid": 1469,
     "slug": "Scarlett_Lewis",
     "title": "Scarlett Lewis"
@@ -7863,6 +8223,11 @@
     "oldid": 5908,
     "slug": "Scott_Adams",
     "title": "Scott Adams"
+  },
+  {
+    "oldid": 6307,
+    "slug": "Sean_Hannity",
+    "title": "Sean Hannity"
   },
   {
     "oldid": 1470,
@@ -7885,9 +8250,19 @@
     "title": "Spiritual Correction"
   },
   {
+    "oldid": 6432,
+    "slug": "Stanley_Kubrick",
+    "title": "Stanley Kubrick"
+  },
+  {
     "oldid": 5910,
     "slug": "Stefan_Molyneux",
     "title": "Stefan Molyneux"
+  },
+  {
+    "oldid": 6352,
+    "slug": "Stella_Immanuel",
+    "title": "Stella Immanuel"
   },
   {
     "oldid": 5911,
@@ -7970,9 +8345,19 @@
     "title": "Stewart Rhodes"
   },
   {
+    "oldid": 6368,
+    "slug": "Stop_the_Steal",
+    "title": "Stop the Steal"
+  },
+  {
     "oldid": 6054,
     "slug": "Sun_Myung_Moon",
     "title": "Sun Myung Moon"
+  },
+  {
+    "oldid": 6448,
+    "slug": "Super_Male_Vitality",
+    "title": "Super Male Vitality"
   },
   {
     "oldid": 4982,
@@ -8080,7 +8465,7 @@
     "title": "The Sandy Hook Elementary Massacre"
   },
   {
-    "oldid": 1505,
+    "oldid": 6464,
     "slug": "The_Year_of_the_Seltzer",
     "title": "The Year of the Seltzer"
   },
@@ -8093,6 +8478,11 @@
     "oldid": 6234,
     "slug": "Thomas_Jefferson",
     "title": "Thomas Jefferson"
+  },
+  {
+    "oldid": 6361,
+    "slug": "Thomas_Renz",
+    "title": "Thomas Renz"
   },
   {
     "oldid": 1508,
@@ -8118,6 +8508,11 @@
     "oldid": 1512,
     "slug": "Timothy_McVeigh",
     "title": "Timothy McVeigh"
+  },
+  {
+    "oldid": 6300,
+    "slug": "Tom_Pappert",
+    "title": "Tom Pappert"
   },
   {
     "oldid": 5923,
@@ -13295,7 +13690,7 @@
     "title": "Transcript/1028: Mystery Babylon 2"
   },
   {
-    "oldid": null,
+    "oldid": 6292,
     "slug": "Transcript{{FORWARD_SLASH}}1029{{COLON}}_April_21,_2024",
     "title": "Transcript/1029: April 21, 2024"
   },
@@ -13385,9 +13780,19 @@
     "title": "Tyler Snodgrass"
   },
   {
+    "oldid": 6375,
+    "slug": "Vivian_Kubrick",
+    "title": "Vivian Kubrick"
+  },
+  {
     "oldid": 6239,
     "slug": "Vladimir_Putin",
     "title": "Vladimir Putin"
+  },
+  {
+    "oldid": 6313,
+    "slug": "W_Cleon_Skousen",
+    "title": "W Cleon Skousen"
   },
   {
     "oldid": 2477,
@@ -13425,6 +13830,11 @@
     "title": "Webster Tarpley"
   },
   {
+    "oldid": 6455,
+    "slug": "Wernher_Von_Braun",
+    "title": "Wernher Von Braun"
+  },
+  {
     "oldid": 2482,
     "slug": "Why_The_Future_Doesn't_Need_Us",
     "title": "Why The Future Doesn't Need Us"
@@ -13433,6 +13843,11 @@
     "oldid": 2483,
     "slug": "William_Barr",
     "title": "William Barr"
+  },
+  {
+    "oldid": 6345,
+    "slug": "Willie_Nelson",
+    "title": "Willie Nelson"
   },
   {
     "oldid": 6240,
