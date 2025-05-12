@@ -1,5 +1,20 @@
 [
   {
+    "oldid": 6580,
+    "summary": "New category",
+    "time": {
+      "date": 1746921600000,
+      "day": 11,
+      "hour": 11,
+      "microsecond": 0,
+      "month": 5,
+      "second": 3,
+      "timezone": "UTC",
+      "weekday": 7
+    },
+    "username": "SB"
+  },
+  {
     "oldid": 6288,
     "summary": "RainbowBatch update",
     "time": {
