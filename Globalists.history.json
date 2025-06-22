@@ -2,106 +2,43 @@
   {
     "oldid": 5807,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1744070400000,
-      "day": 8,
-      "hour": 4,
-      "microsecond": 0,
-      "month": 4,
-      "second": 46,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-04-08T04:07:46",
     "username": "RainbowBatch"
   },
   {
     "oldid": 5128,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741478400000,
-      "day": 9,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 3,
-      "second": 57,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-03-09T19:18:57",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4776,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741392000000,
-      "day": 8,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 3,
-      "second": 3,
-      "timezone": "UTC",
-      "weekday": 6
-    },
+    "time": "2025-03-08T17:19:03",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4658,
     "summary": "Fix link",
-    "time": {
-      "date": 1741219200000,
-      "day": 6,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 3,
-      "second": 19,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-03-06T00:42:19",
     "username": "CelestAI"
   },
   {
     "oldid": 4565,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741132800000,
-      "day": 5,
-      "hour": 6,
-      "microsecond": 0,
-      "month": 3,
-      "second": 44,
-      "timezone": "UTC",
-      "weekday": 3
-    },
+    "time": "2025-03-05T06:01:44",
     "username": "RainbowBatch"
   },
   {
     "oldid": 2787,
     "summary": "Some cleanups, including to the messagebox.",
-    "time": {
-      "date": 1740787200000,
-      "day": 1,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 54,
-      "timezone": "UTC",
-      "weekday": 6
-    },
+    "time": "2025-03-01T21:34:54",
     "username": "CelestAI"
   },
   {
     "oldid": 1158,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 2,
-      "second": 22,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T23:19:22",
     "username": "RainbowBatch"
   }
 ]

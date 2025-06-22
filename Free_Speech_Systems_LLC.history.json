@@ -2,31 +2,13 @@
   {
     "oldid": 6450,
     "summary": "",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 13,
-      "microsecond": 0,
-      "month": 5,
-      "second": 50,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T13:55:50",
     "username": "SuperAdmin"
   },
   {
     "oldid": 1132,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 2,
-      "second": 2,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T23:15:02",
     "username": "RainbowBatch"
   }
 ]

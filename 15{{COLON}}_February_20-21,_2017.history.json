@@ -2,46 +2,19 @@
   {
     "oldid": 5741,
     "summary": "Returning to the 'canon' that oocDrops start in #16",
-    "time": {
-      "date": 1743984000000,
-      "day": 7,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 31,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-04-07T22:16:31",
     "username": "SB"
   },
   {
     "oldid": 5738,
     "summary": "Added Out of Context Drop",
-    "time": {
-      "date": 1743984000000,
-      "day": 7,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 30,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-04-07T22:00:30",
     "username": "SB"
   },
   {
     "oldid": 18,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 2,
-      "second": 50,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T20:09:50",
     "username": "RainbowBatch"
   }
 ]

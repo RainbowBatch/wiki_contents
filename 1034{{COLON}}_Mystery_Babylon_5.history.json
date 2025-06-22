@@ -2,46 +2,19 @@
   {
     "oldid": 6753,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1750291200000,
-      "day": 19,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 6,
-      "second": 21,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-06-19T16:25:21",
     "username": "RainbowBatch"
   },
   {
     "oldid": 6600,
     "summary": "Added Episode Type",
-    "time": {
-      "date": 1748131200000,
-      "day": 25,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 5,
-      "second": 58,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-05-25T17:37:58",
     "username": "SB"
   },
   {
     "oldid": 6592,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1747008000000,
-      "day": 12,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 5,
-      "second": 53,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-05-12T17:02:53",
     "username": "RainbowBatch"
   }
 ]

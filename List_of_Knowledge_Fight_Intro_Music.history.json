@@ -2,91 +2,37 @@
   {
     "oldid": 6459,
     "summary": "",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 5,
-      "second": 29,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T14:25:29",
     "username": "SuperAdmin"
   },
   {
     "oldid": 4586,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741132800000,
-      "day": 5,
-      "hour": 6,
-      "microsecond": 0,
-      "month": 3,
-      "second": 24,
-      "timezone": "UTC",
-      "weekday": 3
-    },
+    "time": "2025-03-05T06:05:24",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4484,
     "summary": "/* Danarchy's \"Paul's Dream\" Remix */  Fix a lot of the lyrics. still need another pass, especially at the end.",
-    "time": {
-      "date": 1741132800000,
-      "day": 5,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 3,
-      "second": 31,
-      "timezone": "UTC",
-      "weekday": 3
-    },
+    "time": "2025-03-05T00:25:31",
     "username": "CelestAI"
   },
   {
     "oldid": 4483,
     "summary": "Fix all the youtube embeds. We're using a slightly different plugin than the one on Fandom.",
-    "time": {
-      "date": 1741046400000,
-      "day": 4,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 3,
-      "second": 36,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-03-04T23:59:36",
     "username": "CelestAI"
   },
   {
     "oldid": 3778,
     "summary": "Add stubs for two special intros, with the youtube captions, but these will need editing.",
-    "time": {
-      "date": 1740873600000,
-      "day": 2,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 3,
-      "second": 54,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-03-02T02:42:54",
     "username": "CelestAI"
   },
   {
     "oldid": 1285,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 2,
-      "second": 33,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T23:40:33",
     "username": "RainbowBatch"
   }
 ]

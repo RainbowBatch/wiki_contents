@@ -2,61 +2,25 @@
   {
     "oldid": 6464,
     "summary": "",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 5,
-      "second": 51,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T14:39:51",
     "username": "SuperAdmin"
   },
   {
     "oldid": 6462,
     "summary": "testing sub categories",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 14,
-      "microsecond": 0,
-      "month": 5,
-      "second": 3,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T14:38:03",
     "username": "SuperAdmin"
   },
   {
     "oldid": 6446,
     "summary": "",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 13,
-      "microsecond": 0,
-      "month": 5,
-      "second": 26,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T13:53:26",
     "username": "SuperAdmin"
   },
   {
     "oldid": 1505,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740355200000,
-      "day": 24,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 2,
-      "second": 3,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-02-24T00:18:03",
     "username": "RainbowBatch"
   }
 ]

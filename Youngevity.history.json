@@ -2,31 +2,13 @@
   {
     "oldid": 5268,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741478400000,
-      "day": 9,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 3,
-      "second": 47,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-03-09T20:39:47",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4643,
     "summary": "Make a stub for this, pulling information out of 303.",
-    "time": {
-      "date": 1741132800000,
-      "day": 5,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 36,
-      "timezone": "UTC",
-      "weekday": 3
-    },
+    "time": "2025-03-05T21:56:36",
     "username": "CelestAI"
   }
 ]

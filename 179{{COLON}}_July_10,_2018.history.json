@@ -2,31 +2,13 @@
   {
     "oldid": 5346,
     "summary": "Fix spelling",
-    "time": {
-      "date": 1741824000000,
-      "day": 13,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 3,
-      "second": 47,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-03-13T21:20:47",
     "username": "CelestAI"
   },
   {
     "oldid": 190,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 2,
-      "second": 52,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T20:37:52",
     "username": "RainbowBatch"
   }
 ]

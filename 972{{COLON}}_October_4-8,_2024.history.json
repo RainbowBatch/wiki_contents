@@ -1,77 +1,38 @@
 [
   {
+    "oldid": 6787,
+    "summary": "RainbowBatch update",
+    "time": "2025-06-20T22:13:17",
+    "username": "RainbowBatch"
+  },
+  {
     "oldid": 5748,
     "summary": "Added Out of Context Drop",
-    "time": {
-      "date": 1743984000000,
-      "day": 7,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 56,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-04-07T22:40:56",
     "username": "SB"
   },
   {
     "oldid": 5662,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1742860800000,
-      "day": 25,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 3,
-      "second": 25,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-03-25T02:12:25",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4533,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741132800000,
-      "day": 5,
-      "hour": 5,
-      "microsecond": 0,
-      "month": 3,
-      "second": 48,
-      "timezone": "UTC",
-      "weekday": 3
-    },
+    "time": "2025-03-05T05:55:48",
     "username": "RainbowBatch"
   },
   {
     "oldid": 2763,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1740700800000,
-      "day": 28,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 2,
-      "second": 47,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-02-28T21:34:47",
     "username": "RainbowBatch"
   },
   {
     "oldid": 2643,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740614400000,
-      "day": 27,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 2,
-      "second": 47,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-02-27T01:29:47",
     "username": "RainbowBatch"
   }
 ]

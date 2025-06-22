@@ -2,91 +2,37 @@
   {
     "oldid": 6771,
     "summary": "",
-    "time": {
-      "date": 1750291200000,
-      "day": 19,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 6,
-      "second": 29,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-06-19T16:43:29",
     "username": "CelestAI"
   },
   {
     "oldid": 6597,
     "summary": "",
-    "time": {
-      "date": 1747526400000,
-      "day": 18,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 5,
-      "second": 14,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-05-18T20:35:14",
     "username": "SuperAdmin"
   },
   {
     "oldid": 6579,
     "summary": "/* Controversies */",
-    "time": {
-      "date": 1746489600000,
-      "day": 6,
-      "hour": 21,
-      "microsecond": 0,
-      "month": 5,
-      "second": 11,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-05-06T21:25:11",
     "username": "SuperAdmin"
   },
   {
     "oldid": 6489,
     "summary": "",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 5,
-      "second": 43,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T16:09:43",
     "username": "SuperAdmin"
   },
   {
     "oldid": 6488,
     "summary": "",
-    "time": {
-      "date": 1746144000000,
-      "day": 2,
-      "hour": 16,
-      "microsecond": 0,
-      "month": 5,
-      "second": 54,
-      "timezone": "UTC",
-      "weekday": 5
-    },
+    "time": "2025-05-02T16:02:54",
     "username": "SuperAdmin"
   },
   {
     "oldid": 1121,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 2,
-      "second": 12,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T23:13:12",
     "username": "RainbowBatch"
   }
 ]
