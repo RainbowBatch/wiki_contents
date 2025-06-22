@@ -2,91 +2,37 @@
   {
     "oldid": 6502,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1746489600000,
-      "day": 6,
-      "hour": 0,
-      "microsecond": 0,
-      "month": 5,
-      "second": 17,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-05-06T00:13:17",
     "username": "RainbowBatch"
   },
   {
     "oldid": 5746,
     "summary": "Added Out of Context Drop",
-    "time": {
-      "date": 1743984000000,
-      "day": 7,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 4,
-      "second": 11,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-04-07T22:36:11",
     "username": "SB"
   },
   {
     "oldid": 5674,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1742860800000,
-      "day": 25,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 3,
-      "second": 28,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-03-25T02:14:28",
     "username": "RainbowBatch"
   },
   {
     "oldid": 5047,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1741478400000,
-      "day": 9,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 3,
-      "second": 3,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-03-09T19:05:03",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4308,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1740873600000,
-      "day": 2,
-      "hour": 4,
-      "microsecond": 0,
-      "month": 3,
-      "second": 25,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-03-02T04:27:25",
     "username": "RainbowBatch"
   },
   {
     "oldid": 2656,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740614400000,
-      "day": 27,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 2,
-      "second": 57,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-02-27T01:31:57",
     "username": "RainbowBatch"
   }
 ]

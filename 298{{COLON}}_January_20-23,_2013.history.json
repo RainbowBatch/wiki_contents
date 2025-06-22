@@ -2,31 +2,13 @@
   {
     "oldid": 5440,
     "summary": "Fix malformed link.",
-    "time": {
-      "date": 1741996800000,
-      "day": 15,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 3,
-      "second": 13,
-      "timezone": "UTC",
-      "weekday": 6
-    },
+    "time": "2025-03-15T17:38:13",
     "username": "CelestAI"
   },
   {
     "oldid": 313,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 2,
-      "second": 13,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T20:58:13",
     "username": "RainbowBatch"
   }
 ]

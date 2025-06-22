@@ -2,46 +2,19 @@
   {
     "oldid": 5361,
     "summary": "/* Owen Shroyer's 2019 Impeachment Arrest */",
-    "time": {
-      "date": 1741824000000,
-      "day": 13,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 3,
-      "second": 22,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-03-13T22:12:22",
     "username": "CelestAI"
   },
   {
     "oldid": 5360,
     "summary": "Remove links that don't go anywhere.",
-    "time": {
-      "date": 1741824000000,
-      "day": 13,
-      "hour": 22,
-      "microsecond": 0,
-      "month": 3,
-      "second": 9,
-      "timezone": "UTC",
-      "weekday": 4
-    },
+    "time": "2025-03-13T22:12:09",
     "username": "CelestAI"
   },
   {
     "oldid": 1358,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 2,
-      "second": 6,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T23:53:06",
     "username": "RainbowBatch"
   }
 ]

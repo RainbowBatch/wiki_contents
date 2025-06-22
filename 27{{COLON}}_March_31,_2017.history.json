@@ -2,46 +2,19 @@
   {
     "oldid": 5542,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1742860800000,
-      "day": 25,
-      "hour": 1,
-      "microsecond": 0,
-      "month": 3,
-      "second": 21,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-03-25T01:42:21",
     "username": "RainbowBatch"
   },
   {
     "oldid": 4452,
     "summary": "Fix image links.",
-    "time": {
-      "date": 1741046400000,
-      "day": 4,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 3,
-      "second": 39,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-03-04T20:19:39",
     "username": "CelestAI"
   },
   {
     "oldid": 30,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 2,
-      "second": 50,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T20:11:50",
     "username": "RainbowBatch"
   }
 ]

@@ -2,76 +2,31 @@
   {
     "oldid": 6294,
     "summary": "/* Where to Start? */",
-    "time": {
-      "date": 1745798400000,
-      "day": 28,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 4,
-      "second": 12,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-04-28T19:27:12",
     "username": "SuperAdmin"
   },
   {
     "oldid": 6293,
     "summary": "/* Where to Start? */",
-    "time": {
-      "date": 1745798400000,
-      "day": 28,
-      "hour": 19,
-      "microsecond": 0,
-      "month": 4,
-      "second": 56,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-04-28T19:26:56",
     "username": "SuperAdmin"
   },
   {
     "oldid": 2493,
     "summary": "",
-    "time": {
-      "date": 1740355200000,
-      "day": 24,
-      "hour": 3,
-      "microsecond": 0,
-      "month": 2,
-      "second": 5,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-02-24T03:58:05",
     "username": "CelestAI"
   },
   {
     "oldid": 2048,
     "summary": "Port over the older homepage. Still needs more cleanup.",
-    "time": {
-      "date": 1740355200000,
-      "day": 24,
-      "hour": 2,
-      "microsecond": 0,
-      "month": 2,
-      "second": 3,
-      "timezone": "UTC",
-      "weekday": 1
-    },
+    "time": "2025-02-24T02:27:03",
     "username": "CelestAI"
   },
   {
     "oldid": 1,
     "summary": "",
-    "time": {
-      "date": 1740182400000,
-      "day": 22,
-      "hour": 9,
-      "microsecond": 0,
-      "month": 2,
-      "second": 28,
-      "timezone": "UTC",
-      "weekday": 6
-    },
+    "time": "2025-02-22T09:44:28",
     "username": "MediaWiki default"
   }
 ]

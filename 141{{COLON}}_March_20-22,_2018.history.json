@@ -2,46 +2,19 @@
   {
     "oldid": 6090,
     "summary": "RainbowBatch update",
-    "time": {
-      "date": 1744502400000,
-      "day": 13,
-      "hour": 17,
-      "microsecond": 0,
-      "month": 4,
-      "second": 32,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-04-13T17:32:32",
     "username": "RainbowBatch"
   },
   {
     "oldid": 5462,
     "summary": "Simplify Link to Group",
-    "time": {
-      "date": 1742256000000,
-      "day": 18,
-      "hour": 23,
-      "microsecond": 0,
-      "month": 3,
-      "second": 20,
-      "timezone": "UTC",
-      "weekday": 2
-    },
+    "time": "2025-03-18T23:52:20",
     "username": "CelestAI"
   },
   {
     "oldid": 151,
     "summary": "RainbowBatch generated stub.",
-    "time": {
-      "date": 1740268800000,
-      "day": 23,
-      "hour": 20,
-      "microsecond": 0,
-      "month": 2,
-      "second": 32,
-      "timezone": "UTC",
-      "weekday": 7
-    },
+    "time": "2025-02-23T20:31:32",
     "username": "RainbowBatch"
   }
 ]
