@@ -4,6 +4,31 @@ This page is part of an attempt to make everything RainbowBatch knows available 
 
 Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if you have a correction or suggestion, which will be added upstream.
 
+==2 Live Crew==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG, WORK_OF_ART
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'2 Live Crew'
+
+|-
+|'''Sources:'''
+|
+
+*[[758: December 8, 2003]] (via AutoSub, OpenAI Whisper)
+*[[817: June 8, 2023]] (via AutoSub)
+
+|}
+
 ==2011 Norway attacks==
 {| class="fandom-table"
 |'''Status:'''
@@ -84,7 +109,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW
 |-
 |'''Total Count:'''
-|18
+|20
 |-
 |'''Source Texts:'''
 |
@@ -106,6 +131,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[501: November 7-8, 2020]] (via AutoSub)
 *[[517: January 5-6, 2021]] (via AutoSub, OpenAI Whisper)
 *[[675: April 25, 2022]] (via AutoSub)
+*[[948: July 24, 2024]] (via AutoSub)
 *[[958: More Like Jimmy Bore, Revisited]] (via AutoSub)
 
 |}
@@ -119,7 +145,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT, LAW, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|452
+|467
 |-
 |'''Source Texts:'''
 |
@@ -138,6 +164,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |'''Sources:'''
 |
 
+*Garrett Foster (via Wiki Page)
+*Kyle Rittenhouse (via Wiki Page)
+*Larry Pratt (via Wiki Page)
+*Matt Bracken (via Wiki Page)
 *[[3: The Secret of 2017]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[8: January 26-27, 2017]] (via AutoSub, otter.ai)
 *[[12: Jon Rappoport]] (via AutoSub, OpenAI Whisper)
@@ -287,12 +317,12 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[740: August 13, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[741: December 2, 2015]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[742: Formulaic Objections Part 9]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[743: October 29-30, 2022]] (via AutoSub, otter.ai)
+*[[743: October 29-30, 2022]] (via otter.ai)
 *[[744: November 3, 2022]] (via AutoSub, otter.ai)
 *[[751: November 20-21, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai, OpenAI Whisper)
-*[[758: December 8, 2003]] (via otter.ai, OpenAI Whisper)
-*[[771: Formulaic Objections Part 15]] (via otter.ai)
+*[[758: December 8, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[771: Formulaic Objections Part 15]] (via AutoSub, otter.ai)
 *[[784: August 9, 2013 (Live)]] (via OpenAI Whisper)
 *[[790: March 27-28, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[797: Belly-Floppin' Into The Pool]] (via otter.ai)
@@ -300,13 +330,14 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[809: May 18, 2023]] (via otter.ai, OpenAI Whisper)
 *[[811: February 24, 2004]] (via AutoSub)
 *[[813: May 29, 2023]] (via otter.ai)
-*[[815: June 6, 2023]] (via OpenAI Whisper)
+*[[815: June 6, 2023]] (via AutoSub, OpenAI Whisper)
 *[[832: July 26, 2023]] (via AutoSub)
+*[[860: October 13, 2023]] (via AutoSub)
 *[[877: A Philosophy For Curiosity]] (via AutoSub)
 *[[878: March 29, 2004]] (via AutoSub)
 *[[882: April 1, 2004]] (via OpenAI Whisper)
-*[[911: March 19, 2024]] (via OpenAI Whisper)
-*[[917: April 10, 2024]] (via OpenAI Whisper)
+*[[911: March 19, 2024]] (via AutoSub, OpenAI Whisper)
+*[[917: April 10, 2024]] (via AutoSub, OpenAI Whisper)
 *[[924: May 3, 2024]] (via AutoSub)
 *[[925: May 8, 2024]] (via OpenAI Whisper)
 *[[928: August 12, 2009]] (via OpenAI Whisper)
@@ -314,9 +345,11 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[936: Turning Point USA Speech]] (via OpenAI Whisper)
 *[[939: June 27, 2024]] (via AutoSub)
 *[[965: September 15, 2024]] (via AutoSub)
+*[[977: October 25-28, 2024]] (via AutoSub)
 *[[980: November 6, 2024]] (via AutoSub, ElevenLabs Scribe)
-*[[985: December 2, 2024]] (via AutoSub, ElevenLabs Scribe)
-*[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe)
+*[[985: December 2, 2024]] (via ElevenLabs Scribe, OpenAI Whisper)
+*[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
+*[[1041: The Legend of Kelly Rushing]] (via OpenAI Whisper)
 
 |}
 

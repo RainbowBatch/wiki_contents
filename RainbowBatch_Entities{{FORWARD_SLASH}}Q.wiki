@@ -129,7 +129,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|3
+|2
 |-
 |'''Source Texts:'''
 |
@@ -141,7 +141,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *[[589: August 18-20, 2021]] (via AutoSub)
-*[[1012: January 29, 2025]] (via AutoSub)
 *[[Doing Dune: Dune (1984)]] (via OpenAI Whisper)
 
 |}
@@ -227,10 +226,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|PERSON
+|PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|18
+|17
 |-
 |'''Source Texts:'''
 |
@@ -258,7 +257,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|24
+|26
 |-
 |'''Source Texts:'''
 |
@@ -282,9 +281,36 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[446: The Super Alpha Male Championship]] (via OpenAI Whisper)
 *[[626: December 9, 2021]] (via OpenAI Whisper)
 *[[723: September 8, 2022]] (via otter.ai, OpenAI Whisper)
-*[[788: Mike Rothschild Returns]] (via otter.ai)
-*[[798: April 19, 2023]] (via otter.ai, OpenAI Whisper)
+*[[788: Mike Rothschild Returns]] (via AutoSub, otter.ai)
+*[[798: April 19, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[857: Live In London (Night 2)]] (via OpenAI Whisper)
+
+|}
+
+==Queen of England==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|WORK_OF_ART
+|-
+|'''Total Count:'''
+|7
+|-
+|'''Source Texts:'''
+|
+
+*'The Queen of England'
+*'the Queen of England'
+*"the Queen of England's"
+
+|-
+|'''Sources:'''
+|
+
+*List of Knowledge Fight Intro Music (via Wiki Page)
+*[[781: Chatting With Will Sommer]] (via AutoSub)
 
 |}
 
@@ -479,7 +505,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC
+|FAC, ORG
 |-
 |'''Total Count:'''
 |2
@@ -573,7 +599,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *[[68: September 19-28, 2015]] (via OpenAI Whisper)
-*[[1019: February 6, 2025]] (via AutoSub)
+*[[1019: February 6, 2025]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -663,7 +689,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|5
+|4
 |-
 |'''Source Texts:'''
 |
@@ -678,7 +704,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[248: January 2, 2019]] (via AutoSub)
 *[[259: January 27-29, 2019]] (via AutoSub)
 *[[352: April 17, 2013]] (via AutoSub)
-*[[921: April 22, 2024]] (via AutoSub)
 
 |}
 
@@ -731,81 +756,5 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[590: August 24, 2021]] (via OpenAI Whisper)
 *[[649: February 14, 2022]] (via OpenAI Whisper)
-
-|}
-
-==Quote America==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|ORG
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Quote America'
-
-|-
-|'''Sources:'''
-|
-
-*[[697: June 29, 2022]] (via AutoSub)
-*[[828: March 5, 2004]] (via AutoSub)
-
-|}
-
-==Quote Biden==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Quote Biden'
-*"Quote Biden's"
-
-|-
-|'''Sources:'''
-|
-
-*[[588: August 15, 2021]] (via AutoSub)
-*[[775: Fireside Chatting]] (via AutoSub)
-
-|}
-
-==Quote Jones==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|PERSON
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Quote Jones'
-
-|-
-|'''Sources:'''
-|
-
-*[[38: 30 Hour Marathon Coverage]] (via AutoSub)
-*[[918: April 12, 2024]] (via AutoSub)
 
 |}

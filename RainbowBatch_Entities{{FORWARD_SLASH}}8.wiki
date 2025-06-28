@@ -1,0 +1,30 @@
+[[User:RainbowBatch | RainbowBatch]] automatically extracts "Entities" using spaCy's EntityRecognizer<ref>https://spacy.io/api/entityrecognizer</ref> and some custom code used to de-duplicate and regularize entities based on the Wiki's contents.
+
+This page is part of an attempt to make everything RainbowBatch knows available for searching and perusal. In addition, this information may be helpful to determine what missing pages might be of most value to create.
+
+Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if you have a correction or suggestion, which will be added upstream.
+
+==82nd Airborne==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'82nd Airborne'
+
+|-
+|'''Sources:'''
+|
+
+*[[163: January 27-29, 2009]] (via OpenAI Whisper)
+*[[786: Too Biggs For His Britches]] (via AutoSub)
+
+|}
