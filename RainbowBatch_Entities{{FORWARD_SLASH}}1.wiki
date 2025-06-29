@@ -4,16 +4,42 @@ This page is part of an attempt to make everything RainbowBatch knows available 
 
 Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if you have a correction or suggestion, which will be added upstream.
 
+==101st Airborne Division==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|ORG
+|-
+|'''Total Count:'''
+|2
+|-
+|'''Source Texts:'''
+|
+
+*'101st Airborne Division'
+*'The 101st Airborne Division'
+
+|-
+|'''Sources:'''
+|
+
+*[[168: Alex Vs. Bill Ayers]] (via OpenAI Whisper)
+*[[1009: January 26, 2025]] (via OpenAI Whisper)
+
+|}
+
 ==10th Amendment==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
 |-
 |'''Entity Type(s):'''
-|LAW
+|LAW, TIME
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -26,6 +52,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[173: February 6-10, 2009]] (via AutoSub)
 *[[434: Bill Cooper Covers OKC Part 1]] (via AutoSub)
+*[[1051: June 10, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -187,15 +214,16 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|DATE, LAW, ORG, WORK_OF_ART
+|DATE, LAW, ORG, TIME, WORK_OF_ART
 |-
 |'''Total Count:'''
-|8
+|14
 |-
 |'''Source Texts:'''
 |
 
 *'Fourteenth Amendment'
+*'The 14th Amendment'
 *'The Fourteenth Amendment'
 *'a Fourteenth Amendment'
 *'the 14th Amendment'
@@ -207,9 +235,12 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[606: June 18-19, 2003]] (via AutoSub, OpenAI Whisper)
 *[[679: May 9, 2022]] (via AutoSub)
+*[[778: January 8, 2004]] (via AutoSub)
 *[[808: May 15, 2023]] (via AutoSub)
+*[[888: The Debate Of The Century, Part 1]] (via AutoSub)
 *[[952: August 7, 2024]] (via AutoSub)
-*[[993: December 27, 2024]] (via ElevenLabs Scribe)
+*[[993: December 27, 2024]] (via ElevenLabs Scribe, OpenAI Whisper)
+*[[1001: January 20, 2025 Continued]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -222,7 +253,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW, LOC
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -236,6 +267,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[147: Aaron Russo]] (via OpenAI Whisper)
 *[[203: March 2-4, 2009]] (via AutoSub, OpenAI Whisper)
+*[[766: December 16, 2003]] (via AutoSub)
 
 |}
 
@@ -248,7 +280,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |DATE, LAW, ORG, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|628
+|633
 |-
 |'''Source Texts:'''
 |
@@ -412,35 +444,37 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[736: Reflections on a Verdict]] (via FoulEdgeKnight-edited, otter.ai, OpenAI Whisper)
 *[[738: Taking a Powder With Chowder]] (via AutoSub, otter.ai, Welder)
 *[[739: Formulaic Objections Part 8]] (via otter.ai, OpenAI Whisper)
-*[[740: August 13, 2003]] (via AutoSub, OpenAI Whisper)
+*[[740: August 13, 2003]] (via OpenAI Whisper)
 *[[742: Formulaic Objections Part 9]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[753: December 1, 2022]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[754: Formulaic Objections Part 12]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[757: December 13, 2022]] (via AutoSub, otter.ai)
-*[[761: December 11, 2003]] (via AutoSub, Manually-created, otter.ai, OpenAI Whisper)
-*[[767: January 12, 2023]] (via AutoSub, otter.ai)
-*[[772: December 18-19, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
+*[[761: December 11, 2003]] (via Manually-created, otter.ai, OpenAI Whisper)
+*[[767: January 12, 2023]] (via otter.ai)
+*[[772: December 18-19, 2003]] (via otter.ai, OpenAI Whisper)
 *[[778: January 8, 2004]] (via AutoSub)
 *[[783: March 2, 2006 (Live)]] (via AutoSub, OpenAI Whisper)
 *[[787: January 23, 2004]] (via otter.ai, OpenAI Whisper)
-*[[806: Chatting with Erica Lafferty]] (via AutoSub)
 *[[807: February 17, 2004]] (via otter.ai)
 *[[813: May 29, 2023]] (via AutoSub, otter.ai)
 *[[848: The News Blitz]] (via AutoSub, OpenAI Whisper)
-*[[850: September 14, 2023]] (via OpenAI Whisper)
+*[[850: September 14, 2023]] (via AutoSub, OpenAI Whisper)
 *[[863: Keepin' It Fake, With Vivek]] (via AutoSub, OpenAI Whisper)
 *[[872: November 26, 2023]] (via OpenAI Whisper)
 *[[876: December 8, 2023]] (via AutoSub, OpenAI Whisper)
 *[[877: A Philosophy For Curiosity]] (via AutoSub)
+*[[879: December 20, 2023]] (via AutoSub)
 *[[882: April 1, 2004]] (via OpenAI Whisper)
 *[[883: More Like Jimmy Bore]] (via AutoSub, OpenAI Whisper)
 *[[891: April 2-5, 2004]] (via AutoSub)
+*[[898: Tucker, The Man And His Twitter- Episode 6]] (via AutoSub)
 *[[900: February 16, 2024]] (via AutoSub)
 *[[911: March 19, 2024]] (via AutoSub, OpenAI Whisper)
 *[[915: August 29, 2005]] (via AutoSub, OpenAI Whisper)
-*[[917: April 10, 2024]] (via OpenAI Whisper)
+*[[917: April 10, 2024]] (via AutoSub, OpenAI Whisper)
 *[[918: April 12, 2024]] (via AutoSub)
+*[[923: May 1, 2024]] (via AutoSub)
 *[[924: May 3, 2024]] (via OpenAI Whisper)
 *[[925: May 8, 2024]] (via AutoSub, OpenAI Whisper)
 *[[926: March 4, 2011]] (via OpenAI Whisper)
@@ -448,11 +482,16 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[938: June 25-26, 2024]] (via AutoSub)
 *[[943: July 9, 2024]] (via AutoSub)
 *[[978: Tucker, The Man And His Demon]] (via AutoSub, ElevenLabs Scribe)
-*[[983: Chatting with Robbie Parker]] (via AutoSub, OpenAI Whisper)
-*[[987: December 4, 2024]] (via AutoSub, ElevenLabs Scribe)
-*[[1006: January 24, 2025]] (via AutoSub)
+*[[983: Chatting with Robbie Parker]] (via AutoSub)
+*[[987: December 4, 2024]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
+*[[995: January 4, 2025]] (via OpenAI Whisper)
+*[[1005: Formulaic Objections Part 17]] (via AutoSub)
 *[[1011: January 28, 2025]] (via ElevenLabs Scribe)
-*[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
+*[[1015: February 2, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1025: Tucker, The Man And His Prophet]] (via OpenAI Whisper, Wiki Page)
+*[[1032: April 23-24, 2025]] (via AutoSub, OpenAI Whisper)
+*[[1048: June 6, 2025]] (via OpenAI Whisper)
+*[[1050: Another Way Not To Cover Alex]] (via OpenAI Whisper)
 
 |}
 
@@ -465,7 +504,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC
 |-
 |'''Total Count:'''
-|3
+|2
 |-
 |'''Source Texts:'''
 |
