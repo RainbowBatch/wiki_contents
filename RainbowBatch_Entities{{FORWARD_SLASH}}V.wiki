@@ -421,7 +421,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |EVENT, FAC, LAW, PRODUCT
 |-
 |'''Total Count:'''
-|13
+|14
 |-
 |'''Source Texts:'''
 |
@@ -439,7 +439,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[805: February 16, 2004]] (via OpenAI Whisper)
 *[[1029: April 21, 2024]] (via OpenAI Whisper)
 *[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via OpenAI Whisper)
-*[[1035: May 8, 2025]] (via OpenAI Whisper)
+*[[1035: May 8, 2025]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -449,14 +449,15 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|FAC, ORG, PRODUCT
+|FAC, ORG, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|3
+|4
 |-
 |'''Source Texts:'''
 |
 
+*'Vatican Insider'
 *'a Vatican Insider'
 
 |-
@@ -465,6 +466,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[68: September 19-28, 2015]] (via AutoSub, otter.ai)
 *[[318: July 5, 2019]] (via AutoSub)
+*[[1035: May 8, 2025]] (via AutoSub)
 
 |}
 
@@ -2295,15 +2297,16 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, WORK_OF_ART
+|GPE, PERSON, WORK_OF_ART
 |-
 |'''Total Count:'''
-|12
+|13
 |-
 |'''Source Texts:'''
 |
 
 *'The Virgin Mary'
+*'Virgin Mary'
 *'the Virgin Mary'
 
 |-
@@ -2315,7 +2318,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[303: January 29-31, 2013]] (via AutoSub, OpenAI Whisper)
 *[[695: June 22, 2022]] (via OpenAI Whisper)
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
-*[[1039: Mystery Babylon 7|1039: Mystery Babylon #7]] (via OpenAI Whisper)
+*[[1039: Mystery Babylon 7|1039: Mystery Babylon #7]] (via AutoSub, OpenAI Whisper)
 
 |}
 

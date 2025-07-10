@@ -874,7 +874,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW, ORG
 |-
 |'''Total Count:'''
-|21
+|22
 |-
 |'''Source Texts:'''
 |
@@ -894,7 +894,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[568: June 19, 2021]] (via AutoSub, OpenAI Whisper)
 *[[886: More Like Jimmy Bore, Part 2]] (via OpenAI Whisper)
 *[[913: March 26, 2024]] (via OpenAI Whisper)
-*[[1037: May 12, 2025]] (via OpenAI Whisper)
+*[[1037: May 12, 2025]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2364,7 +2364,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -2377,7 +2377,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[277: March 15, 2019]] (via AutoSub)
 *[[934: June 14, 2024]] (via AutoSub, OpenAI Whisper)
-*[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via OpenAI Whisper)
+*[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -2764,7 +2764,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|38
+|39
 |-
 |'''Source Texts:'''
 |
@@ -2795,7 +2795,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[985: December 2, 2024]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 *[[988: December 10, 2024]] (via ElevenLabs Scribe)
 *[[1011: January 28, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
-*[[1038: May 13, 2025]] (via OpenAI Whisper)
+*[[1038: May 13, 2025]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -3146,7 +3146,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|171
+|177
 |-
 |'''Source Texts:'''
 |
@@ -3286,7 +3286,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1012: January 29, 2025]] (via AutoSub, OpenAI Whisper)
 *[[1021: February 9-10, 2025]] (via AutoSub)
 *[[1026: Tucker, The Man And His Utopia]] (via OpenAI Whisper)
-*[[1037: May 12, 2025]] (via OpenAI Whisper)
+*[[1037: May 12, 2025]] (via AutoSub, OpenAI Whisper)
 *[[Repost: Episode 25|Repost: Episode #25]] (via AutoSub)
 
 |}
@@ -4286,7 +4286,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|101
+|102
 |-
 |'''Source Texts:'''
 |
@@ -4327,7 +4327,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[900: February 16, 2024]] (via AutoSub)
 *[[964: Reset Wars, Chapters 1 & 2]] (via AutoSub, OpenAI Whisper, Wiki Page)
 *[[1013: January 30, 2025]] (via ElevenLabs Scribe, OpenAI Whisper)
-*[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via OpenAI Whisper)
+*[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -11269,10 +11269,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|GPE, PERSON
+|GPE, NORP, PERSON
 |-
 |'''Total Count:'''
-|2
+|3
 |-
 |'''Source Texts:'''
 |
@@ -11285,6 +11285,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[436: May 22, 2020]] (via AutoSub)
 *[[581: June 3, 2003]] (via AutoSub)
+*[[1036: Mystery Babylon 6|1036: Mystery Babylon #6]] (via AutoSub)
 
 |}
 
