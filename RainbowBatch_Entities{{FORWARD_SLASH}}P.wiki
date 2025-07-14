@@ -400,7 +400,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|206
+|208
 |-
 |'''Source Texts:'''
 |
@@ -466,6 +466,8 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[977: October 25-28, 2024]] (via AutoSub, OpenAI Whisper)
 *[[979: Election Eve]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 *[[1018: February 5, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
+*[[1052: June 13-14, 2025]] (via OpenAI Whisper)
+*[[1053: June 15, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -722,7 +724,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |FAC, PERSON
 |-
 |'''Total Count:'''
-|62
+|64
 |-
 |'''Source Texts:'''
 |
@@ -753,7 +755,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[913: March 26, 2024]] (via AutoSub)
 *[[1001: January 20, 2025 Continued]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 *[[1016: February 3, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
-*[[1038: May 13, 2025]] (via OpenAI Whisper)
+*[[1038: May 13, 2025]] (via AutoSub, OpenAI Whisper)
 *[[1049: June 7-9, 2025]] (via OpenAI Whisper)
 
 |}
@@ -2470,7 +2472,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |LAW, PERSON
 |-
 |'''Total Count:'''
-|252
+|253
 |-
 |'''Source Texts:'''
 |
@@ -2549,7 +2551,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1002: January 21, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 *[[1019: February 6, 2025]] (via AutoSub, OpenAI Whisper)
 *[[1031: An Unpleasant Sushi Date]] (via AutoSub, OpenAI Whisper)
-*[[1038: May 13, 2025]] (via OpenAI Whisper)
+*[[1038: May 13, 2025]] (via AutoSub, OpenAI Whisper)
 *[[1041: The Legend of Kelly Rushing]] (via OpenAI Whisper)
 *[[1044: June 2, 2025]] (via OpenAI Whisper)
 
@@ -5760,7 +5762,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|526
+|527
 |-
 |'''Source Texts:'''
 |
@@ -5911,6 +5913,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1032: April 23-24, 2025]] (via OpenAI Whisper)
 *[[1033: April 25, 2025]] (via AutoSub, OpenAI Whisper)
 *[[1045: June 5, 2025]] (via OpenAI Whisper)
+*[[1052: June 13-14, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -6939,7 +6942,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|6
+|7
 |-
 |'''Source Texts:'''
 |
@@ -6953,7 +6956,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[985: December 2, 2024]] (via ElevenLabs Scribe, OpenAI Whisper)
 *[[1016: February 3, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
-*[[1038: May 13, 2025]] (via OpenAI Whisper)
+*[[1038: May 13, 2025]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -8046,7 +8049,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|140
+|141
 |-
 |'''Source Texts:'''
 |
@@ -8096,6 +8099,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1033: April 25, 2025]] (via AutoSub, OpenAI Whisper)
 *[[1044: June 2, 2025]] (via OpenAI Whisper)
 *[[1045: June 5, 2025]] (via OpenAI Whisper)
+*[[1052: June 13-14, 2025]] (via OpenAI Whisper)
 
 |}
 
@@ -8735,7 +8739,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE
 |-
 |'''Total Count:'''
-|138
+|141
 |-
 |'''Source Texts:'''
 |
@@ -8794,7 +8798,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1012: January 29, 2025]] (via ElevenLabs Scribe, OpenAI Whisper)
 *[[1031: An Unpleasant Sushi Date]] (via AutoSub, OpenAI Whisper)
 *[[1033: April 25, 2025]] (via AutoSub, OpenAI Whisper)
-*[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via OpenAI Whisper)
+*[[1034: Mystery Babylon 5|1034: Mystery Babylon #5]] (via AutoSub, OpenAI Whisper)
 *[[TWTWYTT Special]] (via AutoSub, OpenAI Whisper)
 
 |}
@@ -10947,7 +10951,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 |}
 
-==POD Save America==
+==Pod Save America==
 {| class="fandom-table"
 |'''Status:'''
 |No known links
@@ -14409,7 +14413,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP, PERSON
 |-
 |'''Total Count:'''
-|27
+|28
 |-
 |'''Source Texts:'''
 |
@@ -14437,6 +14441,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[940: July 1, 2024]] (via AutoSub, OpenAI Whisper)
 *[[1011: January 28, 2025]] (via ElevenLabs Scribe)
 *[[1033: April 25, 2025]] (via AutoSub, OpenAI Whisper)
+*[[1038: May 13, 2025]] (via AutoSub)
 
 |}
 
@@ -15785,7 +15790,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, NORP, ORG, PERSON
 |-
 |'''Total Count:'''
-|68
+|70
 |-
 |'''Source Texts:'''
 |
@@ -15852,6 +15857,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[960: August 31, 2024]] (via AutoSub)
 *[[992: December 24, 2024]] (via AutoSub)
 *[[1018: February 5, 2025]] (via AutoSub)
+*[[1035: May 8, 2025]] (via AutoSub)
 *[[1046: June 5, 2025 (The War Room)]] (via OpenAI Whisper)
 
 |}
@@ -16236,7 +16242,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|8
+|9
 |-
 |'''Source Texts:'''
 |
@@ -16249,7 +16255,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[69: August 1, 2017]] (via OpenAI Whisper)
 *[[93: 2015 Investigation Last Looks]] (via OpenAI Whisper)
-*[[1039: Mystery Babylon 7|1039: Mystery Babylon #7]] (via OpenAI Whisper)
+*[[1039: Mystery Babylon 7|1039: Mystery Babylon #7]] (via AutoSub, OpenAI Whisper)
 
 |}
 
@@ -16262,7 +16268,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|28
+|30
 |-
 |'''Source Texts:'''
 |
@@ -16284,7 +16290,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[812: Jeff Sharlet Returns]] (via otter.ai, OpenAI Whisper)
 *[[828: March 5, 2004]] (via OpenAI Whisper)
 *[[922: April 26, 2024]] (via AutoSub)
-*[[1039: Mystery Babylon 7|1039: Mystery Babylon #7]] (via OpenAI Whisper)
+*[[1039: Mystery Babylon 7|1039: Mystery Babylon #7]] (via AutoSub, OpenAI Whisper)
 *[[1051: June 10, 2025]] (via OpenAI Whisper)
 
 |}
@@ -16982,7 +16988,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG
 |-
 |'''Total Count:'''
-|54
+|56
 |-
 |'''Source Texts:'''
 |
@@ -17040,6 +17046,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[1002: January 21, 2025]] (via AutoSub)
 *[[1019: February 6, 2025]] (via AutoSub)
 *[[1032: April 23-24, 2025]] (via AutoSub)
+*[[1035: May 8, 2025]] (via AutoSub)
 
 |}
 
@@ -17297,7 +17304,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|43
+|44
 |-
 |'''Source Texts:'''
 |
@@ -17349,6 +17356,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[900: February 16, 2024]] (via AutoSub)
 *[[950: August 1, 2024]] (via AutoSub)
 *[[967: Tucker, The Man And His Live Show]] (via AutoSub)
+*[[1036: Mystery Babylon 6|1036: Mystery Babylon #6]] (via AutoSub)
 
 |}
 
