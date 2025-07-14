@@ -40,7 +40,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|32
+|31
 |-
 |'''Source Texts:'''
 |
@@ -55,7 +55,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[334: August 21-22, 2019]] (via AutoSub, OpenAI Whisper)
 *[[374: November 25, 2019]] (via AutoSub, OpenAI Whisper)
 *[[379: December 13-16, 2019]] (via AutoSub, OpenAI Whisper)
-*[[904: February 23, 2024]] (via AutoSub, OpenAI Whisper)
+*[[904: February 23, 2024]] (via OpenAI Whisper)
 *[[940: July 1, 2024]] (via OpenAI Whisper)
 
 |}
@@ -327,7 +327,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |PERSON
 |-
 |'''Total Count:'''
-|31
+|32
 |-
 |'''Source Texts:'''
 |
@@ -338,6 +338,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *'Zecharia Sitchin'
 *'Zechariah Sitchin'
 *"Zechariah Sitchin's"
+*'zecharia sitchin'
 
 |-
 |'''Sources:'''
@@ -351,7 +352,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[324: Bilderberg Speeches]] (via OpenAI Whisper, Wiki Page)
 *[[465: August 3-4, 2020]] (via OpenAI Whisper)
 *[[673: Jordan Takes The Wheel 8]] (via OpenAI Whisper)
-*[[758: December 8, 2003]] (via otter.ai, OpenAI Whisper)
+*[[758: December 8, 2003]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -411,10 +412,10 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |No known links
 |-
 |'''Entity Type(s):'''
-|ORG, PERSON
+|ORG, PERSON, PRODUCT, WORK_OF_ART
 |-
 |'''Total Count:'''
-|116
+|120
 |-
 |'''Source Texts:'''
 |
@@ -453,7 +454,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[685: Formulaic Objections Part 7]] (via otter.ai, OpenAI Whisper)
 *[[714: Trial Recap, Part 1]] (via Welder, OpenAI Whisper)
 *[[715: Trial Recap, Part 2]] (via otter.ai)
-*[[745: Formulaic Objections Part 10]] (via otter.ai, OpenAI Whisper)
+*[[745: Formulaic Objections Part 10]] (via AutoSub, otter.ai, OpenAI Whisper)
 *[[888: The Debate Of The Century, Part 1]] (via AutoSub, OpenAI Whisper)
 *[[889: The Debate Of The Century, Part 2]] (via AutoSub, OpenAI Whisper)
 *[[900: February 16, 2024]] (via AutoSub)
@@ -461,8 +462,36 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[911: March 19, 2024]] (via AutoSub)
 *[[918: April 12, 2024]] (via AutoSub, OpenAI Whisper)
 *[[933: June 7-11, 2024]] (via AutoSub, OpenAI Whisper)
-*[[969: September 27, 2024]] (via OpenAI Whisper)
+*[[969: September 27, 2024]] (via AutoSub, OpenAI Whisper)
+*[[976: October 18-21, 2024]] (via AutoSub)
 *[[1022: February 27, 2025]] (via AutoSub, ElevenLabs Scribe)
+
+|}
+
+==Zerohedgecom==
+{| class="fandom-table"
+|'''Status:'''
+|No known links
+|-
+|'''Entity Type(s):'''
+|CARDINAL, ORG
+|-
+|'''Total Count:'''
+|3
+|-
+|'''Source Texts:'''
+|
+
+*'Zerohedge.com'
+*'zerohedge.com'
+
+|-
+|'''Sources:'''
+|
+
+*[[250: Remote Poisoners And Crypto Bigotry]] (via AutoSub)
+*[[889: The Debate Of The Century, Part 2]] (via AutoSub)
+*[[901: February 18, 2024]] (via AutoSub)
 
 |}
 
@@ -514,31 +543,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[463: July 28-30, 2020]] (via OpenAI Whisper)
 *[[909: March 13, 2024]] (via AutoSub, OpenAI Whisper)
-
-|}
-
-==Zionist Jews==
-{| class="fandom-table"
-|'''Status:'''
-|No known links
-|-
-|'''Entity Type(s):'''
-|NORP
-|-
-|'''Total Count:'''
-|2
-|-
-|'''Source Texts:'''
-|
-
-*'Zionist Jews'
-
-|-
-|'''Sources:'''
-|
-
-*[[755: Ye Takes a Sip of (Mc)Guinness]] (via otter.ai)
-*[[864: October 25, 2023]] (via AutoSub)
 
 |}
 
@@ -665,7 +669,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |NORP
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -677,7 +681,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |
 
 *[[10: February 6, 2017]] (via otter.ai, OpenAI Whisper)
-*[[804: May 3-4, 2023]] (via otter.ai, OpenAI Whisper)
+*[[804: May 3-4, 2023]] (via AutoSub, otter.ai, OpenAI Whisper)
 
 |}
 
@@ -690,7 +694,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |ORG, PERSON
 |-
 |'''Total Count:'''
-|5
+|6
 |-
 |'''Source Texts:'''
 |
@@ -703,7 +707,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 
 *[[453: July 2, 2020]] (via OpenAI Whisper)
 *[[885: January 3, 2024]] (via OpenAI Whisper)
-*[[1022: February 27, 2025]] (via AutoSub, ElevenLabs Scribe)
+*[[1022: February 27, 2025]] (via AutoSub, ElevenLabs Scribe, OpenAI Whisper)
 
 |}
 
@@ -741,7 +745,7 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 |GPE, ORG
 |-
 |'''Total Count:'''
-|4
+|5
 |-
 |'''Source Texts:'''
 |
@@ -755,6 +759,6 @@ Please do not edit this page directly. Contact [[User:CelestAI | CelestAI]] if y
 *[[6: Inauguration Speech Recap]] (via OpenAI Whisper)
 *[[814: June 1, 2023]] (via otter.ai)
 *[[924: May 3, 2024]] (via OpenAI Whisper)
-*[[1001: January 20, 2025 Continued]] (via ElevenLabs Scribe)
+*[[1001: January 20, 2025 Continued]] (via ElevenLabs Scribe, OpenAI Whisper)
 
 |}
